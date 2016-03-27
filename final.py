@@ -1,6 +1,7 @@
 import imaplib2
 import os
 import email
+from email.mime.text import MIMEText
 import smtplib
 import time
 
@@ -39,8 +40,8 @@ while True:
 				body = None
 
 				msg = msg.split()
-				for j in msg:
-					print j
+				#for j in msg:
+				#	print j
 				for i in range(len(msg)):
 					if msg[i].strip() == 'From:':
 						sender = msg[i+1]
@@ -60,11 +61,7 @@ while True:
 						print body
 					if msg[i].strip() == 'Subject:':
 						startSubject = i+1
-						try:
-							while'X-OPWV' not in msg[i+1] or '======' not in msg[i+1]:
-								i += 1
-						except:
-							pass
+						i = startSubject + 1
 						subject = ' '.join(msg[startSubject:i+1])
 						print 'subject asdf'
 						print subject
@@ -72,9 +69,11 @@ while True:
 				anime = subject.split(': ')[0]
 				character = subject.split(': ')[1]
 
+
 				model = markov.Markov(anime)
 				model.getCharacters()
 				model.getWordsForChar(character)
+				print 
 				text = model.generate_markov_text(size=len(body))
 				print character + ': ' + text
 

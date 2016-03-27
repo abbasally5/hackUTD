@@ -32,6 +32,7 @@ class Markov(object):
 		currentChar = ""
 		print os.getcwd()
 		self.goToSavedPath()
+		print os.getcwd()
 		os.chdir('scripts')
 		os.chdir(self.dir)
 		for i in os.listdir(os.getcwd()):

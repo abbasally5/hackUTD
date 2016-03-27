@@ -60,7 +60,13 @@ def startConvo():
     msg['Subject'] = anime + ': ' + character
 
     print 'd'
-    smtp.sendmail(EMAIL, number+CARRIER_GATEWAY, msg.as_string())   
+    print EMAIL
+    print number+CARRIER_GATEWAY
+    print msg.as_string()
+    try:
+        smtp.sendmail(EMAIL, number+CARRIER_GATEWAY, msg.as_string())
+    except:
+        print 'email did not send'
 
     print 'sent'            
 
