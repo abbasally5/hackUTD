@@ -1,0 +1,299 @@
+
+Motoko: Togusa!
+
+Nurse: You can't come in here! He's in very serious condition right now!
+
+Togusa: Major... Take a look through my memories... It was the MHLW... Lucky for me, the bullets missed my head...
+
+Doctor A: Intubate!
+
+Doctor B: Right!
+
+Motoko: While you're operating on him, I want you to extract his memories of the last 16 hours from his cyberbrain, Doctor.
+
+Doctor A: I can't!
+
+Aramaki: Do it. Right now, that information is absolutely crucial to us. We must have it!
+
+
+Deserted Tracks / ERASER
+
+
+Aramaki: Any luck?
+
+Motoko: There's too much noise. It must be from the anesthetic. We'll be picking up everything, right down to his emotional fluctuations, so it might even affect our own reactions.
+
+Aramaki: It can't be helped. Go on, play it.
+
+Motoko: His heart rate's unusually high at the moment...
+
+Batou: Damn! If he goes around playing hero like this, you know the damn bastard's gonna get nailed!
+
+Motoko: Let's go over the situation. Togusa had figured out what the hacker from the aid center was after; it was paper media. So, he made a number of trips to the Ministry of Health, Labor and Welfare to verify his suspicion.
+
+Ishikawa: And out of that vast amount of documents he researched, he discovered the existence of a missing list.
+
+Aramaki: --which it turns out is the record of old Murai Vaccine Recipients.
+
+Ishikawa: Mm-hm. We don't know exactly what happened yet, but Togusa was attacked when he went to the Sunflower Society, an organization that badly needed the file.
+
+Batou: We do know! The DEA shot Togusa! So, the Narcotics Suppression Squad, who specializes in violent crimes, butchered a bunch of civilians! It's very simple!
+
+Motoko: And their objective was the seizure or elimination of the file? It seems like the cause of all this centers around one name we discovered. This "Imakurusu" person.
+
+Batou: But who cares what the implications are?! We'll find out soon enough if we go bust those filthy DEA sons of bitches! C'mon!
+
+Aramaki: Don't let those memories affect your judgment. No doubt they're a step ahead of us and are already leaking falsified information to the press. The truth is being erased. So, Major, what do we know about this Imakurusu man?
+
+Motoko: Hisashi Imakurusu, former chairman of the Central Drug Evaluation Council. A leading authority on cyberbrain sclerosis, and the chief of the Japanese Medical Association. Even though he's retired from the council, he still has a fat pipe to the MHLW, it's rumored.
+
+Aramaki: Major, I want you to go pay a visit to Mr. Imakurusu. I'll try to find out how the Narcotics Suppression Squad came to be mobilized in this whole affair.
+
+Motoko: You got it. Paz and Saito, you're both coming with me. Batou, you're on memory analysis with Ishikawa and Borma.
+
+Batou: Screw that! Put me on the DEA investigation!
+
+Motoko: And do what wearing that look on your face? I'll give you a call when I need you.
+
+Batou: Humph. How the hell do you expect me to look?
+
+Ishikawa: All she's saying is that you need to cool off a bit.
+
+Batou: How am I gonna cool off after seeing that?!
+
+Ishikawa: You're under the influence of Togusa's memories right now. She made a good call, Batou.
+
+Aramaki: Excuse me.
+
+Secretary: Who are you? What do you want?
+
+Aramaki: Aramaki, Public Security Section 9. I have been informed that you went over the head of the DEA chief and personally issued the order for last night's Sunflower Society mop-up operation. I would like to hear your reasons for doing so.
+
+Secretary: Just who do you think you are?!
+
+Niimi: No, it's all right. I'm about to refer a press conference to address that very issue. That Sunflower group is a sly bunch. What occurred last evening was a carefully planned and executed operation, only the Narcotics Suppression Squad was privy to it. It was unfortunate, but they demonstrated a willingness to resist to the bitter end. I gave the squad no choice but to resort to extreme force. The crazy bastards even set fire to their building.
+
+Secretary: Bureau Chief, it's almost time.
+
+Aramaki: I don't see any reason for us to get involved, then. However, there is one thing that I find troubling. I believe it's nothing more than some sort of coincidence, but it just so happened, that one of my investigators was there during the raid last night. I hope we'll meet again someday.
+
+Secretary: Should we let him go, sir?
+
+Niimi: Don't worry. If he's coming over here in person, it means they don't have anything on us. Gayle, you there?
+
+Gayle: No luck. Looks like he's already taken off somewhere.
+
+Niimi: Public Security is sniffing around. You don't have much time.
+
+Gayle: Public Security?
+
+Niimi: Section 9! Get Imakurusu before they do!
+
+Gayle: Oh, the ex-military cyborgs. That group... Well then, under the circumstances I might be needing... it. You know, the item I've been asking you for.
+
+Niimi: All right. I'll make the arrangements to get you what you want. But if you run into Section 9, leave no evidence.
+
+Gayle: Understood. No evidence.
+
+Niimi: Now that it's come to this, will you betray us?
+
+Saito: What a mess...
+
+Motoko: So, this is the opening salvo... Chief, we were too late. Looks like he had visitors before us.
+
+Aramaki: It must be the narc squad's handy work. But from the look of things, wouldn't you say that Imakurusu had already fled?
+
+Motoko: Probably. Which means there's a good chance that he'll use some type of communications method.
+
+Ishikawa: I see where you're going. Let's say we ask the American Empire's National Reconnaissance Office for an assist.
+
+Motoko: As in their global satellite intercept net?
+
+Ishikawa: Yep.
+
+Motoko: Chief!
+
+Aramaki: I'll get the Foreign Affairs Ministry to issue ex-post-facto approval. The CIA owes us at least that much.
+
+Ishikawa: Roger that. Now for Big Brother to do his thing. This will let us tap all communications in Japan in real time.
+
+Borma: We're online! This much data is gonna crash our terminals and everything else that's within a one-kilometer radius!
+
+Ishikawa: Maybe I should ask the old-timers to act as backups for backups.
+
+Imakurusu: Damn it, I'm finished... I shouldn't have run like that. Since you were the one who stole the file. They won't have any choice now, will they? They're going to think that I betrayed them.
+
+Laughing Man: If I hadn't arranged for this to happen, you never would have taken the matter seriously.
+
+Imakurusu: You ought to realize that they're not as forgiving as you seem to believe.
+
+Laughing Man: I'm sorry about what happened to the Sunflower Society people. That was unfortunate. But I swore that I wouldn't give up until I've exposed the truth of what went on behind the micro-machine treatments.
+
+Imakurusu: How can you be so naive? Researching cyberbrain technology was advancing in other fields back then. If I had approved the vaccine, people might have rejected that technology, and impeded its development.
+
+Laughing Man: Even so, that doesn't grant you the right to smother the results of legitimate research.
+
+Imakurusu: You've got it all wrong. I wasn't blindly opposed to it for no reason. Had he only solved his lack of data problem, I was prepared and willing to issue approval.
+
+Laughing Man: Then what was your justification for taking a mere three months to approve the utility model submitted by Serano Genomics, a company that jumped into the game of micro-machine research rather late?
+
+Imakurusu: Our council took all the blame! We adhered to the standards of the MHLW! Then they used us as a scapegoat and we were disgraced!
+
+Laughing Man: What a convenient excuse that is. Micro-machine Industries, the company whose board of directors you sat on, received approval only one month after filing its paperwork, very quick and easy just like Serano. And thanks to that, you people raked in profits of nearly a trillion yen a year by selling protein granules that have no effect on cyberbrain sclerosis. That's a blatant act of fraud perpetrated under the direction of the state. What excuses do you intend to offer those patients who died not knowing this and kept paying their treatment fees in the belief that it actually worked?
+
+Imakurusu: Micro-machines nowadays are showing a certain degree of effectiveness. If you look at the situation in terms of sclerosis prevention, you can't say that nothing of benefit came from our decision.
+
+Laughing Man: Benefit? Well then, if that's the case, why aren't you treating yourself with micro-machines?You, Dr. Imakurusu, the one person who was in a position to prevent this sad state of affairs. You're in a profession that's supposed to be in the business of saving lives. So, when the opportunity arose, why didn't you?
+
+Imakurusu: I was brimming with pride and felt self-important for dedicating my life to discovering a cure for cyberbrain sclerosis. But then came Murai--
+
+Laughing Man: --who happened to beat you to the punch.Was it jealousy? I heard that when you were ready to crush the Murai Vaccine, you had a stamp specially made, it read "Approval Denied." And because of your goddamn petty pride, those men are kicking back right now in the positions they've gained from it.
+
+Imakurusu: If you know so much about this, what do you need me for? If you wanted to, you could simply infiltrate my cyberbrain and take me over, Ghost and all!
+
+Laughing Man: If I did that, it would mean nothing. Now that your life is being prolonged by the very same vaccine you once vetoed, you have to disclose the truth of your own free will. Do you spend your remaining years as an honorable man, or have people talk about how evil you were after you die? The choice is yours.
+
+Imakurusu: Laughing Man, who in the world are you? You stand there, brandishing your righteousness, yet you committed so many acts of corporate terrorism and demanded all that money for yourself. Why?!
+
+Laughing Man: I never referred to myself as the Laughing Man, not even once. And it was someone else who stole money through those terrorist acts.
+
+Imakurusu: You don't mean it's...
+
+Laughing Man: You guess correctly. You understand? In order to bring anyone to justice, there's only one other critical thing that's going to be needed in addition to your testimony. Don't leave this room under any circumstances until I return. Is that clear?
+
+Bellboy: Uh, excuse me, sir. Is there something I can do for you?
+
+Imakurusu: I'm fine... Now just go away.
+
+Bellboy: Sorry for the intrusion, sir.
+
+Imakurusu: Um, just a moment, son. W-Would you be able to tell me if there's a public terminal nearby?
+
+Doctor: I think he's out of danger. His blood pressure has stabilized, too.
+
+Togusa's Wife: Thank you so much, Doctor.
+
+Doctor: No, no. But if there proves to be any lingering physical damage or after-effects from his injuries when he regains consciousness, you should be prepared to accept some amount of prosthetic work.
+
+Man A: I'm sorry about the weather.
+
+Man B: No, it's not your fault. Don't worry about it. Today is the only day that worked for everyone.
+
+Imakurusu: It's me, Imakurusu. Please! You've got to help me out. Talk to Niimi and straighten out this misunderstanding. R-Right, I'm at that golf course. I'm counting on you.
+
+Borma: Got it! That's Big Brother for you!
+
+Ishikawa: We don't know for sure yet. Our voiceprint search got a hit on the word "Imakurusu," that's all.
+
+Operator: Voiceprint search. Now matching voiceprint of caller against that of Hisashi Imakurusu.
+
+Operator: Comparison of voiceprint data of Hisashi Imakurusu against that of speaker currently at 36%.
+
+Operator: Commencing search for location of terminal used by ah-ah-ah-ah...
+
+Operator: Taking over search for location of terminal used by caller.
+
+Operator: Terminal pinpointed!
+
+Operator: Running trace route on transmission. Routing via comm-sat confirmed.
+
+Operator: Launching tracer program!
+
+Batou: Hey, we gotta problem here. The operators are crashing fast!
+
+Ishikawa: I've got backups online.
+
+Old Man: Hot damn, this is my lucky day! I'm on fire! I'm winning!
+
+Ishikawa: That's for borrowing your cyberbrains.
+
+Borma: You're twisted, too, you know that?
+
+Ishikawa: Hook 'em up in parallel, and even these old geezers can give you some serious power.
+
+Aramaki: How's it coming?
+
+Batou: We just ascertained the location of the terminal that was used by a man who we believe to be Imakurusu. Now we need to determine whether or not it's really him.
+
+Secretary: You have a call on your direct line, Bureau Chief.
+
+Niimi: Niimi here. Is that the truth? Yes. Right. No, I'll deal with him immediately.Gayle? It's me, Niimi. We have Imakurusu's location. He's at the Kohoku Country Club. Get over there now!Stupid fool... He picked the wrong shoulder to cry on...
+
+Ishikawa: His present location is the Kohoku Country Club. He was spotted at a public terminal on a sidewalk on the north side just two minutes ago.
+
+Batou: Bingo!
+
+Ishikawa: It's who he called that has me worried.
+
+Batou: I only want his location! Old man, I'll be there before the Major, if I take the chopper!
+
+Aramaki: Go, better you secure him than someone else.
+
+Batou: Ishikawa, do you have a trace on Imakurusu?
+
+Ishikawa: After his call, he went into room 909 in the hotel annex. He's staying put for now.
+
+Ishikawa: Borma, what does this look like to you? This.
+
+Borma: Uh, the authentication code that's got top priority on the American Empire's wiretap list?
+
+Ishikawa: Yeah. It's not supposed to officially exist, but isn't this the number for the headquarters of the government's ruling party?
+
+Guy A: So, what do you think of that JMSDA Type-303, sir?
+
+Gayle: These Marine units are really streamlined. Damn things are works of art. Now, if those guys would only show up, we can get some live combat data. Nice!
+
+Guy B: Commander! I'm picking up a chopper heading for the target's building! Looks like Section 9!
+
+Gayle: Well, what do you know, great timing! Now, you Marines can show me what you've got by securing Imakurusu. It'll take a while to get my systems booted. Once you've cut off their escape route, leave the rest to me!
+
+Batou: That's...
+
+Batou: Hisashi Imakurusu? I'm with the police. The narc squad's on its way. We're getting out of here!
+
+Imakurusu: Ahh! Stay away from me!
+
+Motoko: Batou, you all right?
+
+Batou: Yeah, for now. But they got us pinned down.
+
+Motoko: Can you make it out in the chopper?
+
+Batou: No, not with this guy in tow.
+
+Motoko: Do what you can to hold out! I'm almost there!
+
+Batou: They can cloak, but they can't completely hide themselves... What's your next move...?That you, Major?!
+
+Motoko: I've secured an escape route. But for now, let's get back to the lobby. Go!
+
+Motoko: Get down! What was that?!
+
+Batou: It's a damned Armed Suit!?
+
+Motoko: Batou, get ready! I'll draw it off.
+
+Batou: Don't be stupid! That's what you have me for!
+
+Motoko: I have faith in you, but you can't stop that thing! Take Imakurusu and get out of here! That's an order from your superior officer!
+
+Batou: Gah! Fine, I'll do it. Don't get yourself killed!
+
+Paz: Major, we're almost there!
+
+Paz: Direct hit didn't punch it!?
+
+Motoko: HEY, SAITO! FORK OVER THAT WEAPON NOW!!
+
+Gayle: H-Hey, wait! P-Pop my hatch! Don't!I can't breathe... Please, pop the hatch!
+
+Batou: A little closer! Good!Get this guy aboard ASAP!What a moron... Wait here!Hey! Hold it right there, both of you! Good, don't even blink.
+
+Batou: Imakurusu! Our guy's been hit! Requesting ambulance!
+
+Imakurusu: Laughing Man... Is that what you really look like?
+
+Batou: What's that? The Laughing Man? What does he mean? Wait, this file is...Optical camouflage? No, that's not it... You bastard! I know why I can't see you, you hacked my eyes!
+
+Batou: Where are you?! Are you close by?! Where the hell are you?!
+  

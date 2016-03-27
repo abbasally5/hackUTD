@@ -1,0 +1,1053 @@
+
+ ws:start:WikiTextHeadingRule:0:&lt;h1&gt; 
+ Chiyo:
+ Hi! Excuse me.
+ Did you want something, Miss Kurosawa?
+
+Nyamo:
+ Oh, Chiyo-chan.
+ I'm sorry but I had to call you in today.
+ I just received this in the mail.
+ Here, your swimsuit.
+
+Chiyo:
+ Ah, thank you very much.
+
+Nyamo:
+ Now I can special order swimsuits,
+ but not the pool, which will be deeper than you're used to.
+ I want you to be extra careful, okay?
+
+Chiyo:
+ I will.
+
+Yukari:
+ Nyamo!
+ What do you say we go drinking after school is let out today.
+ Right now, the bar Yotchan in front of the train station is having a major special on those draft beers you like so much.
+ And two-for-one you call it 'cause it's ladies' night.
+
+Nyamo:
+ I'm trying to have a serious conversation here so I'd appreciate it if you quit bugging me.
+
+Yukari:
+ You shouldn't be so serious, Nyamo.
+ It's bad for your health.
+
+Nyamo:
+ Oh, shut up!
+
+Chiyo:
+ Excuse me.
+ What exactly is Nyomo?
+
+Yukari:
+ Oh, it's short for Minamo.
+ It was a nickname from our school days.
+
+Chiyo:
+ Oh.
+
+Nyamo:
+ I told you, stop using that nickname at school.
+
+Yukari:
+ Come on! Who cares, huh?
+
+Nyamo:
+ What you do with your stuff in private is one thing,
+ but you should tidy up when you're at school
+ I mean, can't you do something about your desk?
+
+Yukari:
+ Look, "Mom", all this stuff here is organized in its own special way.
+ I know perfectly well where everything is.
+
+Nyamo:
+ Okay, then give me back the dictionary I lent you.
+
+Yukari:
+ All right, sorry.
+ Let's see. Dictionary, dictionary.
+ Right here, huh?
+
+Chiyo:
+ Watch out!
+
+Yukari, Nyamo:
+ Whoa.
+
+Chiyo:
+ Don't just sit there watching! Help!
+ Ah!
+
+Nyamo:
+ Chiyo-chan!
+ Are you okay?
+
+Chiyo:
+ Miss Yukari, please say you'll clean up, please tidy up!
+
+Yukari:
+ Yeah, yeah, I know.
+
+Chiyo:
+ Ah!
+
+Yukari:
+ Chiyo-chan!
+
+Osaka:
+ Wow.
+ You're saying Miss Kurosawa and Miss Yukari both went to high school together?
+
+Chiyo:
+ That's right.
+ Not only that, they are alumni at this very school.
+
+Tomo:
+ If we're taking about being in school together, we outrank them easy.
+
+Osaka:
+ What do you mean "outrank"?
+
+Tomo:
+ See, the truth of the matter is Yomi and I have been together since I started grade school.
+
+Chiyo:
+ Wow, that's really incredible, Tomo.
+ I don't have anyone that's been with me since I was in grade school.
+
+Yomi:
+ Yeah, I bet you don't.
+
+Tomo:
+ Uh-huh.
+
+Tomo:
+ So, I know lots of secrets about Yomi that you guys don't.
+ All kinds of good stuff.
+ Things like ...
+
+Yomi:
+ Hold it!
+ Just what are you gonna say?
+
+Tomo:
+ The terror of the moldy bread.
+
+Osaka:
+ Moldy?
+
+Chiyo:
+ Bread?
+
+Tomo:
+ Back in our grade school days, Yomi left some bread in her desk overnight and it grew moldy and developed into something terrible!
+ On top of that, the mold grew cognizant and our troubles thus began!
+ There we were holed up in the science preparation room.
+ But with a single alcohol lamp, we held the swarm of mold at bay!
+
+Osaka:
+ Whoa.
+
+Yomi:
+ Chiyo-chan, let's go.
+
+Tomo:
+ That's when I had a brilliant flash of inspiration!
+ If we got the mold remover from the bathroom, then we'd be able to defeat them.
+
+Osaka:
+ Oh.
+
+Osaka:
+ Oh, I see.
+ The story 'bout the mold aliens was all made up!
+
+Yomi:
+ Why would you think it was real?
+
+Osaka:
+ There was a real sense of reality to it.
+
+Tomo:
+ Of course there was.
+ It was based on a true story.
+
+Yomi:
+ No, it was not!
+
+Chiyo:
+ Oh, it's Miss Kurosawa.
+
+Tomo:
+ Yo, Miss Kurosawa.
+
+Nyamo:
+ What is it?
+
+Tomo:
+ Hey, we just heard you and Yukari were classmates back when you two were in high school?
+
+Nyamo:
+ Mm-hm, we were.
+
+Osaka:
+ Can you tell us what kind of student Miss Yukari was back then?
+
+Nyamo:
+ Let's see, there's a lot of stories for me to choose from.
+
+Yukari:
+ Love letter! Love letter, la-la-lovey, lovey letter, love letter! Love letter, lovey-dovey-dovey-dovey-dovey love letter! La-la-la-la-la-la-la, love letter, love letter......
+
+Nyamo:
+ Hmmmmm!
+ But most of them are pretty boring.
+ N-Not much to say...
+ Hmmmmm!
+
+Yomi:
+ Whoa, Yukari must have something on her.
+
+
+ ws:start:WikiTextHeadingRule:2:&lt;h1&gt; 
+ Student1:
+Hey, who do you think is the cooler teacher?
+Miss Kurosawa or Miss Yukari?
+
+Student2:
+Come on, that's a no-brainer.
+Miss Yukari, of course.
+
+Student1:
+Hahahaha!
+What are you, a comedian or something?
+Kurosawa is way more...
+Aw!
+
+Yukari:
+ Hahahaha!
+
+Student3:
+I have an idea: why don't you talk to Miss Kurosawa and she tells you?
+
+Student4:
+Yeah, I think I will.
+Miss Kurosawa just might understand.
+
+Yukari:
+ Anyone over here need a teacher that you can easily talk to?
+ Come on! Don't be shy!
+
+Yukari:
+ I swear, that Nyamo.
+ What is it that makes her so popular?
+ Hm?
+
+Nyamo:
+ Here we go!
+
+Students:
+Okay!
+
+Yukari:
+ Ah-ha, I see.
+
+Yukari:
+ Basketball!
+
+Students:
+Huh?
+
+Yukari:
+ Now is the Basketball era!
+ Come sweat with your teacher and live your youth to its fullest potential.
+ I want everybody together inside the gymnasium!
+
+Yukari:
+ Assemble now!
+
+Yukari:
+ We're Team Yukari!
+
+Tomo, Yomi:
+ Yay.
+
+Osaka:
+ We're Team Sea Slug!
+
+Chiyo, Kaorin:
+ Huh?
+
+Chiyo:
+ But, why?
+
+Kaorin:
+Sea slugs are so...
+
+Osaka:
+ Go Team Sea Slug!
+
+Chiyo, Kaorin:
+ Yay.
+
+Yukari:
+ Okay, we'll say whoever wins one game is the ultimate victor.
+ Also the losers get to buy the winners juice.
+ You got that?
+
+Students:
+What?
+
+Kaorin:
+We're making a bet?
+
+Osaka:
+ Is a teacher allowed to make bets?
+
+Yukari:
+ It won't be exciting unless we're betting.
+ Besides, like hell I'm gonna be exercising with no incentive or reward in sight.
+
+Nyamo:
+ Huh?
+
+Tomo:
+ All right! Yukari scores!
+
+Chiyo:
+ Ah! Ah! Ah! Ah! Ah!
+
+Yukari:
+ Come on!
+ Here you go!
+ Jump up!
+ Come on!
+ Get up there.
+ Oh...
+ Too bad.
+ Heh heh.
+
+Nyamo:
+ Yukari!
+
+Yukari:
+ Wha-What, Nyamo?
+
+Nyamo:
+ Chiyo-chan, you wanna trade places?
+
+Chiyo:
+ Yeah!
+
+Yukari:
+ Hey, hey! No fair adding a teacher!
+
+Nyamo:
+ You're a teacher too, aren't you?
+
+Yukari:
+ What are you talking about?
+ You're a P.E. teacher.
+ It's different.
+
+Nyamo:
+ Ha!
+
+Yukari:
+ What the... Hey!
+
+Tomo:
+ You're not getting past us!
+
+Yomi:
+ We're gonna stop you!
+
+Kaorin:
+Amazing.
+
+Yukari:
+ No way! Not so fast!
+
+Nyamo:
+ Ha!
+
+Tomo:
+ Sweet shot!
+
+Chiyo:
+ Miss Kurosawa, you're totally awesome!
+
+Osaka:
+ That's a P.E. teacher for ya.
+
+Yukari:
+ I just played a little in high school.
+
+Yomi:
+ Wow, well, it sure makes a difference when you've played seriously.
+
+Yukari:
+ Yeah, but the thing is, I only joined the team part-time when they were short on people.
+
+Chiyo:
+ That's so impressive!
+
+Osaka:
+ You moved so fast, I could hardly see you.
+
+Tomo:
+ Yeah, no kidding! But she is a P.E. teacher.
+
+Yukari:
+ Aaaahhhhh!
+
+Tomo:
+ Whoa, Yukari's lost it!
+ Come on, Yukari, stop it, please!
+
+Yukari:
+ You said you wanted cola, right, Nyamo?
+
+Nyamo:
+ Thanks, Yukari, I appreciate it.
+
+Student:
+Miss Kurosawa, can I talk to you for a sec?
+
+Nyamo:
+ Sure.
+
+Yukari:
+ Hehehehe.
+
+Nyamo:
+ I'm really sorry, Yukari.
+ But something urgent just came up.
+ You can have that cola if you want it.
+ Bye!
+
+Yukari:
+ Oh, what? But Nyamo...
+ Arghhhh!
+
+ ws:start:WikiTextHeadingRule:4:&lt;h1&gt; 
+ Nyamo:
+ Yes?
+
+Yukari:
+ I'm here!
+
+Nyamo:
+ Yeah, yeah.
+
+Yukari:
+ Yo, Nyamo!
+
+Nyamo:
+ You know, it's pretty rare that you pay me a visit like this.
+
+Yukari:
+ Oh, really? Is it that rare?
+
+Nyamo:
+ Well, either way, come on in.
+
+Yukari:
+ The thing is, there's been all kinds of construction going on since this morning.
+ You wouldn't believe how noisy it's gotten lately.
+
+Nyamo:
+ Really?
+
+Yukari:
+ Well, good night, Nyamo.
+
+Nyamo:
+ You're gonna sleep?!
+ I don't believe this.
+
+Yukari:
+ Argh! Nyamo!
+
+Nyamo:
+ Yes, What is it?
+
+Yukari:
+ What the heck is that?!
+
+Nyamo:
+ That?
+
+Yukari:
+ This! This thing! It's all squishy!
+
+Nyamo:
+ Oh, I just bought that pillow the other day.
+
+Yukari:
+ How much did it cost?
+
+Nyamo:
+ About 10,000 yen.
+
+Yukari:
+ You damn bourgeois!
+ Get out!
+
+Nyamo:
+ And go where?
+
+Yukari:
+ I'm not sure what to make of it.
+ This strangely rich, smooth, and springy texture is so...
+
+Nyamo:
+ Comfy?
+ It helps you sleep really well.
+
+Yukari:
+ It's French, isn't it?
+
+Nyamo:
+ Actually, I think it was made in Denmark.
+
+Yukari:
+ Huh.
+
+Yukari:
+ You're absolutely right.
+
+Nyamo:
+ You can tell?
+
+Yukari:
+ All right, let's put you to the test to see how well you'll help me, Dutch boy.
+
+Nyamo:
+ Dutch?
+
+Nyamo:
+ Um, you've flipped the pillow upside down.
+
+
+Nyamo:
+ Hello.
+
+Delivery man:
+I have a package for you.
+It's from a Mr. Yamazaki in Hokkaido.
+Here you go.
+
+Nyamo:
+ Oh, it's from my uncle.
+
+Yukari:
+ Hokkaido!
+
+Nyamo:
+ Hey, wait a sec, Yukari!
+
+Yukari:
+ When you think of Hokkaido, your mind automatically goes to fresh crabs, sea urchins, and delicious salmon stew.
+ What the hell?!
+
+Nyamo:
+ I guess it wasn't food.
+ Imagine that.
+
+Nyamo:
+ Hey, what do you think you are doing?
+
+Yukari:
+ I'm calling this Yamazaki bastard to tell him we need to switch this with a fresh order of crabs.
+
+Nyamo:
+ Huh?
+
+Nyamo:
+ Yes, Hello?
+ Is this the Yamazaki residence by any chance?
+
+Yukari:
+ Stop it!
+ You can't make demands about gifts, especially when they aren't yours!
+ Please pardon me, got the wrong number.
+
+Yukari:
+ What the hell are you gonna do with this stupid bear?!
+
+Nyamo:
+ I don't know.
+ Maybe display it by the front door...
+
+Yukari:
+ You could display crabs too!
+
+Nyamo:
+ You don't display crabs.
+
+Yukari:
+ I got it. Return to sender!
+
+Nyamo:
+ What?
+ Hey, Wait!
+
+Nyamo:
+ Could you knock it off already?
+
+Yukari:
+ Jeez, Nyamo, you're always so worried about appearances!
+ That's why you can't find a boyfriend.
+
+Nyamo:
+ Tha... That has nothing to do with it!
+
+Yukari:
+ Even in college, you were worried about it.
+ And while you dragged and dragged and dragged your feet,
+ one of our juniors went right under your nose...
+
+Nyamo:
+ Argh!
+
+Yukari:
+ What are you doing?
+ It's all true, isn't it?
+
+Nyamo:
+ Some things you're allowed to say and some things you aren't.
+
+Yukari:
+ You're always.... no...
+
+Nyamo:
+ What are you talking about? You're just as bad! At least I know how...
+
+Delivery man:
+Excuse me, I need one of you to sign for the package.
+
+ ws:start:WikiTextHeadingRule:6:&lt;h1&gt; 
+ Yukari:
+ You wanna go out for drinks?
+
+Nyamo:
+ Yes, sure.
+
+Nyamo:
+ So where to? Somewhere close?
+ Or do you wanna go all the way to the station?
+
+Yukari:
+ Hmmm.
+ I guess I'll leave this decision up to the sponsor this time around.
+
+Nyamo:
+ Just who are you calling the sponsor?
+
+Yukari:
+ I'm simply stating that it's your turn to treat me today.
+
+Nyamo:
+ You mind telling me what kind of nonsense you're talking about this time?!
+
+Yukari:
+ Nonsense?
+ It's very simple.
+ You'll take my part of the bill and then...
+
+Nyamo:
+ Shut up! I don't wanna hear it!
+
+Yukari:
+ Now, now.
+ I'll treat you next time we go out, okay?
+
+Nyamo:
+ That's a lie!
+ It's a certifiable falsehood.
+
+Yukari:
+ Oh, come off it!
+ When have I ever lied to you?
+
+Nyamo:
+ Ah! Do me a favor! Stay right there!
+
+Yukari:
+ What? Where are you going?
+
+Foreigner:
+Excuse me.
+
+Nyamo:
+ Whoa.
+
+Foreigner:
+Blah, blah..
+
+Nyamo:
+ Um, yes! <Spanish>Uno momento<Spanish>, Mr. Blah Blah.
+ I get friend... I get my friend, she speak your language.
+
+Foreigner:
+Oh?
+
+Nyamo:
+ Oh man, where the heck did Yukari run off to at a crucial time like...Huh?
+ Ah! Hey, what do you think you're doing hiding here and watching?!
+
+Yukari:
+ Well, it was too funny to pass up.
+
+Nyamo:
+ You're the language expert!
+ Do something!
+
+Yukari:
+ Hi! Hola Mr. Foreigner.
+ Blah, blah, blah...
+ Blah, blah, blah, blah, blah...
+
+Foreigner:
+Oh! Blah, blah.
+
+Yukari:
+ Blah, blah, blah, blah, biddy, blah, blah, biddy, blah, blah.
+
+Foreigner:
+Blah, blah, blah, blah, blah, blah, blah, blah.
+
+Nyamo:
+ Wow, it's almost like you're not stupid.
+
+Yukari:
+ What did you say, you, you P.E. teacher?
+
+Yukari:
+ Blah, blah, blah, blah, blah, blah, blah.
+
+Foreigner:
+Blah, blah, blah, blah, blah, blah, blah, blah, blah.
+
+Yukari:
+ Blah, biddy, blah, blah, biddy, blah.
+
+Yukari, Foreigner:
+ Hahahahaha...
+
+Nyamo:
+ Why. Hey, what's so funny? Tell me.
+
+Yukari:
+ He told me that P.E. teachers are stupid where he comes from, too.
+ How about that?
+
+Nyamo:
+ Shut up! You liar!
+
+
+Yomi:
+ Hey, isn't that Osaka?
+
+Tomo:
+ Yeah, you're right.
+ Osaka!
+ Hey, Osaka!
+
+Osaka:
+ Tomo 'n' Yomi, I just want you to know that I'll never forget you two.
+
+Tomo:
+ Wow, where did that come from?
+
+Yomi:
+ Are you transferring again or something?
+
+Osaka:
+ No, not that.
+ It's 'cause it's "one life, one meetin'."
+
+Tomo:
+ What... is she talking about?
+
+Yomi:
+ It means when you meet people you're supposed to treat the occasion as if you'll never see them again.
+
+Tomo:
+ Yeah. So what about it?
+
+Osaka:
+ Well, I don't really understand it.
+ But you just gotta cherish these "one life, one meetin'"s as they come to you.
+
+Tomo:
+ Oh, now I see.
+ It's like that "Shame on the road is written off."
+
+Yomi:
+ What?!
+
+Osaka:
+ Oh, yeah, that could be a lot of fun.
+
+Tomo:
+ Yeah! Let's sing at the tops of our lungs right here!
+
+Osaka:
+ You know what I wanna do?
+ I've always wanted to try slipping on a banana peel!
+
+Tomo:
+ One life, one meeting!
+
+Osaka:
+ One life, one meetin'!
+
+Tomo:
+ One life, one meeting!
+
+Osaka:
+ One life, one meetin'!
+
+
+Nyamo:
+ What the hell is wrong with you!
+ You didn't even know if a tomato was a fruit till you got into college!
+
+Yukari:
+ And you were secretly taking commemorative photos in front of Senior Takeda's home!
+
+Nyamo:
+ That's ancient history!
+
+Yukari:
+ Oh, but I enjoy digging up people's pasts!
+
+Nyamo:
+ No! Stop it! Stop it! Stop it!
+
+Tomo:
+ Well, going home?
+
+Osaka:
+ I think so.
+
+Yomi:
+ Wait. What happened to the singing?
+ You know "Shame on the road is written off," and all that kind of stuff?
+
+Tomo:
+ I was thinking, just 'cause "you can write it off" doesn't mean "go out of your way and do something stupid."
+
+Yomi:
+ A wise decision.
+
+ ws:start:WikiTextHeadingRule:8:&lt;h1&gt; 
+ ws:start:WikiTextHeadingRule:10:&lt;h1&gt; 
+ Yukari:
+ Yummy!
+ My friend, "shame on the road is written off," so there, my friend.
+
+Nyamo:
+ What do you mean, "on the road"?
+ This is most definitely in our neighborhood.
+
+Yukari:
+ <French>Au contraire!<French>
+ Neighborhood means as far as you can walk in flip-flops and not kill your feet.
+
+Nyamo:
+ Fine, fine, I really don't care either way.
+
+Yukari:
+ All right! Well, since it seems I've won, you get to pick up today's tab.
+
+Nyamo:
+ Wait, why do I have to...
+
+Yukari:
+ Oh, don't worry, don't worry.
+ You shouldn't sweat the small stuff so much, you know.
+ Hey...
+
+Yukari:
+ Here, you little...
+
+Nyamo:
+ I've been meaning to tell you this for a long time,
+ Um, you don't hold your chopsticks the right way.
+
+Yukari:
+ What's that?
+ What about my chopsticks?
+
+Nyamo:
+ Huh, see the way you've got them set up, your chopsticks are running parallel to each other.
+ You gotta hold them so they open up in the back.
+
+Yukari:
+ So, like this?
+
+Nyamo:
+ No, no, no. Look here.
+
+Yukari:
+ All right then, let's try it.
+ Like this?
+
+Nyamo:
+ No, uh-uh.
+
+Yukari:
+ Like this?
+
+Nyamo:
+ Would you mind not breaking apart the croquettes?
+ Like I said, you won't pick up anything doing that.
+ Here, like this.
+
+Yukari:
+ Oh.
+
+Nyamo:
+ Pretty simple, isn't it?
+ Just like this.
+ And this, and this, and this, and this, and this, and this, and this, and this...
+
+Yukari:
+ Argh!
+
+Yukari:
+ Ah, yummy!
+ And that, my friend, is why I'm the chicken!
+
+Nyamo:
+ Don't you think you've had a bit too much today?
+ I mean really.
+
+Yukari:
+ I will be fine, Madam Captain!
+ I must continue until the end!
+
+Nyamo:
+ Continue until what end?
+
+Yukari:
+ Education!
+ In other words, it's like this yakitori!
+ I'm the meat and you're the green onions.
+ You get me?!
+
+Nyamo:
+ No, not at all.
+
+Yukari:
+ That's why you're the stupid one.
+
+Nyamo:
+ What did you say, you...
+
+Yukari:
+ Yukari is a language teacher, so she'll marry and get richer.
+
+Nyamo:
+ Huh?
+
+Yukari:
+ I'm in my happy place...
+
+Nyamo:
+ He... hey! What are you... Yukari!
+ Oh, man! You know what happens when you pass out.
+
+Yukari:
+ Sleep barfing?
+
+Nyamo:
+ You better not! I'm not your maid.
+ Hey, don't you fall asleep!
+
+Yukari:
+ Look, you're the one bought that pillow, remember?!
+
+Nyamo:
+ Oh, what am I supposed to do with you?
+
+Nyamo:
+ Come on, walk straight!
+
+Yukari:
+ I don't feel...
+
+Nyamo:
+ What?!
+
+Yukari:
+ <Barfing>
+ I'm in a bit of a pinch here...
+
+Nyamo:
+ Yeah, you sure are.
+ You're always knocking 'em back.
+ and each time, it's the same thing.
+ All right, let's go.
+
+Yukari:
+ Believe in yourself!
+
+Nyamo:
+ You do that.
+
+Yukari:
+ Oh my god...
+
+Nyamo:
+ Honestly!
+ I'm gonna get us a taxi.
+ Let's get to the street.
+
+Yukari:
+ Fire the engines!
+ Damn the torpedoes!
+
+Nyamo:
+ Stop it!!!
+
+
+-- Preview --
+
+Tomo:
+Next up is summer, swimsuits, and pool, pool, pool!
+
+Yomi:
+Hey, isn't it still spring?
+I think you're getting a little ahead of yourself?
+
+Kimura:
+The pool is very nice.
+
+Tomo:
+Our uniforms'll change to short sleeves too!
+
+Yomi:
+Well, long sleeves would get hot.
+
+Kimura:
+Yes. Wearing your gym clothes...
+No, no, no no.
+Your swimsuits to class would be nice too.
+
+Everyone:
+Next time, summer's in full swing!
+Azumanga Daioh! Look forward to it!
+
+Kimura:
+It'll be better if you're wet.
+
+Everyone:
+Shut up!
+  

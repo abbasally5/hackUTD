@@ -1,0 +1,838 @@
+
+  *OP*
+
+It’s gonna rain tonight
+
+
+
+Barnes:
+Damn it! No...!
+
+---
+
+Mary Beriam:
+Dallas... does that letter have any news about where my brother is?
+
+
+Elean:
+We still haven’t found him.
+
+---
+
+Everyone, down on the floor right now!
+
+
+Vicky:
+
+
+
+Nick:
+Everybody freeze.
+
+
+But... which one should we do?
+
+
+Nick:
+Sorry for the confusion.
+
+---
+
+ ws:start:WikiTextHeadingRule:22:&lt;h1&gt; 
+
+*Gunshots.*
+
+
+Ladd Russo:
+It’s guns, I love guns. Machine guns? That’s even better! This will be fun.
+
+
+Nick:
+*Gasping* What the hell was that all about? Boss, nobody told me about that!
+
+
+Ladd Russo:
+Sounds like death and danger. It sounds bad. *Singing* Danger, danger. What’s happening in the dining car? Is there blood? Who’s killing who? Where did they get shot?
+I have to see...! Things are really starting to get exciting! Yes, yes, yes, yes, yes…Yes, yes, yes, yes, yes.
+
+---
+
+ ws:start:WikiTextHeadingRule:24:&lt;h1&gt; 
+ ws:start:WikiTextHeadingRule:26:&lt;h1&gt; 
+
+Placido Russo:
+What do you take me for, an idiot?! Getting robbed is bad enough without having to listen to your stupid fairytale.
+
+
+
+It’s no fairytale, Boss, honest. There were two of them. I swear they were dressed just like Babe Ruth and Ty Cobb.
+
+
+Placido Russo:
+My fat ass!
+
+
+
+I know it sounds screwy, Boss. But we grilled that bag man pretty good, and I really don’t think he’s lying.
+
+
+Placido Russo:
+Uh, and for toppers, Sidaris screwed up too, eh?
+
+
+
+Yeah, we found him over in East Pilser... well, sort of… what was left of him… didn’t even look human anymore.
+
+
+Placido Russo:
+All from a jellybean like this?
+
+
+
+Those guys are actually a pretty tough crew, Boss, they even knocked over a…
+
+
+Placido Russo:
+Enough, this loser’s too much trouble. Let’s start off with your baseball goons, I want you two to put the screws on every couple in the city.
+
+
+Ladd Russo:
+Don’t do that, Uncle; people would think you’re just a bitter grumpy old man. Did I say that out loud?
+
+
+Placido Russo:
+Damn it Ladd, I don’t have time for this. Make tracks
+
+
+Ladd Russo:
+Ahh, come on. Is that any way to welcome your very own nephew? Now you’ve had some of your precious money taken from you, isn’t that right?
+I’m just stopping by to bring you some good news.
+
+
+Placido Russo:
+
+
+
+Ladd Russo:
+But why not, uncle? After all what you’re planning to do is search till you find the ones responsible.
+And take them by the throat and squeeze and squeeze and squeeze, until they foam like a dog and then squeeze some more.
+When their eyes are about to pop out you squeeze just a little more. And then just a quick…goodbye. Right?
+
+
+Placido Russo:
+Ugh, you’re a freak! Homicidal lunatics think you’re a nutcase.
+
+
+Ladd Russo:
+Your attempt at flattery is so ham-handed. Can’t you do better for the Russo family’s greatest assassin?
+
+
+Placido Russo:
+Killing people is the only thing I think you’re good for.
+
+
+Ladd Russo:
+Have you ever considered the possibility that I’m the only person you can count on?
+My dear uncle, now listen, there’s an express train that leaves this evening from Union station and goes all the way to New York. It’s called the Flying Pussyfoot or something.
+But because it doesn’t stop it’s perfect for a hijacking. Anyway, I was thinking--maybe I should take the train and crash it straight into the heart of Manhattan.
+Haha, of course that wouldn’t really be fun, but it would be a good bluff. And if they didn’t pay to stop that, I could start killing people. Maybe just half the passengers.
+If they saw dead bodies being hurled on their tracks, I’m sure the railroad company would come to their senses pretty quick and pay up.
+I get to kill people and we get some money. Pretty swell idea, don’t you agree?
+
+
+Placido Russo:
+Get the hell out! Will someone throw this trash out of here?
+
+
+Ladd Russo:
+Yeah, yeah.
+
+
+Placido Russo:
+Who the hell are you?
+
+
+Ladd Russo:
+These are my friends who really like my ideas.Oh, I should introduce you to Lua, my girlfriend, lover and fiancée. So please, try not to say anything embarrassing.
+
+
+Lua Klein:
+It’s very nice to meet you, mister.
+
+
+Ladd Russo:
+She’s such a quiet little flower. Just the tonic I need to cure my unique sensitivities.
+
+
+Placido Russo:
+
+You’re gonna act like you’re just some one-off wacko trying to get his jollies and not a relative of mine.
+
+
+Ladd Russo:
+Uncle, you’re so wise. Killing is so much more fun when it has nothing to do with the family business.
+
+
+Placido Russo:
+Now Ladd...
+
+
+Ladd Russo:
+Now dear uncle, there is a certain type of person that I just love to kill.
+It doesn’t even matter whether they’re weak or strong. The people I love to kill, that really get me jazzed, never see it coming, never.
+They’re in some happy place where they’re sure nothing can get them. Dying is the furthest thing from their mind.
+Maybe they’re thinking about what they’re gonna have for dinner. Just like you were, right before I walked in.
+
+
+Placido Russo:
+Please, don’t kill me! Ah?
+
+
+
+Hahahaha
+
+
+Ladd Russo:
+Aww, I couldn’t kill you. It’s not even loaded, ha. Besides you’ve taken such good care of me uncle. Even the insane can show their thanks every now and then, right?
+
+
+Placido Russo:
+Go away...
+
+
+Ladd Russo:
+As you wish--I have to go and change my clothes anyway.
+
+
+
+
+
+
+Placido Russo:
+Then why are you guys dressed up like you’re going to some fancy party?
+
+
+Ladd Russo:
+Even though we are gonna shatter dozens of lives inside a crowded train, wearing white is gonna make the blood look so pretty.
+
+
+
+
+
+*Shotguns, screams*
+
+
+
+Ladd Russo:
+Gentlemen, please do not be afraid. I assure you I am completely unarmed.
+
+
+
+Is that so? Who the hell are you anyway?
+
+
+
+Ladd Russo:
+Although we may be strangers, we are not enemies.
+
+
+
+Answer me!
+
+
+
+Ladd Russo:
+I am just a regular passenger on this train, who was completely UNARMED!
+Yeah? Yeah?
+This little choo-choo ride of ours may just turn out to be exciting after all.
+
+
+
+You’re a dead man, you know that, pal? Dead man. They’re never gonna let you live.
+
+
+
+Ladd Russo:
+You’re just like all the other mobsters I’ve killed. They all think something special’s gonna protect them. Haha. Nice try, slugger.
+
+Do you even know any of these boxers I’m talking about? Any red-blooded American would know who I’m talking about, right? Don’t tell me you don’t. Oh you don’t?
+I’ll make you pay for not knowing them, pal. Well, even if you did, you’d still- have- to- pay. So you’re still conscious huh, pal? I guess I still have to work on my right hook.
+
+
+
+
+A lowlife like you is never gonna stop the great Master Huey. You don’t have the guts, don’t you know that?
+
+
+
+Ladd Russo:
+I don’t give a rat’s ass about Master Huey or whoever you guys really are. I just know that you are all my newest enemies. And you have really nice guns.
+You people are all the same. You think you’re so smart. Oh, yeah. With all of our wonderful guns on this pathetic train, there’s no way anyone can stop us.
+We’re invincible and unbeatable. We are so strong, with all of our men and our guns. Hahaha. You are my absolute favorite people to kill!
+You are so beautifully amazed when you die, especially when I squish your brains between my fingers like I’m making sausage!
+
+
+
+Ladd, what the hell is this?
+
+
+
+We thought we’d heard machine guns and we come to find you like this? What the hell’s going on?
+
+
+Ladd Russo:
+You’re Senator Beriam’s wife, right?
+
+
+Natalie Beriam:
+*nods*
+
+
+Ladd Russo:
+I think I’m gonna switch things up a little. We’ll go ahead and finish up these gentlemen in the black suits first, and then come back for you. It’s been a pleasure.
+
+
+Ladd Russo:
+
+
+
+
+Go? What about the rest of ‘em?
+
+
+Ladd Russo:
+Ha, leave ‘em. *Laughs*
+
+
+Czeslaw Meyer:
+I can use these guys.
+
+
+
+
+Samantha:
+Miss, I know Master Dallas is gonna be just fine.
+
+
+Benjamin:
+He’ll be stopping back home any moment now, I’m sure.
+
+
+Eve Genoard:
+Yes, you’re right. Of course, you have to be right.
+
+
+Benjamin:
+*Sighs*
+
+
+Elean:
+This just doesn’t feel right. Pretending that we don’t know anything
+
+
+Nicholas Wayne:
+That’s not like what my aunt told her. We don’t know squat about what’s going on. We let the Runorata, folks think we have something to tell them soon too.
+Word on the street is that Gustavo was being shaken down by Dallas because he killed Dallas’s father and brother, but you and I know that ain’t true.
+Obviously, Bartolo Runorata must have some ulterior motive. Who knows what that could be.
+
+
+Elean:
+And with the Genoard situation being classified...
+
+
+Nicholas Wayne:
+
+
+
+Elean:
+Uh? Err… you didn’t hear that.
+
+
+Nicholas Wayne:
+Hey, I know what I heard. What’s with the hush-hush?
+
+
+Elean:
+The president told me to keep my mouth shut.
+
+
+Nicholas Wayne:
+I know what’s going on; it’s got something to do with those people that never die.
+
+
+Elean:
+I’m sorry, it’s just that I’ve very strict orders to keep it under wraps. I should really be going. Don’t be mad. And if you don’t mind, could this not leave the room?
+The boss would be furious. Thanks.
+
+
+
+
+ ws:start:WikiTextHeadingRule:28:&lt;h1&gt; 
+
+
+Excuse me.
+
+
+Isaac Dian:
+For carelessness there is no excuse.
+
+
+Miria Harvent:
+No excuse for carelessness, hum.
+
+
+Isaac Dian:
+Listen, Miria.
+
+
+Miria Harvent:
+Yes, Isaac?
+
+
+Isaac Dian:
+Make sure not to draw any attention to ourselves.
+
+
+*Miria Harvent:
+Just act normal, move slow and steady like a regular person.
+
+
+Isaac Dian:
+That’s it, doll-face, smooth as butter and jam. Amazing, surely I can’t pick... just one!
+
+
+Miria Harvent:
+How’s this, sir?
+
+
+Isaac Dian:
+You sure it’s legal to sell this stuff?
+
+
+Miria Harvent:
+I feel festive in this. *Mimics a Native American tribal call.
+
+
+Isaac Dian:
+This one doesn’t quite suit my taste.
+
+
+Miria Harvent:
+I don’t know if this is good for robbing people…
+
+
+Isaac Dian:
+Alright, time to pay the bill. Now listen up, pal.
+
+
+Hat Seller:
+Hmm?
+
+
+Isaac Dian:
+You should erase our faces from your mind. Just forget that we ever set foot in this store.
+
+
+Miria Harvent:
+Erase it from your mind, pal.
+
+
+Isaac Dian:
+And don’t even think about reporting this to the police, if you do…[to Miria] What'll we do?
+
+
+Miria Harvent:
+Hmm... if we've got nothing special ribbed up, maybe we could just poke him in the face.
+
+
+Isaac Dian:
+That sounds tough. (To the old man)
+As I was saying, if you dare rat us out...
+
+
+Miria Harvent:
+If you dare rat us out.
+
+
+Isaac Dian:
+Lights out!
+
+
+Miria Harvent:
+Lights out!
+
+
+Hat Seller:
+Hey, here’s your change.
+
+
+Isaac Dian:
+*sigh* What a close call, I was so scared.
+
+
+Miria Harvent:
+I was so scared.
+
+
+Isaac Dian:
+Yeah, that old timer was certainly no (?rude).That piercing gaze of his made me feel as if he could read my every thought.
+
+
+Miria Harvent:
+Hm Hm.
+
+
+Isaac Dian:
+Don’t worry, if we ever got into a fight with someone of course I’d win. All I have to do is think of your face and I’d fight like a madman.
+
+
+Miria Harvent:
+Really?
+
+
+Isaac and Miria:
+[At the same time] Of course I would! [&] That’s incredible!
+
+
+Isaac Dian:
+From the time we started our little robbery tour, we’ve done 87 jobs from San Francisco to New Jersey. All of them have been interesting challenges, but have I ever once come close to putting your life in any kind of danger?
+
+
+Miria Harvent:
+Only 87 times.
+
+
+*Rattling of the train*
+
+
+Isaac Dian:
+My point exactly, love. It’s still less than a hundred!
+
+
+Miria Harvent:
+Oh, yeah! I guess you’re right!
+
+
+Isaac Dian:
+So let’s pull one last big job here in the Big Apple and then live like a couple of high rollers down in Miami. Even the word '‘danger'’ won’t be able to find us all the way down there.
+
+
+Miria Harvent:
+Bye-bye danger.
+
+
+Isaac Dian:
+We’ll buy a big house and it’ll have a pool that we can swim in from the first light of dawn to the wee hours of the night.
+
+
+Miria Harvent:
+But won’t the nights be too…cold?
+
+
+Isaac Dian:
+We’ll light an army of furnaces that warm it up at night so we can swim whenever we want.
+
+
+Miria Harvent:
+Like an Arabian princess! We can live just like royalty in our own house!
+
+
+Isaac Dian:
+We’ll have a train running from our gate to the front door, we’ll have tracks that go all over and travel our own property every day! Hahaha.
+
+
+Miria Harvent:
+You really think we’re gonna be that rich, Isaac?
+
+
+Isaac Dian:
+But of course!
+
+
+Miria Harvent:
+Oh, it’s gonna be so incredible!
+
+
+Isaac Dian:
+As long as we’re together I could be the president, I could be a king or a queen!
+
+
+Miria Harvent:
+Yeah?
+
+
+Isaac Dian:
+I could even be a joker!
+
+
+Miria Harvent:
+Oh, I don’t know what that means, but it’s incredible!
+
+
+
+*they’re hit by a car*
+
+
+
+
+Goose Perkins:
+So, does anybody know who these Brunos in the white suits are working for?
+
+
+
+No, sir, I ain’t got a clue.
+
+
+Goose Perkins:
+In any case, call back anyone who isn’t six feet deeper than the rest of us.
+
+
+
+Yes, sir.
+
+
+Goose Perkins:
+Perhaps we should think of this as another trial.
+
+
+Spike:
+I don’t know if we can say what it is exactly at this point, maybe it’s too early to tell.
+
+
+Goose Perkins:
+I suppose you’re right; we can’t approach the heights that Master Huey’s reached by going through the normal paths.
+
+
+Spike:
+Where are you heading, Chane?
+
+
+
+
+Goose Perkins:
+Leave her alone; she’ll do what needs to be done. Besides…she won’t live past tomorrow.
+
+
+
+
+Szilard Quates:
+You should be more careful. What’s wrong with you?
+
+
+Ennis:
+I’m terribly sorry. They came out of nowhere and I couldn’t stop in time.
+
+
+Isaac Dian:
+Watch where you're going, buddy! You could have killed us both!
+
+
+Miria Harvent:
+Yeah, pal!
+
+
+Szilard Quates:
+They appear to be uninjured.
+
+
+Ennis:
+Yes, we weren’t going very fast, sir.
+
+
+
+[Meanwhile, Isaac and Miria keep shouting at them, but I can’t make out what they’re saying]
+
+
+Szilard Quates:
+Drive.
+
+
+Ennis:
+Yes, sir.
+
+
+Isaac Dian:
+Wait a minute, you can’t get away with that, get back here and fight me!
+
+
+Miria Harvent:
+Get back here and fight.
+
+
+Szilard Quates:
+I don’t understand the young people these days, although I could never figure out what the young people of 200 years ago were thinking either.
+Maiza… since that young pup went mad, I haven’t trusted anyone younger than me.
+
+
+Ennis:
+Sir, isn’t it true that from where you sit, everyone in the world is younger than you?
+
+
+
+
+So, Ladd, what d’ya think? Who the hell do we got running around in those black suits out there, huh?
+
+
+Ladd Russo:
+They... are a special treat, my friend. We each get to kill two or three of them apiece.
+And the fact that these guys think they’re so superior with their fancy weapons is gonna make it even sweeter.
+
+
+
+
+
+
+Ladd Russo:
+Back to work. Now. It’s too risky for us to be together, so we’re gonna have to separate.
+We’ll reconnect soon. After you let them have it for a while, we can all come back here for a celebration.
+
+
+
+Yeah!
+
+
+
+
+*taps feet*
+
+
+
+Well, well, well, if it isn’t Mr. Quates. It’s been a long time.
+
+
+Szilard Quates:
+What’s 20 years between old friends?
+
+
+
+[at the same time] Oh, could it be..(?we should bite our lips).. [&] It’s Mr Quates!
+
+
+
+Hey, you're looking quite well.
+
+
+
+You’re exactly as you were before.
+
+
+
+
+
+
+
+Mr Barnes is busy distilling and Mr. Stergent unfortunately passed away last year.
+
+
+Szilard Quates:
+That is unfortunate. With that defective and unrefined elixir you have been unable to achieve immortality. Stergent had to grow old and die.
+If only he had been able to stave off death for merely one year more, he would have been here with us to see this day arrive!
+Gentlemen, until now the fear of death has been ever present in your minds. But all of that will come to an end today.
+After all these years, we’ve succeeded in creating a perfected product. The Grand Panacea has finally arrived! Is Mr. Barnes in possession of the finished product?
+
+
+Yes.
+
+
+Szilard Quates:
+Ennis, go and pick up Mr Barnes at once.
+
+
+Ennis:
+Sir!
+
+
+Szilard Quates:
+Ennis.
+
+
+Ennis:
+Yes, sir?
+
+
+Szilard Quates:
+If you find that Barnes has gotten into the finished product, then kill him, he’s of no use to me. If he has corrupted the remedy, then I’m afraid he must die as well.
+
+
+Ennis:
+As you wish, sir.
+
+
+
+
+Dallas Genoard:
+You can’t just kick a guy and expect them to look the other way, now can you, gramps?
+
+
+Barnes:
+You’re the one who stuck your foot out to trip me!
+
+
+Dallas Genoard:
+Oh yeah? Well, you’re the genius who told us we were just a bunch of scum and should go jump in a lake, isn’t that right?
+I think that makes it YOUR fault that my foot stuck out. After all, you’re the one who’s dumb enough to trip over it in the first place.
+
+
+Barnes:
+You’re right, the whole thing was my fault… I…I’ll give you money.
+
+
+Dallas Genoard:
+It’s gonna take more than that, old-timer.
+
+
+Hey... is that booze? Well, now we’re talking.
+
+
+Barnes:
+Ahhh.
+
+
+Dallas Genoard:
+Let’s just see why that box is so important to you, gramps.
+
+
+Ennis:
+Oh, Barnes… Excuse me. Are you alright, sir?
+
+
+Firo Prochainezo:
+Oh. yeah.
+
+
+Ennis:
+I’m terribly sorry about that, excuse me, I’ve got to go. I’m looking for someone.
+
+
+Firo Prochainezo:
+Hey, lady, wait up!
+
+
+
+*ending*
+
+ ws:start:WikiTextHeadingRule:30:&lt;h1&gt; 
+
+Isaac Dian:
+Jacuzzi’s amazing!
+
+
+Miria Harvent:
+Why is that, Isaac?
+
+
+Isaac Dian:
+He may cry and get scared, but he always musters reckless valor and pulls it together in the end.
+
+
+Miria Harvent:
+Just like two magnets!
+
+
+Isaac Dian:
+That’s right Miria, he may cry and get scared but in the end he’s just like a couple of magnets.
+
+
+Miria Harvent:
+Jacuzzi is incredible!!!
+  

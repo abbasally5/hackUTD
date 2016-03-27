@@ -1,0 +1,891 @@
+
+Conductor:
+Yes sir, go all the way down.
+
+Man:
+Please, be careful.
+
+Old man:
+The famous Chicago-to-New York continental express, the Flying Pussyfoot.
+She's a beauty, built by Nebula.
+She's modeled after those English trains they only make for royalty.
+Usually first class is in the rear--not this time.
+They brought 'em right up front--said it's more esthetically pleasing.
+But honestly, I think they just didn't want first class in the back.
+Y'know, now that I think about it, it seems a little pretentious.
+
+Old woman:
+We shouldn't get on.
+
+Old man:
+Huh? Why not?
+
+Old woman:
+Something bad is going to happen.
+That train is cursed. I can feel it.
+
+Old man:
+Come now. Don't tell me it's that sixth sense again.
+
+Old woman:
+It's never been wrong now, has it?
+Terrible, just terrible.
+Many people will die. The survivors will be those born with good fortune, and...
+
+Old man:
+And who else?
+
+Old woman:
+Well, the others that'll survive... are those not human!
+
+
+ ws:start:WikiTextHeadingRule:12:&lt;h1&gt; 
+ ws:start:WikiTextHeadingRule:14:&lt;h1&gt; 
+
+Miria:
+Hey, Isaac? I have a question.
+
+Isaac:
+What's that, Miria?
+
+Miria:
+I'd like to know what it is we're doing here.
+
+Isaac:
+The answer is simple: The two of us are searching for life.
+
+Miria:
+But I thought we came down here to look for gold!
+
+Isaac:
+Yes! That's exactly what we're doing.
+Gold is the thing that makes this Earth valuable; it gives it life.
+Never again will you have stealing life from the Earth as your job.
+
+Miria:
+Wait a minute--when you say "Earth," are you talking about the planet?
+
+Isaac:
+That's exactly what I'm talking about.
+Before today, no one in history has ever tried to steal from the Earth.
+If we pull this off, my dear, it means that you and I will go down in history.
+
+Miria:
+Wow!
+
+Isaac:
+So, are you ready?
+
+Miria:
+You bet!
+
+ ws:start:WikiTextHeadingRule:16:&lt;h1&gt; 
+
+Miria:
+Hey, Isaac? I have a question.
+
+Isaac:
+What's that, Miria?
+
+Miria:
+If people usually look for gold in the river, why are the two of us down here digging a hole?
+
+Isaac:
+That's what amateurs do, Miria. And we're by no means amateurs.
+And because the last time we tried to pan for dust, the men who lived on that land started making noise about how we're not supposed to be on their turf.
+
+Miria:
+That was humiliating!
+
+Isaac:
+But that's okay. 'Cause you know what I saw outside of this abandoned mine?
+A centipede that had hundreds and hundreds of legs!
+The word in the Orient is that the centipede is the god of gold mining.
+And that can only mean one thing: The gold is here; we just have to keep looking.
+
+Miria:
+Oh wow--even though we found nothing, I'm so inspired!
+
+ ws:start:WikiTextHeadingRule:18:&lt;h1&gt; 
+
+Miria:
+Hey, Isaac.
+
+Isaac:
+What's that Miria, my dear?
+
+Miria:
+We got a letter from Ennis today.
+
+Isaac:
+Yeah? What does it say?
+
+Miria:
+Greetings to my dearest Miria and Isaac.
+It's been almost a year since the two of you left New York and we continue to think of you daily.
+Everything is pretty much the same here. You haven't missed out on any major action. [miss out on: を見逃す]
+We just miss having the two of you around.
+I heard you two haven't been very successful in your search for gold.
+So why don't you come to New York for a visit?
+There are so many others who would love to see you.
+I'm sorry if this seems pushy, but you two have always been like a brother and sister to me.
+
+Ennis:
+Actually, I think of you as the brother and sister I never got to meet.
+I'm saddened when I think of the others who were created before me.
+Whenever I start to wonder about them, I quickly think of you.
+The fact that I can remember your smiling faces is a great comfort to me.
+
+Miria:
+Hey Isaac, I have a question.
+
+Isaac:
+What's that Miria, my dear?
+
+Miria:
+Poor Ennis just sounds so sad; is she saying that all her older siblings are dead?
+
+Isaac:
+No, of course she's not.
+What she actually means is--(reading the letter) "Created before me... who I never got to meet..."--hmm, I could see how that would be misleading.
+Wait! I think I've got it!
+She's trying to tell us that she wants a younger brother.
+
+Miria:
+Oh! So this letter is sort of like an overactive girl asking her parents for a playmate who can keep up with her pace!
+
+Isaac:
+No--that's exactly what it's like.
+You see, she just wants someone to share her joy.
+
+Miria:
+(Sighs.) Well, I guess that makes sense, but we're not Ennis's parents, so we really can't exactly give her a baby brother.
+
+Isaac:
+No... unfortunately, that's how biology works.
+Instead how 'bout we buy her something expensive and bring it to New York?
+
+Miria:
+How are we gonna do that? We don't have enough money to buy a non-expensive gift!
+
+Isaac:
+Then we'll just have to commit a train robbery!
+
+Miria:
+Oh, that's a great idea!
+
+Isaac:
+Wait. Let me see if I can remember how to do this.
+First we take the train to our destination, right?
+Yeah, and then we do the robbery... and then we get back on the train and then leave, right?
+
+Miria:
+That's the way they've been done for years.
+
+Isaac:
+All right! Then just like before...
+
+Miria:
+Uh-huh!
+
+Isaac and Miria:
+The only way to steal is to steal from the Mafia!
+
+Radio announcers:
+Steeerike! The score is now two to two.
+[??Johnny Hamstring's gun] comes back.
+Think he'll deliver the goods?
+If he doesn't, they'll lose their shot at the playoffs.
+Pitcher winds up... he throws!
+Darn it... hits!
+It's going... it's going... it's gone! A home run!
+And the crowd goes wild!
+Ladies and gentlemen, what an amazing sequence!
+
+Isaac:
+How do you feel, Miria?
+
+Miria:
+Incredible, Isaac! We're champions of justice!
+
+
+Conductor:
+Yes sir, go all the way down.
+
+Miria:
+Oh wow.
+
+Old man:
+Now just a minute dear, be reasonable!
+
+Isaac:
+Look at those cats there. [cat: 人，やつ，男] 
+
+Miria:
+Ah, neat!
+
+Goose:
+As a matter of precaution, some members of the orchestra will be traveling in the freight hold.
+
+Station staff:
+That sort of thing is completely out of my hands, sir.
+
+Goose:
+We've already been granted permission.
+
+Station staff:
+Oh, well in that case, I-I guess it isn't a problem.
+
+Goose:
+Please be extremely careful when loading our instruments.
+They're delicate.
+
+Isaac:
+Miria! Can you believe that there's actually going to be a symphony on board with us?
+Mozart and Paul Dukas and...
+
+Miria:
+Whoa... and Beethoven?
+
+Young conductor:
+Hey there, Tony--nice work!
+
+Tony:
+Hehe. Why, thank you.
+You're just as energetic as ever, aren't you?
+
+Young conductor:
+Yeah.
+I finally get to ride aboard the great Flying Pussyfoot.
+
+Tony:
+Well this is a great locomotive for a youngster such as yourself.
+I just don't seem to enjoy it the same way that I used to.
+
+Young conductor:
+What do you mean by that, Tony?
+You're not quitting on us, now are ya? [quit on: ~を見捨てる]
+
+Tony:
+I am after this round: I'm retiring.
+Already let the company know about it.
+
+Young conductor:
+But what for?
+
+Tony:
+My time's over now: it's your turn to move this old girl along.
+
+Young conductor:
+Thank you, sir.
+
+Tony:
+This is a very special train. It's all yours now.
+I'll catch up with you later.
+
+Young conductor:
+Now that's a good looking doll!
+You don't see that every day, huh?
+Hey, wait!
+
+Jacuzzi:
+Oh, no! What do we do now?
+It looks like there's gonna be some guards riding along in the freight hold.
+
+Nice:
+Calm down, huh?
+It probably just means what we're waiting on is gonna be loaded into another freight hold, right?
+
+Jacuzzi:
+Er, but...
+
+Donny:
+Hey, take it easy, bro. Alrighty? Just relax. I'll take care of the guards.
+
+Jacuzzi:
+Oh, no, Danny, you, you can't do that!
+It's dangerous and you'll get hurt. You'll die!
+Please, Donny!
+
+Donny:
+It'll be fine... I think.
+
+Jacuzzi:
+What!? You think!?
+
+Man:
+We constructed a hidden room in the freight hold.
+No one should find it as long as nothing funny happens.
+
+Czeslaw:
+Oh yeah? Something funny like what?
+
+Man:
+Explosion, something, who knows?
+
+Miria:
+Look Isaac, everyone's wearing black!
+
+Ladd:
+First class, huh?
+Wonder what kinda rich folks are aboard this train.
+Ah, an orchestra all in black, huh? How nice.
+
+Isaac:
+The ones over there are all in white!
+
+Ladd:
+It's nice that we have someone who really accentuates the differences between us.
+Right, dollface?
+So, seen anyone else of importance who's gonna be on board with us?
+
+Ladd's man:
+Over there.
+
+Ladd:
+Hm?
+
+Ladd's man:
+That's that senator Beriam's wife and daughter.
+
+Natalie:
+Now be sure to stay close where I can see you.
+
+Ladd's man:
+I recognized 'em instantly. I been seeing 'em in the papers.
+
+Ladd:
+Must be swell breezing your way through life in first-class accommodations, huh?
+I bet they think they're in for a nice, safe ride, comfy in their stateroom.
+And why not? Nothing bad ever happens when you're rich, right?
+'Kay, let's go!
+We'll look after these fine passengers like they were our personal livestock--decaying livestock... infested with maggots!
+We'll handle them with love, angry love. Carefully, very carefully...!
+Let's grind their carcasses into dust!
+
+Ladd's man:
+Hey, Ladd! Ta-da! Check out the conductor uniform, eh?
+
+Ladd:
+I don't know what I'd do without you, buddy!
+
+Miria:
+I wonder why they are all in white?
+
+Isaac:
+I bet someone decided to get married on board this train.
+
+Miria:
+You think it'll be a big wedding? With a party and lots of presents?
+
+Isaac:
+Oh yeah. Lots of expensive presents, which makes this the perfect train for our train robbery.
+
+Miria:
+Uh... I thought we did our robbery and now we're escaping.
+
+Isaac:
+Of course! That's been the plan from the beginning.
+
+
+
+Secretary:
+They've departed right on schedule.
+
+Senator Beriam:
+And the item?
+
+Secretary:
+Safe, however...
+
+Senator Beriam:
+Hmm?
+
+Secretary:
+Your wife and daughter are aboard the train.
+
+Senator Beriam:
+You certain of that?
+
+Secretary:
+Their names are on the list.
+The item is in the last car, furthest from first class.
+If anything were to happen, they should be fine.
+It's still possible to stop the train and get the two of them off, if you wish.
+
+Senator Beriam:
+Forget that. Just... stick to the plan.
+
+Secretary:
+Yes, sir.
+
+Senator Beriam:
+This is an issue of importance.
+It's a choice between family or the item--and I've made my decision.
+
+Secretary:
+Senator Beriam...
+
+Senator Beriam:
+If something happens to them, it happens because it's the hand my wife and daughter were dealt by fate.
+
+
+Ian:
+Close your head, Jac. I told you not to talk about that.  [close your head: 黙れ]
+
+Jacuzzi:
+But, coming here at night didn't do us any good.
+
+Ian:
+It's too risky. They say that we're hauling a high-grade package.
+
+Fang:
+Yeah, supposedly it's some new kind of bomb.
+Thanks for waiting!
+
+Jacuzzi:
+(Gasps.) A bomb!?
+
+Waiter:
+Anything else, sir?
+
+Man:
+That'll be all, thanks.
+
+Jacuzzi:
+So they told you it might be a bomb, right?
+
+Ian:
+No, they said it was a bomb.
+
+Jacuzzi:
+Oh, they did?
+But if it were to explode then wouldn't...
+
+Nice:
+Then wouldn't that be a blast?
+
+Jacuzzi:
+(Gasps.)
+
+Fang:
+That's Nice for you. Living up to her reputation as a bomb freak.
+
+Nice:
+Knock it off, will ya? You're embarrassing me. [knock it off:いい加減にしろ。黙れ]
+
+Jacuzzi:
+Um, so do you really think we'll be able to steal it? Well, do ya?
+
+Nice:
+Of course we will, as long as I'm involved.
+
+Jacuzzi:
+Oh, I'm just not sure this is such a good idea!
+
+Fang:
+We'd better knock on wood.
+
+Isaac:
+That's absolutely right.
+
+Nice:
+What are they, actors?
+
+Fang:
+Those two have been ordering nothing but Chinese food all night long.
+
+Ian:
+And green tea with honey.
+
+Jacuzzi:
+Really? Why?
+
+Fang:
+Dunno.
+
+Nice:
+Why don't you ask 'em yourself?
+Make new friends. You never know--might be fun.
+
+Isaac:
+What a nice surprise!
+
+Miria:
+Incredible!
+
+Jacuzzi:
+I don't wanna... I'm too scared
+
+Nice:
+What if they turn out to be movie stars? If you became pals, you'd be famous too, huh?
+
+Jacuzzi:
+You really think so?
+
+Nice:
+Oh yeah.
+
+Jacuzzi:
+Uh, hello.
+
+Ian:
+You should stop teasing Jacuzzi so much.
+
+Nice:
+I'm not teasing him. I'm helping.
+He needs all you can get.
+I don't know if you've noticed but the boy could stand to be a bit more social.
+
+Isaac:
+It's amazing! I've never seen that before; he's got a tattoo right on his face!
+
+Miria:
+I bet you get stared at a lot.
+
+Isaac:
+By any chance, are you a movie star?
+
+Miria:
+Wow!
+
+Jacuzzi:
+No, I'm not!
+I'm not a movie star at all! I make liquor. I, I mean I... sell it.
+
+Miria:
+And, what else?
+
+Jacuzzi:
+And... nothing. I'm just another delinquent... a nobody...
+
+Isaac:
+Oh, come on.
+
+Jacuzzi:
+No, that's it. I'm just me! I'm nothing.
+Sorry, I'm sorry.
+
+Isaac:
+Hm, for some reason he's apologizing to us.
+What do you think it means, Miria?
+
+Miria:
+I think it means we won!
+
+Isaac:
+Of course! We're an undefeated duo.
+Good match!
+Now wipe those tears away and dine with us. I hope you like Chinese food!
+
+Miria:
+It's all you can eat!
+
+Jacuzzi:
+Thanks.
+
+Fang:
+No it's not!
+
+Isaac:
+Cows are herbivores, aren't they?
+
+Miria:
+Yep!
+
+Isaac:
+I knew it.
+So that means when you eat beef, you're actually eating both meat and vegetables.
+
+Miria:
+Isaac, you are so smart!
+
+Isaac:
+Aren't I?
+And the thing is, that rule doesn't just apply to the things that we eat.
+
+Miria:
+Huh...
+
+Isaac:
+Let's say you pick up someone's bag: now everything in it belongs to you.
+So, suppose there's a lot of money in that bag.
+There could be other things in there, but it's more fun to imagine money, because now every single dime of it is yours for the spending.
+
+Miria:
+Oh, you'd really have the B's then!
+
+Isaac:
+They have a saying for this sort of thing over the orient.
+It goes you eat what you... er...
+
+Ian:
+You are what you eat, I think.
+
+Isaac:
+Yes, that's it!
+
+Ian:
+I haven't seen Jacuzzi have this much fun in a long time.
+
+Nice:
+You okay?
+
+Czeslaw:
+I'm sorry, mister.
+Uh, sir, you gonna be alright?
+
+Jacuzzi:
+Yeah, I'm perfectly fine. Thank you.
+
+Natalie:
+Mary!
+I'm sorry; my daughter can be a handful sometimes.  [a handful: 手に負えない人やもの] 
+Is there anything I can do for you?
+
+Jacuzzi:
+Oh! N-no, it's okay. I should be apologizing to you.
+
+Ian:
+Whatever for?
+
+Nice:
+Are you taking a family vacation?
+
+Natalie:
+Yes. My daughter and I are on our way to see my husband.
+My name's Natalie Beriam, and the little troublemaker is Mary.
+
+Jacuzzi:
+Hi. Uh, my name is Jacuzzi Splot, and my friend here is Nice.
+
+Isaac:
+Isaac and Miria!
+
+Miria:
+Good evening!
+
+Mary:
+Uh, good evening.
+
+Czeslaw:
+My name's... Czeslaw Meyer.
+My family lives in New York and I'm on my way to visit them.
+
+Nice:
+You are so cute! Just like Jacuzzi when he was little.
+
+Czeslaw:
+I'm sorry for scaring you.
+
+Jacuzzi:
+Oh, that's alright, pal. You didn't do anything wrong.
+
+Isaac:
+But you did and now, you are going to be eaten by the Rail Tracer.
+
+Jacuzzi:
+Who, me?
+
+Miria:
+Oh, yeah. Gobbled right up!
+
+Jacuzzi:
+But... wh-what's a Rail Tracer?
+
+Isaac:
+Calm now. I can't believe you've never heard of it.
+What the Rail Tracer is, Jacuzzi...
+
+Young conductor:
+It's like a huge monster that comes chasing after trains.
+Shrouded in darkness, the entity can change shape into anything.
+And, little by little, it inches closer and closer to the train until it finally catches up.
+
+Elder conductor:
+So what happens when it reaches the train?
+
+Young conductor:
+All the people start to disappear.
+It starts at the back of the train.
+One by one, people turn up missing... until every soul on the train is gone.
+And then, as the empty cars are still rolling down the tracks, the train vanishes!
+
+Elder conductor:
+That's ridiculous.
+
+Young conductor:
+But you know what's even more frightening than that?
+
+Jacuzzi:
+Th-there something more frightening?!
+
+Isaac:
+Whenever you tell the story to someone on the train, that's the train that gets taken next: another victim of the Rail Tracer!
+
+Jacuzzi:
+This is it. I'm gonna die! We're all gonna be wiped out!
+
+Isaac:
+Calm down, old chum.
+It isn't all that bad. There is one way to keep the Rail Tracer from sneaking up on us and swallowing our souls.
+
+Jacuzzi:
+There's only one way?
+
+Young conductor:
+Yeah, but it's a little tricky.
+
+Elder conductor:
+Hold on... it's that time.
+
+Goose:
+Time to begin. Do not forget the plan we discussed and split up into teams of three. Now!
+
+Young conductor:
+Okay, so there is one thing you can do to be spared.
+
+Elder conductor:
+You know, I think I've heard a story just like this one before.
+
+Young conductor:
+Then maybe you and I should be swapping survival secrets.
+
+Elder conductor:
+But our story isn't quite as complicated as yours.
+It's about Lemures, the ghosts in our world.
+
+Goose:
+We no longer have blood relatives.
+All we have is our allegiance to Master Huey Laforet.
+Transcending life and death will allow us to become one with Master Huey who has obtained eternal life.
+As Lemures that's our goal.
+Consider what it means to call yourselves ghosts.
+We are no longer afraid of death.
+All fears of the flesh are things of the past, for we all became ghosts during our living days.
+
+Jacuzzi:
+So what do we have to do?
+
+Isaac:
+What are we supposed to do again?
+
+Miria:
+I don't know. This is my first time hearing about this.
+
+Jacuzzi:
+Oh, it's all over!
+
+Ian:
+I think I've heard the story before.
+
+Jacuzzi:
+Really?
+
+Ian:
+Yeah, I believe it was from the young conductor aboard this train as a matter of fact.
+
+Jacuzzi:
+Then that's it. I've got to find him and ask him how we can all be saved from the monster!
+
+Nice:
+Sorry, when it comes to things like that he gets spooked pretty bad.
+
+Isaac:
+Oh, he's a great guy! He really is.
+
+Miria:
+He is! We should let him win a round.
+
+Isaac:
+Great idea! I'll let him win one round.
+
+Miria:
+Just one round?
+
+Czeslaw:
+Why, why did I give out my real name earlier?
+Could it be there's an immortal among them?
+
+Mary:
+Scary, isn't it, Czeslaw?
+
+Czeslaw:
+O-oh, yeah. It sure is.
+
+Elder conductor:
+There used to be the great leader among these ghosts.
+Then the Feds arrested that man, and now the government is doing their damnedest to keep people from talking about it.
+Covering it up.
+
+Goose:
+Think of this is a ritual. A ritual designed to bring about the freedom of our master.
+This train is our altar, and the passengers are sacrifices.
+Do not forget that.
+
+Nick:
+Whoa!
+
+Donny:
+Where're you running to, Jacuzzi? Looks like the Devil's chasing you.
+
+Jacuzzi:
+This is terrible; everybody on this train is about to die!
+I have to come. I have to find the young conductor!
+
+Donny:
+Why?
+
+Elder conductor:
+So then the remaining ghosts came up with the perfect plan.
+They would have to take people hostage including the family of a powerful senator and use them as bargaining chip to demand their leader's release.
+Tomorrow our great teacher will be questioned by the New York Judiciary.
+And all this train amounts to in the end is a sacrifice to our glorious leader.
+
+Goose:
+We must have faith in our actions.
+You can trust that your work today will lead to the release of our glorious leader.
+
+Ladd:
+I'll be back!
+Watch where you're going, will ya?
+
+Jacuzzi:
+I'm very sorry! I really didn't mean to...! You see everyone here is in great danger!
+So I was in a hurry! I need to find the conductor, 'cause I think he can help.
+I'm, I'm sorry, I gotta go!
+
+Ladd:
+Wasn't that...? It's gonna be...
+
+Elder conductor:
+Back to your question: How can you be spared? Thing is, everyone who hears this story dies.
+So I'm sorry to have to break it to you like this, kid.
+There is no way to be spared.
+
+
+
+Preview
+
+Isaac:
+Hey, Miria, what are you supposed to do to get ready for a party?
+
+Miria:
+Well, you get a lot of people together.
+
+Isaac:
+And then what?
+
+Miria:
+Then you make a whole lot of noise!
+
+Isaac:
+That's what you do at the party.
+What do you do to prepare for a party?
+
+Miria:
+Ah, I don't know. What do you do?
+
+Isaac:
+I don't know. What do you do?
+  

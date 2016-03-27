@@ -1,0 +1,600 @@
+
+LOCKSMITH:
+Scientist Chen Hung Dao.
+Astronaut Christopher Bartholomew.
+Astronaut Eirand Hammer.
+Engineer Hubert Heim.
+Engineer Leonov Norstein.
+Assistant Navigator James Biko.
+And next to him are EVA specialist Sally Silverstone and fellow EVA specialist Hachirota Hoshino.
+These 18 extraordinary men and women are the Von Braun's handpicked crew. These are the best of the best, culled from a pool of some 20,000 applicants over a period of eight months. With their selection, the crew of the Von Braun is now complete. It's a distinct honor to be the one to introduce you to the first human to challenge the Jupitar and lead us sent a new era.
+The Jovian system development project that they will be undertaking will spur humanity's development to new heights, and I am certain that tales of their great deeds will be handed down to future generations.
+
+SALLY:
+Hachimaki.
+Hachimaki.
+Hachimaki!
+Hey, stop spacing out! A reporter there is trying to ask you a question.
+
+REPORTER:
+I'll just repeat the question. Do you have any worries regarding [the] seven year journey to Jupiter, a planet where no one has gone before?
+
+HACHI:
+Eh...
+
+REPORTER:
+Oh. Um... Sir. [Is it] Because of your father that you decided to go to Jupiter?
+
+HACHI:
+What?
+Go?
+Go where...?
+
+REPORTER:
+What?
+
+HACHI:
+Exactly where is it I'm going?
+
+LEONOV:
+This guy's jokes aren't very funny, are they? You know, our biggest worry on this project is that we'll have to listen to his sophomoric jokes for seven years.
+
+
+
+
+
+
+cull : 〔最上のものを〕選択する、選り抜く、抜粋する、選び取る
+sophomoric jokes : 生意気な［こざかしい］冗談
+
+
+LEONOV:
+C'mon, Hachi, I wish you wouldn't say weird stuff like that. Gala occasions don't happen every day, you know?
+
+SALLY:
+You've been acting funny ever since the attack. You sure you shouldn't go see the doctor?
+
+HACHI:
+I've passed my medical checks.
+
+SALLY:
+I'm not worried about your body. It's your--
+
+LEONOV:
+Hey, our first vacation in ages starts tomorrow. Go have yourself a good time okay?
+
+SALLY:
+Yeah, Hachi, you should try to have some fun!
+
+LEONOV:
+You know, I can't believe how far the repairs have come here, even though it's only been six months since the Space Defense Front attack.
+
+SALLY:
+Looks like Galileo Development really worked themselves to the bone to have it ready before the crew's debut.
+
+LEONOV:
+Yeah. That President Dolf of theirs is a real piece of work.
+
+SALLY:
+Huh?
+
+LEONOV:
+Oh, no. Check it out, it's a bug!
+
+SALLY:
+Who brought them on board? We'd better call the sanitation guys.
+
+LEONOV:
+Damn, and here I thought I could kiss bugs goodbye for a whole seven years. What's up with the quarantine procedures around here?
+
+
+
+
+ANNOUNCE:
+Hinobori shop market is currently xxx huge xxx sale commemorate xxx the Von Brawn.
+
+WOMAN:
+Mrs. Hoshino, congratulations!
+
+HARUKO:
+Thanks. I'm used to seeing things like that for my husband, but not Hachi.
+
+
+LEONOV:
+What're you gonna do on your vacation, Sally?
+
+SALLY:
+Me?
+Hm... I'm gonna go back [down] to Earth and have a picnic!
+
+LEONOV:
+Really a picnic?
+
+SALLY:
+Yeah, on the bank of the River Thames.
+
+LEONOV:
+You'd never guess it, but [I think] you have a girlish style after all--
+
+MAN:
+Leonov!
+You're a celebrity now, so watch what you say and do, all right?
+
+LEONOV:
+Yeah, yeah.
+
+GORO:
+Hey, Leonov! Have you seen my son anywhere?
+
+LEONOV:
+What?
+
+SALLY:
+If you're looking for Hachi, he came here on the flight before ours.
+
+GORO:
+Eh, I should've known. Where could that kid have got into?
+
+
+WOMAN:
+Just a minute. They said to put those files in the folder on the server for now.
+
+MAN:
+Aren't we going to transmit them to Technora?
+
+WOMAN:
+It was president Dolf's orders. I don't know the details, but it's probably a security issue.
+
+MAN:
+Even so, all these complicated procedures are getting out of hand.
+
+MAN:
+I bet President Dolf is the only one who has access to all the information.
+
+WOMAN:
+An O2 depletion alarm from a spacesuit?
+
+MAN:
+Isn't a crew supposed to be on vacation?
+
+WOMAN:
+This can't be right. It's coming from the surface!
+
+
+TRANSMISSION:
+Rescue Command, this is Rescue 42. We've found the subject.
+Rescue Command, this is Rescue 42. We've found the subject.
+
+TRANSMISSION:
+This is Rescue Command.
+
+MAN:
+Hoshino? You're Hachirota Hoshino, right? Can you hear me?
+Pull yourself together! What have you been doing out here for two days?!
+
+HACHI:
+Eh...?
+
+MAN:
+If you hadn't been wearing one of the Von Braun's custom suits, you'd be dead.
+
+HACHI:
+Yeah, you're right.
+
+MAN:
+Anyway, let me replenish your O2. Open up the cartridge on your back.
+
+MAN:
+When we get back, I'm sending you in for a complete checkup, got it?
+
+HACHI:
+Get back? Back where? How?
+
+
+
+
+
+
+Gala occasion : 華やかな社交行事
+in ages : 長い間、長期間、久しぶりに
+work oneself to the bone : 身を粉にして働く
+piece of work : 《a ～》作品、仕事
+kiss ~ goodbye : ～にさよなら［別れ］のキスをする、～に別れを告げる
+what's up with : 〈話〉～は（一体）どうなっているのか
+get out of hand : 手が付けられなくなる、手に負えなくなる、収拾がつかなくなる、制止できなくなる、抑えがきかなくなる
+depletion : 減少、枯渇、使い尽くすこと
+
+
+MAN:
+Okay, Cheng-Shin. You haven't carried passengers in a while, so just make sure you're good and nervous, okay?
+
+CHENG-SHIN:
+Yes, sir. I understand.
+
+CHENG-SHIN:
+Greets from the flight deck to everyone. We want to thank you for choosing to fly with us today. While we are on route, we ask that our passengers observe the following rules.
+
+LOCKSMITH:
+Mr. President! What the devil did you do with the Hoshinos?
+
+DOLF:
+I sent them down to Earth. Hachirota Hoshino is in desperate need of R&R.
+
+LOCKSMITH:
+You could have sent the son by himself, couldn't you? The father didn't need to go!
+
+DOLF:
+It was the father that made the request.
+LOCKSMITH:
+What?
+DOLF:
+Hachirota Hoshino insisted that he want to continue with his training, but Goro said that he would take him down himself.
+Actually, since you're here, Dr, there is another matter that I'd like to discuss with you.
+LOCKSMITH:
+What is it? You look awfully serious.
+
+DOLF:
+Oh, please forgive me, but it's rather important.
+
+
+ANNOUNCE:
+The flight has been delayed due to schedule adjustments. Our departure will be one hour behind schedule.
+
+GORO:
+Oh, man, this is ridiculous. We've got an hour layover before our next flight... Uh? And here we are two celebrities who have to travel incognito. You know?
+Hey, I know! I'll go buy us something to drink! What do you want, Hachi? Some sake? You're on! Sake XXX. But you better keep up!
+
+HACHI:
+No, dad, that's okay.
+
+MAN:
+Yes, that's right, Technora! Which way do I go to get to Technora?
+
+WOMAN:
+To reach Technora, please use the elevator that's four blocks ahead and take it to the business floor. You will find their reception desk there.
+
+MAN:
+Got it. Four blocks ahead, right?
+
+GORO:
+Stupid kid...
+
+
+HAHCI:
+Wouldn't you look at that. Tanabe's still using this desk after all this time?
+A will? I can't remember. What did I write in my will?
+
+PHILIPPE:
+Well, I'll be! It's Hachi!
+
+LAVIE:
+Hey, if you were coming, you should've let us know.
+
+PHILIPPE:
+Congratulations! I saw you on TV, Hachi! You've really done well for yourself!
+
+LAVIE:
+Right! You wait here, Hachi, I'll go run up Fee and the others!
+
+PHILIPPE:
+But aren't they at the union meeting?
+
+LAVIE:
+Right!
+See, ever [since] we lost Claire and Tanabe, we've been awfully shorthanded.
+
+HACHI:
+She left?
+
+PHILIPPE:
+Oh, my! You didn't know?
+
+LAVIE:
+Oh, right! I guess he wouldn't. Tanabe went back to Earth. She went home.
+
+PHILIPPE:
+Ai went through a lot of things after the attack, and she resigned from the company. She quit.
+
+LAVIE:
+Yeah. Well, Tanabe is still really young! She can always start again from scratch.
+Here, Hachi. It's Tanabe's address and phone number.
+
+PHILIPPE:
+She pretended that everything was okay, but I know she really wanted to go see you.
+
+LAVIE:
+Pay [her a / your] visit before you leave for Jupiter, Okay?
+
+
+
+
+
+
+
+R&R : ＝rest and recreation 保養休暇、休養兼娯楽
+layover : 待ち合わせ、中断、途中下車; 飛行機の乗り継ぎの待ち合わせ時間
+You're on. : 受けて立ちましょう。／いいとも。／話は決まった。◆無理な依頼、賭け事や挑戦などを提案されて受けて立つときに使う。
+Well, I'll be! : へえ、びっくりだなー！
+go through : 〔困難・試練・つらいことなどを〕体験［経験］する
+pay a visit : 訪れる、訪問する
+
+
+
+GORO:
+182cm?!
+Let's see, that works out to an average of... 1.75cm a month!
+You're growing like a weed, boy! You should show a little more consideration for the Earth. Or more to the point, quit eating. I'll just take those cutlets off your hands.
+
+KYUTARO:
+You know, you're just not making any sense, old man. You should be happy that your son is growing and strong.
+
+GORO:
+My point is you're growing too big.
+Here you go, Hachi. Take some of these. You won't be able to have again for seven whole years. You don't need to let Kyutaro have 'em all.
+
+KYUTARO:
+Hey, Hachi quit growing a long time ago. Oh, yeah, don't act like hot stuff just 'cause you're going to Jupiter! By the time you two get back from there, I'm gonna have built a ship to go to Venus!
+
+GORO:
+What're you spouting? It's money that I earned that put those pork cutlets on your plate.
+
+HARUKO:
+What's the matter, Hachi? If you don't eat faster, they're going to take them all.
+
+HACHI:
+Yeah...
+That's okay. I'm finished.
+
+KYUTARO:
+Gee, really?
+
+GORO:
+Yeah, really. Who do you think you have to thank for growing so big, huh, boy?
+
+HARUKO:
+Did something happen to Hachi?
+
+GORO:
+I dunno, maybe something did happen.
+
+HARUKO:
+What's that mean?
+
+GORO:
+I'm really not sure. At first, I thought he had that bug that sailors catch that's like the measles, so I let him be, but now...
+
+HARUKO:
+Will he be all right?
+
+GORO:
+I'd thought if he had some of your pork cutlets, he might snap out of it, but, well...
+
+HARUKO:
+It's really serious, isn't.
+
+GORO:
+Yeah, I wonder what happened to him?
+
+HACHI:
+Oops. I accidentally left the office with it.
+It's just gonna have a bunch of stuff about "love"...
+
+
+"I-I'm Ai Tanabe, I just started!"
+"Maybe a diaper man like you just can't understand something like that."
+"Hey! Where's your spirit!"
+"Yeah, I did it! Sempai, I did it!"
+"I-I'm so sorry! I guess I just assumed--"
+"Are you renting a place in Arnould Area, too?"
+"Well, Sempai. As far as I'm concerned, you're my sensei."
+"I just don't think this is a time for worrying about who's a rookie!"
+"It's no good! Rewrite it!"
+"I knew you were rude and violent, but I never thought you'd be remotely capable of damn thing like this!"
+"For one thing, you've got no tighter delicacy!"
+
+"My love!"
+"Look at that will you wrote! You're the one with the problem here, not me!"
+"Why can't you all understand?! We can't just send this man back into space!"
+"It's not like that at all! I was just worried that you might--"
+"Um... What do you mean by that?"
+"Are they shooting out? Of my eyes, I mean."
+"Okay, Sempai. Now it's your turn. I told you, so now you go!"
+"What a simple reason. Nothing, it's totally your style. It's you."
+"Oh, how is he?! Is he going to be all right?! Tell me, please!"
+"Thank goodness I'm so relieved."
+"Shut up!"
+"Wait, don't go! There's so much that I want to ask you and talk to you about!"
+"You decided all on your own to quit the company and to try out for the Von Braun, I wanted you to tell me about it. To talk to me about it. The things is I..."
+
+HACHI(PHANTOM):
+Hey, you aren't starting to have second thoughts, are you?
+Man, you're weak. You're still trying to turn to others for help? I told you before, didn't I?
+In the end, all humans are alone.
+
+HACHI:
+Yeah, I guess I am. I'm alone. I'm really alone, aren't I? You're right, I'm--
+
+HACHI:
+Hey, wait a minute!
+What is this place?
+There's nothing... Nothing at all.
+Am I dead?
+No, I'm alive. That's the one thing I'm sure of.
+But-
+There's nothing here. I'm alone.
+It's just me. That's right, that's exactly what I said, isn't it? That's exactly what I wanted, isn't it?
+But! Not here! Not like this!
+Somebody! Help! Hey!
+Somebody!
+
+HAKIM:
+That's right, this is what you always wanted.
+Shoot, Hachi. And feel your soul fall into the abyss.
+
+HACHI:
+Sure, I'll shoot. I'll shoot you, and then I'll!
+What?!
+Hakim! Don't act like you know everything!
+
+HACHI:
+My determination wasn't all talk. I really did have intention to put an end to it. I really intended to kill him. But then... there was no ammunition in the gun. I pulled the trigger, and it didn't fire. You see, it wasn't my fault. So, whose fault was it, then?
+Wait, whose fault? No, who do I have to thank for it? Who do I owe my thanks to for not having to shoot him?
+But I don't...
+
+TANABE:
+Come on, Sempai, let's go home.
+
+HACHI:
+Tanabe?
+
+TANABE:
+Yeah. Let's go home, Sempai.
+
+FEE:
+Hachi, what're you waiting for, dummy?
+
+YURI:
+C'mon, Hachimaki. Let's go.
+
+PHILIPPE:
+I'll just leave you to it!
+
+LAVIE:
+Hachi, didn't I tell you that nobody gets overtime?
+
+EDEL:
+It's time to quit.
+
+CLAIRE:
+You never change, Hachi, do you?
+
+CHENG-SHIN:
+I know you can do it, Hachi.
+
+NONO:
+Right, Hachimaki?
+
+GIGALT:
+Yes, Hachimaki.
+Take it nice and easy, there's no rush at all.
+
+GORO:
+What're you doing, a dumb kid?
+
+KYUTARO:
+Don't act big when your job's not done yet, Bro.
+
+HARUKO:
+Hachi, the food will all be gone.
+
+HACHI:
+That... That was space?
+If what I just saw was space, then what the hell have I been looking at up until now...?
+
+TANABE:
+Hello. Excuse me, are you all right?
+Sempai?
+Hachimaki Sempai?
+Sempai?!
+Is that really you over there?!
+
+
+
+
+
+
+work out to : ～ということになる
+grow like a weed : 雑草のように伸びる［成長する］、〔子供の〕成長が早い
+more to the point : より端的に言えば、もっと肝腎なことを言えば、さらに重要なことに
+dummy : 〈話〉ばか、のろま、とんま、間抜け
+
+
+TANABE:
+Don't worry about thing. I'll have my dad come back here to get your bike later.
+
+HACHI:
+Thanks. Sorry about that.
+
+TANABE:
+Oh, yeah. That reminds me. I went all the way out to the Von Braun just to see you, you know.
+
+HACHI:
+But, the ship's off-limits to unauthorized personnel.
+
+TANABE:
+Well, I cheated a little. I asked Colin to help me.
+
+HACHI:
+Colin? You mean that idiot son of the INTO chairman?
+
+TANABE:
+Yeah. He works for INTO as an inspector now.
+Just as we were asking them to call for you, we got caught up in that big mess.
+
+HACHI:
+You did?
+Um... Tanabe? Your legs didn't get hurt in the Space Defense Front attack, did they?
+
+TANABE:
+Eh... No, I managed to escape right away. But the place where I came down was too far away from a manned facility to get help.
+
+HACHI:
+What about an SOS?
+
+TANABE:
+I sent one out, but nobody answered. I didn't have any choice, so I started to walk to a station. But my O2 ran out before I could get there.
+
+HACHI:
+And that's how--
+
+TANABE:
+Right. I was rescued by a shuttle bus that happened to be passing by.
+But I suffered nerve damage from the oxygen deprivation, and I underwent a tricky procedure called a "nano nerve coupler" operation.
+What do you know! I remembered, though, the medical lingo for a change! I was out here doing my rehab exercises. The doctors say that if I work hard at it, there's a good chance I'll make a full recovery.
+
+HACHI:
+They did?
+
+TANABE:
+Yeah. Claire was lucky. She got discharged from the hospital quickly.
+
+HACHI:
+Wait, Claire?
+
+TANABE:
+Yeah. We escaped the ship together.
+Apparently, she had been using a lot less O2 than I was. So, there was a lot less damage to her brain.
+It sounded to me like my rehabilitation would take a long time, and since I didn't even know if I'd recover, I submitted a letter of resignation.
+
+HACHI:
+You did?
+
+TANABE:
+Yeah.
+
+HACHI:
+I see.
+
+Tanabe... There's something that I really need to apologize to you about. I read this without asking. I know I shouldn't have done it.
+I'm really sorry.
+
+TANABE:
+I... Um...
+Last year, I wrote out a proper will. It said things like "Thank you for raising me," and "Goodbye," and "I'm sorry" and a bunch of of stuff like that. But then, after all the things I'd experienced firsthand in space, and with you gone for seven years, when they told me to write another one out this year, I can't do it. I couldn't write anything... And after all those things I said to you. But nothing that I wrote felt right to me...
+
+HACHI:
+Tanabe...
+Tanabe, when we ran into each other tonight, I think I figured something out.
+You see, my idea of space was just way too small. Sure, there's a lot of really painful stuff to go through and questions without easy answers, but I've learned that there's nothing in this world that isn't part of space. I realized that even I'm connected to it. That those connections are what make up space. I realized that I'm okay with that.
+Can't really explain it.
+Anyway, that's what you were tying to tell me all along? That everything in this world is connected. And the thing that binds it all together is--
+
+
+
+
+
+
+
+firsthand : じかに（得た）、直接の、直接仕入れた、直接聞いた、直接体験によって得た◆【参考】second-hand
+feel right : 正しいと感じる
+  

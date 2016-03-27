@@ -1,0 +1,226 @@
+
+part.I part.II part.III part.IV part.V part.VI part.VII part.VIII
+
+
+Announcer: ws:start:WikiTextAnchorRule:0:&lt;img src=&quot;/i/anchor.gif&quot; class=&quot;WikiAnchor&quot; alt=&quot;Anchor&quot; id=&quot;wikitext@@anchor@@02&quot; title=&quot;Anchor: 02&quot;/&gt;  ws:end:WikiTextAnchorRule:0 
+02: At the top of the seventh, the score's 7 : 0, the next batter up is Yamada. ws:start:WikiTextAnchorRule:1:&lt;img src=&quot;/i/anchor.gif&quot; class=&quot;WikiAnchor&quot; alt=&quot;Anchor&quot; id=&quot;wikitext@@anchor@@06&quot; title=&quot;Anchor: 06&quot;/&gt;  ws:end:WikiTextAnchorRule:1 
+06: At the top of the seventh, the score's 7 : 0, the next batter up is Yamada.
+
+06: So far (xxx), he's struck-out (xxx). ws:start:WikiTextAnchorRule:2:&lt;img src=&quot;/i/anchor.gif&quot; class=&quot;WikiAnchor&quot; alt=&quot;Anchor&quot; id=&quot;wikitext@@anchor@@07&quot; title=&quot;Anchor: 07&quot;/&gt;  ws:end:WikiTextAnchorRule:2 
+07: So far, he's struck-out (xxx) right field.
+
+ ws:start:WikiTextAnchorRule:3:&lt;img src=&quot;/i/anchor.gif&quot; class=&quot;WikiAnchor&quot; alt=&quot;Anchor&quot; id=&quot;wikitext@@anchor@@03&quot; title=&quot;Anchor: 03&quot;/&gt;  ws:end:WikiTextAnchorRule:3 
+03: There's the first pitch.
+06: Here's the first pitch. A ball.
+07: There's the first pitch. Ball one.
+
+03 :Having (xxx) 14 innings, (xxx) Suzuki (xxx) this game.
+06: Kumamoto's pitcher, Suzuki, (xxx)
+07: Suzuki (xxx) 14 innings (xxx) but (xxx)
+
+Kiru:
+02: Even (xxx) given up 7 runs (xxx), kid's got a heart.
+03: Even (xxx) this kid (xxx)
+06: (xxx)
+07: Even after giving up 7 runs (xxx)
+
+Announcer:
+02: The second pitch is...
+03: The second pitch...
+07: The second pitch is...
+
+02: Fly ball, left. One out.
+03: Left fly. One out. ws:start:WikiTextAnchorRule:4:&lt;img src=&quot;/i/anchor.gif&quot; class=&quot;WikiAnchor&quot; alt=&quot;Anchor&quot; id=&quot;wikitext@@anchor@@04&quot; title=&quot;Anchor: 04&quot;/&gt;  ws:end:WikiTextAnchorRule:4 
+04: It's a fly ball to left (xxx). One out.
+06: And it's a fly ball, left field. One out.
+07-a: (xxx)
+07-b: (xxx) One out.
+
+Kiru:
+02: The scores is pretty far apart, but if they can hold out this inning, Kumamoto still has a chance.
+03: Their scores is pretty far apart, (xxx) one more inning, (xxx)
+04: Their score is pretty far, 7 : 0, but Kumamoto can hold out there (xxx) chance. ws:start:WikiTextAnchorRule:5:&lt;img src=&quot;/i/anchor.gif&quot; class=&quot;WikiAnchor&quot; alt=&quot;Anchor&quot; id=&quot;wikitext@@anchor@@05&quot; title=&quot;Anchor: 05&quot;/&gt;  ws:end:WikiTextAnchorRule:5 
+05: The score is (xxx) 7 : 0, (xxx) Kumamoto (xxx)
+06: (xxx)
+07-a: (xxx) Kumamoto can hold on, they still got a chance.
+07-b: Their score is pretty far apart, 7 : 0, the (xxx) team Kumamoto can hold on, they still got a chance (xxx) ws:start:WikiTextAnchorRule:6:&lt;img src=&quot;/i/anchor.gif&quot; class=&quot;WikiAnchor&quot; alt=&quot;Anchor&quot; id=&quot;wikitext@@anchor@@08&quot; title=&quot;Anchor: 08&quot;/&gt;  ws:end:WikiTextAnchorRule:6 
+08: Their score is pretty far apart, (xxx) Kumamoto can hold on, they got a chance.
+
+Announcer:
+02: The bleachers (xxx) there.
+03: The bleachers (xxx)
+04: The bleachers behind third are gone (xxx) out there.
+05: The bleachers behind third are gone (xxx) out there.
+06: The bleachers behind third are gone (xxx) out there.
+07: The bleachers behind (xxx) there.
+08: The bleachers behind third are gone on (xxx) out there.
+
+ ws:start:WikiTextAnchorRule:7:&lt;img src=&quot;/i/anchor.gif&quot; class=&quot;WikiAnchor&quot; alt=&quot;Anchor&quot; id=&quot;wikitext@@anchor@@01-01&quot; title=&quot;Anchor: 01-01&quot;/&gt;  ws:end:WikiTextAnchorRule:7 
+01: He needs to be a top over there, Mr. Kiru?
+02: Suzuki on the mound, they need him (xxx) Mr. Kiru?
+03: Suzuki's on the mound, they really (xxx), aren't they, Mr. Kiru?
+04: Suzuki on the mound, (xxx), Mr. Kiru?
+05: Suzuki on the mound, they really (xxx), Mr. Kiru?
+06: (xxx)
+07: Suzuki on the mound, (xxx) looking for, are't they, Mr. Kiru?
+08: Suzuki on the mound, (xxx) Mr. Kiru?
+
+Kiru: ws:start:WikiTextAnchorRule:8:&lt;img src=&quot;/i/anchor.gif&quot; class=&quot;WikiAnchor&quot; alt=&quot;Anchor&quot; id=&quot;wikitext@@anchor@@01-02&quot; title=&quot;Anchor: 01-02&quot;/&gt;  ws:end:WikiTextAnchorRule:8 
+01: And (xxx). You never know how (xxx) gonna turn out.
+02: Yeah, they still have a hope (xxx), you know, old saying (xxx) game (xxx) turns over.
+03: (xxx) I hope so (xxx) as the old saying goes, the game (xxx)
+04: (xxx) I hope so the game. (xxx) old saying (xxx)
+05: Oh, yeah. (xxx) the old saying goes, the game (xxx).
+06: That's true. Really I hope so the game. And you (xxx) whole people know how (xxx)
+07: (xxx)
+08: Oh, yeah.(xxx) I hope so this kid.(xxx)
+
+Announcer:
+02: Right.
+04: Right.
+05: You know it.
+06: Right.
+07: Right.
+08: You know it.
+
+ ws:start:WikiTextAnchorRule:9:&lt;img src=&quot;/i/anchor.gif&quot; class=&quot;WikiAnchor&quot; alt=&quot;Anchor&quot; id=&quot;wikitext@@anchor@@01-03&quot; title=&quot;Anchor: 01-03&quot;/&gt;  ws:end:WikiTextAnchorRule:9 
+01: Next up is the batter's number four, Kashima, he's a senior.
+02: Next up is the batter's number four, Kashima, he's a senior, the small player.
+03: Next up is the batter's (xxx) number four, Kashima, he's a senior, (xxx) strong player.
+04: Next up is (xxx) number four, Kashima, he's a senior, good, strong player.
+05: Next up, number four, Kashima, he's a senior,
+06: Next up is a senior, number four, Kashima.
+07: Next up is a senior, number four, Kashima.
+08: (xxx)
+
+ ws:start:WikiTextAnchorRule:10:&lt;img src=&quot;/i/anchor.gif&quot; class=&quot;WikiAnchor&quot; alt=&quot;Anchor&quot; id=&quot;wikitext@@anchor@@01-04&quot; title=&quot;Anchor: 01-04&quot;/&gt;  ws:end:WikiTextAnchorRule:10 
+01: He was picked for the team that went Cuba (xxx) from the last summer series.
+02: He was picked for the team that went Cuba the last summer series.
+03: He was picked for the team that went Cuba from the last summer series.
+04: He was picked for the team that went Cuba from the last summer series.
+05: was picked for the team that went Cuba the last summer series.
+06: (xxx)
+07: He was (xxx) went to Cuba (xxx)
+08: (xxx)
+
+ ws:start:WikiTextAnchorRule:11:&lt;img src=&quot;/i/anchor.gif&quot; class=&quot;WikiAnchor&quot; alt=&quot;Anchor&quot; id=&quot;wikitext@@anchor@@01-05&quot; title=&quot;Anchor: 01-05&quot;/&gt;  ws:end:WikiTextAnchorRule:11 
+01: In the 4th (xxx), he hit a three-run homer.
+04: In the 4th inning, he hit a three-run homer.
+05: (xxx) a three-run homer in the 4th.
+06: (xxx)
+07: (xxx)
+08: (xxx) three-run home run (xxx).
+
+ ws:start:WikiTextAnchorRule:12:&lt;img src=&quot;/i/anchor.gif&quot; class=&quot;WikiAnchor&quot; alt=&quot;Anchor&quot; id=&quot;wikitext@@anchor@@01-06&quot; title=&quot;Anchor: 01-06&quot;/&gt;  ws:end:WikiTextAnchorRule:12 
+01: Here's Suzuki with a windup...
+02: Suzuki winds up...
+03: Suzuki with a windup...
+04: Suzuki with a windup...
+05: Here's Suzuki with a windup...
+06: Here's (xxx) Suzuki with (xxx)
+07: (xxx) Suzuki with a windup...
+08: Suzuki winds up...
+
+ ws:start:WikiTextAnchorRule:13:&lt;img src=&quot;/i/anchor.gif&quot; class=&quot;WikiAnchor&quot; alt=&quot;Anchor&quot; id=&quot;wikitext@@anchor@@01-07&quot; title=&quot;Anchor: 01-07&quot;/&gt;  ws:end:WikiTextAnchorRule:13 
+01: First pitch is a strike.
+02: And a strike. That was no (xxx) there.
+03: And a strike. There's a (xxx) pitch, wasn't it?
+04: (xxx) is a strike.
+05: (xxx) is a strike. (xxx)
+06: (xxx)What a pitch!
+07: And it's a (xxx) What a pitch.
+08: And a strike. (xxx)
+
+Kiru: ws:start:WikiTextAnchorRule:14:&lt;img src=&quot;/i/anchor.gif&quot; class=&quot;WikiAnchor&quot; alt=&quot;Anchor&quot; id=&quot;wikitext@@anchor@@01-08&quot; title=&quot;Anchor: 01-08&quot;/&gt;  ws:end:WikiTextAnchorRule:14 
+01: Wow, good, straight, strong pitch, high and inside.
+02: (xxx) awesome pitch, right down the (xxx)
+03: No, that was an awesome pitch. Right down (xxx)
+04: Wow, (xxx) pitch. Right down the (xxx)
+05: (xxx) strong and straight (xxx)
+06: (xxx) awesome pitch. (xxx)
+07: (xxx)
+08: Wow, that was an awesome pitch! Strong and straight (xxx)
+
+ ws:start:WikiTextAnchorRule:15:&lt;img src=&quot;/i/anchor.gif&quot; class=&quot;WikiAnchor&quot; alt=&quot;Anchor&quot; id=&quot;wikitext@@anchor@@01-09&quot; title=&quot;Anchor: 01-09&quot;/&gt;  ws:end:WikiTextAnchorRule:15 
+01: He's got nothing else to gain.
+02: He's (xxx) nothing to lose.
+03: Oh, this kid is (xxx)
+04: Yeah, (xxx) today.
+05: (xxx)
+06: (xxx)
+07: (xxx)
+08: (xxx) I got to tell you this kid (xxx)
+
+Announcer: ws:start:WikiTextAnchorRule:16:&lt;img src=&quot;/i/anchor.gif&quot; class=&quot;WikiAnchor&quot; alt=&quot;Anchor&quot; id=&quot;wikitext@@anchor@@01-10&quot; title=&quot;Anchor: 01-10&quot;/&gt;  ws:end:WikiTextAnchorRule:16 
+01: I wouldn't (xxx) out of (xxx)
+02: And the lucky game.
+04: (xxx).
+05: (xxx)
+06: (xxx)
+07: (xxx)
+08: We don't know that yet.
+
+ ws:start:WikiTextAnchorRule:17:&lt;img src=&quot;/i/anchor.gif&quot; class=&quot;WikiAnchor&quot; alt=&quot;Anchor&quot; id=&quot;wikitext@@anchor@@01-11&quot; title=&quot;Anchor: 01-11&quot;/&gt;  ws:end:WikiTextAnchorRule:17 
+01: He at last winds up...
+02: Here's to wind up...
+03: (xxx) wind up...
+04: (xxx) wind up...
+05: (xxx) winds up and (xxx) pitch...
+06: (xxx)
+07: Here's with a windup, and the pitch...
+08: (xxx)
+
+ ws:start:WikiTextAnchorRule:18:&lt;img src=&quot;/i/anchor.gif&quot; class=&quot;WikiAnchor&quot; alt=&quot;Anchor&quot; id=&quot;wikitext@@anchor@@01-12&quot; title=&quot;Anchor: 01-12&quot;/&gt;  ws:end:WikiTextAnchorRule:18 
+01: It's a hit!
+02: It's out of there!
+03: What a shot! (xxx)!
+04: What a shot!
+05: What a shot! And it's a big (xxx)!
+06: Oh, what a shot! It's a big (xxx) hit!
+07: Oh, what a shot! It's a big (xxx) hit!
+08: What a shot! It's a big (xxx)!
+
+ ws:start:WikiTextAnchorRule:19:&lt;img src=&quot;/i/anchor.gif&quot; class=&quot;WikiAnchor&quot; alt=&quot;Anchor&quot; id=&quot;wikitext@@anchor@@01-13&quot; title=&quot;Anchor: 01-13&quot;/&gt;  ws:end:WikiTextAnchorRule:19 
+01: Look at that! Kashima is really nailed it! It's going deep left, left... And it's gone!
+03: (xxx) headed straight for left field...
+04: It's a big (xxx) hit headed for left field. It's going, going...
+05: (xxx) left field... And it's gone!
+06: Headed straight for left field...
+07: Headed straight for left field...
+08: (xxx) straight for left field...
+
+ ws:start:WikiTextAnchorRule:20:&lt;img src=&quot;/i/anchor.gif&quot; class=&quot;WikiAnchor&quot; alt=&quot;Anchor&quot; id=&quot;wikitext@@anchor@@01-14&quot; title=&quot;Anchor: 01-14&quot;/&gt;  ws:end:WikiTextAnchorRule:20 
+01: Home run!
+02: Home run! What a shock!
+03: And it's over the fence! Another home run!
+04: It's over the fence! Home run!
+06: And it's over the fence! Another home run!
+07: And it's (xxx) home run!
+08: (xxx) home run!
+
+ ws:start:WikiTextAnchorRule:21:&lt;img src=&quot;/i/anchor.gif&quot; class=&quot;WikiAnchor&quot; alt=&quot;Anchor&quot; id=&quot;wikitext@@anchor@@01-15&quot; title=&quot;Anchor: 01-15&quot;/&gt;  ws:end:WikiTextAnchorRule:21 
+01: Chalk up another one (xxx) Jyonan!
+04: Chalk up (xxx) one!
+
+ ws:start:WikiTextAnchorRule:22:&lt;img src=&quot;/i/anchor.gif&quot; class=&quot;WikiAnchor&quot; alt=&quot;Anchor&quot; id=&quot;wikitext@@anchor@@01-16&quot; title=&quot;Anchor: 01-16&quot;/&gt;  ws:end:WikiTextAnchorRule:22 
+01: That makes 8, so Jyonan gets the game!
+02: That makes 8, (xxx)
+03: That makes 'em 8 for Jyonan!
+04: And that makes 8 for Jyonan.
+07: (xxx) another one for Jyonan. That makes 8 so far this game.
+08: Chalk up another one for Jyonan. That makes 8 runs this game.
+
+ ws:start:WikiTextAnchorRule:23:&lt;img src=&quot;/i/anchor.gif&quot; class=&quot;WikiAnchor&quot; alt=&quot;Anchor&quot; id=&quot;wikitext@@anchor@@01-17&quot; title=&quot;Anchor: 01-17&quot;/&gt;  ws:end:WikiTextAnchorRule:23 
+01: Kashima is rounding third, on his way home.
+07: Kashima rounding third, (xxx)
+08: There's Kashima rounding third taking his time.
+
+ ws:start:WikiTextAnchorRule:24:&lt;img src=&quot;/i/anchor.gif&quot; class=&quot;WikiAnchor&quot; alt=&quot;Anchor&quot; id=&quot;wikitext@@anchor@@01-18&quot; title=&quot;Anchor: 01-18&quot;/&gt;  ws:end:WikiTextAnchorRule:24 
+01: And Suzuki on the mound, he is not having a good day. You gotta feel bad for that guy.
+
+Kiru:
+01: Uh, that is tragic... He looks like he got a wimp totally taken out of it.
+
+Announcer:
+01: Even the fans are quiet, they are not booing Suzuki anymore. So with that, the score is now 8 : 0. Kumamoto's really got their work cut out for him.
+  

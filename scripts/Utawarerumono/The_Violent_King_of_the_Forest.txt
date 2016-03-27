@@ -1,0 +1,633 @@
+
+- - - OP - - -
+Tuskuru:
+No guesses. It's awful.
+
+Teoro:
+I guess we could fix it, but it’ll be quicker to just start over and make a new one.
+
+Masked man:
+Why had someone done such a thing?
+
+Villagers:
+I don’t know, but how about we discuss that somewhere else.
+
+Really. Mutikapa could jump out at any moment.
+
+Teoro:
+So what are you boys backing out on us?
+
+Villagers:
+Well, we’d kinda like to.
+
+Yeah. Look what she did all those people in Hita village.
+
+Tuskuru:
+Mutikapa sleeps during the daylight hours, so we should be fine.
+
+Masked man:
+Nocturnal, that's good.
+
+Teoro:
+See? No worries! She's up somewhere getting a beauty rest!
+
+Tuskuru:
+Unless you wake her up, with all your rough mouth before [xxx].
+
+Eluluu:
+Um, are you sure this isn't going to strain you too much?
+
+Teoro:
+She's right, son. You'll just end up aggravating those injuries. You should head back.
+
+Masked man:
+I'm feeling much better. And I'd be honored if you'd allow me to assist.
+
+Teoro:
+That's a nice notion, but still...
+
+Masked man:
+I'll help you any way I can.
+
+Teoro:
+Excellent! So you're saying we can count on you?
+
+Masked man:
+Yes.
+
+Tuskuru:
+(Praying)
+
+Villagers:
+Okay.
+
+I just hope it'll be enough to pacify Mutikapa.
+
+Masked man:
+What was those words she was speaking just now?
+
+Eluluu:
+A [xxx] prayer of thanks to Yahnaun.
+
+Masked man:
+Thanks for what?
+
+Eluluu:
+Because we rely on the abundance of the forest for food, medicine and so many other important things. We're grateful.
+
+Masked man:
+Grateful... Even though you live in constant fear of this vengeful goddess?
+
+Eluluu:
+Why would someone have done this?
+
+Teoro:
+Hey, careful there, little one. You three should get inside before it gets dark out.
+
+Eluluu:
+And make sure you lock the doors and stay quiet.
+
+Sopoku:
+Thanks for all your hard work today, Chief.
+
+Tuskuru:
+My pleasure. So there were no incidents here?
+
+Sopoku:
+No, everything was just fine.
+
+Teoro:
+Honey, I'm dying of starvation!
+
+Sopoku:
+There's a crisis going on and all you could think of about your lousy crow?!
+
+Tuskuru:
+You boys should be going home as well. Your families are probably worried about you.
+
+Villagers:
+Right.
+
+Teoro:
+All right, kid. You take good care of your girls, okay?
+Times like these, it's good to have a strong male presence in the house.
+And Aruruu, you'll be sure and do what the kid here says, all right?
+
+Eluluu:
+Aruruu!
+
+Aruruu:
+No!
+
+Eluluu:
+Where are you going? Can you at least try and show some manners?
+
+Aruruu:
+No!
+
+Masked man:
+Looks like she'll never change her mind.
+
+Sopoku:
+I wouldn't be so sure.
+
+Teoro:
+Look, she knows [some] we don't!
+
+Tuskuru:
+Our efforts must've failed.
+
+Eluluu:
+Grandmother...
+
+Tuskuru:
+Just be quiet and remain calm, my darlings.
+
+Eluluu:
+If you go out there, you'll be killed, too!
+
+Masked man:
+I must.
+
+Tuskuru:
+So you can foolishly give your life for some nonsense of honor?!
+The goddess' invasion is not to be taken lightly!
+
+Masked man:
+But I cannot simply stand idle and watch.
+
+Tuskuru:
+Instead you will join the lengths of the decease, then leave the helpless behind to be slaughtered?!
+
+Eluluu:
+But why is she still angry even after we fixed the shrine?
+
+Tuskuru:
+Hmm... When I was about Aruruu's age, my older sister ventured into the forest.
+She went there alone to make a sacrifice to the goddess.
+
+Masked man:
+Sacrifice?!
+
+Aruruu:
+Older... sister?
+
+Tuskuru:
+As a priestess, my sister was well revered for her influence and powers.
+It's thanks to her that we have been free of incidents until now.
+We'll make it through this if we just stick together, my darlings.
+Where are you going?
+
+Masked man:
+I need to look outside. Silence can be deceptive.
+
+Tuskuru:
+That idiot!
+
+Eluluu:
+No! Let me help you.
+
+Masked man:
+It's too late! Run!
+
+Eluluu:
+Just get up!
+
+Masked man:
+Get out of here, Eluluu!
+
+Eluluu:
+No!
+
+Masked man:
+Go ahead. Make your move.
+I guess we've been spared, for now.
+It's all right. Looks like something scared her away.
+I believe we're safe now.
+We were lucky this time, but you should have run.
+
+Eluluu:
+You boy...
+
+Masked man:
+I'm sorry.
+
+Tuskuru:
+I see. The entire Kirikuri family...
+
+Villagers:
+Even though wife and child... Completely [xxx]...
+
+She was just a baby...
+
+How can we protect our families?
+
+Masked man:
+I'd like to show you something.
+
+Teoro:
+What is it?
+
+Masked man:
+These hairs. They belong to Mutikapa.
+Apparently it was the rain that drew her away.
+She becomes formidable if her fur gets wet.
+
+Teoro:
+Oh what do you know, kid? You did back your life on the line for nothing after all.
+
+Eluluu:
+Even so, that was reckless. You really should be more careful.
+
+Tuskuru:
+So... What are you thinking? Do you have a plan?
+
+Masked man:
+I think so. I just hope I'm right about this.
+
+Teoro:
+You think we can go after her?
+
+Masked man:
+Yes.
+
+Teoro:
+I'm not so sure. Even if we band together, it'll still be pretty dangerous.
+
+Villagers:
+He wants us... to kill her?
+
+The goddess...?
+
+Masked man:
+Whether she is a goddess or not, there's no reason for all of you to go on living in fear like this.
+
+Villagers:
+But what if your plan doesn't work?
+
+Then what...
+
+Yeah...
+
+Masked man:
+Only I will be at risk. I'll lure her into the open.
+
+Eluluu:
+It's too dangerous to lure her out! Why would you do that?
+
+Masked man:
+As an outsider, I'm the most logical candidate.
+
+Eluluu:
+That's not logical! It's ridiculous! Why do you insist on putting your life at risk?
+
+Masked man:
+There's nobody here who'd grieve for loss if I died.
+
+Eluluu:
+How can you say something like that?
+We consider you a member of the family.
+But you don't even feel the same way about us?
+
+Masked man:
+Of course I do.
+
+Eluluu:
+I already lost my father. I don't want to lose anyone else.
+
+Masked man:
+I'm sorry. I'll be careful. But it's something I must do.
+
+Eluluu:
+Okay.
+
+Masked man:
+I'll be fine. As long as you're willing to be my family, I promise I'll return without fail.
+
+- - - - - - - - - - -
+
+Masked man:
+The best place to lay our trap is right here. On this marsh.
+
+Teoro:
+Then we should camouflage areas so she doesn't suspect anything.
+
+Masked man:
+And after I've drawn Mutikapa out into the open, cut the rope.
+
+Teoro:
+You sure?
+
+Masked man:
+Don't worry. I should get to safety in time.
+
+Villagers:
+But... you sure we should kill her?
+
+Yeah, we could be cursed.
+
+Masked man:
+Would you rather continue to wait until its belly is full?
+Spending night after night huddle together in fear?
+
+Villager:
+But still...
+
+Teoro:
+He does have a point. Nobody wants to see any more kids get eaten up.
+
+Sopoku:
+Exactly.
+
+Villagers:
+Yeah, I agree.
+
+We have no choice.
+
+Teoro:
+All right! Then it's decided! So what's the rest of your plan?
+
+Aruruu:
+Mutikapa...
+
+Tuskuru:
+It's kind of you to be concerned.
+However, we cannot surrender our lives to satisfy her vengeful will.
+
+Villagers:
+That should be good.
+
+All right, I got it's set up.
+
+Okay, I'll cut the rope. The rest of you head back.
+What are you waiting for? It's too dangerous here.
+
+We're not gonna leave you all alone.
+
+If anything happens, we're safer as a group.
+
+You guys...
+
+Yeah, we can't let the new kid be the only one putting himself in harm's way.
+
+Right.
+
+Masked man:
+Well, from here on, I should be fine on my own.
+
+Teoro:
+No, I'm going with ya. The men of Yamayura Village will look like cowards when letting an injured guy go alone.
+
+Masked man:
+But Teoro...
+
+Teoro:
+It feels kinda strange being called by my real name.
+Normally, all the villagers call me "Pops".
+And now that you become one of us, you might as well call me Pops like the rest of all of you.
+
+Masked man:
+You're hardly old enough for that.
+
+Teoro:
+It's more 'cause people look up to me, 'cause I'm reliable and trustworthy.
+But I shouldn't toot my own horn.
+Hey, kid.
+
+Masked man:
+Yes?
+
+Teoro:
+Why would you wanna put yourself in danger. You do always for us.
+
+Masked man:
+The only memories I have are here. This place is all I've got.
+
+Teoro:
+So you are already such a respectable member of our village.
+
+Masked man:
+I hope I prove worthy in the place.
+
+Teoro:
+Come on, kid! It's me, Pops!
+It's okay to let your guard down and just thank me for the compliment.
+This is it?
+
+Masked man:
+I'm going in.
+
+Teoro:
+Okay.
+
+Tuskuru:
+So it's begun.
+
+Teoro:
+[That's like] her sizes falling her down!
+
+Masked man:
+But she could still get ground on us!
+
+Teoro:
+Okay, where'd she just appear to? Kid, no!
+
+Masked man:
+What's this?
+
+Tuskuru:
+A charm with protective powers. Keep it with you.
+
+Teoro:
+Oh, that thing is tough.
+
+Masked man:
+Let's go!
+
+Teoro:
+Right.
+
+Villagers:
+Hear that? It's her.
+
+She's coming.
+
+All right, come on.
+
+Masked man:
+Go ahead!
+
+Villager:
+Got her!
+
+Teoro:
+Take this!
+
+Villager:
+Mutikapa... Oh, no...
+
+Sopoku:
+Welcome home, darling.
+
+Tuskuru:
+We owe our thanks.
+
+Masked man:
+Ma'am. This saved my life.
+
+Tuskuru:
+It belongs with you now, my son. Keep it with you.
+
+Eluluu:
+Grandmother!
+
+Tuskuru:
+What happened?
+
+Eluluu:
+I can't find Aruruu anywhere!
+
+Villagers:
+Aruruu, where are you?
+
+It looks like she just disappeared.
+
+Yeah, there's no sign of her.
+
+Eluluu:
+I'm really starting to worry.
+
+Masked man:
+It'll be all right. Now that Mutikapa's gone. I'm sure that she's safe.
+
+Eluluu:
+I hope so.
+
+Aruruu:
+Umm...
+
+Eluluu:
+Aruruu!
+Aruruu, stop! Why did you have to go and scare us like that?!
+Hey, what are you hiding there?
+
+Aruruu:
+A baby.
+
+Eluluu:
+What?
+
+Aruruu:
+It's Aruruu's baby.
+
+Eluluu:
+Huh?! That's impossible!
+
+Tuskuru:
+Come on, child. That's really [under there.] Huh?
+
+Eluluu:
+Aruruu, show me! You have to let me see! What's in there?
+
+Aruruu:
+Aruruu's baby.
+
+Eluluu:
+Oh, it's so cute.
+
+Villagers:
+It has the same hair. Could it be... the Mutikapa?
+
+[It had an] offspring?
+
+But still, how did Aruruu get?
+
+Tuskuru:
+Tell us, what happened, Aruruu? Now don't be afraid.
+
+Aruruu:
+Well, I... promised.
+
+Eluluu:
+Promised?
+
+Villagers:
+Well, it's whole new problem.
+
+It does?
+
+Think about it, now that its mother's dead, there's no way we'll be able to keep it alive.
+
+And if the thing did live, it would attack us.
+
+Teoro:
+After all, it is a possibility, right?
+
+Masked man:
+I have no part. Anymore killer.
+New born life is pure, without guilt.
+So let us protect this young one.
+
+Teoro:
+Let's do it.
+
+Eluluu:
+This burned fire celebration is an honor of Mutikapa.
+It isn't much for that all we can do now is offer prayers and wish her well.
+
+Masked man:
+You're its mother now. Take it.
+
+Aruruu:
+Father... Father...
+
+Masked man:
+Do you mean me?
+
+Aruruu:
+Father!
+
+Eluluu:
+Um, sorry if she made you feel uncomfortable by saying that.
+
+Masked man:
+No, I appreciated the compliment. It maybe feel... very happy.
+
+Teoro:
+There you go! Move [xxx] up and say thanks for a compliment!
+
+Eluluu:
+Teoro! Look at you, you're drunk!
+
+Teoro:
+The nights are good, I just celebrate.
+
+Eluluu:
+But you celebrate every night, don't you?
+
+Teoro:
+It's the new guy of Yamayura!
+
+Eluluu:
+Yeah.
+
+Villagers:
+I have no idea how you ended up here, but I [xxx] what you did.
+
+If it hadn't been for the new kid, who knows what might have happened all of us.
+
+Masked man:
+Tuskuru.
+
+Tuskuru:
+It's not right for you to go around without a real name.
+From now on, you will be known to us as "Hakuoro".
+
+Hakuoro:
+Hakuoro...
+
+Eluluu:
+That was... my father's name.
+
+- - - ED - - -
+  

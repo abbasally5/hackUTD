@@ -1,0 +1,411 @@
+
+ ws:start:WikiTextMediaRule:0:&lt;img src=&quot;http://www.wikispaces.com/site/embedthumbnail/custom/24058136?h=0&amp;w=0&quot; class=&quot;WikiMedia WikiMediaCustom&quot; id=&quot;wikitext@@media@@type=&amp;quot;custom&amp;quot; key=&amp;quot;24058136&amp;quot;&quot; title=&quot;Custom Media&quot;/&gt; 
+ ws:end:WikiTextMediaRule:0 
+
+The Worst Man in the Eastern Seas! Fishman Pirate Arlong!
+
+
+This weather's perfect! So which way is the Grand Line? Is it that way? Or maybe this way? That way? Over here? Maybe there? I don't know. Where could it be? I want to see this place! I want to see!
+
+You need to sit. Jeez, you bug me!
+
+Oh, sorry! I'm just excited that we finally got a cook on board. Now we just need Nami! Then nothing will stand between us and the Grand Line!
+
+Nami! Ah... I could just sit around all day and think about how beautiful she is. I can't wait till I  ws:start:WikiTextMediaRule:1:&lt;img src=&quot;http://www.wikispaces.com/site/embedthumbnail/custom/24058468?h=0&amp;w=0&quot; class=&quot;WikiMedia WikiMediaCustom&quot; id=&quot;wikitext@@media@@type=&amp;quot;custom&amp;quot; key=&amp;quot;24058468&amp;quot;&quot; title=&quot;Custom Media&quot;/&gt; 
+//<![CDATA[
+hiddentext('get to see', '<b>get to do something<\/b>');
+//]]>
+ ws:end:WikiTextMediaRule:1  her again!
+
+So, are we getting close to where Nami is? You know, the island?
+
+You're way too naive and way too young! Don't you get it?! Don't you realize every second that passes brings us closer to the infamous Arlong?! Nami couldn't stop looking at Arlong's picture when she saw it. And it wasn't a normal kind of stare. There was something differernt about the way she was staring. Something focused. I'm telling you, Nami's planning on taking down Arlong and then collecting the 20 million Berry bounty. For all we know while we just sit here, she's already making her way through his compound.
+
+That's nice. Let's eat!
+
+Sounds good!
+
+Don't tell me you guys are so clueless that you have actually never heard of the evil Arlong?!
+
+No! So, who is he?
+
+Yeah!
+
+Listen up, boys! Time for your education [on a cunning shark that is Arlong!] Arlong is a fishman who used to destroy everything in his path up and down the Grand Line.
+
+Fishman?!
+
+That's cool. I don't think I've ever met one of those before.
+
+I've heard that the females on Fishman Island are some of the most beautiful creatures in the world to behold!
+
+"Fishmen" sounds weird. Do they look like this?
+
+Can't you focus for just one munite, please? Alright! I will start from the very beginning. The reason they call the Grand Line a pirate graveyard in the first place is because of Arlong and the other two powers like him who rule over it. The first of the powers [is] known as the Seven Warlords of the Sea.
+
+Seven Warlords?
+
+The Seven Warlords are pirates authorized by the government.
+
+Seriously?! Why would any pirate on the sea want government approval?
+
+For protection. The government looks the other way in exchange for a cut of their treasure and they are allowed to exist. Of course to other pirates they're just government dogs. But they didn't get to where they are by being weak. These guys are powerful. The man who defeated Zoro was one of these Warlords. His name is Hawk-Eye Mihawk.
+
+That's so cool! I can't wait to meet all seven of these guys! They [sound] awesome!
+
+Yeah. Well, the first among the Warlords, at least first you should know about, is Jimbei, Captain of the fishmen. He is dangerous like no one you've ever known. Easily causing as much havoc and destruction around the Grand Line as Arlong.
+
+Is this closer?
+
+It looks just like your last picture only standing up.
+
+Arlong has taken control of over 20 towns since coming to the East Blue. His strength easily surpasses any one you've encountered including that of Don Krieg's. He's devastating!
+
+So, why do you thing Nami would go after this guy all by herself, huh?
+
+I told you already! She wants to collect the bounty on his head!
+
+Oh, wouldn't it be great if Nami was a mermaid?! I'd give anything to see that!
+
+She'd look like this!
+
+Tear that thing up or die!
+
+Have you even, you morons, heard a single word that I've said to you?!
+
+Sure. Badass fishmen... Some guy's stronger than some other guy... We get it.
+
+No, you don't get it. You've never had to face off fishman.
+
+Well, we will when we get there. So, don't worry about it.
+
+I guess I'll get lunch started.
+
+About time! Let's eat!
+
+What? Food?
+
+What are you in the mood for?
+
+I want meat! Right off the bone!
+
+I want sauteed bean sprouts!
+
+Okay. Leave it to me. This won't take long. Meat and bean sprouts, no problem.
+
+Man, having a cook is the best! Huh? Huh?!
+
+It sure is!
+
+Bring me meat! Lots of meat!
+
+Sprouts! I want bean sprouts! Bean sprouts!
+
+I can hardly believe it... There it is... My hometown.
+
+Here's this month's take. I hope you enjoy it.
+
+Ah, Arlong! You are so much smarter than your regular, run of the mill pirate. You know how the world works.
+
+Likewise! There aren't many marine captains who know that befriending me means they can milk the East Blue for eternity. The fact that you understand makes you more like me than any other marine out here.
+
+Thank you very much.
+
+Don't thank me, thank money. It's the only thing you can count on in this world. It's more reliable than people. That's for sure. Don't you agree?
+
+Of course...
+
+As a rule, I hate all humans, but you are the one tolerable exception that I found.
+
+Well, if you'll excuse me...
+
+Why not stay awhile and have a drink with me?
+
+I would. But the longer a marine cruiser stays docked at a pirate island, the quicker we get unwanted attention.
+
+I'll kill anyone who reports you. Everybody knows that.
+
+Thank you, but still we must go.
+
+Hey! The captain is leaving! Escort him back to his ship!
+
+Yes, sir!
+[The pot's back/bag/???] that way! Hop in!
+
+Thank you. That's very kind of you.
+
+When I see your face, it always makes me want to laugh. It's funny. You look like a rat!
+
+Hey! Hachi! Watch your mouth now! The captain's our honored guest!
+
+Oh, right! Sorry about that!
+
+Don't worry about it.
+
+Here we go, men!
+
+These fishmen are disgusting! Such a vile group. But they sure do pay well.
+
+Hey, you! Get out of my way! Arlong's going to die today! He killed my daddy and so now I'm gonna have to kill him! So move or I'll have to kill you, too! Hey?!
+
+Now you should know that Arlong doesn't have time to deal with whimpering little punks like you. You're too young. Go home. Take that with you and use it to keep yourself out of trouble, kid.
+
+Go to hell!
+
+Nami! You returned! I haven't seen you around here for quite a while! So, how did you do this time?
+
+Who are you talking to? You know I can't believe the world is full of such blind idiots! Wanna see?
+
+You girl are one excellent liar!
+
+That's true.
+
+Listen up, everybody! Nami's finally returned! Time for a party!
+
+Alright. We're here. That's Arlong Park ahead.
+
+Arlong Park, huh? So this is the hideout of Arlong the Fishman Pirate from the Grand Line?! I hope Nami's really here.
+
+Big Sis Nami's ship was the Going Merry. So before we do anything stupid we should quietly check to see if it stopped on this island first.
+
+Yeah. Good idea.
+
+Let's attack!
+
+But I've just said we shouldn't do anything stupid!
+
+What?! Attack?!! You idiot! We know nothing about this place!
+
+Yeah! These guys are the fishmen!
+
+We need some kind of plan to do that!
+
+While the two of you are busy blubbering and wimping out, I'm placing my thoughts on the battle we're about to face. Luffy told me to bring her back and I'll do just that. Let's go!
+
+There it is! Ha! Found it! The Going Merry! It's right over there!
+
+Then she has to be on the island somewhere. We just have to find her.
+
+What do you think you're doing?! Would you idiots untie me? I am not the enemy!
+
+We're east of Arlong Park. Here, at Cocoyashi Village. But it's strange... Why would she have stopped so far from the village?
+
+Untie me! Dammit!
+
+Zoro! You're hurt way too bad to be of any help when we go on shore. Just sit tight and relax. It's okay. Rest up. You can help next time.
+
+One of these days I'm gonna [secure] him like a piece of meat!
+
+Fear not, gentlemen! I will bring back the girl safely!
+
+Looks like skipping Arlong Park has sure cheered you up.
+
+Prepare the anchor! Bring us alongside the Going Merry!
+
+Aye!
+
+Ah, yes! Now when we're underway, it's time to give a name to this voyage. I think I shall call it the Great Adventures of Captain Usopp!
+
+What is it? What'd you see?
+
+It's fishmen!
+
+Full speed ahead!
+
+Okey-doke!
+
+Why didn't we just dock right there?!
+
+Shh!
+
+Didn't you see that?! There were three fishmen over there! It's Arlong's crew! We can't stop here right now!
+
+Do not yell at me!
+
+If there are fishmen here, this entire area must be under Arlong's control. So what now?
+
+Uh... We could just say "We couldn't find her."
+
+Untie me now, morons! Come on!
+
+Never seen that boat before.
+
+Suspicious.
+
+Let's run!
+
+Okay!
+
+Untie me! Dammit!
+
+Bye!
+
+Hey! You two, get back here! You're gonna die!
+
+There is just this one guy?!
+
+Maybe he just drifted here from really far out or something?
+
+Yeah! Right!
+Those guys are dead and they don't even know it!
+
+Or maybe somebody just wanted him to die real slowly.
+
+I think we should take him to Arlong.
+
+Forgive me, Zoro. I will tell Luffy that you were courageous to the bitter end.
+
+Please forgive me, Zoro! I'll never forget you!
+
+Okay, now let's find some land!
+
+Right.
+
+I think this place is called Gosa Village.
+
+What happened here?
+
+I heard Arlong came through here a few weeks back. But I never thought that...
+
+Everything's upside down!
+
+I've heard people say that fishmen can be stronger than normal human beings by [a] very wide margin. I guess this is how strong you have to be to survive the Grand Line.
+
+Maybe. But even the street's upside down.
+
+The monster Momoo [caused ???] this destruction.]
+
+Monster...?! Don't tell me this place has monsters.
+
+We caught him out on the Grand Line and brought him back here with us.
+
+From the Grand Line, huh? Wait! "We"?!
+
+You! You were with that guy from the boat!
+
+Later!
+
+Come back here!
+
+That was close. I wish you luck. I'll just hold my position here and wait for a backup from Yosaku and Luffy.
+
+You may be a fishman, but there's no way you can catch me on dry land! I'm a very fast runner! I'm a beautiful gazelle!
+What the --?
+
+Got you, stupid fishman! And now I'll avenge my father by killing you!
+
+Honestly, how many times do I have to tell you, Cobo? You do not mess with the fishmen! It was just one person who decided to stand up to them and they responded by slaughtering everyone in Gosa!
+Hmm, you look and smell just like a fishman, but I can see that you're human. Mostly human.
+
+Mostly?!
+
+Where'd you go? Over here?
+
+Crap!
+
+A fishman!
+
+And this time it's for real!
+
+Alright. Stand back and let me handle this one. Watch as Captain Usopp takes out this fishman with a single shot!
+Take this! It's my special attack! Lead Star!
+
+I guess he wasn't listening when I said the fishmen would kill us if we messed with them. Come on, tough guy!
+
+What's wrong?
+
+A long-nosed creepy guy!
+
+Which way'd he go?
+
+That way!
+
+Now I gotcha!
+
+Come on. If you help me out, we can carry him back.
+
+Oh yeah! Looks great!
+
+Let me see!
+
+That looks like it's ready.
+Momoo! Lunch time! Momoo!
+Where is he? Kind of weird. I've never seen Momoo show up late to a meal. I wonder what happened?
+
+Yummy! Thank you!
+
+I don't care about you guys, I'm just practicing for the evening I get to make dinner for Nami and myself.
+
+I hope you can get Nami to join the crew again. She's the best.
+
+Yeah, of course, we will. I mean, she is our navigator.
+Hey! That's mine!
+
+You just ate the other one! [I get to have one for myself!]
+
+But I ordered the meat!
+
+I don't care! It's mine!
+
+Over my dead body!
+
+You have to catch me first!
+
+Give it back!
+
+I'm taking a bite!
+
+Don't you dare!
+
+It's got my spit on it!
+
+[???]
+
+You fools are gonna make me spill my vine!
+Honestly, I don't know why I even bother to give them good things.
+
+Open the gates! We have a prisoner on board this vessel!
+
+One more time. What was your purpose in coming here to this island?
+
+Like I said before, I'm looking for a girl, you half-fish bastard!
+
+Hmm, wow! For someone I consider a good meal, you are either really stupid or you've got a lot of guts in there! We fishmen are simply the next rung up the evolutionary ladder from you pathetic humans. We are incredibly resilient. We can breathe both on land and under water. An ability which clearly establishes our physical superiority over you. I don't know if this will make any sense to that puny brain rolling around in your head, but fishmen are the lords of all creatures. And defy against us is to defy nature.
+
+I'm really sick of listening to your big ideas, Arlong.
+
+Why are you always so serious, Nami? You know that I wasn't talking about you. You are a very special human, our greatest navigator and a valued member of this crew. You always have been.
+
+Say what you will, but I'm a lot smarter than any of you. That's for sure.
+
+Why did he call you his navigator, Nami? You can't honestly expect me to believe you work for him?
+
+Hold on. Is this guy a friend of yours, Nami?
+
+Don't be ridiculous. This is just another fool who have thought I wasn't gonna steal all of his treasure right out from under his nose. To think he actually followed me here without knowing that shows how stupid he is.
+
+So this is the person you really are. All along I thought you couldn't stand pirates.
+
+You thought wrong. It was all an act. And you bought the whole show.
+
+That's...!
+
+I'm a pirate. Plain and simple! And a navigator for Arlong!
+
+
+
+I don't believe it. Arlong and the fishmen rule this entire village?!
+
+Ahh, don't tell me sea food isn't allowed.
+
+I like to chew my meat right off the bone! Sanji, more meat!
+
+Huh... I can't believe she teamed up with Arlong. I thought Nami was our friend!
+
+On the next One Piece:
+
+Witch of Cocoyashi Village!
+Arlong's Female Leader!
+
+I'm gonna be King of the Pirates!
+  

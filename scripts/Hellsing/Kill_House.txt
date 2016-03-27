@@ -1,0 +1,2 @@
+
+ ws:start:WikiTextFileRule:0:&lt;img src=&quot;http://www.wikispaces.com/site/embedthumbnail/file/Order%2008%20-%20Kill%20House.ssa?h=52&amp;w=320&quot; class=&quot;WikiFile&quot; id=&quot;wikitext@@file@@Order 08 - Kill House.ssa&quot; title=&quot;File: Order 08 - Kill House.ssa&quot; width=&quot;320&quot; height=&quot;52&quot; /&gt;  ws:end:WikiTextFileRule:0 

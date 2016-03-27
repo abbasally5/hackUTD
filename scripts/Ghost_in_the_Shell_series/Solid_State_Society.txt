@@ -1,0 +1,1358 @@
+
+  Ghost in the Shell - Stand Alone Complex : Solid State Society
+
+
+Woman: Passengers and crew have been evacuated per terrorism response procedure. All arriving and departing flights are in a holding pattern or waiting on the apron. Divert only those planes that are expected to run low on fuel to other airports.
+
+Man A: 305 calling 102. Public Security Section 9 has arrived. Give them any assistance they need. Full authority in the situation has been transferred to them.
+
+Man B: Hey, my people have taken casualties! Agreement or no, there'd better be a damn good reason for us to--
+
+Man A: Keep this line clear. There's no telling if there's a back-hack on it. Besides, what's going down here is way out of our league.
+
+Kusanagi: I've located him.
+
+
+Togusa: From what we're told, the initial reports say that the suspect willingly submitted to questioning.
+
+Detective: When we explained him that he'd be transferred into Public Security's custody, he almost seemed happy about it.
+
+Togusa: Happy?
+
+Detective: Yes...
+
+Togusa: That doesn't make sense.
+
+Azuma: So, Batou's a no-show. I guess we aren't gonna meet up with the Big Guy.
+
+Borma: He's sticking to his "I only pick cases based on my gut instinct" policy and passing on this one.
+
+Togusa: Ironic, because if Batou hadn't poked his nose where it didn't belong, we couldn't piece this case together. Borma, Paz, take the rookies and come in the north gate.
+
+Paz: We're on it.
+
+Togusa: You and I are going in through the front.
+
+Azuma: Yes, sir.
+
+Azuma: You know something, Boss. You've changed, too. You've outgrown your Mateba fixation.
+
+Togusa: Nobody said I outgrew it.
+
+Azuma: This Ka Gael guy is supposed to be 100% natural, right?
+
+Togusa: Yeah.
+
+Azuma: Explain that, then.
+
+Togusa: What does it look like? It's an unexpected development.
+
+Azuma: So now there's a chance that the guy's armed?
+
+Togusa: Even if he is, it's only a 9mm.
+
+Azuma: This is just peachy...
+
+Togusa: Colonel Ka Gael, we're surrounding! We're with Public Security! As you're demanding, we'll consider safe passage for you out of the country. Release your hostage first. Then we can talk.
+
+Togusa: Colonel Ka Gael! Are you listening?
+
+Togusa: Ka Gael! Drop your weapon!
+
+Togusa: No one do anything. Come on, give me the gun.
+
+Paz: Togusa, looks like he's high on a reflex booster that military uses.
+
+Togusa: Understood.
+
+Togusa: Colonel Ka Gael!
+
+Col. Ka Gael: The Puppeteer's coming! I-I don't want to die!
+
+Azuma: If you don't want to die, put the gun down!
+
+Ka Gael: Say what...? Y-You won't make a public spectacle outta me!
+
+Togusa: No! Don't!
+
+Togusa: Shit! Why did he do it?!
+
+Kusanagi: The "Puppeteer," huh? Not a bad name at all...
+
+
+
+OPENING SEQUENCE ♪ player by Origa ♪
+
+GHOST IN THE SHELL - Stand Alone Complex : Solid State Society
+
+
+
+Aramaki: Prime Minister. Special operatives bearing tattoos with "true believer," to signify their loyalty to General Ka Rum, have been committing suicide one by one here in Japan. And moments ago, his oldest son, Colonel Ka Gael, killed himself, too. In light of these events, do you still insist that there's no need to interrogate the General?
+
+Kayabuki: Some reports stated Colonel Ka Gael's death was the result of a botched arrest attempt. Let's assume for a moment that indiscriminate terrorist acts are being planned as we speak by Seok Republic holdouts. I find it difficult to believe that General Ka Rum could be involved while under house arrest.
+
+Aramaki: Hmm...
+
+Kayabuki: My enactment of the Refugee Naturalization Policy met with opposition. Please do your utmost to avoid fueling the actions of the opposing faction. It was my impression that such work fell under the purview of Public Security.
+
+Aramaki: Understood, Prime Minister.
+
+Aramaki: Ishikawa. Send me the files from Ka Gael's debriefing.
+
+Ishikawa: Coming right up.
+
+Aramaki: We're moving out!
+
+Proto: Is that wise, sir? I don't believe she gave you authorization for this.
+
+Aramaki: If no one finds out that I'm the person who opened Pandora's Box, then I didn't break my word to the Prime Minister.
+
+
+Detective: 7072. Has the scene provided you with any new material data?
+
+Forensics Tech: No, sir, I haven't found anything yet.
+
+Detective: Well then, call in the supervisor. We'll need him down here.
+
+Aramaki: Batou. Are you listening to me, Batou?
+
+Batou: Yeah, I'm listening.
+
+Aramaki: Just where are you?
+
+Batou: We found the body of a 13th tattooed man.
+
+Aramaki: Is it another suicide?
+
+Batou: Yeah. This place looks a lot like our own safe houses. It was probably one of their hideouts.
+
+Aramaki: Let the Prefectural Police handle it. Grab a subordinate and go out to this location. It's a hideout that Ka Gael told us about in his debriefing.
+
+Batou: Oh... You sure Chief? I mean, don't you think a mainstream job like that is more up Togusa's alley?
+
+Aramaki: Togusa's coming with me to the Dungeon.
+
+Batou: Ah, I follow you.
+
+Aramaki: Question: How long has it been since the Major resigned from Section 9, Togusa?
+
+Togusa: I guess it's nearly two years...
+
+Aramaki: That long...
+
+Togusa: I'm sorry about what happened with Ka Gael.
+
+Aramaki: It's not your fault. This is a vital matter which might ultimately prove to be the Prime Minister's Achilles' heel. I suspect her intention is to keep a lid on things that she doesn't want to see right now.
+
+Azuma: Still, she was scared that the other countries at the six-party talks would examine the real motivation behind the Refugee Naturalization Policy. This entire damn mess got started because she was coerced into looking after Ka Rum!
+
+Borma: That's because even before General Ka Rum shows to seek asylum here in Japan, he threatened to carry out acts of terrorism in retaliation.
+
+Paz: "At the moment of my death, I will retaliate upon the world." You mean that retribution declaration in the speech he gave when Seok fell.
+
+Togusa: Now that we've learned about this, responsibility for handling the situation falls upon us. It's a mystery how the General's been able to issue orders from an island that's cut off from the rest of the world. But if we take Ka Rum into custody, maybe we can uncover all the details of the plan. Also, we'll learn how far along this terrorist plot is right now.
+
+Ishikawa: Hey, Chief. I just heard from the Coast Guard. They've opened up the airspace over the island. We're good to land.
+
+Aramaki: Fine. Thank them for me and take us down at once. Make sure you doctor the records of our flight plan!
+
+Ishikawa: Roger that!
+
+
+Squad Member: No firearms or knives detected! Clear!
+
+Togusa: Proto. Turn the power back on and open the blinds.
+
+Proto: Roger.
+
+Aramaki: What's wrong?
+
+Togusa: Chief...
+
+Aramaki: Hmm? It looks like he pulled them out himself.
+
+Ishikawa: This is bad news... If he killed himself, too, it means that their plan might already be in motion.
+
+Togusa: What's that?
+
+Ishikawa: This? It links up to the nursing net. Basically, it's a terminal used to exchange patients' data with all medical facilities. There are rumors about Ka Rum being seriously ill before he left the country. Apparently, there were true.
+
+Togusa: So, even though he was hooked up to that, the government doesn't know he's dead?
+
+Ishikawa: Hm? Got it! He was going through a back door in the system! I think there was more to the good General here than meets the eye.
+
+Borma: Looks that way. The comm log shows that he was in contact with his people.
+
+Ishikawa: We'll need to get this back to HQ for a thorough analysis, but it definitely appears that they were planning a terrorist strike using a micro-machine virus.
+
+Aramaki: You said "were" planning?
+
+Ishikawa: When his operatives began offing themselves one by one, he went and had a chat with Ka Gael. He questioned whether they should temporarily abort the plan.
+
+Togusa: What do you mean? Are you saying that the suicides weren't intended to be the plot's "go" code?
+
+Ishikawa: I don't know. But what really worries me is that there was a program planted in here from the outside designed to make it look as if Ka Rum was still alive. I wouldn't be surprised if the government still hasn't caught on to the fact that this fella is long gone.
+
+Aramaki: Then, it's an assassination disguised as suicide?
+
+Ishikawa: Yeah. Done by somebody who doesn't want the government to know that Ka Rum is dead. That, or...
+
+Aramaki: So, what about the micro-machine virus?
+
+Borma: Well, looks like it was sent to the hospital of that Ma Shaba guy.
+
+Ishikawa: Assuming Batou is not playing hooky, he might be able to recover it for us. Hmm? Togusa!
+
+Ishikawa: What the hell is this?
+
+Togusa: Puppeteer? Azuma, just before Ka Gael died, do you remember him saying something about a puppeteer?
+
+Azuma: Come to think of it, maybe he did...
+
+Borma: The keyword "puppeteer" shows up in this log, too. It appears to be the codename for one of his men.
+
+Togusa: We [then] better apprehend Ma Shaba as soon as possible.
+
+Aramaki: Hmm. Once you make a complete dupe of the log, go meet up with Batou. It's imperative that we ascertain the full scope of this plot.
+
+Ishikawa: What do we do with the stiff?
+
+Aramaki: Leave things as we found them. I hate having to do that, but we don't have an option since we were never here.
+
+Ishikawa: Understood.
+
+
+Batou: A hospital?
+
+Batou: That car sticks out like a sore thumb around here...
+
+Batou: Hmm. Hmph. This security system setup kinda reminds me of...
+
+Batou: Head around the outside!
+
+Uchikoma: Roger.
+
+Chroma: What the hell?
+
+Ma Shaba: You can't hack my cyberbrain while I'm in here! Die, Puppeteer!
+
+Batou: Must have gone down there.
+
+Chroma: It's Batou?
+
+Batou: Was that...
+
+Batou: Get clear!
+
+Batou: You dumbass! I'll come back for you later. Play dead in the meantime.
+
+Uchikoma: Roger.
+
+Batou: Freeze!
+
+Batou: Major?
+
+Chroma: It's been a long time, Batou. So tell me, what brings you out here?
+
+Batou: Damn, it is you. I had to ask you the same question.
+
+Chroma: I pick and choose the investigations I conduct based on my gut feelings about them.
+
+Chroma: Heads up!
+
+Chroma: Hold on a minute.
+
+Batou: What the hell?
+
+Chroma: Hold on to this for me, would you?
+
+Batou: Major!
+
+Batou: Isn't that... Ma Shaba?
+
+Chroma: You know who he is?
+
+Batou: Do I know? Look, what the hell are you up to?
+
+Chroma: Thanks. I'll take that now.
+
+Batou: Hey!
+
+Chroma: Your tastes have changed. A new car?
+
+Batou: She swiped it.
+
+Chroma: Not too shabby at all. Batou, I'm assuming that the reason you're here is because you're following upon a lead on that string of suicides by those tattooed men. But let me give you a bit of friendly advice: Don't go anywhere near the Solid State, or you'll end up killing yourself the way they did.
+
+Batou: Hmm?
+
+Chroma: I'll leave your car where you can find it.
+
+Batou: Hey, wait, wa--
+
+
+Aramaki: Didn't I tell you to take one of your men with you?!
+
+Batou: You did, that's why I brought this hunk of junk along.
+
+Paz: We're too late. Ma Shaba is dead.
+
+Aramaki: Cause of death?
+
+Borma: Neck trauma from impacts during his rampage. I guess we can rule Ma Shaba out as the Puppeteer.
+
+Borma: Batou, why the hell was that thing going after you like that?
+
+Batou: I don't know. And that's something I'd like to find out.
+
+Paz: It's possible that he attacked you because he thought you were the Puppeteer.
+
+Batou: Hey, who's this "Puppeteer" guy you keep talking about?
+
+Aramaki: It all still remains speculation at this point, but we have reason to believe that it's a rebel's codename. We also believe that this is the person who orchestrated deaths of the tattooed men and Ka Rum. He's a super-wizard class hacker. Here's how he works: He hacks people's cyberbrains and forces them to commit suicide.
+
+Batou: Wizard-class?
+
+Ishikawa: Chief, we figured out how Ka Rum was going to pull off his terrorist attack.
+
+Aramaki: How?
+
+Ishikawa: You should come and see this for yourself. This is the result of Ka Rum's handiwork. Apparently, he was trying to spread his virus.
+
+Togusa: Are you kidding me?! "Terrorism," my ass! No human being could come up with something this demented!
+
+
+Kusanagi: Section 9 is going to figure out my M.O. one of these days. Loki, Conan, hold down the fort while I'm gone.
+
+Kusanagi: Controlling two prosthetic bodies at the same time is apparently my limit.
+
+
+Red Man: I don't see any option. We need to start their training again from square one.
+
+Batou: Oh, man... And we even went back to giving 'em natural oil.
+
+Red Man: I know. However, the observers have ultimately changed, it could therefore mean that their previous environment conditions haven't been perfectly replicated.
+
+Saito: Same old Batou, still obsessing over these guys in their development.
+
+
+Saito: Africa was much harsher than I imagined it would be. I got new prosthetics before I left, but still...
+
+Batou: If you're supplementing your cardio-functions with prosthetics, your O2 extraction rate will take a hit.
+
+Saito: Hey, I don't have a choice. Not while I work for this outfit.
+
+Batou: I respect that. First Togusa, now you.
+
+Higaki: Good work. From the roster we found at their hideout, we've learned that the group consists of 16 members: the 13 suicides, plus Ka Gael, Ma Shaba, and someone named Raj Puhto.
+
+Togusa: Do you have information on this Raj Puhto guy? What's the likelihood that he's the Puppeteer?
+
+Higaki: So far, he hasn't managed to enter the country. We've verified that much from their communications log.
+
+Ishikawa: There aren't a whole lot of people who are willing to go to the grave with you just because you tell them to. Things always seem to work out that way when a dictator buys the farm.
+
+Azuma: Still, 16 people is nothing to sneeze at.
+
+Ishikawa: You're late again. Hm? When did you get back?
+
+Saito: Just now. Sorry, don't let me interrupt you.
+
+Togusa: Moving on. Next.
+
+Soga: Regarding the missing micro-machine virus, one gross, a total of 144 ampules, was brought into the country. They contain a bio-chem weapon, a genetically-engineered form of smallpox with an added time-release function.
+
+Togusa: That's one nasty little bug they lost track of...
+
+Togusa: Batou. I need to make sure of something. You're positive that you didn't see anyone at Ma Shaba's hospital?
+
+Batou: Yeah.
+
+Togusa: Then, when that robot went berserk, there was no sign that a third party had been involved?
+
+Batou: None.
+
+Togusa: If you say so.
+
+Batou: What exactly are you implying?
+
+Togusa: Well, um...
+
+Ishikawa: The truth is, we weren't able to ID the owner of that vehicle that got flattened in the parking lot.
+
+Batou: So? Maybe it was stolen.
+
+Ishikawa: Judging from the security system on that thing, that's highly doubtful.
+
+Togusa: Plus, part of the surveillance camera footage had been deleted. I'm thinking that we should work under the assumption that someone else was there.
+
+Batou: And you believe that mysterious "someone" was the Puppeteer?
+
+Togusa: Why not? It's early in the game still, and Ka Rum's plan hasn't gone into effect at the stage. But there's plenty evidence to suggest that this "Puppeteer" hacker will pick up where Ka Rum left off. From here on in, we will narrow the focus of our investigation to tracking down the ampules, while we're hunting for the Puppeteer.
+
+Section 9 Members: Roger.
+
+Saito: Togusa. What do you want me to do?
+
+Togusa: First off, go get some R&R. You won't do anyone any good if you're not in top form.
+
+Saito: Gotcha. I can handle that order.
+
+Togusa: Oh, and Batou? This morning, the Chief said, and I quote: "It's about time you reeled him in." You can either devote yourself full-time as an instructor, or you can work under me on this Puppeteer case. I'll leave the choice up to you. What'll it be?
+
+Batou: Do you even need to ask? The Puppeteer job.
+
+Togusa: All right, then.
+
+
+Boy: Yeah, I like those kinds a whole lot, too.
+
+Ishikawa: Learn anything?
+
+Borma: Yeah, a few things.
+
+Togusa: Cut to the chase and fill us in.
+
+Borma: First off, I got the medical results back on the 16 kids we ran checkups on, and there were no signs that they'd been injected with micro-machines. Although they showed symptoms of dehydration and injuries from past abuse, they're all basically healthy. But we also found out that portions of memory in every child had been erased. In addition, their IDs had been rewritten in order to turn them into somebody else.
+
+Proto: They answered accurately when asked their name or address, but when the topic turned to their parents, they had absolutely no memories whatsoever.
+
+Borma: And when we went to check out the addresses they gave, there were only elderly people who'd been living alone for years.
+
+Togusa: Maybe those old people really are their parents.
+
+Borma: Not likely. We saw everything from a woman living by herself in a 10-by-8 room to a rich old fart who could afford his own nursing robots. But each and every one of them had in common was that they were hooked up to the nursing system and they were all Noble Rot Senior Citizens. Needless to say, there were no signs that any children had ever lived there. We examined the residency ledgers, and "child" was listed next to each name. Those were undoubtedly doctored, too.
+
+Batou: What is this "Noble Rot" you're talking about?
+
+Borma: It's a reference to the fully automatic nursing system -- it provides minimum treatment to the elderly who are hooked up to it. They lie there languishing like grapes infested with Noble Rot shrivelling on the vine.
+
+Ishikawa: It was originally developed with the intent of solving the aging population problem, and at the same time, to prevent the age from dying alone and unnoticed. But when NPOs learned that it was encouraging patients to remain bedridden by connecting to the net, they started rebuking it as a thinly-disguised asset collection process.
+
+Batou: You know this?
+
+Ishikawa: I've heard all about it from the old ladies who come to my pachinko place.
+
+Borma: It's sort of like a bare-bones model that was next to Ka Rum's bed.
+
+Togusa: Now, wait a minute here! Ka Gael was trying to create human bombs, right? If that's true, why did he go to the trouble of erasing the kids' memories of their parents? If he wanted them to remain inconspicuous after he infected them with the virus, why wouldn't he send the kids back home after erasing the memories of their abduction?
+
+Borma: You're asking the wrong guy.
+
+Ishikawa: You definitely have a point there. And if he cyberized them just for his plan, he's sure going to a lot of trouble.
+
+Proto: The operations seem to have been done prior to the abductions. The transformers seem to be legit, too.
+
+Ishikawa: Then Ministry of Health, Labor and Welfare ought to have records. Since all of those children are six years old, a consent form signed by a parent or guardian is a legal requirement.
+
+Togusa: There were 144 missing ampules... We should check to see if there are any kids listed there who fit the same descriptions. You've got to make sure we cover all the basis.
+
+Ishikawa: Good call.
+
+
+Ishikawa: All right. If the 16 kids we rescued had their cyberization surgery done through legitimate channels, then the records would've been automatically recorded in the databases of the MHLW and the Management Ministry. Let's assume that they were snatched afterwards and their family registries were altered to make them look like they were the children of those old folks', there'll be a discrepancy between the number of kids listed as cyberized in the national ID database and that listed by the MHLW.
+
+Borma: I follow. All of the children claimed to have the same last name as one of the seniors, so it should simple to spot.
+
+Togusa: 20,000?!
+
+Batou: There's got to be a mistake. If kids were being swiped in such huge numbers, I think somebody would've noticed it.
+
+Borma: Yeah, you're right.
+
+Ishikawa: Besides, that number's way larger than anything we expected. What now?
+
+Togusa: Let's begin by eliminating the worst case scenario. First, we ascertain the names and addresses of the excess children in the database.
+
+Borma: I'm on it. I can have that for you in a few seconds.
+
+Ishikawa: It's a trap!
+
+Operator: This is an emergency. Class E virus detected. Shut down all equipment immediately. Repeat: This is an emergency Class E virus...
+
+Operator: Failure: facility override.
+
+Borma: It's no use! It won't accept any commands!
+
+Ishikawa: Higaki! You and Soga, lock down the backup server!
+
+Higaki: It's too late! It's already been compromised!
+
+Ishikawa: We've gotta cut the damn power, then! Gimme a hand!
+
+Borma: So, a virus was planted in the Management Ministry's database, too. Data's also disappearing on their side.
+
+Togusa: Is the MHLW's data intact?
+
+Borma: Yeah. Hell if I know why, though.
+
+Batou: Move it!
+
+Operator: Management Ministry database is--
+
+Azuma: Well, I bet the Management Ministry's buzzing like a poked beehive right about now.
+
+Ishikawa: Shit, we just lost the best lead we had...
+
+Batou: Yeah, but that's only true if it turns out that there really were 20,000 abductions.
+
+Togusa: What do you mean, exactly?
+
+Batou: Common sense dictates that Ka Gael's crew couldn't possibly have carried out that many kidnappings. Even if we were to tell ourselves that it's the work of this hacker -- the Puppeteer -- the M.O. is just too sloppy. Don't you find it the least bit strange that this guy would leave traces of tampering only in the national ID system? This way, it's almost as if he's saying to us, "I've nabbed these kids, now please find them." So, for what it's worth, I'll throw in my two cents. I think he's got something else in mind entirely.
+
+Aramaki: I have to concur with your opinion.
+
+Togusa: Chief?
+
+Aramaki: These were sent to the MHLW's Pathogenic Microorganism Isolation Facility. Analysis pegged them as a Seok-produced micro-machine virus. This would suggest that our intel was indeed correct.
+
+Batou: What did the person who delivered it look like?
+
+Aramaki: There were absolutely no records remaining that might have offered a clue as to who delivered it, or when.
+
+Togusa: Is there a chance that this person is the Puppeteer?
+
+Aramaki: It's possible.
+
+Ishikawa: If that's the case, what's the Puppeteer's ultimate goal here? It couldn't be to keep Ka's terrorist plot rolling.
+
+Aramaki: Hmm. There's a possibility that the Puppeteer is a hacker operating under the authority of some government agency.
+
+All: - Huh? - What?
+
+Aramaki: The way in which Ka Rum's death was so deftly covered up has been nagging at me. As I was trying to find some answers, I heard rumors of a suspicious conversation that took place recently between the Prime Minister and the Foreign Affairs Ministry.
+
+Batou: You believe that the Foreign Ministry used a hacker to assassinate Ka Rum, because he was such a big thorn in the government's side?
+
+Aramaki: To be perfectly blunt, yes.
+
+Batou: In that case, we should probably start thinking of the kidnappings as a decoy. So... which Section was it that took the job?
+
+Aramaki: Well, this incident does not amount to a serious crime. Nevertheless, if we take into consideration the results it's achieved, the government and we are on the same page. For now, the best advice I can offer is, we should let sleeping dogs lie and avoid making the situation even worse.
+
+All: - Hmm? - Wha--?!
+
+Aramaki: You are to identify the 16 children as soon as possible, but you finish there. I'm temporarily taking you off the investigation. That's all, men.
+
+Ishikawa: Oh, man... All that work for nothing, and now we've got to tie up an ass load of loose ends. Well, the least we can do is jump on the task at hand and track down the parents of those kids.
+
+
+Aramaki: Sorry I'm late. I'm on my way there.
+
+Batou: Need to ask you something.
+
+Aramaki: What is it?
+
+Batou: Who made you pull us off this case? Was it the Treaty Review Department?
+
+Aramaki: You mean that... I cut a deal with Nakamura. In exchange for turning a blind eye to their work, we were allowed to take possession of the micro-machine virus.
+
+Batou: And you're okay with that? If removing Ka Rum from the picture was so vital to national interests, I would think you'd be offended that they didn't ask us to do it. Otherwise, what was the point of expanding Section 9 these past two years? She's not gonna come back, not when we're like this.
+
+Aramaki: So what'll we do, wallow in regret for not receiving such an order, or do we rejoice? The answer to that will determine what path we walk in the future. I completely understand the point you're trying to make, Batou. But we must also consider the possibility that the Major will never return to Section 9. Her talents were more rarer than ESP. Unfortunate though it may be, no one but her can fill her shoes. And reality being what it is, I won't be able to stay here forever. So, under the circumstances, shouldn't we create a new organization -- a unit that can tackle not just one investigation but three at a time while using only 80% of three sources? Don't you think that's the best way to carry on our ideals after we're gone? That's what I hoped for as I worked to expand our current organization. Making Togusa the squad commander was part of that plan. But, if you had accepted the position instead of him, then things might have worked out quite differently.
+
+Batou: Old man, I ain't cut out for a job like that.
+
+Aramaki: If you subjectively believe that to be the case, you might be correct, then. But Togusa -- it's different. Before a person's inherent talents can blossom, one has to overcome a whole slew of obstacles. He needs support and I want you to give it to him.
+
+Batou: Are you sure about that? 'Cause I think Togusa's doing a bang-up job, personally. I know the Major would say that he's preventing his feelings from interfering with his work. It sounds like he even told his family about his new job and the prosthetics he got. But, I doubt he had an easy time trying to win their understanding.
+
+Aramaki: That's something that I was never able to do to the very end.
+
+Batou: I'm glad we were able to talk like this again.
+
+
+Togusa: I can't make it home again tonight.
+
+Togusa's Wife: It can't be helped. You're in a position of responsibility now.
+
+Togusa: Yeah... So, the kids been behaving?
+
+Togusa's Wife: Yes. In fact, our little queen declared last week that she'd be sleeping by herself in her own room without the brother. They don't fight now, so it's quiet around here.
+
+Togusa: Her own bed? She's growing up too fast.
+
+Togusa's Wife: I know. It's hard to believe she's six.
+
+Togusa: Wow, six already...
+
+Togusa: Send me a picture of her sleeping, okay?
+
+Togusa's Wife: Sure. Will do.
+
+
+Ishikawa: Togusa, we have an emergency! Get to Flat 47 right away!
+
+Togusa: What happened?!
+
+Proto: I'm sorry, sir... They're all... the children are...
+
+Ishikawa: By the time we learned what was up, they were gone.
+
+Togusa: It's like with Ka Gael...
+
+Ishikawa: Sure looks that way.
+
+Togusa: The Puppeteer...
+
+Batou: If he wanted Proto dead, he would've made him pull the trigger a while ago. He's buying time!
+
+Batou: Shit!
+
+Togusa: Borma! Ishikawa! Use the IR-System to locate those kids ASAP!
+
+Ishikawa: But we can barely keep the damn lights on!
+
+Togusa: Ask the local Police for assistance! Get Proto to the analysis room.
+
+Batou: Togusa! We need to talk!
+
+Togusa: It'll have to wait! Finding those kids a little more important!
+
+Batou: This is just as important! I think I know who the Puppeteer is.
+
+
+Aramaki: It's Aramaki. Oh, pardon me.
+
+Kubota: What kept you?
+
+Aramaki: Sorry, things are hectic at work. And you, sir. How are you feeling, Colonel Tonoda?
+
+Aramaki: Hmm. The Colonel's "hobbies" haven't changed at all, have they...
+
+Kubota: Don't be so hard on him. All his health problems are due to the stress of prison life.
+
+Col. Tonoda: Where the hell's Tsujisaki? That ingrate hasn't come to see me even once. He forgets the debt he owes to the man who looked out for him more than anyone else.
+
+Kubota: His memories are also a bit jumbled. Let's step out. I have something I want to give you.
+
+Kubota: There's nothing left now of the man once known as Colonel Red Demon. You should seriously think about remarrying. There's no sorrier sight than a single old man.
+
+Aramaki: I decided long ago that I'd never own anything that I couldn't take to the grave with me.
+
+Kubota: Steely-eyed and resolute as ever, I see.
+
+Aramaki: So, what was it that you wanted to give to me?
+
+Kubota: Oh, right. This is it.
+
+
+Batou: The truth is, when I was at Ma Shaba's hospital, I ran into the Major.
+
+Togusa: You run into her? You mean that--
+
+Batou: At first, I never would've believed it possible. But then, I gradually became more and more convinced that she had to be the Puppeteer. I missed an opportunity to bring it up earlier.
+
+Togusa: Then, did you witness the Major kill Ma Shaba?
+
+Batou: No. But I did see her walk off with the ampules.
+
+Batou: Before, I used to always butt in whenever it seemed like the Major might be involved in a specific case. But, back then, I always believed that she was helping us to solve the case in her own fashion. This time, it's different.
+
+Togusa: It simply doesn't add up. What the hell is the Major trying to do?
+
+Batou: Damned if I know. But one thing is certain -- The Treaty Review Department set up the hit on Ka Rum. The Major's probably there.
+
+Aramaki: Batou! I want you and Saito to head over to beltway #16 immediately! This is an urgent matter! It has top priority!
+
+Togusa: Chief, we have a situation on our own hands here. The Puppeteer has struck at Section 9, also.
+
+Aramaki: He did what?!
+
+Batou: Old man, I hate to say it, but I think the--
+
+Togusa: Keep it between us... until I can verify it.
+
+Togusa: Chief, now that he's made a move, does that mean the investigation's open again?
+
+Aramaki: I suppose so.
+
+Togusa: Understood. Now, what's happened on your end?
+
+Aramaki: About two hours ago, security cameras in coastal district 2 happened to catch sight of an internationally-wanted criminal.
+
+Batou: Huh? Who is this guy? He must be one tough customer if you want me and Saito on it.
+
+Aramaki: He's a super-class-A sniper, formerly of the Seok Republic -- Lieutenant Raj Puhto.
+
+Togusa: Raj Puhto? Wait, that was one of the names from--
+
+Batou: Hmm?
+
+Togusa: The one member who hadn't come into the country...
+
+Saito: He was the commander of Ka Rum's personal guard. The way I heard it, he'd sought asylum in China after Seok fell...
+
+Batou: Considering the timing of his entry into the country, there must be something to this...
+
+Aramaki: Right. Fortunately, the Intelligence Bureau has a fix on his current position. I want the two of you to tail him and find out what his objective is.
+
+Batou and Saito: Roger.
+
+Batou: Togusa, if it turns out that the Major is the Puppeteer and we have to take her on...
+
+Togusa: Yeah, I know... I don't want to think about that, either.
+
+
+Aramaki: Somehow and some day, I will repay this favor, my friend.
+
+Kubota: Hmm.
+
+Aramaki: Col. Tonoda, I'm afraid I can't stay any longer.
+
+Tonoda: They say that children take after their parents and robots take after humans, but you didn't turn out anything like me. I'm pleased that a fool like me made a genius like you. Try to look after your health, all right?
+
+Aramaki: Thank you, I will, sir. Take care of yourself, too, Colonel.
+
+
+Batou: What's his M.O. gonna be for his sniping?
+
+Saito: The same as mine. He'll use his Hawkeye to establish a satellite link, and then take his shot.
+
+Batou: Which means it's only a matter of time before we lose the ability to track him by GPS.
+
+Saito: Right, we have to catch him before then.
+
+Batou: Lemme take over. I'm gonna get a good look at his face.
+
+Saito: Don't let him spot you.
+
+Batou: I have confirmation. No doubt about it -- this is our guy.
+
+Saito: Hm.
+
+
+Ishikawa: Togusa, good news! The IR-System just picked up one of the kids.
+
+Togusa: Really? What's his location?
+
+Ishikawa: He's walking through the grounds of the Kohoku public housing projects.
+
+Togusa: Hey, that's close to where I live. Okay, I'll go check it out.
+
+Ishikawa: I'll put in a call to the PPD. I guess it's back to investigating all those kidnapping cases for us.
+
+Togusa: Looks that way.
+
+Togusa: Damn it, we'll have to put the Major on the back-burner...
+
+
+Nakamura: The Puppeteer, I presume? It's certainly a fitting name. I had an inquiry a moment ago from Public Security Section 9 asking if I knew a hacker called the Puppeteer. My answer was, "Sorry, I don't have any clue." So, what do you want to talk to me about?
+
+Woman: I came here to refund your payment.
+
+Nakamura: As far as we're concerned, if the assignments you've been given are carried out, we really don't care what you do.
+
+Woman: I'm sorry, but you won't see me again.
+
+Nakamura: I'll leave a net channel open for you to contact us in that case. Feel free to-- Hmm? That's a puppet, as well? What a waste. And she was so talented, too...
+
+
+Batou: The sun's about to come up... Still, why do you think he decided to come here now?
+
+Saito: You don't think it's to carry out Ka Rum's revenge, do you?
+
+Batou: Ka Rum's revenge, possibly. Makes sense, but how could anyone have gotten that intel? We were even left out of the loop about that little tidbit.
+
+Saito: Good point.
+
+Batou: How much longer is he gonna keep driving around?
+
+Saito: Come to think of it, there's that same building again.
+
+Batou: Hey, wait, isn't that the--
+
+
+Ishikawa: Togusa, the kid just went into the building N25, apartment 602. Can you find it?
+
+Togusa: Yeah, I know this neighborhood like the back of my hand.
+
+
+Togusa: A Noble Rot Senior Citizen...
+
+Boy: Mmm...
+
+Elderly Man: Give him back! Everything I have in this world is invested in that boy! I will it to some stranger off the damn street sooner than let the government get a hold of it! Besides, the boy would've died of mistreatment if I hadn't taken him in... That's the will of the people of those who live in the Solid State. It's our little game -- no, it's much more than that, it's our economic action! If you don't want to end up killing yourself like the others, then keep your nose out of our society! Consider yourself... warned...
+
+
+Batou: I'm definitely getting the feeling that his sniping target is in there.
+
+Saito: Yeah...
+
+
+Togusa: Turn off his cyberbrain and assign a guard to him, okay?
+
+Female Officer: Right away, sir.
+
+Woman: Cardiac arrest confirmed. Requesting disposal of remains and retrieval of nursing system.
+
+Man: Disposal? That's strange, didn't he have a family somewhere? There's a six-year-old kid listed in his file... Data error, maybe? I shouldn't complain, that's one less job that I have to do.
+
+Togusa: Data error? No, he's missing because I rescued him. Which means that if I hadn't come here, it would've made no difference. They would've taken the boy into custody anyway as part of their standard procedure.
+
+Togusa: Special operatives committing suicide... Children who vanish... Noble Rot Senior Citizens... The will of the people of those who live in the Solid State... Hang on, in the first place what does "Solid State" mean? What was that old man talking about?
+
+Togusa: Hi, hon. What is it?
+
+Togusa's Wife: Oh, thank goodness, I finally got through! I've been trying to reach you! You've got to come home right away! Our little girl is missing!
+Batou: That clinches it... Let's go after him!
+
+Saito: Hold on!
+
+Batou: Shit, he's got optical camouflage?!
+
+
+Togusa: What the hell's going on?!
+
+Togusa: Her GPS is turned off! It's the Puppeteer? It can't be! She doesn't have any cyber implants yet!
+
+
+Saito: I need you to pinpoint which satellite he's using! Now that we've lost his trail, we won't find him until he starts to shoot! And the instant he does is going to be our first and last chance to get him!
+
+Batou: I can probably locate that satellite for you, but how do we actually spot the guy?
+
+Saito: He should be in this zone. He'll know where we are, but we'll be able to spot his position from up here.
+
+Batou: Wear this. You're way easy to see in that.
+
+Saito: There's no time. If we can beat him to the punch, I can take him!
+
+Saito: Let's do it.
+
+Batou: Bingo!
+
+Saito: Patch me in!
+
+Saito: This guy's the target?
+
+Batou: I've got a back-trace on his position!
+
+Saito: SE-37... There he is. Send my data back at him!
+
+Lt. Raj Puhto: Someone's lining up a shot!
+
+Batou: Saito!
+
+Saito: Did I nail him?
+
+Batou: Lay low! I'll go check!
+
+
+Togusa: Damn it, hurry up!
+
+Togusa's Daughter: Huh? Daddy?
+
+
+Saito: Well?
+
+Batou: Have a little faith in your skills, why don't ya?
+
+Saito: That's a relief...
+
+Batou: Now, then... You wanna start by telling me who that guy was you were gunning for? And why you were trying to kill him?
+
+Raj Puhto: It was to avenge the General's death... I'm gonna kill every last one of you lousy Japs for him...
+
+Batou: Out of revenge, huh? Don't give me that load of crap! Where'd you get your hands on that piece of intel?
+
+Raj Puhto: It was a tip that I got from a double agent. He said he'd tell me who masterminded the General's death, so I had to go take out the target.
+
+Batou: Who is this double agent? Give me his name!
+
+Raj Puhto: He spends a lot of time at the Foreign Ministry... An assemblyman named Munei.
+
+Batou: Old man, I need you to collar an assemblyman by the name of Munei ASAP. And here's a picture of the guy that Raj was trying to kill. Looks like he's the brains behind the hit on Ka Rum.
+
+Aramaki: Hmm? If I'm not mistaken, this picture is of the assemblyman Hitoshi Munei.
+
+Batou: Huh?! What're you trying to pull? You know that target you were just trying to whack? He's the same guy who fed you your intel! Explain that to me!
+
+Raj Puhto: That's his problem. Maybe the bastard was to commit suicide or something.
+
+Batou: Commit suicide? All right, I've had enough of this! Are you sure the Puppeteer isn't pulling your strings, too, bucko?
+
+Raj Puhto: Oh, shit... Could be... If that thing was human, I would've killed it right off the bat... If it got to me, I'm gonna be so pissed off...
+
+Batou: Are you saying the Puppeteer isn't human?
+
+Raj Puhto: It's the name of the mechanism that's built into the Solid State and designed for abducting kids...
+
+Batou: Huh? What the hell do you mean?! Hey, listen! What is the Solid State?!
+
+Raj Puhto: You really don't know? It's the nursing net, that's what... The government of this great democratic country of yours goes around stealing children... It's too damn funny...
+
+Batou: Old man, I need a paramedic team and a chopper over here. And do some digging into the background of this Munei guy. There's something dicey going on.
+
+Aramaki: Understood.
+
+
+Togusa's Wife: So anyway, I found her right after I called you. Apparently, she's been with the neighbors since this morning.
+
+Togusa: I see... I'm just happy it was a false alarm. Never leave the house without telling Mommy.
+
+Togusa's Daughter: Okay.
+
+Togusa: C'mon. I'll drop you off at school. I'll have to go right back to work after that.
+
+Togusa's Wife: Are you sure you have to go? You look exhausted.
+
+Togusa: I feel better just seeing you two.
+
+Togusa's Wife: Really? Well, if you say so.
+
+Togusa's Daughter: Bye, Mommy!
+
+Togusa: What is it?
+
+Togusa's Daughter: Nothing, Daddy!
+
+Batou: Togusa! We have Raj Puhto in custody. It looks like the Puppeteer was involved in this one, too.
+
+Togusa: Which means that the Major is--
+
+Batou: Yeah. But the way this is going, the Major might not be the Puppeteer after all. Raj Puhto claims that the Puppeteer is the name of an abduction mechanism that's built into the nursing system.
+
+Togusa: An abduction mechanism?
+
+Batou: That's right. Not only that, but he referred to the nursing net as the "Solid State," and implied that the government is somehow involved. I should've mentioned before, but when I ran into the Major, she warned me to stay away from the Solid State. At first, I thought she was talking about cyber implants. But I think what she was really telling me was to stay away from her. Or maybe she was giving me a heads-up to avoid the nursing net. I'm guessing that Ka Rum and his group found this mechanism, tried to exploit it for their plot, and got themselves purged.
+
+Togusa: That makes sense...
+
+Togusa's Daughter: It's from Mommy.
+
+Togusa: Give me a minute.
+
+Togusa: Hi, honey.
+
+Man's Voice: You ignored our warning.
+
+Togusa: Hey!
+
+Man's Voice: That mistake will cost you your precious daughter.
+
+Batou: Togusa! What's happening with you?!
+
+Batou: Ishikawa! Can you get me Togusa's current location?!
+
+Ishikawa: Hmm? I'll try to track him down. Why? What's up?
+
+Batou: His cyberbrain's being hacked!
+
+Togusa's Daughter: Daddy? This isn't the way to school...
+
+Togusa: Shit... So you're the Puppeteer, huh? What's your plan, and how do the missing kids fit into it? Where did those 20,000 children disappear to?
+
+Man's Voice: We are doing nothing more than recycling Ghosts that have been foolishly allowed to go to waste. I am about to let you experience for yourself exactly what some of them went through.
+
+Ishikawa: Batou! I have a fix on Togusa's location! He's at the Cyberbrain Surgical Hospital over in Kohoku New Town!
+
+Togusa: Now I get it. The kids are taken to the hospital by their own parents for cyberization, and the doctors perform a surgery without suspecting a thing. You then overwrite the child's memory, the parent drops off their kid with a senior citizen, and the abduction is complete. After this, you're going to wipe my memory, and my own daughter will have vanished like the others.
+
+Man's Voice: You shouldn't feel regret about your memories being altered. In modern society, memories are constantly modified on a subconscious level. The probability of such modifications already exceeds that of being in a traffic accident.
+
+Togusa: Am I being given a choice, huh?
+
+Batou: There it is.
+
+Togusa: I won't let you people take my daughter. Never.
+
+Togusa: Listen, sweetheart. I need you to do something very important for Daddy. When Daddy lets go of your hand, you run away as fast as you can.
+
+Togusa's Daughter: Run away?
+
+Togusa: That's right. You'll hear a loud bang, just like the field games at school. When you hear that sound, run with all your might. After you start running, don't stop for anything. And whatever you do, do not look back. Can you do it?
+
+Togusa's Daughter: Mm-hmm.
+
+Togusa: Good girl. Now close your eyes.
+
+Togusa: I'm sorry... This is goodbye, my angel.
+
+Batou: Togusa!
+
+Togusa: I love you.
+
+Batou: Togusa!
+
+Kusanagi: Max! Musashi!
+
+Kusanagi: Now, don't you worry. It's okay.
+
+Togusa: Major?
+
+Kusanagi: I had to wait until the last possible second. Sorry about that.
+
+Togusa: Then I guess this means that you aren't the Puppeteer... Where have you been?
+
+Togusa's Daughter: Daddy!
+
+Kusanagi: I've kept busy [since] Section 9. I've been wandering the net, covertly solving crimes that can't be handled with standard organization-based methodology. In the course of doing that, I came across these abduction cases, and have been conducting my own investigation.
+
+Batou: I can't believe that you would use Togusa as bait! Didn't you stop to think that that might put his family in their cross-hairs?
+
+Kusanagi: There were safeguards in place, I made sure of it. Thanks to those, we should be able to learn now who the Puppeteer actually is.
+
+Batou: Hmm? Isn't "Puppeteer" the name of a system that's operating on the nursing net?
+
+Kusanagi: Instead of a "system," it would be more accurate to call it a gestalt, those hooked up to the nursing net -- meaning all those senior citizens. But there's a hub cyberbrain running independently of it that manages the whole thing.
+
+Batou: Hub cyberbrain?
+
+Batou: Hey, are those what I think they are?!
+
+Kusanagi: I constructed them out of data I found drifting in the net.
+
+Tachikoma: Hi, Mr. Batou! Long time, no see!
+
+Tachikoma: It's nice to see that you're doing well!
+
+Kusanagi: A back door was installed in the nursing net, that's been there ever since its design stage. Look. This is the full view of the rhizome that's been woven by these elderly people's gestalt. A rhizome doesn't contain the concept of a "center." Therefore, the hub cyberbrain is constantly in motion. That, or the rhizome itself might be acting as the hub.
+
+Batou: Now that I know what's going on, I gotta find out who or what this hub is.
+
+Kusanagi: Max! Musashi! Report your findings.
+
+Kusanagi: What's the problem?
+
+Tachikoma: Well, you see... Um, I don't know how to break this to you, Major...
+
+Kusanagi: You failed?
+
+Tachikoma: B-But we did [see to] pinpointing its location, though!
+
+Kusanagi: Okay, where is it, then?
+
+Tachikoma: It's at the Sacred Citizen Relief Center building! That's where the heart of the nursing net is located!
+
+
+Operator: They've arrived. Disengaging locks.
+
+Aramaki: It's been a long time, Major.
+
+Kusanagi: I suppose it has. Too bad we have to reunite under these circumstances.
+
+Aramaki: Why? Why did you come back?
+
+Kusanagi: That can wait. There's no time now. At the moment our priority is to catch the Puppeteer.
+
+Kusanagi: Hitoshi Munei. Assemblyman in the Lower House. The reason why he was marked for death is our sole lead in uncovering the true identity of the Puppeteer.
+
+Aramaki: This man, Munei, is a reactionary conservative nationalist who's always been a proponent of the formation of a ruling class, one comprised of pure-blooded Japanese. He's always in contact with the Foreign Ministry, and he has ties to the Treaty Review Department.
+
+Kusanagi: He was also involved in Ka Rum's murder.
+
+Togusa: What're you saying, Major?
+
+Kusanagi: I contracted out to the Treaty Review Department so that I could make it look as if Ka Rum had been assassinated. But before I could do it, the Puppeteer got to him.
+
+Batou: Then, you were only responsible for covering up his death after the facts.
+
+Kusanagi: Yes, more or less.
+
+Aramaki: We've also learned that Hitoshi Munei has secured a leadership position in the day-to-day operations of the Sacred Citizen Relief Center.
+
+Batou: What's in it for him? The place is just a service organization that provides health care and vocational training for old folks.
+
+Aramaki: True. However, thanks to the patronage of certain politicians, and its public image as a non-profit foundation, the center acts in reality as a training facility servicing the power elite.
+
+Kusanagi: It's a veritable brainwashing factory...
+
+Batou: That has to be what Raj Puhto meant when he implied that the government had a part in it.
+
+Kusanagi: If this place is being used as a temporary central clearing house for those children who were abducted, then what the Puppeteer is having trouble dealing with is the fact that Munei is using it as a brainwashing factory.
+
+Togusa: Chief. Why don't we go search the place? Our top priority here is to find those missing children.
+
+Batou: Yeah, but raiding the place will cause a scandal. And if that happens, a scumbag of a politician ain't the only one who's gonna catch heat for it.
+
+Kusanagi: Ishikawa! How's it coming?
+
+Ishikawa: That you, Major? Huh. You picked a hell of a time to rejoin the fold... I found evidence of a massive amount of equipment being brought in that was based off of the HC-25 brainwashing machine, but that's pretty flimsy proof to justify a raid.
+
+Kusanagi: What about from the inside?
+
+Ishikawa: I only found footage from their manual labor wing.
+
+Proto: The defense barrier protecting the education wing is a complex virtual experience maze. I had no luck at all sneaking in.
+
+Batou: Just looks like refugees...
+
+Kusanagi: Then the children are being held in the education wing... Which means that the abduction mechanism had to be built into the place during its planning stages. If it weren't, I'd find it hard to believe that a rank-and-file politician would have the balls to propose such an audacious policy.
+
+Aramaki: Then do you suspect that when they laid the groundwork for the project, that the Puppeteer was also among those involved?
+
+Batou: Ishikawa. Use decoys to make it look like hackers are trying to dive the place. I'm going in. Even if it fails, it'll give you guys some cover. If you and Togusa are still around, Section 9 can carry on.
+
+Togusa: Batou. I don't want to hear that kind of talk, all right?
+
+Kusanagi: Oh, so you're the one who's going to retire this time? I appreciate your consideration, but the only reason I came here is to ID the Puppeteer, nothing more. It's true you always need someone who can get their hands dirty for you. And besides, I don't have anything to lose right now. Chief. No offence, but I'm going in there myself. The Puppeteer is waiting for an opportunity to eliminate Munei. And I don't want to miss this chance.
+
+Aramaki: But how do you plan to find the Puppeteer, Major? We still don't have the foggiest idea who this character is.
+
+Kusanagi: I'm going to keep my ears open. My Ghost will whisper.
+
+
+Tachikoma: Gosh, this is kinda awkward, huh?
+
+Tachikoma: Left, right, left, right...
+
+Tachikoma: Hi, everybody! Been a long time, hasn't it?
+
+Ishikawa: All right. Here we go.
+
+Kusanagi: Let's do it!
+
+Tachikoma: There's nothing like the thrill you get from zipping along in a physical body, is there?
+
+Tachikoma: Really? I wouldn't know. I'm not used to my joints yet.
+
+Cyborg(leader): Their response is strange for a seemingly basic attack. Go to alert status just to be safe.
+
+Subordinates: Yes, sir.
+
+Ishikawa: A fellow pro, huh? Uh-oh. I guess we have each other's attention now.
+
+Munei: Hacking from the Public Prosecutors' Office again, hmm? They're wasting their time.
+
+Munei: I'm going to inspect the facility.
+
+Kusanagi: Paz and Borma, secure an evac route!
+
+Paz and Borma: Roger.
+
+Cyborg: Who are you...?
+
+Paz: I could tell you. Of course, I'd have to kill you then.
+
+Cyborg(leader): Hmm? I've lost communications?
+
+Tachikoma: Here come the security cyborgs!
+
+Togusa: Major, you go on ahead.
+
+Cyborg(leader): The one who got inside is as good as dead. Go after the think-tanks.
+
+Cyborg: Got it!
+
+Kusanagi: These guys open fire without a warning. This must be a key government facility, all right...
+
+Tachikoma: He's following us.
+
+Togusa: That's what we want.
+
+Cyborg(leader): No thermal signatures. Cloak of Invisibility, hmm? Which means--
+
+Togusa: Your intel's way out of date! Type-3302 isn't called a Cloak of Invisibility.
+
+Cyborg(leader): Son of a...
+
+Cyborg(leader): Aah, shit! You little...! Get off--
+
+Batou: Mow 'em down.
+
+Tachikoma: Roger!
+
+Kusanagi: You back me up. In a couple of minutes I'll gain control of the system.
+
+Batou: I got it. Isn't this the way we've always done it?
+
+Kusanagi: Togusa! What's your current position?!
+
+Togusa: Major? I'm making my approach up the face of the building.
+
+Kusanagi: Good. I want you to make your way to the roof and rendezvous with the Chief! I've found out where the children are.
+
+Kusanagi: Let's go!
+
+
+Togusa: Assemblyman Munei. We're Public Security Section 9. We've already seen for ourselves what you're up to. Judging from what we see here, a full-scale compulsory investigation would seem unavoidable, wouldn't it?
+
+Munei: Really? Though it doesn't show up on the books, it's the government's most vital agency. You self-righteous Public Security piss-ants have no business in here!
+
+Aramaki: Begging your pardon, Assemblyman, but from what I observe here, this exactly fits the criteria for the type of situation in which our organization needs to intervene.
+
+Munei: For a public servant, you don't seem to have the vaguest clue as to the gravity of the threat that this country is facing. If nothing is done, our country's prosperity will be supplanted by other races one day in the near future. So, to prevent that, we're expending tax dollars on these children who have no families, giving them educations, and entrusting our future to them! Just what, exactly, do you find wrong with that?
+
+Aramaki: Those taxes are from the money you've exploited out of the elderly and the refugees that you indenture to this facility!
+
+Munei: That couldn't have avoided, either. Stop and think about it. What have these people ever done for the good of this country, hmm? They don't have families or children! They don't contribute as taxpayers! After living only for themselves, then demand, "I'm old, take care of me!" Their selfishness is appalling! If I could, I'd impose a new tax on them to restore the revenue we lose because they're too old or can't work!
+
+Aramaki: You're splitting hairs. Besides, I'd like to know what you politicians have been doing about it all this time? Who takes responsibility for you people putting self-preservation and vanity ahead of your duties, and burying pressing issues at the bottom of the pile?!
+
+Munei: I'm proud that I have accepted responsibility for it.
+
+Aramaki: Are you proud of violating Cyberbrain Ethics Laws and human rights, as well?
+
+Munei: They were steps that needed to be taken, in my opinion.
+
+Aramaki: You refuse to budge.
+
+Togusa: Major, I ran a check on the number of children here. It's nowhere near 20,000. It's more like 3,000 tops.
+
+Kusanagi: I see. Switch your comm channel to autistic mode.
+
+Togusa: Roger.
+
+Kusanagi: You. Assemblyman. Were you aware that a system to automatically steal children was designed and built into the center? The children that are here are not orphans. The vast majority of them are abductees. Our investigation into their disappearances led us here. You yourself are a material witness in that case, Munei.
+
+Munei: I'll admit, I've overseen this project from the very beginning, but I know nothing about a bug in the system!
+
+Kusanagi: In that case, we'll interrogate the ones who came up with the system.
+
+Man: It was me. I was the one who devised the core concepts that the Solid State system is founded on.
+
+Kusanagi: Togusa! Take everybody into custody!
+
+Togusa: Roger!
+
+Kusanagi: Batou, I'm going to dive this guy's cyberbrain before his memories pull a whiteout! Back me up! I hope I'm in time!
+
+Kusanagi: Batou, I'm connected!
+
+Batou: Gotcha. I'm boosting your signal right now.
+
+Kusanagi: I see his memory field, but the output is dropping, it's too low. Batou, do you think you can boost his output?
+
+Batou: We'll try going in through a Tachikoma. You, get yourself over here!
+
+Kusanagi: There's no time! Puppeteer, can you see me? Puppeteer, can you see me?
+
+Puppeteer: Puppeteer...
+
+Kusanagi: That's the name of the hub cyberbrain that managed the Noble Rot Senior Citizens' rhizome.
+
+Puppeteer: Yes...
+
+Kusanagi: Entering right visual center. Saccades have ceased. No eye movement...
+
+Batou: Hm? What happened?
+
+Kusanagi: Batou, I'm patching the Puppeteer into my speech center.
+
+Batou: (voices overlapping) Don't be stupid! Come up, then dive again!
+
+Puppeteer: I owe you a debt of gratitude. You see, Munei was the Solid State's greatest bottleneck. I've tried to purge him time and time again, but he's an old-fashioned type who hates the thought of cyberization.
+
+Kusanagi: Who the hell are you? Why were those children taken? What are you using them for?
+
+Puppeteer: Setting aside the matter of my identity for the moment, perhaps my motives were the same as Munei's.
+
+Puppeteer(Kusanagi's Voice): This country has reached the point where someone has to step in and take action. There's the problem of 6 million-plus Noble Rot Senior Citizens... Increasing unemployment, and the proportionally decreasing worker population that continues unabated. Then there's the declining birth rate, as well... So many problems to address. And here is a fact: Even though there's such a furor over the birth rate, nearly 50,000 children in this country under the age of six needlessly lose their lives every year. Approximately 30% of those deaths can be attributed to domestic abuse.
+
+Batou: Well? Can you do it?
+
+Tachikoma: I'll try.
+
+Puppeteer(Kusanagi's Voice): (voices overlapping) And in about 80% of those cases...
+
+Puppeteer: ..child guidance centers, the police, or other relevant authorities were aware of the situation, but they were unable to prevent the deaths. This country's systems have already collapsed, and the potential of the individual is declining considerably.
+
+Batou: Major! Now listen to me! If you stay in there much longer, you're gonna whiteout along with him when he dies!
+
+Puppeteer(Kusanagi's Voice): That's when...
+
+Puppeteer: I came upon the idea of recycling Ghosts that were being damaged unnecessarily. I found at-risk children through the abuse surveillance net, and then laundered their family registers. I believed that it would give them a new chance at life.
+
+Kusanagi: So, that's the core concept of the Solid State system.
+
+Puppeteer: Correct. But to make it work, it was essential to have the assistance of the Noble Rot Senior Citizens. They hunger for a reason to exist. Although they aren't able to pass down their DNA, their posterity would exist on paper. They would, then, have someone to whom they could bequeath their belongings. That way, they could continue to take part in this economic action, instead of forfeiting their personal property to the state upon their death. They happily gave my plan their approval.
+
+Kusanagi: You realize that what you're doing is a crime, don't you?
+
+Puppeteer: Yes, but if those ends had absolute priority, they would be the only possible means. My primary task was to save these children who were in danger as soon as I could. With that reason alone, I have no regrets about what I've done, even though it's cost me my life. On the contrary, it means that my life as a bureaucrat had meaning. All that remained was to reinforce the Solid State system and make it into a self-perpetuating mechanism.
+
+Kusanagi: Maybe, but the purging one by one those who meddled with your system drew attention to your plan, and the scheme was uncovered.
+
+Puppeteer(Kusanagi's Voice): Considering how they must have felt when they knew that the end was near, their reactions were understandable.
+
+Kusanagi: Now, Ka Rum I can see. But Munei, why him?
+
+Puppeteer(Kusanagi's Voice): Because Munei held the children prisoner here. If those young ones end up becoming brainwashed elite for him, giving them new leases on life was all for nothing. Children need an education, but if they aren't released out into the world, it won't develop a strong will of their own. That was the point of contention between Munei and I, and it was the main reason why I had to eliminate him. But this time, you people had to go and show up. Nevertheless, my plan has progressed smoothly to its next phase.
+
+Puppeteer: I've never been able to hack your cyberbrain, but now I've succeeded in getting you to link me directly into it.
+
+Batou: Major!
+
+Kusanagi: You killed yourself just to lure me into linking with you?
+
+Puppeteer: You're a formidable opponent, but if I can momentarily trap you in a thought maze, I will be able to eliminate Section 9 all at once.
+
+Kusanagi: I'm surprised. Your thinking is so arrogant and self-righteous, yet you have so much drive. Being a bureaucrat is a waste of your talent. Plus, you know all about me... Who the hell are you?!
+
+Puppeteer: You still haven't pieced it together? Come now, Motoko Kusanagi... Surely there can't be an overabundance of people dwelling within your memory, burning with this overwhelming egotistical rightfulness.
+
+Puppeteer: We've synchronized with countless consciousnesses over the years. So, it shouldn't come as a big surprise that your deep collective subconscious came to life. And with it, the Solid State is complete. It's time for us to go forth. Let's become a vanishing mediator and go take an active hand in the next society.
+
+
+Kusanagi: I can't see anything. Somebody give me a status report.
+
+Batou: Finally awake?
+
+Kusanagi: Batou? Are you there? What's happening? Where am I?
+
+
+Togusa: So, did they make decisions about what to do with the children?
+
+Aramaki: Hmm. It appears that they're going to be returned to their real parents for the time being.
+
+Togusa: Even though their memories were overwritten, and they have no knowledge of any abuse... I wonder if that's really what's best for the kids.
+
+Aramaki: Perhaps the fact that no one can answer such a critical question after all this underscores the limitations of our system.
+
+Togusa: What'll happen to those kids who found foster parents and managed to get out before their brainwashing education began?
+
+Aramaki: For me, I'd say we'll have to wait a while for the verdicts. I expect there'd be some rather complicated trials as they go through them on a case-by-case basis.
+
+Togusa: Then, Chief, when a situation like arises, what can we hope for?
+
+Aramaki: I can only tell you one thing: We need to persevere and work within the rules by which we're governed. That's the best we can do to make a stand against the unjust for now.
+
+Togusa: I only wish, when those kids are grown, when they've matured and reached their full potentials, they'll be able to find the answers that we couldn't. That's my hope...
+
+
+Kusanagi: You know if you just sit down and think about it, the name "Solid State system" is actually quite ironic...
+
+Batou: The guy's metaphor for cyberbrains of old people was "transistors." Humph. Sure sounds like something that a stuffed-shirt bureaucrat would come up with, doesn't it? I got to admit, I was a little freaked out to learn who the Puppeteer really was.
+
+Kusanagi: ...What are you talking about?
+
+Batou: We discovered a few interesting bits of information after you lost consciousness when he died. That pencil-pusher -- he actually croaked two years ago. Name: Tateaki Koshiki. Age: 33. Born into a respectable family of civil servants, fast track to elite status since childhood. College, then the Ministry of Management and Coordination. But he quickly grew frustrated and stopped going to work, possibly because he had no sense of purpose as a civil servant. Due to his cyberbrain skills, he was allowed to work from home through a remote prosthetic body. But he was apparently indifferent to performing his duties. Then, two years ago, Munei noticed the guy's talents. Those abilities were skills he needed on his project to manipulate both the Welfare and Management Ministries. Munei bought him on-board and Koshiki independently designed and implemented his abduction system. But the trouble was, Koshiki wasn't the type who stood out. He wasn't noticeable. In spite of the huge job he was working on, not one damn person happened to realize that the poor slob had gotten sick and died at home. Thanks to that, the true identity of the Puppeteer is gonna remain a mystery forever.
+
+Kusanagi: So, now we know the truth about Koshiki's death. Does that then mean that somebody else was operating his remote body to cause all this?
+
+Batou: It's possible. As a matter of fact, of any theory that's probably the most likely. Even with those old folks that had formed a gestalt with the guy, their collective unconscious was the force behind their actions and caused them to do what they did. I hate to say it, but there's no way for us to find out for sure now.
+
+Kusanagi: Oh.
+
+Batou: With one exception: the conversation between you and Koshiki that's recorded in the Tachikomas' memory.
+
+Kusanagi: Is it still stored in there?
+
+Batou: It should be, but when Koshiki died, they claim that all of his memories underwent a whiteout, and it's supposedly lost along with them.
+
+Kusanagi: Batou, did you listen in on that conversation?
+
+Batou: Well, sorta... At this point, though, it doesn't really matter now, does it? The neglected old-timers, those kids who were being abused, all that stuff is on its way toward being resolved at last. Even if we didn't find out the true identity of the Puppeteer, this case is still more or less closed.
+
+Kusanagi: Written off as a scandal involving a few bad-apple politicians?
+
+Kusanagi: It's the strangest thing, Batou...
+
+Batou: Hmm?
+
+Kusanagi: What have I been feeling so jaded and disillusioned about? What do you think I was searching for as I was wandering around the net? A friend? Truth? Or a certain special someone, maybe. Perhaps I just wanted to blame this organization or even the system for my own sense of helplessness.
+
+Batou: What's gotten into you? You turning all meek and modest on me? Did you get whatever it was out of your system? Okay. So, what're you gonna do now? Plan on keeping up that "picking the investigations you conduct based on your gut feelings about them" routine of yours?
+
+Kusanagi: Maybe I'm finished with that, too. When I'm operating under restrictions, I definitely feel constrained by them, but without those restraints, it doesn't seem like my actions are accomplishing anything. I guess I'm right back to where I started from...
+
+Batou: What's that supposed to mean? Is that your way of saying you're coming back to Section 9?
+
+Kusanagi: But what about Togusa? Won't I get in the way of his development?
+
+Batou: If that prevents him from growing, then he wasn't gonna go any further anyway. I wouldn't sweat it if I were you.
+
+Kusanagi: Perhaps you're right.
+
+Kusanagi: Batou, the net truly is vast and infinite. Who knows? Maybe a new society we've never even dreamed of is already being born.
+  

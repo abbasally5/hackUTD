@@ -1,0 +1,863 @@
+
+ ws:start:WikiTextHeadingRule:0:&lt;h1&gt; 
+ Yukari:
+ That's it.
+ Third semester is over!
+ You may all move up to second year!
+
+Everyone:
+Yeah!
+
+Chiyo:
+ Rise!
+ Attention!
+ Bow!
+
+
+Osaka:
+ Uh...
+
+Chiyo:
+ Miss Osaka!
+
+Osaka:
+ Oh, hey, Chiyo-chan.
+
+Chiyo:
+ Huh?
+ Hey, don't tear up, why don't you cheer up, Miss Osaka?
+
+Osaka:
+ I know...
+
+Chiyo:
+ Miss Osaka?
+
+Osaka:
+ It won't be too long now, we're gonna be second years, huh.
+
+Chiyo:
+ That's right, we're gonna become second year students.
+
+Osaka:
+ Becomin' second years means the class is gonna get shuffled...
+
+Chiyo:
+ Oh, I guess that's true!
+
+Osaka:
+ It'd be nice if I could be in the same class with you again, Chiyo-chan.
+
+Chiyo:
+ We can! Not just can, We will be!
+
+Osaka:
+ And Tomo and Yomi and Miss Sakaki too.
+ It'd be nice if we could be in the same class with them again.
+
+Chiyo:
+ We can be!
+ I know we can be in the same class again!
+
+Osaka:
+ It'd also be nice if Miss Yukari was our homeroom teacher again.
+
+Chiyo:
+ She can be! She can be!
+ We'll all be together just like first year.
+ Huh...
+
+Yukari:
+ Oh, you don't have to worry about that.
+
+Chiyo, Osaka:
+ Huh?
+
+Chiyo:
+ Mi-Miss Yukari?
+
+Yukari:
+ I'm your homeroom teacher for next year too.
+
+Chiyo:
+ Huh... Y-You are? Really?
+
+Yukari:
+ Hey, our class could sure use your fighting power, Chiyo-chan.
+
+Chiyo:
+ Yay! Thank you, Miss Yukari!
+ All right! All right! Woohoo! Yay! Yay!
+ Hurray! Hurray!
+ All right! All right!
+ Hip hip hurray!
+
+
+Kaorin:
+I'll get to be in the same class with Miss Sakaki next year.
+I won't be in the same class.
+I will. I won't. I will. I won't. I will.
+I-I-I...
+Huh?
+
+Yukari, Kaorin:
+ You will. I will.
+ You won't. I won't.
+ You will. I will.
+ You won't. I won't.
+ You will. I will.
+ You won't. I won't.
+
+Kaorin:
+I... I won... won... I... won... won... I...
+
+Yukari:
+ Huh?
+
+Kaorin:
+Huh?
+
+Kimura:
+We could be together, Kaorin.
+
+Kaorin:
+Why'd you guess? Go away!
+
+
+ ws:start:WikiTextHeadingRule:2:&lt;h1&gt; 
+ Tomo:
+ Woohoo! It's a new school year!
+ Haaa!
+ Viva, I like Class Shuffle.
+ Go! Go! Go! Go! Go! Go!
+
+Kaorin:
+Mm...
+
+Chiyo:
+ It'll be great if we're all together.
+ Just like how Tomo and Yomi were in the same class since grade school.
+Yomi:
+ Uh.
+
+Chiyo:
+ I don't have anyone that I've been with since grade school, so I really envy you two.
+
+Tomo:
+ You being sarcastic?
+
+Chiyo:
+ Huh?
+
+
+Chiyo:
+ I made it!
+ Look, look, I'm in Miss Yukari's class!
+
+Tomo:
+ Hey, me too!
+
+Yomi:
+ Yeah, no way.
+
+Sakaki:
+ I am too.
+
+Osaka:
+ Not here...
+
+Chiyo:
+ We're all here together!
+
+Osaka:
+ 'Cept me.
+ I ain't here.
+
+
+Kimura:
+Kaorin!
+
+
+Osaka:
+ ......
+
+Tomo:
+ It's like she gave you a notice, huh?
+ Man, Yukari sure is harsh.
+
+Osaka:
+ Chiyo-chan...
+
+Chiyo:
+ Don't worry.
+ You'll make some new friends right away!
+
+Yomi:
+ Wait a minute.
+
+Tomo:
+ Spirit in...
+
+Yomi:
+ I said "wait!"
+ Wouldn't this Osaka be you?
+
+Osaka
+ Uh...
+
+Everyone:
+Uh...
+
+Osaka:
+ Wait, do you mean that "Osaka" is me?
+
+
+Kaorin:
+Ah...
+Miss Sakaki!
+
+Kaorin:
+Miss Sakaki, good morning!
+We got to be in the same class again.
+
+Sakaki:
+ Really.
+
+Kaorin:
+I'm so exhausted.
+Ah, it's her!
+Miss Kagura, the all-star sports girl!
+
+Kagura:
+ Yo.
+ Guess we're in the same class now.
+ You know, I've been wanting to have a proper chat with you for some time.
+ I heard people saying we have a lot in common.
+ Not that we need anyone to tell us, I'm sure you feel it too...
+
+Sakaki:
+ ...
+
+Kagura:
+ Huh? Um...
+ Don't tell me...
+ You... you don't remember me?
+
+Sakaki:
+ Mm.
+
+Kagura:
+ I... I see.
+ Pht.
+ Come on, we competed in the sports fest, the marathon, and the other games we played.
+ You know the one with the ball.
+ Don't you remember?
+
+Sakaki:
+ ...
+
+Kagura:
+ You don't remember?
+ You really don't remember?
+
+Sakaki:
+Mm.
+
+Kagura:
+ Oh, anyway, we're rivals!
+ I'll be seeing ya!
+
+Sakaki:
+ Okay.
+
+Kaorin:
+Miss Yukari's planning for the sports fest!
+
+
+ ws:start:WikiTextHeadingRule:4:&lt;h1&gt; 
+ Yukari:
+ Starting today, you are all second year students.
+ And I'm your homeroom teacher, Yukari Tanizaki.
+ I hope we have a good year.
+ Now that I'm looking around, I see that there are quite a few of you here from my first year class.
+ I wonder why?
+
+Kagura:
+ Why?
+
+Osaka:
+ This is my year.
+ Get it together. Get it together. Get it together.
+
+Yukari:
+ How could that be?
+ It's very strange, don't you think?
+ But just to be clear, it's nothing to do with how remembering new names would be a big pain in the butt.
+ It's nothing like that, and I also hope everyone keep that in mind.
+
+Oh, and don't change your assigned seats, that goes for the class representatives as well.
+
+ Right, now that that's done, class rep, say hello.
+
+Tomo, Chiyo:
+ Yes, ma'am!
+
+Tomo:
+ Huh?
+
+Chiyo:
+ Huh?
+
+Yukari:
+ Come on, come on, don't worry about it and just come up to the front.
+
+Chiyo:
+ Yes, ma'am.
+
+Osaka:
+ Get it together. Get it together. ...
+
+Kagura:
+ That Chiyo-chan really is cute.
+ And she isn't well-known for nothing.
+ Which is more than I can say for our school's well-known wildcat idiot.
+
+Tomo:
+ Hi, I'm our school's well-known...
+ Who's an idiot?!
+ Why you... you a bit of...
+ You eternally-running-behind-Miss-Sakaki girl!
+
+Kagura:
+ Yeah, so what?!
+ There's more brains in that behinds than you have in your head.
+
+Tomo:
+ How's that? I thought you stuffed them all in your boobs!
+
+Yomi:
+ Huh... wildcat idiot is right.
+
+Kagura:
+ At least I have boobs!
+
+Tomo:
+ You all are boobs!
+Oh, check it out!
+ Come on!
+
+Yukari:
+ Okay, okay, everyone, let's be nice to each other.
+ You're all a vital part of our forces.
+ Okay, now, settle down!
+
+Osaka:
+ Get it together. Get it together.
+ Get it together. Get it together.
+
+Kagura:
+ Hey, Sakaki!
+ I don't have swimming practice today, so how about you and me walk home together!
+
+Kagura:
+ Say, Sakaki, I've been wanting to ask you something.
+ Do you usually play sports and stuff?
+
+Sakaki:
+ Not really.
+
+Kagura:
+ Huh.
+ And you were still that awesome at the sports fest, marathon, and the other games we competed together?
+ That's amazing.
+
+ Are you thinking about joining a club or anything?
+ I bet the sports things wanna have a few words with you.
+
+Girl1:
+Hey, Miss Sakaki!
+
+Girl2:
+For you, please!
+
+Girl3:
+Join our club, this year!
+
+Sakaki:
+ Sports clubs aren't my kinda thing.
+
+Kagura:
+ Wow, classic Sakaki.
+
+Sakaki:
+ Classic?
+
+Boy1:
+Hey there, Miss Sakaki!
+
+Boy2:
+Please, on you!
+
+Boy3:
+Join our club, this year!
+
+Kagura:
+ So, Sakaki, how would you feel about maybe joining the swim team?
+
+ Well, I guess it is true what they say then.
+ That you're a silent lone wolf, who doesn't like to hang around big crowds.
+
+Sakaki:
+ Wolf?
+
+Everyone:
+Wow...
+Miss Sakaki, please say you'll join our club!
+
+
+Kagura:
+ Oh, man, Sakaki, you're playing this way too cool.
+
+Sakaki:
+ Wolf...
+
+Kagura:
+ Damn, what am I gonna tell to the swim team's seniors tomorrow?
+ Hm?
+ Oh, it's a cat.
+
+ Stupid furball!
+ Ahahaha...
+ That was great!
+
+Sakaki:
+Uh...
+
+ ws:start:WikiTextHeadingRule:6:&lt;h1&gt; 
+ Chiyo:
+ No one understands!
+
+Sakaki:
+ So, some first years said you were cute?
+
+Chiyo:
+ Yes!
+ Miss Osaka and I were walking in the hallway, we were surrounded by first year students.
+
+Girl1:
+You must be the famous Chiyo-chan!
+
+Girl2:
+You're so small!
+
+Girl3:
+And cute!
+
+Chiyo, Osaka:
+ Uh...
+
+Chiyo:
+ It was so rude!
+ I'm a second year student!
+ And when I told Miss Yomi about it.
+
+Yomi:
+ Hahaha, of course the first years are gonna be surprised when they see you.
+
+Kagura:
+ It's okay, Chiyo-chan, all you have to be is cute.
+
+Osaka:
+ Hehehe...
+
+Tomo:
+ If you hate it that much, you wanna pin a sign to your chest that says "I'm a second year"?
+ There!
+
+Chiyo:
+ None of them know what it's like!
+ I don't want first year students telling me that I'm cute or that I'm small or that I'm a kid.
+
+Sakaki:
+ I see.
+
+Chiyo:
+ Miss Sakaki, you understand how I feel, don't you?
+
+Sakaki:
+ Hm...
+
+Girls:
+That girl with long hair!
+She's just so cool!
+
+Girl1:
+She's a second year!
+
+Girl2:
+And she's in Class 3!
+
+Girl3:
+She's tall!
+She totally broke 170!
+
+Girls:
+Miss Sakaki is the coolest!
+
+Sakaki:
+ Huh...
+
+Chiyo:
+ Miss Sakaki, you know how I feel, right?
+
+Sakaki:
+ Sorry, but I'm afraid not.
+
+Chiyo:
+ No one understands me after all!
+
+Boy:
+Huh? What's a kid doing here?
+Um...
+
+Chiyo:
+ You are new to this school, aren't you?
+
+Boy:
+Um, well, yeah...
+
+Chiyo:
+ I am Chiyo Mihama, a second year student.
+
+Boy:
+What?
+
+Chiyo:
+ Senior Mihama to you!
+
+Boy:
+Um, okay, Senior Mihama...
+
+Chiyo:
+ That's right.
+
+Boy:
+Uh... S-Senior, huh?
+
+
+Yomi:
+ Man, I'm hungry.
+
+Tomo:
+ Hey.
+
+Yomi:
+ Yeah?
+
+Tomo:
+ It never really clicked with me before, but we were first year students until just the other day, right?
+
+Yomi:
+ Never mind that, just copy the homework.
+
+Tomo:
+ Oh, we're finally second years.
+ I feel like I gotta do something second year-ish, you know.
+
+Yomi:
+ Yeah, yeah, actually done copying.
+
+Tomo:
+ Ah...
+
+Yomi:
+ Whoa! Eating early?!
+ It seems so cheap and petty, but that curry...
+
+Tomo:
+ When you earned your places as second year high school students, eating lunch early is one of those things that goes way beyond general common knowledge.
+ It's like the basic of the basics, see?
+
+Tomo:
+ Thanks for the food!
+
+Chiyo:
+ Tomo, class is going to start in a minute.
+
+Tomo:
+ Hah, you can't eat lunch early if you're afraid of class!
+ Well, of course, perhaps it simply isn't a feat that a mere child could aspire to.
+ Come on, come on.
+ Hey, hey, hey, how do you like that?
+ It's a full hour before lunch period!
+ Who among you can resist temptation in this world of early lunches galore?
+
+
+Kimura:
+Huh?
+Oh, pardon me, I didn't realize it was lunch.
+
+Kimura:
+Huh? Huh?
+Eleven o'clock?
+Ding-dong!
+
+ ws:start:WikiTextHeadingRule:8:&lt;h1&gt; 
+ Yukari:
+ Damn! Almost everybody's gone home!
+
+Chiyo:
+ Oh, Miss Yukari.
+
+Yukari:
+ Whatever.
+ You guys, come here for a second!
+
+Tomo:
+ Huh?
+
+Yukari:
+ You know, I just had to pick this stupid thing up.
+
+Tomo:
+ Is it gonna explode when we open it?
+
+Yomi:
+ I don't know if we should open it.
+ I mean things you pick up off the street can be dangerous.
+
+Yukari:
+ Well, dangerous would've been better.
+ Look.
+
+Chiyo:
+ Haa!
+
+Everyone:
+It's a kitten!
+
+Chiyo:
+ He's so tiny!
+
+Osaka:
+ He's sleepin'.
+
+Yomi:
+ Look at the pink nose.
+
+Osaka:
+ What a tiny bundle.
+
+Tomo:
+ He's got nasty crud on his eyes!
+
+Yokari:
+ Okay, one of you have to take this cat home.
+
+Sakaki:
+ I can see him.
+
+Tomo:
+ What? He's not gonna stay with you?
+
+Yukari:
+ No way, I'm too busy, come on!
+ Look, a tiny kitten like this can't survive all on his own.
+ Don't you feel sorry for him?
+
+Tomo:
+ You found him, so you should keep him!
+
+Yukari:
+ I told you, I'm busy!
+
+Kagura:
+ What's going on?
+
+Yukari:
+ Listen, kittens are...
+ Someone just take him!
+
+Yomi:
+ That's easy for you to say, but...
+
+Osaka:
+ I can't do it.
+
+Yomi:
+ And neither can I.
+
+Tomo:
+ Yeah, my family's got a dog.
+
+Kagura:
+What are we...
+
+Chiyo:
+ I have Mr. Tadakichi...
+
+Kagura:
+ Oh, so it's a cat?
+
+Yomi:
+ Sakaki?
+
+Sakaki:
+ No, I can't, either.
+
+Yomi:
+ Oh, man...
+
+Sakaki:
+ He's curled up into a little ball like a marble, marble, marble calico...
+ I know, I'll name him Marco for short.
+
+Kagura:
+ Hey, Sakaki.
+
+Sakaki:
+ When you think of Marco, there's that story...
+
+Kagura:
+ Sakaki?
+
+Sakaki:
+ Could he be traveling 3000 leagues in search of his mother?
+
+Kagura:
+ Huh?
+
+Sakaki:
+ Is he going to journey that 12,000km all by himself?
+
+Kagura:
+ Hello?
+
+Sakaki:
+ He... he's probably been through a lot of sad and tough times that simply can't be expressed in one or two words.
+
+Kagura:
+ O...key...
+
+Sakaki:
+ Be strong, Marco.
+
+Kagura:
+ Ma... Marco?
+
+Tomo:
+ Tama!
+
+Everyone:
+Tama, Tama!
+
+Tomo:
+ It's time to chime!
+
+Chiyo:
+ Oh, what if our class took care of Tama.
+
+Yukari:
+ As if.
+
+Osaka:
+ Oh, I see what you were saying.
+ So, it's someone's duty to take care of him, right?
+
+Sakaki:
+ Me.
+
+Kagura:
+ Huh?
+
+Osaka:
+ That's Chiyo-chan for ya. You're so smart.
+
+Chiyo:
+ Well, I'll be the pet keeper if there's no one else.
+
+Sakaki:
+ Me.
+
+Yukari:
+ No, no! This isn't like keeping goldfish!
+
+Tomo:
+ All right! It's up to me to help you out!
+
+Yomi:
+ Oh, yeah?
+
+Tomo:
+ Yeah, actually I live right next to a pounds.
+
+Yomi:
+ That doesn't help.
+
+Osaka:
+ Wow, he's super cute!
+
+Chiyo:
+ I wanna hold him!
+
+ He's just too cute!
+
+Osaka:
+ Oh, me too.
+ He's a nice kitty.
+
+Sakaki:
+ Me... me...
+
+Tomo:
+ I get him next, okay?
+
+Sakaki:
+ Careful...
+
+Yomi:
+ Jeez, Tomo, watching you hold him makes me nervous.
+ Here, you should hold him gently like this.
+
+Tomo:
+ Hey, Yomi, no fair.
+
+Yomi:
+ Do you wanna hold him, Sakaki?
+
+Sakaki:
+ Mm.
+
+Tomo:
+ Hey, it's running away!
+
+Yukari:
+ Don't worry, I just know he'll make it on his own.
+
+Yomi:
+ That's not what you said two minutes ago!
+
+
+-- Preview --
+
+Tomo:
+Hey, Kagura!
+I don't care if Miss Sakaki's rival!
+Quit challenging her over and over like a stupid on-trick pony!
+
+Kagura:
+Who are you calling stupid!
+
+Tomo:
+Well, if you're so smart, then try saying "I'm a big stupid idiot," in another language.
+
+Kagura:
+What?
+Um... Ich bin ein... super... dumb head.
+
+Tomo:
+Dumb head is right.
+
+Kagura:
+What did you say?!
+  

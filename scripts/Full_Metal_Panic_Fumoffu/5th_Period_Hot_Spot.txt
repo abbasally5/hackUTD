@@ -1,0 +1,835 @@
+
+ ws:start:WikiTextHeadingRule:0:&lt;h1&gt; 
+
+Voice:
+Hello. You have reached Brilliant Safetech.
+We're sorry, but no one is currently here to take your call.
+Please leave your message after the beep.
+And may the fortunes of war smile upon you.
+
+Sousuke:
+Béart. It's Sagara.
+The package arrived, but you sent me the wrong item.
+I ordered a special gun sight.
+The only thing I got was a strange bottle.
+I glanced over the manual, and it looks extremely dangerous.
+How could you even think of shipping something like that through air mail?
+Are you insane?
+Call me as soon as you can.
+
+Kaname:
+Who did you call?
+
+Sousuke:
+An old friend of mine, weapons dealer.
+He can get you almost anything, for the right price.
+Well, I ordered a special part for my gun, but it seems there was some kind of mixup.
+
+Kaname:
+Looks like one solid water bottle.
+
+Sousuke:
+Of course. It's designed not to break easily.
+
+Kagurazaka:
+Sousuke Sousuke from class 2-4!
+I have something to ask you about the club room that's under construction!
+Come to the faculty room now!
+
+Kyoko:
+So, what did you do this time, Sousuke?
+
+Sousuke:
+Ah, nothing really comes to mind.
+
+Kaname:
+You sure?
+
+Sousuke:
+Well yesterday, I saw some "Do Not Enter" tape around the construction area.
+So out of the kindness of my heart, I set up a high-voltage trap.
+That's all. You don't think she's mad about that...
+
+Kaname:
+Of course she's mad.
+
+Sousuke:
+Ow Ow Ow OW OW.
+
+Kaname:
+Some construction worker probably fell into your stupid trap.
+Come on.
+
+Sousuke:
+Nobody should touch that bottle.
+
+Kyoko:
+Well, in any case she's a good baby-sitter.
+
+Kazama:
+Sure is rough, though.
+
+Ono-D:
+Yes! I got one!
+
+Mizuki:
+Got what, Ono-D?
+
+Ono-D:
+This is a "Flaming Hot God of Curry Bread!"
+It's always been sold out.
+
+Kyoko:
+That's the new kind, right?
+
+Mizuki:
+I heard it's really spicy.
+
+Ono-D:
+I thought I'd try it out.
+Well, here I go!
+That's hot!!
+
+Mizuki:
+Gee. What a surprise.
+
+Ono-D:
+Hot! Hot! Hot! Hot!
+Water!
+
+Ren:
+I'm sorry, that's empty.
+
+Ono-D:
+Water!
+
+Mizuki:
+Empty.
+
+Ono-D:
+Water!
+
+Kazama:
+Ono-D! No! That's Sousuke's bottle!
+
+Kyoko:
+Here, have this.
+
+Ono-D:
+Thank you, Kyoko. That was too hot!
+Man, what was that baker thinking?!
+
+Mizuki:
+But, the name said it was hot, right?
+Of course it's gonna be spicy!
+
+Kazama:
+Uh, um, guys? I think you should take a look at this.
+
+Kyoko:
+You're such a scatterbrain.
+
+Kazama:
+You know, I think this is really, really dangerous.
+
+Mizuki:
+Well, try it again tomorrow.
+
+Ono-D:
+No way! Forget it! I've had enough super-hot stuff for the year!
+
+Kazama:
+No! Wait! I know this stuff is really dangerous!
+
+Mizuki:
+Yeah, that's probably right.
+
+Kazama:
+Hey, hey, you guys? Are you listening? Hello? This is really important!
+
+
+
+Kagurazaka:
+Honestly. You will apologize to that worker later on! You hear me?
+
+Sousuke:
+Understood.
+
+Mizuki:
+Huh? Lunch break's over?
+
+Ren:
+That was fast.
+
+Mizuki:
+Bye, Kyoko!
+
+Kyoko:
+Okay, later!
+
+Sousuke:
+Hold it!
+Someone, please tell me what happened to the contents of this bottle?!
+Give me a straight answer!
+I promise I won't get angry or make you pay me back for it.
+Just tell me who's responsible!
+
+Ono-D:
+Sorry, Sagara. I thought it was a water bottle.
+
+Sousuke:
+And the contents?
+
+Ren:
+I cleaned it up and threw it in the trash.
+
+Kagurazaka:
+Sagara, class is already starting...
+
+Sousuke:
+Listen, everyone!
+From now on you're forbidden to leave this classroom!
+That means you too! So, don't move!
+
+Mizuki:
+Huh? What do you mean?
+
+Ren:
+We need to get back to our class, Sagara.
+
+Sousuke:
+Doesn't matter!
+Whatever the circumstances, whoever enters this room from this point...
+
+Tsubaki:
+Sagara!
+I sent a letter challenging you to a fight on the roof today during lunch!
+Where were guhgwah gwhu?!
+
+Sousuke:
+This is an emergency.
+
+Mizuki:
+What's that? Now we can't get out!
+
+Kagurazaka:
+That's quite enough, Sagara! Just what are you... doing?
+
+Kaname:
+What's with that outfit?
+
+Sousuke:
+It's an NBC Protective Suit.
+
+Kaname:
+NB what?
+
+Sousuke:
+Wait, first thing's first.
+
+Kagurazaka:
+Now what are you doing? S-Sagara?
+
+Sousuke:
+I will (now) explain.
+Ladies and gentlemen!
+I must ask that 5th period be suspended immediately.
+
+Kagurazaka:
+What did you say?
+
+Sousuke:
+A serious disaster has occurred here.
+This bottle contained a bacteriological weapon.
+And releasing it from its special capsule has created a biohazard.
+
+Kagurazaka:
+Biohazard?
+
+Sousuke:
+Affirmative.
+An extremely dangerous bacteria created with the latest biotech has spilled out.
+It's insatiable, ferocious, airborne and once it infects someone, it will not stop until it devours its entire prey.
+That's what the manual said.
+
+Kagurazaka:
+So is it right here, in this room?
+
+Sousuke:
+Yes.
+
+Kagurazaka:
+Are we infected? Am I? And what about my students?
+
+Sousuke:
+I'm afraid so.
+Calm down! She just fainted!
+
+Kaname:
+But how can we calm down?!
+
+Tsubaki:
+Infected? What do you mean?
+
+Sousuke:
+Don't panic!
+Running around and shouting won't help anything!
+
+Mizuki:
+Don't be so selfish! Once you're infected, you die, right?
+But you've got the fancy suit, it's easy for you to say don't panic!
+
+Sousuke:
+But I'm the only one here who knows anything about bacteriological weapons.
+To come up with an effective strategy...
+
+Mizuki:
+I get it.
+You're just trying to save yourself, Sagara!
+
+Student:
+You've got some nerve! What the hell's wrong with you?
+What do you think you're doing to us, huh?
+
+Sousuke:
+Fine.
+Now do you all understand?
+I'm not giving you instructions simply to save my own life here.
+As an expert in war, I'm only trying to prevent the situation from getting worse.
+Everyone, please forget your hatred.
+And don't hold any grudges. That way, we can think about our next step.
+This tragedy isn't anyone's fault.
+
+Kaname:
+Sousuke...
+
+Sousuke:
+You all understand that, right?
+
+Kaname:
+Honestly! Guns and bombs, fine.
+But, biological weapons?
+
+Tsubaki:
+What kind of dangerous stuff are you packing, you bastard?
+
+Kyoko:
+Hey, guns and bombs are dangerous too, you know.
+
+Mizuki:
+What was in there?
+Just knowing it's a biological weapon won't help us.
+
+Kaname:
+Does anybody feel sick?
+Maybe we ought to go to the school's nurse.
+
+Kazama:
+I don't think that's a good idea.
+
+Kaname:
+Why is that?
+
+Kazama:
+Sousuke gave us strict instructions not to leave the class room because he didn't want the infection to spread any further.
+He said it was transmitted through the air.
+If we were to leave the room, the entire school would turn into one big infectious hot spot!
+
+Ono-D:
+But Shinji, nobody here feels sick!
+
+Kazama:
+One of the features of these weapons is that after someone's infected it takes some time before the symptoms to appear.
+But they're very deadly nonetheless.
+Sometimes they're even referred to as "the poor man's nuclear bomb."
+I've heard that some country in the Middle East is studying the Ebola virus for military use.
+That could even be what this is.
+
+Kaname:
+Ebola?
+You mean the one where you bleed all over your body and die?
+
+Kazama:
+Right. Known as the "flesh eating virus."
+If that's what this is, then none of us will get out of here alive!
+
+Tsubaki:
+What? No way!
+
+Student:
+I don't wanna die!
+Mommy!
+
+Kaname:
+Hold it guys! Stop it! Calm down!
+We can't leave the room! Didn't you hear?
+Dammit! I told you people! Calm down now!
+One more time! Stop acting like this!
+You'll just create more victims!
+
+Student:
+But, what about us?
+
+Kaname:
+Look, everyone. Think about how history is gonna judge this tragedy!
+If we lose ourselves in a panic and spread the infection throughout the entire school, rest assured, people will despise us for all eternity!
+Is that what you want?
+Hey, I'm scared too, you know.
+Before I have to die, I would've liked to at least go to Ohio and eat all the Trident-yaki I could.
+Or go to the soba shop by the station one last time and gorge myself on super-deluxe soba piled high with all the toppings I could want.
+Then I could die without regrets.
+That is how I feel.
+
+Kazama:
+It doesn't cost much to please you.
+
+Kaname:
+However! We can't let it get to us!
+Even with death staring us in the face, we must confront it with reason!
+We should bravely offer our lives on the sacrificial altar of fate and pray for our countrymen's safety.
+Isn't the brilliance of such a noble spirit what humanity is all about?
+
+Student:
+It's just like you said, Chidori.
+She's right. Let's stop behaving so shamefully.
+It won't be easy, but we should just face our destiny.
+
+Kaname:
+Thank you, everyone. I am truly proud of each one of you!
+I'm sorry for being so harsh with you!
+
+Student:
+What are you talking about, Kaname? We're the ones who were wrong!
+It'll be okay. We're all friends here, aren't we?
+We won't be dying alone. So there's no reason to be afraid.
+Thank you.
+
+Sousuke:
+What are you people crying for?
+
+Kaname:
+Quiet, you. We're all busy reflecting on the human conscience right now.
+You just stay over there and die.
+
+Ren:
+That's right, Sagara. You mustn't bother them now.
+
+Sousuke:
+Not an option. I haven't informed them of the vaccine yet.
+
+Kaname:
+Vaccine?
+
+Sousuke:
+The vaccine for the weapon. It was included for emergencies.
+See, it's right here. But there's only one dose.
+What's the matter?
+
+Kaname:
+Oh, Sousuke. Oh, Sousuke.
+You're a genius at making things more complicated, you know that?
+We'll draw for it! No hard feelings!
+
+
+Student:
+We're all gonna die... All of us...
+Hi, mom, it's me. Yeah, well, I, just wanted to say goodbye...
+
+Kaname:
+Kyoko...
+
+Kyoko:
+It's hard but it's okay. I had fun going to school with you.
+
+Kaname:
+It's so cruel. How could this happen? How could this have happened?
+Who's next? Mizuki?
+
+Mizuki:
+Yeah. Me.
+No! No! No! No! No! No! No!
+
+Kaname:
+Mizuki.
+
+Mizuki:
+I don't wanna die before I meet some wonderful guy!
+There must be some mistake! I demand a re-draw! You know what? I'll bet...
+
+Tsubaki:
+Stop embarrassing yourself!
+Now, look. It's not like I don't understand how you feel.
+But you're making a total ass of yourself, and that puts a stain on the life you've lived so far!
+Why can't you see that?!
+If this is to be your destiny, accept it, and decide how to use the rest of your life.
+
+Kaname:
+That was beautiful, Issei.
+It's your turn now.
+
+Tsubaki:
+I have no regrets in my heart.
+So even if I did draw the winner...
+You take this, Chidori.
+
+Kaname:
+Issei. No, I couldn't.
+
+Tsubaki:
+You will live along with my love!
+
+Kaname:
+Too bad. Okay. Next!
+
+Mizuki:
+Hey, your name is Issei, right?
+I just got so choked up when you yelled at me!
+
+Tsubaki:
+Now, look, woman!
+
+Mizuki:
+You seem like a nice guy, and we're gonna die anyway, so why not, you know, be with me till then? Huh? Huh?
+
+Tsubaki:
+Hey, stop it! Stop hugging me!
+
+Kaname:
+All right. So, how about you, Ren?
+
+Ren:
+Oh, whatever. I don't mind drawing last.
+
+Kaname:
+Hey, Sousuke? You need to draw a paper too.
+
+Sousuke:
+Yes. Then I guess I'll draw.
+Oh, it's the winner.
+
+Kaname:
+Winner?
+
+Sousuke:
+Yeah, I guess I win.
+Well, that's the way it is. Sorry.
+
+Tsubaki:
+Of all the people. Why you?
+
+Student:
+No way. There is no way that I'm just going to accept something like this.
+Normally I can handle pretty tough situations, but this is too much.
+This universe is so absurd, I'm going to die from insanity before the bacteria kills me.
+
+Sousuke:
+I understand. But I promise you I will never forget this tragedy.
+I will send the data directly to the weapon's maker.
+And warn them strongly to prevent such occurrences from happening in the future.
+That's why...
+
+Student:
+Why? Why, what?!
+
+Sousuke:
+You should all accept your fate calmly.
+
+Student:
+We're gonna kill you!
+
+Sousuke:
+Wait! Everybody calm down!
+Violence won't solve anything!
+Let's talk this over!
+
+Student:
+That's what you say, but you're still fighting back!
+
+Kaname:
+Everyone, stop! Stop this ugly fighting!
+We can just re-do the drawing!
+Please! Don't get me any more grief...
+Oh, who cares!
+
+Tsubaki:
+Sagara, die!
+
+Fujisaki:
+Quiet down!
+What is going on in here?
+This isn't some disorderly elementary school!
+Why can't you take your education more seriously?! Huh?
+
+Student:
+Oh no, he opened it. Even though it spreads through the air.
+Yes. How dare he.
+Oh, you've done it now, Fujisaki!
+
+Fujisaki:
+Done what?!
+
+Student:
+Who cares how far that stupid thing spreads down?!
+
+Kazama:
+I need to get rid of my naughty pictures before I die.
+
+Ono-D:
+Man, I gotta go to the bathroom.
+
+Kyoko:
+Yeah, so do I.
+
+Kaname:
+What'll we do now?! Everyone left! The bacteria, Sousuke! The bacteria!
+
+Sousuke:
+I know.
+
+Kaname:
+Just what kind of life did I have, for it comes to an end in this way?
+But then again, when I'm dying I won't have to deal with the clean up after all the messes you caused ever again.
+If I look at it that way [with that/then] maybe I can be happy!
+
+Tsubaki:
+Well, I'm not happy!
+There still happens to be one certain matter I have to settle once and for all before I die.
+Confessing to the woman I love or telling my family goodbye is my least concern!
+The only thing I have to do right now is...
+Knock it off, woman!
+
+Mizuki:
+Lighten up! I've decided to live for love till the end!
+
+Tsubaki:
+Anyway! What I want to say is I can't go off and die until I settle my score with you!
+
+Sousuke:
+Really?
+
+Tsubaki:
+That's right so say your prayers!
+Oh life, burst into flames!
+Show what you mean your final fiery glimmer!
+Now! I put all my strength into this!
+Daidomyaku-style Final Technique! Rin!
+
+Sousuke:
+I won.
+
+Kaname:
+Wow. I have no strength left to yell at you for that.
+Ren, where are you going?
+
+Ren:
+You see, I understand how grave the situation is now.
+Whenever time I have left, I prefer to spend it with the one I love.
+But it's just not to be...
+So now that things have come to this, I think I will enjoy a final cup of tea alone.
+
+Kaname:
+I'm sorry.
+
+Ren:
+Everyone, thank you for everything. Well then, take care.
+
+Kaname:
+Uh-huh, see ya.
+
+Sousuke:
+Kaname. Come with me, immediately.
+
+Kaname:
+Wh-, wait.
+
+Sousuke:
+There's no time.
+
+Kaname:
+Sousuke, where are we going?
+
+Sousuke:
+I said there's no time. Don't worry. Just come.
+
+Kaname:
+The Nurse's Office. But why...?
+Hey, wait, what are you doing, Sousuke?
+
+Sousuke:
+All right. Get undressed.
+
+Kaname:
+Huh?
+
+Sousuke:
+Strip down.
+
+Kaname:
+What are you saying? You don't... mean that.
+What? Because we're going to die?
+But, it's all so sudden. I'm not even prepared.
+And to do it in a creepy place like this?
+I can't. I just can't!
+
+Sousuke:
+It's all right. You don't have to say anything.
+
+Ren:
+Now, I can die and not have any regrets.
+
+Hayashimizu:
+Mikihara, what's going on?
+
+Ren:
+But, senior. Why are... why are you here?
+
+Hayashimizu:
+I finished my work in study hall, so I came to tidy up some business I had here.
+
+Ren:
+You mustn't be here. Please you must leave me. If you don't, then I...
+
+Hayashimizu:
+I can't leave you. Steady yourself.
+
+Ren:
+Oh, senior...
+
+Kyoko:
+I feel so hot. I wonder if this is the end.
+
+Ono-D:
+Oh, hey there, Kyoko.
+
+Kyoko:
+Ono-D! Hang in there.
+
+Ono-D:
+Hang in there... That's a pretty tall order right now.
+My head's starting to get all crowded and fuzzy, and I can't move a single muscle in my body.
+
+Kyoko:
+Oh, no.
+
+Ono-D:
+But you know what, Kyoko? I finally realized how beautiful the world is.
+
+Kyoko:
+Ono-D... Ono-D?!
+
+Ono-D:
+I guess it's finally come to the end.
+Looks like I'll be the first to go.
+
+Kyoko:
+No! Don't you die on me!
+
+Ono-D:
+You know, Kyoko, this is the first time I've seen you cry.
+
+Kyoko:
+No, please! Just hang on!
+
+Ono-D:
+This is the end... There's something I want to say.
+I just... want to tell you... to tell you that... to tell you th...
+
+Kyoko:
+You wanted to tell me what now?
+
+Ono-D:
+On, nothing. I feel really good.
+It's weird, my shoulders and hips feel fine now.
+
+Kyoko:
+What's going on?
+
+Ono-D:
+I don't know. Huh! Kyoko!
+
+Kyoko:
+No!
+
+Béart:
+Listen, Sagara, that's not a deadly virus!
+
+Sousuke:
+Explain.
+
+Béart:
+You know worthy attention on bacteria that can break down petroleum products?
+Well, our researcher was trying to put them to military use but he ended up creating an odd strain.
+
+Sousuke:
+And the result is this weapon?
+
+Béart:
+That's right! It's called the "Full Monty Bacteria."
+Around 36 degrees Celsius, in other words, at human body temperature, it multiplies at an incredible rate, and becomes active!
+When it does, it completely devours certain petroleum products, specifically polyester and nylon.
+That's what makes it such a ferocious bacteria!
+
+Sousuke:
+Are there counter-measures?
+
+Béart:
+No. None. Just a vaccine.
+It dies after about two hours, but until then wear nothing but natural fibers.
+
+Hayashimizu:
+Here. Put this on. It's made of wool.
+
+Béart:
+Everyone around you will become a victim.
+
+Ren:
+Oh, senior.
+
+Béart:
+Badly as a side effect, it relieves stiff shoulders and hips.
+
+Sousuke:
+We'll have to settle this later.
+
+Kaname:
+Well? What's the word? What's going on here?
+
+Sousuke:
+At the very least, it means this wasn't the strain of deadly bacteria.
+
+Kaname:
+You don't say.
+
+Sousuke:
+But, whatever the case may be...
+I doubt that I'll live for much longer...
+
+Student:
+I heard Sagara's behind this whole thing!
+It's Sagara's fault?
+Let's get him!
+That lousy son of a...!
+Looks like he got away!
+Find him!
+Get out here, you bastard!
+
+Sousuke:
+Hey, Luci, good job. That was fun, huh?
+
+Kaname:
+Um, yeah, but you're not done yet. You still have another line, Chris Patton.
+
+Sousuke:
+Oh, wait. There's still more?
+
+Kaname:
+Hello? Turn the page, goof-off.
+
+Sousuke:
+This is uruz 7! HQ, I'm surrounded by ferocious locals.
+Need immediate evacuation! Repeat! Immediate evacuation!
+
+Student:
+There he is!
+Rip him to shreds!
+  

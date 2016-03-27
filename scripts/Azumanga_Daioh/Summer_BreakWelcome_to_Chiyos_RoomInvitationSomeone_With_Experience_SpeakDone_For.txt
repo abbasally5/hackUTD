@@ -1,0 +1,939 @@
+
+ ws:start:WikiTextHeadingRule:0:&lt;h1&gt; 
+ Yukari:
+ Your fun summer break will be starting tomorrow!
+ So, who's got fun plans? Anyone?
+
+Student:
+Me! My family's going to New Zealand.
+
+Yukari:
+ Oh my, sounds great.
+
+Kaorin:
+Um, I'm going to Astronomy camp.
+
+Yukari:
+ Oh my, sounds great.
+
+Chiyo:
+ Um... Will you be going on vacation too?
+
+Yukari:
+ Why, of course! I'm flying to Neptune.
+
+Yukari:
+ Okay, time to pass out report cards!
+
+Student:
+Hey, what's up with this stuff?
+
+Yukari:
+ All right!
+ Those of you who got drills with your report cards will stay here until you finish them! Chop chop!
+
+
+Sakaki:
+ I wonder if he gets hot sitting there with the sun beating down on him.
+
+Yukari:
+ Good morning.
+
+Nyamo:
+ It's early evening, you know.
+ What?
+ Have you turned into a night owl since the break started?
+
+Yukari:
+ Night owl?
+
+
+Nyamo:
+ I don't believe you.
+ Come and sit down here!
+
+Yukari:
+ What?
+
+Nyamo:
+ I'm telling you to sit!
+
+Yukari:
+ Oh, would you just shut up?
+
+Yukari:
+ What do you wanna do so early in the morning?
+
+Nyamo:
+ I told you, it's early evening!
+ Set up a daily schedule!
+ You shouldn't be so lazy just because it's summer break!
+
+Yukari:
+ What's your deal?
+ Are you some kind of school teacher?
+
+Nyamo:
+ We both are.
+
+Yukari:
+ I can't write anything with you watching me!
+
+Nyamo:
+ Fine, fine.
+
+Nyamo:
+ Done yet?
+
+Yukari:
+ I got it!
+
+Nyamo:
+ Show me.
+
+Nyamo:
+ What is this?
+ You have no drive.
+
+Yukari:
+ No, I certainly don't.
+
+Nyamo:
+ Summer break is a great opportunity; don't you wanna spend some of your time productively?
+ Read a book or plan your lessons for the next semester or something?!
+
+Yukari:
+ Jeez, would you put a lid on already... Oh!
+
+Nyamo:
+ What is it?
+
+Yukari:
+ Let's go have fun somewhere tomorrow!
+
+Nyamo:
+ Have fun, huh?
+
+Yukari:
+ What the hell is your problem, Nyamo? It's better than being lazy, isn't it?!
+
+Nyamo:
+ I can't.
+
+Yukari:
+ Oh, you can't.
+
+Nyamo:
+ Look, I can't help it.
+ I've got swimming tomorrow!
+
+Yukari:
+ "I can't help it.
+ I've got swimming."
+ Swimming?!
+
+Nyamo:
+ What?
+
+Yukari:
+ The pool, right?! I'm coming with you!
+
+Nyamo:
+ It's the school pool!
+ I'm the advisor for the swim team.
+
+Yukari:
+ Hold on a second.
+ The school pool would be free, right?
+
+Nyamo:
+ I'm telling you, I'm not going there to have fun!
+
+Yukari:
+ What do you want from me?
+ It's better than being lazy, isn't it?!
+ It's better than that!
+
+Nyamo:
+ I can't help it, I'm the teacher.
+
+Yukari:
+ I'm a teacher too.
+
+Nyamo:
+ Yes, of course you are.
+
+Yukari:
+ Hey, I know.
+
+Nyamo:
+ You know...
+ You still have no motivation.
+
+Yukari:
+ Uh... score two for Nyamo...
+
+
+Yukari:
+ You've gotta be in a swimsuit for the summer!
+ I'm going for a little more fanservice this year!
+ Check it out!
+ Two times as much!
+
+Yukari:
+ Ta-da!
+ Check out my awesome shark!
+
+Kagura:
+ Miss Kurosawa, that woman in Lane 8 is in a world by herself.
+
+Nyamo:
+ Don't let her bother you.
+
+Kagura:
+ But I can't help it. She does bother me.
+
+ ws:start:WikiTextHeadingRule:2:&lt;h1&gt; 
+ Tomo:
+ Summer Break Special, Home Inspections!
+ We're going to Chiyo-chan's today!
+ Yay!
+
+Tomo:
+ Hey, hey, where are you going, Yomi?!
+
+Yomi:
+ Your shouting in front of the train station is embarrassing.
+
+Tomo:
+ Oh, give it a rest.
+ Don't be such a stick in the mud.
+ You know what they say: "Three makes a rowdy bunch", right?
+
+Yomi:
+ Yeah, and I want no part of that.
+
+Osaka:
+ Are we a rowdy bunch, Mister?
+
+Tomo:
+ Ah! I get it, I get it! Okay?
+
+Osaka:
+ So, so I...
+
+Man:
+Eh?
+
+Tomo:
+ Let's see...
+ Summer Break Special, Home Inspections!
+ We're going to Chiyo-chan's today!
+ Yay!
+
+Tomo:
+ Hey, hey, Yomi, where are you going?!
+
+Yomi:
+ Your simple presence is killing my ears.
+
+Tomo:
+ Hey c'mon, I can't help it. Give me a break.
+ So, our presence is a little rowdy, so what?
+
+Yomi:
+ Don't be lumping me in the same group as you.
+
+Osaka:
+ Hey, Mister, would you say our simple presence is too rowdy for ya?
+
+Tomo:
+ Ah! I get it already!
+ Once we're at Chiyo-chan's, I'm not gonna let you make copies with me, Osaka.
+
+Osaka:
+ Make copies?
+
+Tomo:
+ That's right!
+ So, we don't wastefully wile away our happy summer break.
+ I've made shrewd and daring plans to copy Chiyo-chan's homework!
+
+Yomi:
+ Oh, I see. So that's the real reason why...
+
+Tomo:
+ Hey!
+
+Osaka:
+ Oh, I'm just not shrewd that way.
+
+Tomo:
+ Ha! And I'm not gonna let you copy mine!
+
+Yomi:
+ I don't want it.
+
+Tomo:
+ Why not?!
+
+Yomi:
+ I'll do it myself.
+
+Tomo:
+ Well, isn't that great, Miss Smarty Pants.
+ Must be nice having your figure too.
+ Look at me and get carried away with my oh-so-cool summer style.
+
+Osaka:
+ But do y'all have boyfriends to show off your style too?
+
+Yomi:
+ I'm gonna buy some cake so we have a gift for Chiyo-chan.
+
+Tomo:
+ Yay! Cake!
+ I can't believe we're having cake!
+ Yomi, you're the greatest!
+
+Osaka:
+ Cake! Yay!
+
+
+Everyone:
+Wow...
+
+Tomo:
+ Hey, shouldn't we be getting there soon?
+
+Yomi:
+ Yeah, we're in the right neighborhood for the address.
+
+Tomo:
+ Wow... do you think this is really the place?
+
+Yomi:
+ The nameplate says it's Chiyo-chan's house.
+
+Osaka:
+ Amazin'...
+
+Tomo:
+ It won't self-destruct, will it?
+
+Yomi:
+ Not likely.
+
+Yomi:
+ There's no need to sprint off!
+
+Chiyo:
+ Hi!
+ Come on in!
+ I've been expecting you.
+
+Yomi:
+ I-I said there's no need to sprint off!
+
+Tomo:
+ Wow, I think maybe we should've splurged and bought 'er a melon.
+
+Yomi:
+ I think we'll be okay keeping it simple.
+
+Chiyo:
+ Hello and welcome to my home, everybody!
+ This is the first time my high school friends are visiting, so I'm very happy!
+ Now, please don't be so formal; come on in!
+
+Tomo:
+ Um, uh, thank you for having us.
+
+Chiyo:
+ We have lots of rooms, but this one is mine!
+
+Tomo:
+ Wow!
+
+Osaka:
+ It's huge.
+
+Tomo:
+ Man, Chiyo-chan, this is one awesome place you got here.
+
+Chiyo:
+ Oh, it's not that great.
+
+Yomi:
+ Trust me, it's pretty great.
+
+Tomo:
+ Well, yeah, it's like you've practically won already.
+
+Chiyo:
+ Huh?
+
+Tomo:
+ Right, Osaka?
+
+Osaka:
+ Huh? Yeah, let's all go have fun somewhere.
+
+Everyone:
+Huh?
+
+Yomi:
+ If we coulda, then we woulda.
+
+Osaka:
+ So, why doncha?
+
+Tomo:
+ Ugh... the money...
+
+Yomi:
+ Huh...
+
+Chiyo:
+ Hey, I know, we can all go to my summer home!
+ What do you say?
+
+Yomi, Tomo:
+ Su... Summer home?!
+
+Osaka:
+ Summer home?
+
+
+ ws:start:WikiTextHeadingRule:4:&lt;h1&gt; 
+ Tomo:
+ Summer break special! Home inspections!
+ Today we're going to Chiyo-chan's summer home!
+ Yay!
+
+Osaka:
+ Sure turned out to be a nice day.
+ It's a perfect day for goin' to a summer home.
+
+Tomo:
+ Well, yeah, maybe it is and maybe it isn't, but...
+ Chiyo-chan, you invited Miss Sakaki, right?
+
+Chiyo:
+ Yes!
+ I saw her at the library, so I asked her.
+ Was that wrong?
+
+Tomo:
+ What do you think?!
+ It's A-Okay! Good job! Yay!
+
+Chiyo:
+ Yay!
+
+Tomo:
+ However!
+ These guys, who invited these guys?!
+
+Yukari:
+ Don't call us "these guys"!
+ Thanks to us, you're getting car rides!
+ Free transportation, kids! Free!
+
+Tomo:
+ Okay, sure, that's true, but...
+
+Yukari:
+ I see. Miss Takino, you're taking the train, ehhhh?
+
+Tomo:
+ What?!
+ Yay! Car trip! Car trip! We're goin' on a car trip! Wooo!
+
+Yukari:
+ Now that that's settled.
+ Let's split up into groups!
+ Who wants to go in my car!
+ My, I mean my parents' car costs more, FYI!
+
+Osaka:
+ Miss Yukari?
+
+Yukari:
+ Yeah, what?
+
+Osaka:
+ Whatever it might have cost, this car's got dents all over the place.
+
+Yukari:
+ Don't worry about it.
+ You can't live a full life if all you do is worry.
+
+Osaka:
+ But...
+
+Nyamo:
+ Well... I guess I'll take three and Yukari'll take two.
+
+Chiyo:
+ Excuse me, but Miss Yukari's car looks a lot roomier than yours, so shouldn't she be the one to take three people with her?
+
+Nyamo:
+ The fewer fatalities, the better, right?
+
+Everyone:
+Aaaaaaaah!!
+Rock, paper...
+
+Yukari:
+ Wow, that's a nice looking summer home!
+ Fresh air and a great location by the seaside!
+
+Yomi:
+ I saw everything.
+
+Osaka:
+ We, we ain't, we ain't afraid of roller coasters no more.
+
+Tomo:
+ Wow! It's the ocean, the ocean, the ocean!
+ Yeah, we're at the ocean... Let's go!
+ Melon time!
+
+Yomi:
+ Yes, melon smashing is a common pastime, but don't we need a stick or a bat or something?
+
+Tomo:
+ Huh? Any bats on the ground?! Any bats?! Huh? Huh, huh?
+
+Yomi:
+ No...
+
+Osaka:
+ Melon smashin', huh?
+
+Chiyo:
+ Oh...
+
+Sakaki:
+ So, what's up?
+
+Chiyo:
+ What do you have to do to get to be big like that?
+
+Tomo:
+ Ha, we don't need a bat!
+ Spirit all the way!
+
+
+Osaka:
+ So, hemorrhoids...
+
+Sakaki:
+ Hm?
+
+Osaka:
+ Let's say you're writin' the word "hemorrhoids" in hiragana, you put the dots on the "chi," don't ya?
+ Not like you normally do with "shi."
+
+Sakaki:
+ Uh, yeah.
+
+Osaka:
+ But when I was lookin' it up in the dictionary, I was real surprised 'cause it was written with a dotted "shi."
+
+Sakaki:
+ Oh, really?
+
+Osaka:
+ You know seals, right?
+
+Sakaki:
+ Huh?
+
+Osaka:
+ It's "sea" plus "leopard" in kanji.
+
+Sakaki:
+ Is... is that a fact?
+
+Osaka:
+ I guess they must be pretty ferocious.
+ But they look awful cuddly.
+
+Sakaki:
+ Oh...
+ You're fairly... knowledgeable.
+
+Osaka:
+ You think so?
+
+Osaka:
+ Speakin' of the sea,
+ I think I'd like to ride a dolphin.
+
+Sakaki:
+ That'd be nice.
+
+Osaka:
+ Wouldn't it?
+
+Osaka:
+ Okay, so, you know how we write "dolphins" as "sea pig"?
+
+Sakaki:
+ Uh-huh.
+
+Osaka:
+ But we use the same character for "pig" in "river pig", and somehow it comes out as "puffer fish", but they live in the sea.
+
+Sakaki:
+ Uh-huh.
+
+Yomi:
+ What are you two up to?
+
+Osaka:
+ Oh, thinkin' about hemorrhoids.
+
+Sakaki:
+ No, we weren't!
+
+ ws:start:WikiTextHeadingRule:6:&lt;h1&gt; 
+ Osaka:
+ Summer break special.
+ How to fully enjoy summer nights.
+ It ain't a summer night unless you tell horror stories.
+
+Yomi:
+ Well, that may be pretty standard, but do you know any really scary ones?
+
+Osaka:
+ No, I don't know any.
+
+Yomi:
+ Then, who cares.
+
+Chiyo:
+ Oh, that reminds me!
+ This is a story about another summer home.
+
+Yomi:
+ Oh. Yeah? Yeah? Go on!
+
+Chiyo:
+ It seems they had an enormous outbreak of cockroaches one summer.
+
+Yomi:
+ Then? Then what?
+
+Chiyo:
+ Giant cockroaches crawling everywhere all over the...
+
+Tomo:
+ Ya!
+ Summer nights are for dirty tales!
+
+Osaka:
+ Dirty tales?
+
+Tomo:
+ Oh, yeah!
+ So, let's take this moment to get the two adults here to tell us stories that we can really learn from!
+
+Yukari:
+ Huh?
+
+Tomo:
+ Come on, tell us a story from your vast store of adult experiences,
+ starting with Miss Yukari!
+
+Yukari:
+ Who, me?
+
+Tomo:
+ Yup!
+
+Yukari, Nyamo:
+ Um...
+
+Chiyo:
+ Please, no dirty stories, please no!
+
+Yomi:
+ Lay off, they're too stunned to answer.
+
+Tomo:
+ We're all waiting on you!
+
+Tomo:
+ Yukari, a word!
+
+Yukari:
+ Uh... being as a single woman really isn't that bad.
+
+Tomo:
+ Huh...
+ That doesn't help us at all.
+
+Osaka:
+ Hey, Miss Kurosawa, you look popular.
+
+Nyamo:
+ Huh?
+
+Tomo:
+ Now, please, Miss Kurosawa!
+ We're waiting!
+
+Nyamo:
+ Um... Well, you see...
+ Um... I'm single too, so... I don't have any stories like that.
+ Sorry, seems I failed you girls.
+
+Tomo:
+ Uh... darn...
+
+Yukari:
+ Maybe, but you weren't single last summer, Nyamo.
+
+Tomo:
+ What?
+
+Nyamo:
+ .....
+
+Chiyo:
+ Huh?
+
+Tomo:
+ Oh, I think that killed the mood right there.
+
+Osaka:
+ Oh, I know.
+
+Tomo:
+ Yeah, what's that?
+ Horror stories again?
+
+Osaka:
+ Sometimes, you get serial killings with this kinda situation in a drama.
+
+Yomi:
+ Yeah, that's true.
+
+Osaka:
+ First one, then another...
+ You think that you haven't seen somebody for a while, but actually...
+
+Tomo:
+ Ooh, creepy...
+ So, so then what?
+
+Osaka:
+ Victim number one would be Tomo.
+ Then, one by one, y'all get killed...
+ So you see...
+
+Tomo:
+ What? See what?
+
+Osaka:
+ I am the murderer.
+
+Yomi:
+ So, you're the murderer?
+
+Tomo:
+ Oh, man, that story was lame.
+ Oh, I know!
+ I'll tell you what summer nights are for.
+
+Osaka:
+ Haha...
+
+
+Yukari:
+ There! There! Go! Go! Go!
+
+Nyamo:
+ Oh, yeah. She's excited about them now, since she didn't have to pay for them.
+
+Chiyo:
+ You're real good with sparklers, Miss Sakaki.
+
+
+Sakaki:
+ Huh, this place is great.
+ I wish we could stay here and didn't have to go home.
+
+Chiyo:
+ Oh, yes.
+ But...
+
+Sakaki:
+ But?
+
+Chiyo:
+ I really like to make it home alive.
+
+Sakaki:
+ The Yukari-mobile...
+
+Chiyo:
+ I'm not good at rock-paper-scissors!
+
+
+Sakaki:
+ And today was the last day of summer break, too.
+
+ ws:start:WikiTextHeadingRule:8:&lt;h1&gt; 
+ Tomo:
+ Good morning!
+ Hey, how've you guys been?
+ I brought all the photos from our trip over summer break!
+
+Kaorin:
+Let me see! Let me see!
+
+Chiyo:
+ Me too!
+
+Kaorin:
+I really wish I could've come.
+If only it hadn't been at the same time as my club's camp.
+Then I would've...
+Ah... Mi-i-i-i... M... Mi-i-i-iss Sakaki went with you too?!
+
+Tomo:
+ Well, yeah.
+
+Kaorin:
+Well then, why on earth didn't I go?!
+
+Tomo:
+ You said yourself you had camp.
+
+Kaorin:
+Huh? Noooooooo!!!
+
+Tomo:
+ Oh, that?
+ I guess I toss and turn a lot in my sleep.
+
+Kaorin:
+But why?!
+
+Tomo:
+ Um, no real reason...
+
+Kaorin:
+Uh? What's this?
+
+Tomo:
+ Oh! That's the Yukari-mobile.
+
+Kaorin:
+Ah, so this is it...
+I heard you had a rough time, Chiyo-chan.
+Chiyo-chan?
+
+Tomo:
+ Chiyo!
+
+Chiyo:
+ Will you please stop the car?
+ Miss Yukari, please stop.
+ Please stop.
+ Please be more careful...
+ I'm sorry.
+ Oh, don't. We're going to die.
+ Grandpa...
+ Look out!
+ Mister grandpa!
+ Mister grandpa!
+ Look out!
+ Run away!
+ Run away!
+
+
+Tomo:
+ Miss Sakaki, I've got some photos for you.
+
+Sakaki:
+ Photos from my very first trip with friends...
+ Thanks, Tomo.
+
+Tomo:
+ Hey, check that out.
+ If you look real close, you can see a ghost face behind you.
+
+Sakaki:
+ Oh!
+
+Yomi:
+ Oh, you're right.
+
+Chiyo:
+ Huh?
+ Oh wow, you're so lucky to have a photo like that.
+
+Osaka:
+ Huh? Hey, that's my neighbor Mr. Horikoshi from back when I was in Osaka.
+
+ Well, probably.
+
+
+Yukari:
+ That's right.
+ Today starts the second semester!
+ Let's all make sure we study hard!
+ So, summer break is officially over now.
+ Did everyone go somewhere and have lots of fun?
+
+Student:
+All sorts of stuff happened, so we didn't go anywhere.
+
+Yukari:
+ Oh, my. Isn't that just too bad?
+
+Kaorin:
+The only thing I did was Astronomy camp.
+
+Yukari:
+ Oh, my. Isn't that just too bad?
+
+Yukari:
+ All right!
+ Listen up now!
+ The more fun your summer break was, the worse your summer break hangover it's gonna be.
+ Is everyone in class clear on this matter?
+
+Tomo:
+ Then you must be in the worst shape of all of us!
+
+Yukari:
+ Bingo! Just like you say!
+ Oh, man.
+ When's winter break again?
+
+
+-- Preview --
+
+Yukari:
+The theme of the next episode of Azumang Daioh is "victory"!
+Hold the word "victory" dear to your heart, put your spirit into it and win!
+
+Osaka:
+Miss Yukari, you're really into this.
+You've got your heart set on this Sports Fest, huh?
+
+Yukari:
+When I say win, I mean against Class 5! Nyamo's class!
+
+Yomi:
+You wouldn't happen to have your heart set on something more?
+
+Yukari:
+If we win, I'll treat you!
+  

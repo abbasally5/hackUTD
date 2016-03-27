@@ -1,0 +1,1147 @@
+
+ ws:start:WikiTextHeadingRule:0:&lt;h1&gt; 
+ Yukari:
+ The time is once again upon us!
+ The sports fest is tomorrow!
+ We must beat Class 2 no matter what!
+
+Kagura:
+ Class 2?
+
+Tomo:
+ So, that's Nyamo's class, right?
+
+Osaka:
+ Oh...
+
+Kagura:
+ So...
+
+Yukari:
+ Work hard, do your best, and seize the victory.
+ Is that not a beautiful goal?
+ That's 10,000 yen worth of beauty! It'll be precise.
+
+Tomo:
+ Oh! Oh!
+ If we beat Class 2, we should get juice even if we are not first place!
+
+Yukari:
+ Non, non, non. Such lowly ambitions simply will not do.
+ Aim for victory!
+ If you are victorious, I'll buy drinks for everyone.
+ Maybe some steak.
+
+Osaka:
+ That'd be nice
+ Some steak.
+
+Kagura:
+ What?
+
+Osaka:
+ But super spicy sauce is no good.
+ I can't handle spicy food.
+
+Kagura:
+ I see.
+ So, what does steak have to do with the sports fest?
+
+Osaka:
+ Cayenne is actually a type of red chili pepper.
+ Did you know that?
+
+Yukari:
+ Hey, you two slackers!
+ Do you guys have the will to win?!
+ Especially you, Kagura!
+
+Kagura:
+ Huh?
+
+Yukari:
+ Do you know why you're sitting in this class right now?!
+
+Yomi, Kaorin:
+ So, that really was the reason...
+
+Yukari:
+ Now, let's see you put some spirit into it!
+ Down with Class 2!
+ To victory! Go Class 3!
+
+Everyone:
+Go Class 3...
+
+Yukari:
+ Not enough spirit!
+ One more time! Go Class 3!
+
+Everyone:
+Go Class 3!
+
+Nyamo:
+ Well, I'll take attendance now.
+
+
+Yomi:
+ She's really into this.
+ So, steak again, is it?
+
+Osaka:
+ Well, that's if we win, right?
+
+Chiyo:
+ With Miss Kagura and Miss Sakaki, our class will be really strong this year,
+
+Tomo:
+ We've also got some people that drag us down.
+
+Yomi:
+ You're the one who drags us down!
+
+Tomo:
+ What do you mean?
+ Didn't you see my many accomplishments last year?!
+
+Yomi:
+ Yeah, I did.
+ I saw you trip magnificently at the finish line and take out the runners behind you.
+ That great accomplishment that made such a great big mess.
+
+Tomo:
+ So what?!
+ Can't you at the very least appreciate my fantastic showmanship?!
+
+Chiyo:
+ Uh, um, please sign me up for fewer events this year.
+
+Osaka:
+ And why are we doing 10km marathon, anyway?
+ Couldn't there be a bread-eatin' contest?
+
+Tomo:
+ It's true!
+ I tripped on purpose, okay?!
+
+Yomi:
+ Don't worry. Chiyo-chan.
+ You're definitely a vital part of our team.
+ What kind of outfit do you think we should make for the cheering contest?
+
+Kimura:
+Well, I have a suggestion concerning that.
+
+Everyone:
+Ah!
+
+Osaka:
+ Oh!
+
+Kimura:
+This time, this wonderful baton is the key point so I...
+
+Yomi:
+ Hm!
+
+Kimura:
+Ah...
+
+Tomo:
+ Huh? What's this?
+ It's a photo of a woman.
+
+Osaka:
+ She's a real pretty lady.
+
+Tomo:
+ Who is it?
+
+Kimura:
+My wife.
+
+Everyone:
+No way!
+
+Tomo:
+ Someone like that...
+ This is a joke, right?
+ Uh...
+
+Kimura:
+What are you talking about?
+I have a photo of all of us together.
+
+Tomo:
+ So, uh, who's the little girl?
+
+Kimura:
+That's my daughter.
+
+Tomo:
+ She seems like a very intelligent child...
+
+Yomi:
+ Weird.
+
+Osaka:
+ Yeah.
+
+Tomo:
+ Any way you look at it, that wife for Kimura is just plain weird!
+
+Yomi:
+ Definitely.
+
+Chiyo:
+ Hey, you guys, that's terrible!
+ It's true that he's an odd teacher, but...
+
+Osaka:
+ I smell some sorta conspiracy.
+
+Tomo:
+ Yeah, there's insufficient motive for her to have chosen Kimura.
+
+Chiyo:
+ That's probably just her taste in men...
+
+Osaka:
+ That wife's got awful taste.
+
+Tomo:
+ Oh, I know!
+ Maybe his wife's got a real bad personality.
+ And that's the reason why...
+
+Yukari:
+ No! Believe it or not, his wife is supposedly so kind, she can tolerate THAT.
+
+Tomo:
+ Does... does that mean that she's an angel?
+
+ ws:start:WikiTextHeadingRule:2:&lt;h1&gt; 
+ Osaka:
+ It did turn out clear today.
+
+Yomi:
+ What's the matter?
+ You don't look too happy.
+ I thought you were looking forward to running in the obstacle course race this year.
+
+Osaka:
+ Oh, that's fine.
+ But it ain't the issue at hand.
+
+Chiyo:
+ Issue at hand?
+
+Osaka:
+ Yeah, it's a real big issue too.
+ When it comes to marathons, I'm no good.
+
+Chiyo:
+ You mean that 10km marathon we have to do?
+ I've been despairing over that one as well.
+
+Yomi:
+ Not good at it?
+ Then, is there anything you are good at, Osaka?
+
+Osaka:
+ Um... Yeah, puzzles...
+
+Yomi, Chiyo:
+ Huh...
+
+Osaka:
+ I lied. I'm no good at puzzles either.
+
+Yomi:
+ Don't tell half-baked jokes like that.
+
+Osaka:
+ Oh, I hate it.
+
+Yomi:
+ Why not try and think of it as like a diet.
+
+Osaka:
+ Oh, maybe that would work.
+
+Yomi:
+ Say for example, you never go running long distances on your own.
+ Well, this is your chance.
+
+Osaka:
+ That's a good point, but I'm not fat.
+
+Yomi:
+ Wait, you only said that you weren't?
+
+Osaka:
+ Uh...
+ Just thinkin' 'bout the obstacle course, I can't wait!
+
+Kagura:
+ Yeah, I'm gonna do my best today!
+
+Tomo:
+ That's right.
+ Do your best. Do your very best!
+
+Kagura:
+ What's with the attitude, huh?!
+
+Tomo:
+ It's quite simple, Kagura.
+ The harder you work and the faster you run, the more likely Yukari is treating me to juice, right?
+ So, you just go out there and do your best for me!
+ Hahaha.
+
+Kagura:
+ Damn it...
+
+Yomi:
+ They're so incredibly simple.
+
+
+Kimura:
+FIRST PLACE! Hurray!
+
+Announce:
+And that was the message from the Executive Sports Fest Committee Chairman.
+
+Announce:
+We will now be starting the basket scramble.
+
+Chiyo:
+ I didn't get a single ball in last year, but I will get one today.
+
+Tomo:
+ I didn't get any in last year either, but I'm gonna get three this time!
+
+ Chiyo:
+Ooh.
+
+Osaka:
+ Hey, I wasn't able to score any baskets either last year, but this year, I'll put in five!
+
+Chiyo, Tomo:
+ Ooh!
+
+Tomo:
+ Well, in that case, I'll get three more for a total of six!
+
+Chiyo:
+ I wanna get in at least two as well.
+
+Kagura:
+ We can't count on these guys.
+ So, let's do our best, okay?
+
+Nyamo:
+ Ready?!
+
+Tomo:
+ Take that!
+
+Osaka:
+ Take that!
+
+Chiyo:
+ There!
+
+Tomo:
+ Take that!
+
+Osaka:
+ Take that!
+
+Chiyo:
+ There!
+
+Tomo:
+ Take that!
+
+Osaka:
+ Take that!
+
+Chiyo:
+ There!
+
+ Ah, I did it! I did it!
+The ball went in! My ball went in the basket just now!
+ Did you see?! Did you see, you guys?!
+
+Tomo:
+ Take that!
+
+Osaka:
+ Take that!
+
+Tomo:
+ There!
+
+Osaka:
+ Take that!
+
+Tomo:
+ And that!
+
+Osaka:
+ Take that!
+
+Tomo:
+ And that!
+
+Chiyo:
+ There!
+
+
+Announce:
+Next up is ball rolling.
+
+Tomo:
+ Tomo-Chiyo pair, let's go all the way!
+
+Chiyo:
+ Yeah!
+
+Nyamo:
+ Ready?!
+
+Announce:
+Next up is the obstacle course race.
+
+Osaka:
+ I'll go do my best for y'all!
+
+Tomo:
+ Isn't having Osaka do the obstacle course race a really bad case of miscasting?
+
+Nyamo:
+ Ready?!
+
+Yomi:
+ Well, she kept saying how she just really wanted to do it, so...
+ You know where you stick your face in the flour to get the candy?
+ She said she wanted to do that.
+
+Tomo:
+ Huh?
+
+Osaka:
+ Here goes!
+
+ ws:start:WikiTextHeadingRule:4:&lt;h1&gt; 
+ Chiyo:
+ Here, Miss Osaka.
+ Please wipe your face.
+
+Yomi:
+ So why's that gotta be the four of us now?
+
+Osaka:
+ Hahaha.
+
+Announce:
+Next up is the girls' cavalry race.
+
+Tomo:
+ Rock, paper...
+
+Everyone:
+Scissors!
+
+Osaka:
+ Scissors.
+
+Tomo:
+ All right!
+ Tomo takes the victory!
+
+Yomi:
+ That round should've been called invalid 'cause somebody was late.
+
+Tomo:
+ Come on!
+ Who on earth puts in late just to lose?
+ Right, Osaka?
+
+Osaka:
+ You are good at rock-paper-scissors, Tomo.
+
+Yomi:
+ It's the worst possible setup!
+
+Tomo:
+ All right! Crush the enemy!
+
+Chiyo:
+ Tomo, please quit moving!
+
+Nyamo:
+ Ready?!
+
+Tomo:
+ A varsity scally ranks, raise the anchor!
+ We're taking the field too!
+
+Yomi:
+ Chiyo-chan, are you okay?
+
+Chiyo:
+ I... I'm okay... F-Fine...
+
+Tomo:
+ Okay, go right!
+ Move to the right! The right! The right!
+
+Osaka:
+ Right?
+
+Yomi:
+ The hand you hold your chopsticks in!
+
+Osaka:
+ Um... let's see...
+ So, it's this one, huh?
+
+Yomi:
+ If you've figured it out, put your hands back!
+ Chiyo-chan won't last long!
+
+Chiyo:
+ I can't hold on...
+
+Tomo:
+ Idiot Chiyo!
+ Where's your spirit?!
+
+Yomi:
+ You're the idiot!
+
+Tomo:
+ What?! Taking-digs four-eyes!
+ I'm the captain!
+ Anyone who dares to defy me can leave this ship now!
+
+Yomi:
+ How is it you want me to?
+
+Girl1:
+So what now?
+
+Girl2:
+I kinda feel sorry for them, you know?
+
+Girl3:
+Yeah.
+
+Tomo:
+ Why aren't you freaking moving?!
+
+Girl4:
+And they're... a little scary.
+
+Girl1:
+Do you guys wanna go somewhere else?
+
+Girls:
+Oh!
+
+Yomi:
+ Chiyo-chan, are you okay?
+
+Chiyo:
+ Oh, more or less
+
+Tomo:
+ Ah! You... you're drinking juice!
+
+Yomi:
+ You have to replenish the fluid you've lost.
+
+Tomo:
+ The juice is for when we win and Yukari treats us to, you Moron!
+
+Yomi:
+ We have to drink something.
+ We can't hold off until the sports fest is over, you know.
+
+Tomo:
+ Water!
+ You can drink water until then!
+
+Yomi:
+ You can do that.
+
+Tomo:
+ Damn it!
+
+Yomi:
+ What's the matter?
+ Was the tap water not so good?
+
+Yomi
+ That's mine, you know!
+
+Tomo:
+ Now, hold on.
+ Take a look at that.
+
+Yomi:
+ At that?
+
+Tomo:
+ Uh-huh.
+
+Yomi:
+ Wait, that... could be... Kimura's wife?
+
+Tomo:
+ Yeah.
+
+Yomi:
+ She really exists...
+
+Tomo:
+ Let's see just how good a person she is.
+
+Yomi:
+ What are you doing?
+
+Tomo:
+ Doing this.
+
+Kimura's wife:
+What's that?
+Oh, dear, oh, dear, oh, dear, oh, dear, ow!
+
+Tomo:
+ Whoa!
+ She's like a super good person!
+
+Kimura's wife:
+Hahaha.
+
+Tomo, Yomi, Chiyo:
+ Uh...
+
+Chiyo:
+ Oh, she's coming towards us.
+
+Yomi:
+ Yeah...
+
+Kimura's wife:
+Oh, my goodness!
+You must be Chiyo-chan.
+Wow, you are such a cute one!
+
+Chiyo:
+ Um, how did you know who I am?
+
+Kimura's wife:
+Oh, I'm sorry.
+My husband's one of the teachers.
+And he'd told me that there's this cute, tiny, little girl who goes to school here.
+
+Chiyo:
+ I... I didn't know he'd mention me.
+
+Tomo:
+ So, did you come today to watch the sports fest?
+
+Kimura's wife:
+Yes, I had intent on coming in earlier, but I was working so hard at making this lunch, so I came in late.
+
+Tomo:
+ A lunch from a loving wife!
+
+Kimura's wife:
+Oh, stop it.
+Though, you know, he likes to call it his "love wife lunch box".
+
+Yomi:
+ Love wife?!
+
+Tomo:
+ Why that?!
+ It just sounds so wrong!
+
+Tomo:
+ So, what about Ki... um, Mr. Kimura do you like, huh?
+
+Chiyo:
+ Ah!
+
+ Kimura's wife:
+Um... let's see... I think he's cool.
+
+Everyone:
+Huh?
+
+Tomo:
+ She has no eye for character!
+
+Kimura's wife:
+Well, it's true he isn't really the type that's in fashion these days.
+But you know what?
+It's a little like how 70s clothing has been making a comeback.
+He sort of cycles around again like that.
+Maybe I'm just outta touch with the present days.
+
+Tomo:
+ Yeah, right!
+ It doesn't matter how many cycles we go through, Kimura's turn is never gonna come up!
+
+
+ ws:start:WikiTextHeadingRule:6:&lt;h1&gt; 
+ Announce:
+Next up is the scavenger race.
+
+Nyamo
+ Ready!
+
+Osaka:
+ You can do it, Chiyo-chan! Yeah!
+
+Yukari:
+ Do for steak!
+
+Osaka:
+ Chiyo-chan, hang in there!
+
+Tomo:
+ Beat them up!
+ Make it so they'll never be able to get up again!
+
+Yomi:
+ What in a scavenger race?
+ Beat up who?
+
+Tomo:
+ Go!
+
+Osaka:
+ Uh, here she comes.
+
+Chiyo:
+ O-Okay...
+
+Yomi:
+ Glasses again?
+
+Chiyo:
+ N-No, um, well, well...
+
+Tomo:
+ Oh!
+ Is it bloomers?!
+ You want mine?
+
+Chiyo:
+ Oh!
+
+Yomi:
+ I kinda doubt it.
+
+Chiyo:
+ You come with me!
+
+Tomo:
+ Gotcha!
+
+Yomi:
+ What? Tomo...
+ No way!
+
+Osaka:
+ Yeah, it was bloomers.
+
+Yomi:
+ Chiyo-chan sure has guts pulling that moo.
+
+Tomo:
+ Goal!
+
+Tomo:
+ Hey, Chiyo, so, what were you supposed to pick up?
+ A beautiful lady?
+ Or maybe someone you admire?
+ Or your best friend?
+ Oh, I'm turning red!
+
+Chiyo:
+ Ah... Ah!
+
+Tomo:
+ What the heck?
+
+
+Kaorin:
+What?!
+Chihiro just twisted her ankle?!
+
+Yomi:
+ Yeah, she's at the nurse's office now.
+
+Kaorin:
+What am I gonna do?
+She and I are doing the three-legged race.
+
+Yukari:
+ What's that?
+ Are we short someone?
+
+Kaorin:
+Yeah, I'm missing my partner for the three-legged race...
+
+Yukari:
+ Well, then, it'd be nice to get someone strong to replace her.
+
+Tomo:
+ Me!
+
+Yukari:
+ Hey, Sakaki!
+ Come and be in the three-legged race.
+
+Kaorin:
+Oh...
+B-But, for Miss Sakaki to take part in such a dull event...
+
+Sakaki:
+ No, not at all.
+ Really,
+ I've always wanted to try out the three-legged race.
+ It looks kinda fun.
+
+Kaorin:
+Ah, honestly?
+Are you sure?
+
+Sakaki:
+ Let's do this.
+
+Kaorin:
+Yeah, let's do our best together!
+
+Chihiro:
+Kaorin! Kaorin!
+If you want I can actually run with you.
+The nurse told me it wasn't that bad!
+
+Kaorin:
+Agrh!
+
+Chihiro:
+Um...
+
+Kaorin:
+Agrh!
+
+Chihiro:
+Good... good luck, okay?
+
+Announce:
+Next up is the three-legged race.
+
+Kaorin:
+Um, well, um... I'll do my best, okay?
+
+Sakaki:
+ Right.
+
+Kaorin:
+And I'll die doing my best if I have to.
+
+Sakaki:
+ Uh, okay.
+
+Kaorin:
+I'll die! I'll just die!
+
+Nyamo:
+ Ready?!
+
+Sakaki:
+ Right, let's do our best.
+
+Kaorin:
+Yes!
+
+Sakaki, Kaorin:
+ One, two. One, two. One, two. One, two.
+ One, two. One, two. One, two. One, two.
+ One, two. One, two. One, two. One, two.
+ One, two. One, two. One, two...
+
+Kaorin:
+One, two. One, two. One, two. One, two.
+One, two. One, two. One, two. One, two...
+
+Sakaki:
+ One, two. One, two. One, two, One, two.
+ One, two. One...
+
+Kaorin:
+Ah! Hahaha!
+
+We did it! Miss Sakaki!
+We got first place!
+
+Sakaki:
+ Yeah.
+
+Kaorin:
+Of course, please take this flag as a thank you, Miss Sakaki.
+
+Sakaki:
+ No, that's okay.
+
+Kaorin:
+Then what should I... um...
+Oh, I know!
+What do you think of... uh, uh, uh...
+
+Sakaki:
+ Well, it's very... um...
+
+ It's too tied.
+
+Kaorin:
+If you can't untie it then, maybe we shouldn't try to force it.
+
+Sakaki:
+ Well, we can't exactly leave it.
+
+Kaorin:
+Oh, if it's about me, please don't worry.
+
+Sakaki:
+ Huh?
+
+Kaorin:
+I-I'll be fine. Honest.
+
+Sakaki:
+ You'll be fine, huh?
+ ws:start:WikiTextHeadingRule:8:&lt;h1&gt; 
+ Announce:
+The final event will be the school wide 10k marathon.
+
+Tomo:
+ All right!
+ I'll see our big victory with this!
+
+Chiyo:
+ I'll aim to finish the race.
+
+Tomo:
+ Idiot Chiyo!
+ Such a lowly ambition is no good!
+
+Chiyo:
+ What? It's no good?
+
+Tomo:
+ That's right!
+ Now, watch how I run!
+ How I live on, Chiyo-chan!
+
+Osaka:
+ Oh, I guess the dreaded hour has finally come 'round, hasn't it?
+ The time I spent out on that fun obstacle course race is now but a distant memory of the damp and cloudy past.
+ No! Super fun obstacle course race, please come back!
+ Come back! You've gotta come back! I miss you obstacle course!
+
+Yomi:
+ Please let me lose the extra weight from this month's taiyaki pastries.
+ I will lose it!
+
+Kimura's wife:
+Good luck, everybody!
+
+Nyamo:
+ Ready?!
+
+Tomo:
+ Full stretch! Oh, yeah!
+
+Kagura:
+ Huh?
+ What the?
+
+Yukari:
+ Go, Tomo!
+ Freak-away victory!
+ That steak will be mine.
+
+Girl:
+Hang in there, everyone!
+Good luck!
+
+Osaka:
+ Oh, it's Tomo.
+
+Tomo:
+ If I can't finish first anyway, I figured I'd at least be first towards the beginning.
+ So, I was totally in the lead at the 1 km mark.
+ And I did get to shine for that one brief moment, so there.
+
+Chiyo:
+ Th-That's so cool, Tomo.
+ So, that's how you live, huh?!
+ Okay, me, too!
+
+Osaka:
+ Chiyo-chan!
+
+Tome:
+ Well, hey there, welcome back, Chiyo-chan!
+
+Chiyo:
+ I... I cannot follow this way of life...
+
+Tomo:
+ I whole-heartedly agree.
+
+Chiyo:
+ I came in last.
+
+Osaka:
+ Second to last.
+
+Chiyo:
+ Oh, thank you very much.
+ So, Miss Sakaki, what place did you get?
+ I bet you came in first, huh?
+
+Sakaki:
+ Oh, No, I'm not good at distance, so I came in sixth.
+
+Chiyo:
+ Oh, but sixth is still really good!
+
+Kagura:
+ Hey, ask me what my place was!
+
+Chiyo:
+ Okay, where did you place, Miss Kagura?
+
+Kagura:
+ It was this!
+
+Osaka:
+ Flat?
+
+Kagura:
+ Fifth! Dummy!
+
+Tomo:
+ Fifth, huh? And sixth?
+ I beat you all on the first kilometer!
+ This contest here is a tie!
+
+Osaka:
+ Oh, I see.
+
+Kagura:
+ There's nothing to see!
+
+Announce:
+The scores have been tallied for the final event, the marathon.
+
+Kimura:
+Attention!
+The first place goes to...
+
+Everyone:
+Yeah!
+
+Tomo:
+ Yukari, juice me!
+
+Yukari:
+ Nyamo...
+ Victory!
+
+Nyamo:
+ It's too bad.
+ But everyone you've worked really hard.
+
+Yukari:
+ First place!
+
+Nyamo:
+ Okay, for your efforts, I'm treating you all!
+
+Students:
+Yeah!
+
+Yukari:
+ What's with you?
+ Acting so happy when you lost.
+ Ah! Loser team!
+ Look at me, losers!
+
+Everyone:
+Uh...
+
+Yukari:
+ Loser team!
+ Aren't you ashamed?!
+ I'll bet you are!
+ You people are on the loser team!
+ Losers! Losers!
+ Loser team! Loser team!
+
+Tomo:
+ My juice.
+
+Yomi:
+ You still want it?
+
+Tomo:
+ No...
+
+
+Yomi:
+ Damn it!
+
+
+
+-- Preview --
+
+
+Tomo:
+Next week is the culture fest!
+
+Kaorin:
+There's lots of cosplay, lots of fan service!
+
+Chihiro:
+Special costumes one after the other.
+120 percent cuteness!
+
+Osaka:
+There'll be lots of 'em, like the plaster wall and bamboo umbrella monsters.
+
+Tomo:
+That's not exactly what you'd call cosplay...
+
+Osaka:
+Then how 'bout octopus ball and Japanese pizzas?
+
+Tomo:
+I think you're even further off than before.
+
+Osaka:
+In that case, homerun!
+
+Tomo:
+Say what?
+  

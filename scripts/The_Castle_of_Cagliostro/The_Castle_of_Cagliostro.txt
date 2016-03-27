@@ -1,0 +1,2607 @@
+
+ ws:start:WikiTextHeadingRule:0:&lt;h1&gt; 
+ ws:start:WikiTextTocRule:26:&lt;img id=&quot;wikitext@@toc@@normal&quot; class=&quot;WikiMedia WikiMediaToc&quot; title=&quot;Table of Contents&quot; src=&quot;/site/embedthumbnail/toc/normal?w=225&amp;h=100&quot;/&gt; 
+ ws:end:WikiTextTocRule:40  ws:start:WikiTextHeadingRule:2:&lt;h2&gt; 
+Gang:
+They're getting away!
+Get 'em!
+Get in the car!
+Grab the guns!
+Look out!
+Whoa!
+Oh, boy...
+Ugh...
+Son of a bitch!
+
+
+
+Jigen:
+Billions of bucks with unmarked serials!
+We're rich bastards!
+
+Lupin:
+Hey, don't drown me in it!
+I've got a lot of spending to do before I die!
+
+Jigen:
+If you don't kill us with your driving first!
+
+Lupin:
+Hmm?
+
+Jigen:
+What's wrong, Lupin?
+
+Lupin:
+It's fake.
+
+Jigen:
+Huh?
+
+Lupin:
+This stuff is counterfeit. Top quality, too.
+
+Jigen:
+You're kidding.
+They're bogus?
+Aww, you're just pulling my chain.
+These look real to me!
+
+Lupin:
+They're Goat Bills.
+
+Jigen:
+No way!
+You mean the legendary forgeries?
+
+Lupin:
+We ripped off funny money from the national casino.
+Jigen, I've picked out our next job.
+Let's have a pre-victory celebration!
+Hee-hee!
+So much for an early retirement!
+
+Jigen:
+Well, what the hell, who wants to sit around getting fat on fine wine and gourmet food with beautiful women in some lush tropical setting anyway?
+
+
+
+Guard:
+Passports please.
+
+Lupin:
+That's my dad.
+
+Guard:
+Mmhmm.
+Thank you. Enjoy your stay.
+
+Lupin:
+Thanks, I'm sure we will.
+
+
+
+Jigen:
+Your dad!? Hmph! I don't look that old!
+
+Lupin:
+Well, I regard you as a father figure.
+
+Jigen:
+So this is the Duchy of Cagliostro.
+I've never heard of the place!
+
+Lupin:
+The smallest member of the United Nations, with a population of 3500.
+
+Jigen:
+What makes you think this burg is where the Goat Bills originate?
+
+Lupin:
+This place is infamous with the crime world. It's the black hole of counterfeiting!
+
+Jigen:
+Huh? Black hole?
+
+Lupin:
+Yeah. Snoops who get too nosy around here are never seen again.
+
+Jigen:
+Oo-oo-ooh stop, I'm scared!
+Fear wears me out.
+Wake me if I start smoldering...
+
+Lupin:
+Hey!
+
+Jigen:
+Hmm, what, am I burning?
+
+Jigen:
+Christ Lupin, your spare's balder than a flat.
+
+Lupin:
+Peaceful, isn't it?
+...Hmm?
+Hmm!?
+
+Lupin and Jigen:
+Huh?
+
+Jigen:
+What the...!?
+
+Lupin:
+Get in!
+
+Jigen:
+Hey!
+
+Lupin:
+Hang on!
+
+Lupin:
+Oh, everybody's in a big hurry!
+
+Jigen:
+Who we chasing?
+
+Lupin:
+The girl!
+
+Jigen:
+That figures.
+
+Lupin:
+Their tires!
+
+Lupin:
+Aah!
+Oh shit!
+
+Jigen:
+Damn! They didn't buy that off the lot!
+
+Lupin and Jigen:
+Aah!
+
+Jigen:
+Finally, some excitement around here!
+
+Lupin:
+I'm going up!
+
+Jigen:
+Watch it!
+Tree!
+Oh, oh!
+
+Lupin:
+There they are!
+
+Jigen:
+This calls for something more heavy-duty.
+Yes!
+
+Lupin:
+Hey! Hey, hello!
+...What?
+She's unconscious!
+
+Jigen:
+Her car's coming apart.
+
+Lupin:
+Here, take the wheel!
+
+Jigen:
+Huh? Aah!
+
+Jigen:
+Watch it!
+
+Lupin:
+Huh!?
+Aagh!
+
+ ws:start:WikiTextHeadingRule:4:&lt;h2&gt; 
+Lupin:
+Ow!
+Oh n-n-n-n-no! Stop! Stop! Hold on! Hold on! Wait!
+Stay! Staaay--!
+
+
+
+Clarisse:
+...No!
+
+Lupin:
+Hey! Cut it out!
+Stop, or we're gonna fall!
+Look down! Look down!
+Phew...
+There. Now you just stay like that, okay?
+
+Clarisse:
+Are you all right? Sir?
+
+Lupin:
+Oh, m--
+
+Clarisse:
+Ah! It's okay. There.
+I have to go!
+
+Man:
+There she is!
+Fend her off!
+
+Jigen:
+Lupin! You alive?
+Thought you were a goner!
+
+Lupin:
+...Hmm?
+Where'd my bride go?
+
+Jigen:
+She left you at the altar.
+
+Lupin:
+Damn!
+
+Jigen:
+Who the hell were those goons? And the dame?
+Hmm? Hey, it's a ring!
+
+Lupin:
+I swear I've seen this some-- (gasps)
+Hmm...
+
+
+
+Jigen:
+Are you gonna tell me what's going on or not?
+I caught that weird look in your eye when you saw the ring.
+Ow! Slow down, will ya!?
+
+
+
+Jigen:
+Hmm?
+We rushed here to look at an old ruined castle!?
+Hmm? It's the very same crest that was on her ring. Hmm...
+Lupin?
+This place hasn't been abandoned long.
+Fire, huh?
+
+Christopher:
+Who are you?
+
+Lupin:
+Just a couple of passersby.
+
+Christopher:
+Tourists, eh?
+
+Lupin:
+Yeah, you could say that.
+I was under the impression that this was the Grand Duke's palace.
+I must be wrong.
+
+Christopher:
+No mistake in that--this is it.
+Which means you're trespassing on private property.
+
+Jigen:
+You call this a palace?
+It's just a burned-out shell!
+
+Christopher:
+There was a fire here seven years back.
+The Duke and his wife died in the flames.
+Since then, the place has been left to decay in the elements.
+
+Jigen:
+The Grand Duke was sort of, uh, like your king, wasn't he?
+Does that mean you don't have a ruler now?
+
+Christopher:
+There's a regent, and folks say there's no cause to worry.
+Now you two leave the way you come!
+
+Jigen:
+Old coot!
+Where you going?
+
+
+
+Lupin:
+Well you've grown up, haven't you?
+What's up?
+
+Jigen:
+Don't play dumb with me.
+Talk!
+
+Lupin:
+No, no, no, no, no...!
+
+Jigen:
+You're not gonna keep a secret from me!
+Come on! Talk!
+
+Lupin:
+Nooo!
+
+Jigen:
+Tell me!
+
+Lupin:
+Okay, I'll talk! I'll talk!
+
+
+
+Jigen:
+Now that's what I call upscale living!
+
+Lupin:
+The castle of Count Cagliostro, the regent.
+Now look over there.
+Down more.
+To the right, past the aqueduct.
+
+Jigen:
+Hmm? Well I'll be damned!
+That's the boat we saw earlier.
+
+Lupin:
+They docked in the old floodgate.
+The place is still the same.
+
+Jigen:
+Are you telling me you've broken in there before?
+
+Lupin:
+I tried to, more than ten years ago, to uncover the secret of the Goat Bills.
+I was just a young punk back then.
+
+Jigen:
+Yeah, so what happened?
+
+Lupin:
+I got a royal butt-kicking!
+And I, um, ran off with my tail between my legs.
+
+Jigen:
+...Hmm?
+I didn't think they still flew autogyros!
+
+Lupin:
+The Count does.
+
+Jigen:
+Hmm...
+
+Lupin:
+Let's go find a room for the night.
+
+Jigen:
+Huh?
+
+
+
+Count:
+You were very careless, Jodo.
+
+Jodo:
+I beg your forgiveness, My Lord.
+It occurred while she was being fitted for her wedding gown.
+She slipped away when the guards left her to change.
+
+Count:
+She's in the north tower now?
+
+Jodo:
+Yes, My Lord.
+The lady has been heavily sedated.
+
+ ws:start:WikiTextHeadingRule:6:&lt;h2&gt; 
+Count:
+Foreigners?
+
+Jodo:
+Yes. Two men, My Lord.
+They assisted the lady in alluding her pursuers.
+
+Count:
+Find them.
+And have the interlopers dealt with!
+
+
+
+Count:
+Hmm? It's gone!
+I need that ring!
+Summon Jodo!
+
+
+
+Man:
+Another beer, please.
+
+Waitress:
+Okay!
+
+Lupin:
+Hmm... the inscription's in Capran, a dead language.
+
+Jigen:
+So, can you read it?
+
+Lupin:
+'Course.
+"When light and shadow are joined once again, it shall be restored. AD 1517."
+The date's in Roman numerals.
+
+Jigen:
+That thing's over 400 years old!
+
+Waitress:
+Sorry for the wait, gents.
+
+Lupin:
+Ooh, delicious!
+
+Waitress:
+Something sure has your attention!
+What is that?
+
+Lupin:
+Oh, it's just an old ring I found.
+Maybe it's worth something.
+
+Waitress:
+Oh, it's beautiful!
+That's the royal crest of Lady Clarisse!
+
+Lupin:
+Clarisse?
+
+Waitress:
+There's an old photo of her over the bar, see?
+That was taken when she was a child.
+She just returned from the convent yesterday.
+I'll bet she's gorgeous now!
+
+Lupin:
+A convent?
+
+Waitress:
+Don't you know?
+I thought both of you were here like everyone else who came to watch the wedding of Lady Clarisse and the Count.
+
+Lupin:
+I see. Well, that explains all the sightseers in this place.
+
+Waitress:
+I don't envy Clarisse though.
+The Count's got a reputation as a playboy.
+
+Lupin:
+Playboy? Just like me!
+Now, how 'bout a smooch, huh?
+
+Waitress:
+(Giggling) Aah, you!
+
+Man:
+What a wild time! We had a blast!
+
+Lupin:
+That guy was one of the Count's men.
+
+Jigen:
+I know.
+
+Lupin:
+Hey, you hog!
+
+Jigen:
+That dame's not enough; they want that ring, too!
+
+Lupin:
+No you don't!
+
+Jigen:
+You've known the whole time that girl was the Grand Duke's daughter, haven't ya?
+
+Lupin:
+Hmm? I thought I mentioned it.
+
+
+
+Jigen:
+"When light and shadow are joined once again, it shall be restored," huh?
+Do you think "it" is a treasure?
+
+Lupin:
+Ah!
+
+Lupin:
+Hey, look!
+The whole gang's here!
+
+Jigen:
+Bullets don't work.
+
+Lupin:
+They're trained killers!
+
+Jigen:
+Whoa!
+Dirty bastards!
+
+Lupin:
+Hee-hee.
+
+Jigen:
+Let's go! Let's go!!
+
+Jigen:
+Oh, yeah, that was fun!
+
+Lupin:
+That was a full-scale attack they launched.
+I think we hit a nerve.
+
+Jigen:
+And I thought this would be dull.
+
+
+
+Count:
+These bills are inferior.
+The quality's becoming worse in the new batches.
+
+Man:
+It is a problem, sir.
+But it can't be avoided if we continue mass-producing them.
+
+Count:
+Redo them.
+We can't miss that delivery date.
+
+Man:
+Yes, sir.
+
+Count:
+Who's there?
+
+Jodo:
+My Lord, I come bearing you bad news.
+I have failed you.
+The rats escaped the trap.
+
+Count:
+Hmm?
+Jodo, what is that stuck to your back?
+
+Jodo:
+Huh?
+What the...?
+Why that...!
+
+Fujiko:
+Lupin?
+
+Jodo:
+Lupin's calling card!
+
+Count:
+Read it.
+
+Jodo:
+But My Lord, the message--it's...
+
+Count:
+Do it.
+
+Jodo:
+"To the lecherous and greedy Count,
+
+I shall purloin your bride.
+That day will come soon.
+
+Signed Lupin III."
+
+Count:
+Mmhmm... very convenient.
+
+Jodo:
+Huh?
+
+Count:
+Just wait for the man.
+Lupin will come here to us.
+
+ ws:start:WikiTextHeadingRule:8:&lt;h2&gt; 
+Man:
+That's it over there.
+
+Jigen:
+Boy, you got here quick.
+
+Goemon:
+What's the job?
+
+Jigen:
+Goemon's here.
+
+Lupin:
+Yeah, so is someone else.
+
+Jigen:
+Who?
+
+Lupin:
+Take a look.
+
+Jigen:
+Huh? Japanese cops here?
+
+Lupin:
+It's Zenigata.
+
+Jigen:
+What!?
+
+Cop:
+Hey, everybody out!
+Break formation.
+
+Lupin:
+And now the players are all in place.
+Ow, hot, hot hot!
+
+Zenigata:
+Forgive me for barging in like this.
+You see, I'm Zenigata of Interpol, sir.
+We've received a report that Lupin sent one of those notorious calling cards to you.
+
+Count:
+Ah, you're no doubt referring to the grandson of the petty thief Arsene Lupin.
+Is Interpol in the habit of interrupting people's meals for such trivial matters.
+
+Zenigata:
+Lupin is very treacherous, Your Excellency.
+He'll rob you right under your nose.
+Your wedding is just five days off.
+Until then, please, let me keep a round-the-clock watch of your castle.
+
+Count:
+We have law enforcement too, although we prefer the refined term of 'Royal Guard.'
+
+Gustav:
+My Lord, you rang?
+
+Count:
+Gustav, I expect you to give your full cooperation to our guest Inspector Zenigata.
+
+Gustav:
+xxxx.
+
+Zenigata:
+Your Excellency, Lupin is a master thief.
+Why is he after your bride?
+
+Count:
+Huh.
+You tell me you're the one who's a great detective, aren't you?
+
+Zenigata:
+Good-bye, Count.
+
+Jodo:
+Do you think it's wise to have the fellows inside the castle, my Lord?
+
+Count:
+Don't worry.
+I have influential friends even at Interpol.
+Our guests will be leaving soon.
+
+
+Lupin:
+Yep, you can always rely on good old Zenigata, devoted archetypal Japanese worker.
+
+
+Zenitaga:
+What is that?
+
+Gustav:
+Do not proceed any further please.
+
+Zenitaga:
+Why?
+
+Gustav:
+Observe.
+
+Zenitaga:
+Ah!
+
+Gustav:
+If you don't want to be killed, don't wander around.
+Please tell that to your men, too,
+
+Zenitaga:
+Hm!
+
+Cop:
+Sir, I'm picking up anti-personnel radar.
+
+Zenitaga:
+Hmm, this is fishy.
+There're a lot of extra security here for your average(xxx) count.
+
+
+Goemon:
+A woman?
+
+Jigen:
+Relax. It's not what you're thinking.
+Lupin just rescued some bride, then everything is snowball.
+
+Goemon:
+What's important with the ring in all this?
+
+Jigen:
+We'll find out after we nail the girl from that lecherous fart Cagliostro.
+And anyway, my Magnum couldn't dent their hardware.
+Let's see how they do against your sword and this anti-tank gun.
+Hey, Lupin. Find a way in yet?
+
+Lupin:
+Nope. Can't swing a dead cat without hitting the lasers and radar.
+
+Jigen:
+That sucks, wish we had a tank...
+
+Goemon:
+That's why you sent for Zenigata.
+
+Jigen:
+What!? Did you?
+
+Lupin:
+I did. Goemon, good call.
+
+Goemon:
+Pit your foes against one another, huh?
+
+Lupin:
+Here is Cagliostro castle.
+In here we are.
+This old Roman aqueduct is still in use.
+And it's the only way to get in.
+The castle water is supplied by the lake.
+And it's brought in via the aqueduct.
+
+Jigen:
+So, no lasers in the water because no one is crazy enough to come in that way. I like it.
+Goemon, keep watch here.
+
+Jigen:
+Wow...
+
+Lupin:
+I forgot to mention the hole,
+
+Jigen:
+I forgot to mention the piranhas and crocodiles zigging.
+
+Lupin:
+Shut up.
+
+Jigen:
+Hmm. The first hurdle.
+
+Lupin:
+Let's go!
+
+Jigen:
+Lupin!
+
+Jigen:
+Well, this must be the clock machinery room.
+Hope that poor SOB made it.
+
+
+Zenigata:
+Hmm? What's that windmill for?
+
+Cop:
+Gustav told me it is used to bring water up to the castle.
+
+Zenigata:
+Hmm, where does it come out?
+
+Cop:
+Um, that's a fountain on the battlement.
+
+Zenigata:
+Hm, c'mon!
+
+Cop:
+Yes, sir!
+
+ ws:start:WikiTextHeadingRule:10:&lt;h2&gt; 
+Cop:
+Inspector!
+Orders just came from Paris Headquarters! "We'll pull out at once"
+
+Zenigata:
+What!? That's ridiculous! We can't!
+Lemme talk to him!
+
+Zenigata:
+But we got a sound evidence.
+That was a written threat from Lupin!
+Hm? He said what?
+Well too bad if the count Cagliostro is well or he's gonna twist(xxx), I'm a cop, not a court jester!
+Hey, Hello! Are you there?!
+
+Zenigata:
+It seems I have to have a little chat with his Highness!
+
+Lupin:
+Old boy, Lead the way.
+
+
+Zenigata:
+I wanna see the Count at once! Did you hear me?! Right now!
+
+Gustav:
+Halt!
+Only authorized persons and guests are allowed to pass at here.
+
+Zenigata:
+You mean the officers in Interpol aren't authorized!?
+
+Gustav:
+You all ought to vacate the premises.
+I must ask you to leave.
+
+Zenigata:
+How would you know about that order?!
+
+Gustav:
+We don't need your Orientals to help us catch a burglar.
+Now, go!
+
+Zenigata:
+Rest assured we'll be back.
+We are pulling out for now!
+
+Cop:
+Sir!
+
+
+Gustav:
+Hm?
+
+Zenigata(Lupin):
+Tell me, was I just up here?!
+
+Gustav:
+What?
+
+Zenigata(Lupin):
+That was Lupin, that disguised as me, trying to sneak in here, rube!
+Didn't you see through that with your old grown xxx head!
+
+Gustav:
+Follow me!
+
+Zenigata(Lupin):
+Don't let that xxx get away!
+
+Gustav:
+Hold it right there
+You cannot run, Lupin!
+
+Zenigata:
+Lupin?!
+Stop it! Damn it!
+That's Lupin!
+I'm not, you hear me?!
+
+Cop:
+Protect the Inspector and our men there!
+Go! Go! Go!
+
+Lupin:
+Wow, calls it a crash.
+
+Zenigata:
+He's Lupin!
+Damn it!
+
+Zenigata:
+Lupin!
+
+Lupin:
+Ah!
+
+Zenigata:
+Ahhhh! Lupiiinnn....!
+
+Butler:
+It appears we caught someone.
+
+Jodo:
+The fool.
+He should've left when we gave him a chance.
+What happened to the guards?
+Gustav!
+What the hell is he doing leaving his post?!
+Stay here while I look for him.
+
+Butler:
+Yes, sir.
+
+Lupin:
+Sorry, old boy, tee-hee.
+
+Jodo:
+Get your men back to the station, this is in minutes!
+You idiot!
+Lupin tricked you, now he's in the castle.
+
+Gustav:
+xxx!
+
+Jodo,Gustav:
+Ah!
+
+Jodo:
+Let go! Let go! I can't hold on!
+
+Gustav:
+My God!
+
+Count:
+Ha ha ha...
+So Lupin got inside after all.
+
+Jodo:
+I have no excuses, my Lord...
+
+Count:
+Inform the Mr. Zenigata's men that he went back to the head quarter ahead of them.
+People vanish well while traveling all the time.
+
+Jodo:
+Yes, my Lord.
+
+
+Lupin:
+Don't move!
+Good evening, Fujiko.
+
+Fujiko:
+Lupin!
+
+Lupin:
+As usual, you look your loveliest when you're absorbed in work.
+
+Fujiko:
+I cannot believe you made it in here.
+
+Lupin:
+That's all you have to say after a year, I'm crushed.
+Huh, I searched the world for you.
+
+Fujiko:
+Uh-huh, you can stop the sweet talk, I know you came for Clarisse.
+
+Lupin:
+Oh, well, yeah, that's true.
+
+Fujiko:
+If I tell you where she is, will you promise not to interfere with my job?
+
+Lupin:
+Yes! Yes! For you, anything.
+
+Fujiko:
+All right.
+At the top of the North Tower, but I'm afraid it is impossible to get into the place.
+Oh? Lupin?
+
+
+Lupin:
+Damn. When they locks someone up, they aren't kidding around,
+
+Lupin:
+Come on!
+Wait, wait, wait, wait!
+Come here, wait, wait!
+
+ ws:start:WikiTextHeadingRule:12:&lt;h2&gt; 
+Clarisse:
+Ah! Who's there?
+
+Lupin:
+I'm just a simple thief of the night, my lady.
+
+Clarisse:
+I have nothing to steal.
+
+Lupin:
+Well, hello there, Miss bride.
+
+Clarisse:
+Ah! You-you're the man who rescued me!
+
+Lupin:
+You forgot this,
+
+Clarisse:
+Ah, you came just for this?
+But you'll be killed if the count finds out you're here!
+
+Lupin:
+Just another occupational hazard.
+It comes with the job.
+I'll leave when my work is finished.
+
+Clarisse:
+But what work?
+Because I'm a prisoner, all I have are a few pieces of furniture.
+Is not much to offer.
+Wait! You can take this. My ring.
+
+Lupin:
+What I came seeking is the precious jewel that an evil sorcerer has locked away in a dark forbidden tower.
+
+Clarisse:
+Uh?
+
+Lupin:
+Will you consent this humble thief will liberate the lovely gem.
+
+Clarisse:
+Meaning me?
+
+Lupin:
+Uh-huh.
+Like a beautiful treasure that hidden away in a shadowy vault.
+An innocent maiden is forced to marry against her will, but an outlaw whisks her to freedom.
+Ooh...
+You see, heroism goes along with my job.
+Uh-huh.
+
+Clarisse:
+Then you've come to get me out of here?
+
+Lupin:
+Uh-huh. Hm?
+
+Clarisse:
+I truly appreciate this.
+But you don't know about the terrible secrets of the Cagliostro family.
+I'll never be able to escape the Count.
+Please just go...
+
+Lupin:
+Hmmm....
+How can it be a happy ending to this romantic tale?
+The fair damsel believes in the power of the wicked sorcerer, yet she has no faith in the powers of the thief.
+Oh, if only she'd believe in him!
+Then he'd be able to fly through the air!
+Or drink every last drop of water in the lake in one gulp!
+One... gulp...
+
+Clarisse:
+Huh?
+
+Clarisse:
+Oh...
+
+Lupin:
+This'll have to do for now.
+
+Clarisse:
+Oh...
+
+Lupin:
+Hahaha...
+
+Clarisse:
+Hehehe...
+
+Clarisse:
+Ah!
+
+Clarisse:
+I'm sorry!
+
+Lupin:
+Hey, treat the lady gently, you lousy gorillas!
+
+Count:
+I must offer you my thanks for returning the ring, Lupin.
+
+Lupin:
+And I wanna thank you, Count, for this warm reception.
+
+Count:
+I regret that we have to dispose of you.
+
+Lupin:
+I warn you. I'm not an easy guy to get rid of.
+
+Clarisse:
+Oh, Count! Please let him go!
+You have what you want now!
+
+Lupin:
+Don't forget fair damsel, you've got to have faith in the thief.
+
+Clarisse:
+Mr. Thief!
+
+Lupin:
+Hey, don't worry about me, all right?
+I'll be back real soon.
+Well, now, what game shall we play, hm?
+
+Count:
+They'll rip you to shreds if I give the word, but I don't want my fiancee's boudoir stained with the blood of a petty criminal.
+
+Lupin:
+I'll make you regret that, you pompous drip.
+
+Count:
+I've grown weary of you, Lupin.
+Ta-ta.
+
+Clarisse:
+Ah...
+
+Count:
+If the fall doesn't kill him, that pit is a foul hell from which there is no escape.
+
+Clarisse:
+Ah...
+
+Count:
+That pretty face has already tempted a man to his doom.
+No question, you're a Cagliostro.
+You'll make a fitting wife.
+
+Clarisse:
+Monster! Cold-blooded murderer!
+
+Count:
+You're so right. I do indeed have blood on my hands, but you do as well.
+My family has served in the shadow of the Grand Duke for centuries, carrying out his assassinations and plots to support this country.
+
+Clarisse:
+You're disgusting! Don't touch me!
+
+Count:
+Don't feign ignorance with me, Clarisse!
+You're as much a Cagliostro as I am.
+In both our veins flows the ancient blood of the ram.
+We share a common heritage and its legacy.
+My lovely, you know our bloodline has been divided--for 400 years the Light and Shadow have been kept apart.
+It's time to reunite the houses of Cagliostro.
+Look!
+When the golden ram of my house is joined with your house of the silver ram, then it will be revealed the hidden treasure of our ancient ancestors.
+
+Lupin:
+I heard that, you dirty so-and-so!
+Clarisse, he's just marrying you for the treasure!
+
+Count:
+It's him!
+
+Lupin:
+The counterfeiting count!
+Everything he says or does is phony!
+Bloodline be damned!
+That girl's a wonderful person, nothing like you, you nasty old goat!
+
+Clarisse:
+Is that really you, Lupin?
+
+Lupin:
+Yup. The one and only.
+Because you believed in the thief, he was able to fly through the air!
+I'll be winging my way to you soon and steal you from here, okay?
+
+Clarisse:
+Okay.
+
+Count:
+Damn you! It's the ring!
+
+Clarisse:
+Aiiieee!
+
+Count:
+Give me that!
+
+Lupin:
+Okay Count, listen up!
+So help you, if you lay one slimy finger on Clarisse, your precious little ring is gonna end up like this!
+
+<Bang!>
+
+Count:
+Grrr! It's fake!
+
+Lupin:
+How rude!
+You sure do know how to make a guest feel unwelcome!
+
+Count:
+He fell?
+
+Jodo:
+Probably.
+
+Count:
+Make sure!
+
+Jodo:
+That rank abyss is not a place for the living, sir.
+Let him rot; in a while he'll be dead.
+
+Count:
+Lupin still possesses the ring.
+
+Jodo:
+I'll handle it, My Lord.
+
+Count:
+Just wait--I'll bring your dear thief back to you flayed and quartered!
+
+ ws:start:WikiTextHeadingRule:14:&lt;h2&gt; 
+Lupin:
+Hmm... must be previous uninvited visitors.
+It does have a certain rustic charm.
+Some fresh paint, curtains, new plants, maybe track lighting...
+
+Centuries of political murder, and for what?
+Rest in peace, you poor bastards.
+
+"Here Gennosuke Kawakami, spy for the Japanese army, met his end. Avenge me."
+Hmm...
+
+Zenigata:
+Hmm? Aah! Lupin!
+I got you now, you little weasel!
+
+Lupin:
+Yeah, it's nice to see you too, Old Man.
+
+Zenigata:
+Be quiet, I'm taking you in!
+Just show me the way out!
+
+Lupin:
+But I fell in, same as you.
+It looks like you've been wandering around here for a while.
+
+Zenigata:
+Shut up!
+I won't take pity from a punk!
+
+Lupin:
+You might as well get cozy--there seems to be no way out of here.
+'Scuse me there, my good buddy.
+Say Old Man, got a light?
+
+Zenigata:
+Lupin, what the hell gives with the cadaver tone?
+Doesn't seem like a catacomb.
+
+Lupin:
+Take a peek at the wall there.
+
+Zenigata:
+Good God!
+May your soul be at rest, old soldier.
+
+I had a gut feeling something was suspicious about this place... but what kind of secret is worth so much trouble to hide?
+That's why you're here, isn't it?
+
+Lupin:
+That's what Fujiko's trying to find out.
+Hope she won't meet a fate like these boys.
+At any rate, worrying won't do a lick of good right now.
+Let's get some shut-eye.
+Good night, Old Man.
+
+
+
+Jigen:
+Christ, it's cold out here.
+I'm freezing my fricking ass off!
+Damn, he's been in there a long time... how does it look?
+
+Goemon:
+I've seen nothing.
+
+Jigen:
+Well I'll guess we'll have to keep waiting.
+
+
+
+Jodo:
+What's keeping them?
+
+Jodo's assistant:
+Mr. Jodo, look!
+
+Jodo:
+Ah, they found the ring!
+
+Jodo and his assistant:
+I can't swim!
+Hey, wait!
+Curse you!
+You'll pay for this!
+
+
+
+Zenigata:
+Huh? These are coffins.
+Huh!?
+
+Lupin:
+Well, this brings a whole new meaning to the whole business.
+
+Zenigata:
+What the hell is all this stuff?
+
+Lupin:
+Whoa...
+
+Zenigata:
+These are 10,000-yen bills!
+And so is the whole heap!
+
+Lupin:
+Oh... exceptional quality.
+Hey, Old Man! Check it out!
+
+Zenigata:
+West German Deutsche Marks also!
+
+Lupin:
+Pound notes. Dollars. Francs. Rubles. Rupees. Pesos, lira, shekels!
+Huh? Wow, even Chinese won!
+The whole world's represented here!
+
+Zenigata:
+A major counterfeiting ring...
+Lupin! Do you think this is what they're hiding?
+
+Lupin:
+Bingo.
+The birthplace of Goat Bills, legendary fakes you can't tell apart from the real thing.
+The notorious imitation currency that silently brought about the upheavals in medieval Europe.
+It caused the collapse of the Bourbon Dynasty, provided Napoleon with funding, and eventually triggered the Great Bank Panic of 1927.
+Goat Bills were responsible for some of history's most influential and devastating events in the last 400 years.
+And those who came here looking for the source, never left.
+
+Zenigata:
+I've always heard tell about them... but who'd suspect a tiny country'd be behind it all?
+
+ ws:start:WikiTextHeadingRule:16:&lt;h2&gt; 
+
+Clarisse:
+It's coming from underground!
+
+Goemon:
+Hmm? Movement.
+
+Jigen:
+That's our boy!
+
+
+
+
+Man:
+Move! Move! Move! Move!
+
+Man:
+Come on!
+
+
+
+Man:
+Sir! The fire appears to have started in the printing plant!
+
+Count:
+Put it out immediately, dammit!
+
+Man:
+Yes, my Lord!
+
+Count:
+Shut that blasted door! Go on, idiots! Help them!
+Jodo, have you disappointed me once again?
+
+
+
+Lupin:
+Hey, Old Man!
+Shake a leg and our company ought to be here soon!
+
+Zenigata:
+Evidence! I need evidence!!
+
+
+
+Jodo:
+That doesn't go!
+
+Man:
+Huh?
+
+Jodo:
+Lupin and that cop did this!
+Find those bastards! They're probably still in here!
+
+Gustav:
+Fine, Get in there!
+
+Man:
+Yes sir!
+
+Gustav:
+It's Lupin and Zenigata! After them!
+
+Jodo:
+Put out the fire!
+
+Gustav:
+[Deah!]
+
+Lupin:
+We're in the chapel!
+
+Zenigata:
+This way!
+
+Man:
+What's that?!
+
+Clarisse:
+It's my thief!
+
+Fujiko:
+Lupin and Zenigata?
+The autogyro is up there.
+
+Man:
+They're up there!
+
+Man:
+Stop, you!
+
+Count:
+Imbecile!
+
+Jodo:
+You can rake me over the coals later.
+They're after Lady Clarisse! Hurry, sir!
+
+Zenigata:
+Get a move on!
+
+Gustav:
+Halt!
+
+Zenigata:
+You wanna tangle with the Tokyo Metro Police?!
+
+Lupin:
+Old Man, we're leaving!
+
+Zenigata:
+Sayonara!
+
+Lupin:
+I'm afraid we've gotta make a small detour.
+
+Zenigata:
+Kidnapping a cop is illegal!
+
+Lupin:
+No, we're on a rescue.
+
+Clarisse:
+Ah, they're coming here!
+
+Fujiko:
+Stand back.
+
+Grenade-proof. That figures!
+
+Clarisse:
+Save yourselves! We can't break the window out!
+
+Lupin:
+Old Man, take over!
+
+Zenigata:
+What?! Hey, Lupin! Wait! I can't fly this thing!
+
+Lupin:
+Someone call for a cab?
+
+Clarisse:
+Oh, mister thief!
+
+Lupin:
+Your chariot awaits, my Lady.
+C'mon, throw me a line!
+
+Fujiko:
+Quit bossing me around!
+
+Clarisse:
+Fujiko!
+
+Fujiko:
+Hurry!
+
+Clarisse:
+My hero!
+
+Lupin:
+Here we are. You're safe now!
+
+This way, Old Man! Down over here!
+
+Zenigata:
+I'm trying, you idiot!
+
+Lupin:
+That's it! A little closer!
+Uh? Uh-huh... Argh!
+
+Fujiko:
+Lupin!
+
+Jodo:
+Don't move, you meddling bitch!
+
+Count:
+Fujiko, I think I'll have to interrogate you later in my chambers.
+Jodo, finish off Lupin now.
+
+Jodo:
+Yes, sir.
+
+Clarisse:
+No, please, I'm begging you!
+You have to kill me before you kill him!
+
+Count:
+Fire.
+
+Hmmm... I admire your devotion, Clarisse.
+Get the ring for me and I'll forgive you dear.
+Become my wife without a fight, then I'll even let your thief live.
+Or you can both die right now together.
+Which will it be, Clarisse?
+
+Clarisse:
+Lupin, where's the ring?
+
+Lupin:
+No, Clarisse. Don't do it. He's a liar...
+
+Fujiko:
+His collar. He always hides stuff under there.
+
+Lupin:
+Dammit, Fujiko!
+
+Clarisse:
+All right! I have the ring!
+If you want it, let Fujiko and this man go, or else I'll throw it into the lake!
+
+Count:
+I swear on my life.
+Now please put on the ring and come here!
+
+Jodo:
+Shall I shoot?
+
+Count:
+Wait until I have the ring.
+Hm?
+
+Zenigata:
+Incoming!
+
+Count:
+Shoot! Don't let them escape!
+
+Clarisse:
+No!
+Lupin was right! You are a liar!
+
+Count:
+I would never let anyone leave here alive who saw those printing presses!
+Ha ha ha. Finally it's mine! Ha ha ha.
+
+Fujiko:
+Hey, you owe me for today, honey.
+Bye!
+
+Jigen:
+Man! Pulling out even before we get to join in!
+
+Zenigata:
+Hang on! We're gonna down!
+Jump for it!
+
+Goemon:
+This is unworthy of my blade...
+
+Zenigata:
+Lupin! Don't even think about dying before I arrest you!
+
+
+
+British Guy:
+We have a sticky wicket here.
+
+Guy:
+Implicated xxx
+
+Italian Guy:
+xxx thing is.
+It has xxx brought us some kind.
+
+Zenigata:
+Let me bust this guy!
+Look at the evidence. There's no better proof!
+I saw it myself!
+There were printing presses everywhere!
+
+Interpol Chief:
+We understand that, Inspector.
+
+Zenigata:
+Hmm?
+
+Interpol Chief:
+We have a high-level political dilemma.
+Interpol's exercise of authority would not be recommended at this matter at all.
+
+Zenigata:
+What do you mean?!
+We've got Cagliostro dead to rights.
+
+French Guy:
+It is not that simple.
+Even Interpol cannot force a criminal investigation.
+A United Nations' independent member.
+
+German Guy:
+The situation is not very in our favor.
+Have you seen the front page headling of the leading global newspapers?
+"Courageous Count defends Fiancee."
+"Theif's attempt to kidnap Princess fails."
+
+Guy:
+Along with reports of a henchman disguised as you.
+
+Zenigata:
+Henchman, my eye, that was me!
+
+Japanese Guy:
+That seems like a rash behavior for a man of your standing.
+
+Zenigata:
+Do you guys care about the truth or not?!
+
+U.S. Guy:
+That's relevant. The world believes what we want to.
+
+French Guy:
+It believes the Count!
+
+Russian Guy:
+I heard the rumor that the Count has many friends in the Western governments.
+The truth could be way embarrassing to some nations.
+
+U.S. Guy:
+Especially for a certain country that placed a huge order for U.S. counterfeit dollars!
+
+Russian Guy:
+Yeah, I suppose this fake rubles were not xxx by the CIA?
+
+Guy:
+Gentlemen, please!
+This is neither the time xxx or your nations' quarrels.
+
+Guy:
+The only way to deal with this is for each country does.
+
+Guy:
+Have ever told problem this xxx
+
+
+ ws:start:WikiTextHeadingRule:18:&lt;h2&gt; 
+
+Police man:
+Inspector, we're ready to mobilize.
+Just give the word, we'll leave for the castle at any time.
+
+Zenigata:
+No one's going.
+
+Police man:
+Huh?
+
+Zenigata:
+The sooner they find a replacement for me, the better then we can get off this damn case.
+All you just get ready to go home.
+
+
+
+Christopher:
+It's me.
+Some food.
+
+Jigen:
+Great! Thank you!
+
+Christopher:
+How's your friend doing?
+
+Jigen:
+Better. His fever broke.
+Thanks to the treatment you gave him.
+
+Christopher:
+You know, it's the hound you oughta be grateful to.
+
+Jigen:
+Hm?
+
+Christopher:
+That old animal doesn't like anyone.
+But when you brought your friend here, the dog refused to leave his side.
+Not for that, I'd have never hidden you boys.
+
+Lupin:
+Karl, old boy.
+
+Christopher:
+Hmm?
+
+Jigen:
+Hey, look! He's awake!
+Welcome back, pal. How're you feeling?
+
+Lupin:
+Jigen... Goemon... it's sure been a long time.
+
+Jigen:
+Long time? Whoa. Why'd he say that?
+
+Goemon:
+Seems his wounds have temporarily out all his memory.
+
+Lupin:
+Good boy.
+Why aren't you out romping with your owner today, Karl?
+
+Christopher:
+How does a complete stranger like you know this dog's name?
+The only other person besides myself who knows it is Karl is Mistress, Lady Clarisse.
+
+Lupin:
+Pretty name.
+So, a woman called Clarisse owns you, huh fella?
+Hmm... Clarisse
+
+Jigen:
+Lupin...?
+
+Lupin:
+How many days have I been out!?
+Jigen, tell me! How long?!
+
+Jigen:
+Um, well... three.
+
+Lupin:
+Wedding...
+He marries her tomorrow! I have to-- Urgh!
+
+Jigen:
+Hey, you can't push it. You're gonna reopen your injuries.
+
+Lupin:
+Bring me food... I gotta eat something!
+
+Jigen:
+Want some mush? Porridge?
+
+Lupin:
+I've lost blood, Jigen!
+I don't wanna eat baby food. I want a feast!
+
+Jigen:
+Oh, well... that won't be easy...
+
+Christopher:
+I'll see what I can do.
+
+Jigen:
+You damn fool!
+Stop stopping yourself. Your stomach can't handle it.
+
+Lupin:
+Clam up!
+Gimme 12 hours and I'll be fine.
+
+Jigen:
+See, what did I tell ya?
+You turned into green. You want a bucket?
+Huh? You what?
+Lupin said he's full...
+
+
+
+Christopher:
+I see. So he did it for the princess.
+
+Jigen:
+As not much I can do now as he's hurt.
+
+Goemon:
+You seem to have a deep connection to Lady Clarisse from the past.
+
+Christopher:
+I've always tended the palace gardens.
+As a girl, the princess loved flowers and plants.
+After her parents were killed in the fire, she was sent off to the convent.
+She gave Karl to me be she left.
+
+Jigen:
+So when the dog got a whiff of Lupin, it probably picked up Clarisse's scent.
+
+Christopher:
+Possibly. But that doesn't explain how he knows the dog's name.
+
+Jigen:
+Hey, when he tried to rescued the girl, maybe she mentioned it.
+
+Lupin:
+That's not how I know.
+
+Jigen:
+You're awake already, huh?
+
+Lupin:
+It was just ten short years ago.
+I was a kid stepping out on my own, fearless and eager to take on the world.
+I had more enthusiasm than brains.
+Stupidly, I decided to find the wellspring of the Goat Bills.
+Somehow, I staggered to the shore, but I collapsed, unable to move another inch.
+
+Clarisse:
+Karl, what's the matter? Did you find something?
+
+Lupin:
+When she ran off, I thought my goose were cooked for sure.
+
+Clarisse:
+Here, Mister?
+
+Lupin:
+Huh?
+
+Clarisse:
+Water.
+
+Lupin:
+Oh...
+
+Lupin:
+Her little hands trembled that she gave me the glass of waster.
+That's when I happened to notice the ring.
+I'm almost embarrassed to say, I'd forgotten all about it until I saw the ring again.
+
+Jigen:
+Hear that? It's Fujiko's bike!
+
+Lupin:
+It's a clipping from today's paper.
+"Tomorrow, an archbishop is arriving from the Vatican to perform the marriage."
+Hmm... Hehehe.
+
+
+
+Zenigata:
+Go away...
+Talk I'm a busy man!
+Fujiko?!
+How do you know he's gonna hit the wedding?!
+Yes, sure?
+
+Fujiko:
+Your superiors wouldn't fault you for going back there to catch a thief, right?
+
+Zenigata:
+That's right! Excellent!
+
+
+
+Driver:
+We have to get through here! Move it!
+
+Guy:
+Hey, you blind?
+Did you happen to notice this traffic jam?
+
+Woman:
+Yeah, there's a landslide, walking the road up ahead.
+
+Archbishop:
+There must be some other way we can take.
+We can't be late for the wedding!
+
+Pastor:
+Excuse me.
+
+Archbishop:
+Huh?
+
+Pastor:
+Would you by any chance be the archbishop?
+Ah, yes, I can see you are.
+Please would you mind blessing this lamb, xxx?
+
+Driver:
+You live here?
+Do you know any other way to Castle Cagliostro?
+
+Pastor:
+Sure. Nearby, there's an old country road.
+Hop in please!
+
+Driver:
+Fantastic! Will you show us where it is?
+
+Pastor:
+Mm-hm.
+Of course. Anything for the archbishop.
+
+
+
+Zenigata:
+Put some muscle into it, will ya!?
+We gotta make it to the castle by nightfall!
+Just one more hill, men!
+
+
+
+Gustav:
+Are you sure this is
+It doesn't not see like a good idea to bring a TV crew in here?
+
+Jodo:
+His Excellency wants the world to witness his marriage to a proper, decent young woman.
+Ah! The archbishop has finally arrived!
+
+Gustav:
+You suppose Lupin will come?
+
+Jodo:
+I have my shadows closely watching over the bride.
+You just worry about watching the front gate.
+
+Gustav:
+Yeah.
+
+
+ ws:start:WikiTextHeadingRule:20:&lt;h2&gt; 
+
+Count:
+The time is at hand for light and shadow to unite.
+Clarisse, come.
+
+
+
+Archbishop:
+Bring forward the proof that will validate these two as truly noble members of the ancient bloodline of Cagliostro.
+In accordance with the old custom, you shall exchange these rings and recite your vows.
+Clarisse d' Cagliostro, daughter of the Grand Duke of Cagliostro, if you or anyone present objects to this marriage, you must speak now.
+Otherwise, silence will be accepted as a consent to this union.
+
+I [then will] confer God's blessing upon you.
+
+Lupin:
+I object!
+This wedding is soiled by the Count's evil desires.
+
+Archbishop:
+It is an omen!
+
+Count:
+Don't panic. These are earthly meddlers to our dealing with.
+
+Lupin:
+In the name of the dead who lie beneath this castle,
+I have come to take your bride to be.
+
+Archbishop:
+Mamma mia! A ghost!
+
+Count:
+Stand back. Enjoy the fun.
+
+Lupin:
+Clarisse, you must come with me!
+
+Fujiko:
+What a terrible turn of events!
+That scoundrel Lupin just turned out.
+
+Man:
+Stop the broadcast!
+
+Fujiko:
+Ha? What're you doing!?
+
+Zenigata:
+Let's go!!
+
+Lupin:
+Clarisse... Clarisse!
+Poor girl. They drugged you, didn't they?
+The evil Count didn't want you to be able to speak!
+
+Clarisse:
+Noooo!
+
+Count:
+Stay back, [xxx]. Please [xxx]!
+Ha ha ha!
+You were the fool. Let his friends die with him.
+
+Archbishop(Lupin):
+Don't cry, Clarisse.
+Your thief can't die that easily.
+
+Lupin:
+I'm coming for you, Clarisse!
+Ha ha ha ha ha ha ha ha ha!
+How do you like my wedding gift, Count?!
+
+Man:
+Excellency! Look!
+
+Lupin:
+These are the counterfeit bills you made!
+Take it as my payment for the rings!
+
+Count:
+Find him! He's got be in here!
+
+Man:
+Huh?
+
+Count:
+Huh?
+
+Archbishop(Lupin):
+Hee hee hee!
+Well, look what I got.
+
+Count:
+What is this!?
+Lupin?!
+
+Clarisse:
+You're alive!
+
+Count:
+Why, you! How dare you make a fool of me!
+
+Lupin:
+Goat-boy, chill out before you burn yourself!
+Check this out! Haha!
+
+Zenigata:
+You're not getting away this time, Lupin!
+
+Fujiko:
+After experiencing some technical difficulty, we'll now zoom full coverage of the wild wedding ceremony.
+
+Lupin:
+Well, gotta run!
+
+Count:
+Die!
+
+Man:
+Follow after them!
+
+Fujiko:
+Lupin's escaping with the princess and the Count is chasing him in a rage!
+Ha! Ah, now the police are joining in.
+
+Zenigata:
+Lupin's under the alter!
+All right, men! Charge!
+
+Fujiko:
+Cops storming the way to the fund of the chapel.
+Oh, and here come the Count's royal guards men... led by Captain Gustav!
+
+Zenigata:
+Deploy the rear guard!
+Stand your ground!
+
+Fujiko:
+The place looks like a war zone!
+Most of the fighting seems to be centered around that altar?
+No wonder, there's a secret underground stairway!
+Hey, could that be where Lupin is hiding?
+Well, let's take a camera in and find out!
+
+
+ ws:start:WikiTextHeadingRule:22:&lt;h2&gt; 
+
+Zenigata:
+Lupin! Dog fighting days are over!
+
+Interpol Chief:
+What is that idiot doing?!
+
+American Guy:
+He disobeyed orders.
+Recall him.
+
+Interpol Chief:
+There's no time
+This is a live satellite feed.
+
+Zenigata:
+Oh-ho! What have we here?! Those look like printing presses!
+Hmm? And what do I see over there?!
+Oh my! These are yen. Could they be counterfeit?!
+
+Interpol Chief:
+Lord, he's a bad actor...
+
+Fujiko:
+What a terrible discovery!
+
+Zenigata:
+There's fake money of almost every nation!
+I came looking for Lupin but I uncovered a criminal plot!
+Oh, what to do?!
+
+
+
+Jodo:
+Go! Go! Go!
+
+Lupin:
+We're gonna get you out of here first thing.
+Well, gentlemen, are you ready?
+
+Jigen:
+Always. We'll hold 'em off here.
+
+Lupin:
+Let's go!
+
+Clarisse:
+Please... promise me you'll be careful.
+And you, sir Jigen.
+
+Jigen:
+Eh?
+
+Clarisse:
+Be sure both of you come back alive.
+I'll never forget your chivalry.
+
+Goemon:
+You better get going.
+
+Lupin:
+Clarisse, come on! Hurry!
+
+Clarisse:
+Right!
+
+Lupin:
+See ya!
+
+Jigen:
+She called me "Sir"!
+
+Goemon:
+She is lovely.
+
+Jigen:
+Let's do some damage!
+
+Goemon:
+Tonight, you'll face this sword is like no other.
+
+
+
+Count:
+Damn it, I curse Lupin! He hasn't beaten me yet!
+
+Jodo:
+We'll secure the castle, My Lord.
+
+Count:
+Good.
+
+
+
+Clarisse:
+Your wounds hurt?
+
+Lupin:
+I never felt better.
+Now, let's get through here.
+Hmm?
+A crest of two rams... Each one facing the other.
+Putting 'em together and a message appears...
+It's in Capran.
+Light and shadow... It's too worn, I can't read it!
+
+Clarisse:
+When light and shadow are joined, face the sun-washed ram on high, the hour keeper and place this for them in its eyes.
+There're old words that have been passed down through my family.
+Are they any help to you?"
+
+Lupin:
+My dear, the mystery is solved!
+
+Clarisse:
+Ah!
+
+Lupin:
+It's the Count! This way!
+
+Count:
+They headed to the tower gear room.
+Moor the boat!
+
+Lupin:
+Duck!
+
+Count:
+Look! There they are!
+
+Lupin:
+So, look [xxx] rough.
+
+Clarisse:
+Oh!
+
+Lupin:
+Run!
+
+Count:
+Turn the lasers off now.
+The fools can't get out of the corner.
+
+Clarisse:
+Get down!
+
+Lupin:
+You afraid?
+
+Clarisse:
+Not really.
+
+Lupin:
+Great girl. Come on!
+
+Man:
+Don't let 'em go!
+
+Man2:
+No, no, no... Argh!
+
+Lupin:
+Don't look!
+
+Man3:
+Not that way!
+
+Count:
+Take the stairways, you half-wits.
+
+Lupin:
+Stay here. I'm gonna block the entrance.
+
+Clarisse:
+Be careful!
+
+Lupin:
+Be right back.
+
+Man:
+There he is!
+
+Clarisse:
+Behind you, Lupin!
+
+Count:
+Eeengh!
+
+Lupin:
+Hurry up!
+Hi, Count old pal!
+
+Count:
+Bastard. I'll skewer you!
+
+Lupin:
+Take your best shot! It's your last chance!
+
+Count:
+Eeengh!
+
+Lupin:
+One more!
+
+Hey!
+Come and get me, Caggy! Are you scared? Hmm?
+Huh?
+
+Count:
+Aha ha ha...
+
+Clarisse:
+Lupin!
+
+Count:
+I'll finish you off first, my darling fiancee!
+
+Lupin:
+Go on, Clarisse! Run!
+I'll be there as fast as I can!
+
+Count:
+Where're you running off to, Clarisse? Huh?
+Oh, dear. It appears that you can't go any further!
+And your thief isn't here to save you this time!
+What a pity.
+Let the Cagliostro bloodline end here. Farewell, Clarisse!
+
+Lupin:
+Now, wait a minute, Count! Let's haggle!
+
+Count:
+It is too late!
+Stand there and watch as I run the girl through!
+
+Lupin:
+Just listen to me!
+I'll give you the secret of the rings,
+Then take the damn treasure and do what you want with it.
+In exchange, let the girl go. Set her free.
+Look. See the ram crest up there?
+That's the sun-washed ram on high, the hour keeper.
+There's a hole in each of its eyes where the rings go.
+I'll give you the rings now.
+But if you hurt the girl, I'll throw them into the lake and I swear I'll kill you!
+
+That's far enough. Thank you!
+Now, send Clarisse inside!
+
+Count:
+No... I don't think so!
+Ha ha ha ha. You fool!
+I still had one ace up my sleeve.
+Come!
+The rings are back in my possession now.
+And for solving the mystery, your reward, Lupin!
+Aah! Oh, let go!
+
+Lupin:
+Hold on, Clarisse!
+
+Count:
+Let me go!
+
+Clarisse:
+Aaargh!
+
+
+ ws:start:WikiTextHeadingRule:24:&lt;h2&gt; 
+
+Man:
+The clock tower! Look!
+
+Jodo:
+The Count...
+
+Jigen:
+What the hell's that?
+
+Jodo:
+Count Cagliostro's reign is over.
+Please do it!
+
+Goemon:
+I don't kill without a cause.
+
+
+
+Lupin:
+Ha...
+
+Clarisse:
+My thief?
+
+Lupin:
+Hi, feel like standing? Feast your eyes.
+
+Clarisse:
+Wow...
+
+Lupin:
+The mysterious hidden treasure...
+
+Clarisse:
+An ancient Roman city laid out at the bottom of the lake all these ages.
+
+Lupin:
+I'm assuming the Romans built the floodgate, and they flooded the city when they were driven from here.
+Your ancestors unknowingly inherited it.
+
+Clarisse:
+Hahaha...
+
+Lupin:
+Haha, good!
+
+Lupin:
+This is a treasure, all right, the one to be shared with mankind.
+Too big for my pocket, anyway.
+
+Lupin:
+So, Interpol finally got off its fat ass.
+
+Clarisse:
+Does this mean you're going to leave now?
+
+Lupin:
+Hm? Hm... Well, you see...
+There are some very scary men after me.
+
+Clarisse:
+Take me with you!
+I know I can't be a thief yet, but I can learn!
+Oh, please! I want to... I want to go with you, my thief!
+I'll follow you anywhere!
+
+Lupin:
+Clarisse...
+It's no like for a young lady.
+Do you wanna go back into the darkness?
+Why, you've only just found your way into the sunlight!
+Hey, your whole life is ahead of you.
+It's beginning right now.
+Besides, you don't wanna be a ne'er-do-well like me.
+But if you're ever in trouble, I'll come running.
+Just let me know and I'll rush you to rescue you from the far reach of the earth.
+
+Clarisse:
+It's Karl!
+Oh, Karl!
+
+Christopher:
+Lady Clarisse!
+
+Clarisse:
+Christopher!
+Ahahaha.... you...
+Ah, Karl!
+Ah, wait!
+
+Lupin:
+'Til we meet again!
+
+Jigen:
+Hiya, Princess!
+
+Clarisse:
+My thief, wait!
+
+Lupin:
+Stay well, lovely princess! Adieu!
+
+Clarisse:
+Thank you so much, everyone!
+All of you take care now!
+
+Lupin:
+Adieu! Adieu!
+
+Zenigata:
+Blast! Just one step behind!
+The thief managed to steal again!
+
+Clarisse:
+No, he didn't take anything. I swear.
+He saved my life putting his own at risk.
+
+Zenigata:
+I'm right. That devil stole something precious and priceless.
+
+Clarisse:
+Huh?
+
+Zenigata:
+Your heart, my lady.
+
+Clarisse:
+...Yes!
+
+Zenigata:
+Well, duty calls!
+After Lupin! I won't rest until he is caught!
+
+Christopher:
+Good folks like that you sure don't meet every day.
+
+Clarisse:
+For some reason, I get a feeling that I knew Lupin a long ago.
+My thief, we will meet again one day, I know it.
+
+Jigen:
+You know, she is a pretty nice kid.
+You could stay if you wanted.
+
+Lupin:
+What the... Fujiko!
+
+Fujiko:
+Hey, sweetie, I really scored. Take a peek!
+
+Lupin:
+Huh? The goat bill printing plates!
+Oh, yeah, that's my girl.
+Whoo-hoo!
+
+Fujiko:
+See you then.
+
+Lupin:
+Ah! Wait, wait, wait, wait, wait, wait, Fujiko, wait for me!
+
+Lupin:
+Uh? Oh! It's the old man again!
+
+Zenigata:
+Stop! You won't get away, Lupin!
+  

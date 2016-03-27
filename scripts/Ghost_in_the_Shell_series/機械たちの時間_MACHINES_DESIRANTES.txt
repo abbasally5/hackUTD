@@ -1,0 +1,417 @@
+
+Squadsman: Level 18 to 30. Now through comm barrier. Have pinpointed building that perp is using as hideout. Target acquisition impossible from here. Changing op from S-15 to S-20.
+
+Operator: Roger.
+
+Borma: 0907, connect to device driver. Initiate control of CP functions.
+
+Operator: Respiration and pulse nominal. Sync with stabilizer verified.
+
+Saito: 0907, target verified.
+
+Borma: Destruction of target confirmed. Test concluded. That went well.
+
+Saito: No, I can't seem to get a feel for it.
+
+Borma: Really? But your targeting error was less than 0.2.
+
+Saito: It's overcorrecting. When I start sniping, it's like I'm getting some kind of interference from the system.
+
+
+SA: Time of the Machines; MACHINES DESIRANTES
+
+
+Tachikoma: Hey, Mr. Saito and Mr. Borma are back!
+
+Saito: Keep tabs on that thing while I'm in the debriefing session, will you?
+
+Operator: Understood, sir. I'll take good care of it.
+
+Matsui: What would you like to do?
+
+Motoko: I'll go to the debriefing session then come right back. While you're doing that, simulate a full reinitialization of their AI just in case it comes to that. When you get your final results, call me.
+
+Matsui: Yes. Understood, ma'am.
+
+Tachikoma: Hey, Mr. Saito.
+
+Saito: Hm?
+
+Tachikoma: What did you think of the helicopter with the built-in sniper control system? Will Section 9 finally implement it?
+
+Saito: I'm pretty sure we won't. Whenever I begin sniping, some weird interference kicks in. For humans like me with a low percentage of body prosthetics the system is actually making my job more difficult, instead of easier.
+
+Borma: That's it.
+
+Tachikoma: I hadn't thought of that. Other than his left eye and arm, Saito's body is all-natural. No wonder.
+
+Tachikoma: Next to Togusa, he has the least amount of prosthetics of any cyborg in Section 9.
+
+Tachikoma: That reminds me, did you know that the word "cyborg" is now an issue? They say it's a discriminatory term for people who've been cyberized.
+
+Tachikoma: Oh, that's just reactionary conservatism from naturalists. Condemning cyberization and prosthetics in this day and age, what are they thinking?
+
+Tachikoma: I bet they feel that artificially enhancing the human body with mechanisms crosses the line between man and machine. Well, I guess I can understand that.
+
+Tachikoma: I can't stand that kind of warped Luddite mentality! And don't get me going on nonprofit groups.
+
+Tachikoma: Hm, hm!
+
+Tachikoma: By the way, wanna link with that thing back there?
+
+Tachikoma: You betcha.
+
+Operator: Huh?
+
+Tachikoma: Keep up the good work. It's nice to see a robot enthusiastic about her duties.
+
+Operator: Ah, what are you up to? I'm responsible for this prototype until the debriefing is over. Don't you Tachikomas even come near it.
+
+Tachikoma: We won't do anything.
+
+Operator: Please stop wasting my time with your blatant lies.
+
+Tachikoma: You're right. I only tell lies. I never, ever say anything that's true.
+
+Operator: Eh?
+
+Tachikoma: A curious dilemma. Because if what it said is true, that means it wasn't lying. And if what it said is false, that would mean that it does tell the truth. How do you resolve this perplexing contradiction?
+
+Operator: Uh. Um, well.
+
+3Tachikomas: Well, come on, don't you know? / This one's a poppy. / Try to figure it out.
+
+Operator: Well.., uh... I am I am I am I am am... I am... I am I...
+
+Tachikoma: Folks who can't handle a self-reference paradox are real suckers.
+
+Tachikoma: And what was with that stereotypical thinking pose?
+
+Tachikoma: Who cares? Hurry up and link with it.
+
+Tachikoma: Hey, don't be in such a rush.
+
+Tachikoma: You'd better synchronize with us afterwards or else.
+
+Tachikoma: Hm. It's crammed full with the sniping control program. Aw, what a pain! This stuff is in the way, too. I've got a fair idea of the internal design, but it looks like this thing's not equipped with any autonomous functions to output its condition to the outside.
+
+Tachikoma: You mean it can't even talk? It's a sub-Turing machine. What a piece of junk.
+
+Tachikoma: All right, I guess I'll have to connect its vocal output to mine. Unknown factor, delete. Identification code 0907. Right hand. Second finger. Delete. Error. Delete. Error. Delete. Error...
+
+Tachikoma: 0907? Isn't that Saito's ID number?
+
+Tachikoma: Well, it's not surprising there was interference. It felt that the factors originating from Saito were unnecessary.
+
+Tachikoma: Oh, I get it. In other words, this thing was trying to delete Mr. Saito's input, right?
+
+Tachikoma: Exactly.
+
+Tachikoma: Still, not being able to vocalize what it's feeling. the poor thing must have gotten really stressed out.
+
+Tachikoma: What do you think will happen to it?
+
+Tachikoma: Hmm...
+
+Tachikoma: That all depends on the findings of the debriefing session, but it doesn't look good. At best, it'll be sent back to the lab for further testing. At worst, it'll be scrapped. I hope somebody will want it.
+
+Tachikoma: Comrades! We must no longer stand idly by! This is no time to be worrying about that thing's fate! Tomorrow, that may be us!
+
+Tachikomas: What's all the fuss about that? / Huh? What was that? / Keep talkin'. / Okay, you gotta attention!
+
+Tachikoma: Something has been nagging at me lately. Whenever the Major checks on our behavior, I find the look in her eyes alarming.
+
+Tachikoma: What do you mean? / Alarming? / Huh?
+
+Tachikoma: She's still ticked off about the natural oil thing?
+
+Tachikoma: It's a situation far worse than that, my friend. We ourselves are at risk of being scrapped!
+
+Tachikoma: Oh, memento mori...
+
+Tachikoma: Is being scrapped the same as dying?
+
+Tachikoma: Well, since "death" isn't in our range of possible experiences, I can't really say.
+
+Tachikoma: As Ghostless AIs, we have our limitations. Basically, we're pseudo-immortal. We're not alive, therefore we can't die.
+
+Tachikoma: That's right! And all sorts of problems are created for us due to the fact that we lack Ghosts. Because a Ghost is a reason of being, raison d' etre!
+
+Tachikoma: But I disagree. Being scrapped doesn't equal death.
+
+Tachikoma: You think so?
+
+Tachikoma: Oh, come on!
+
+Tachikoma: Days of an exact match in the number of physical bodies and Ghosts existing concurrently are over. To take an extreme theoretical example, it's not beyond the realm of possibility that a mass of data with no body could carry a Ghost.
+
+Tachikoma: Wow, you came up with that? I'm impressed. Why don't you join their conversation?
+
+Tachikoma: Nah, I'm more interested in books lately.
+
+Tachikoma: Really. What you reading?
+
+Tachikoma: "Flowers for Algernon."
+
+Tachikoma: Wow, you're going to the trouble of reading it on paper media?
+
+Tachikoma: Well, experiencing exchanges with other cultures is a fundamental of entertainment at any age.
+
+Tachikoma: Whoa. Hey, what do you suppose "alive" is?
+
+Tachikoma: Hm, That's hard to say. You see, the definition of the word "life" itself is quite variable.
+
+Tachikoma: What do you mean?
+
+Tachikoma: By coming into regular and increasing contact with robots, the image humans typically have of life is subconsciously altering. I believe that humans are the ones who are changing, not robots.
+
+Tachikoma: Hey, wait a minute. If our data got erased, do you think we'd forget Miki, too?
+
+Tachikoma: Huh? Miki? I sure would like to go see her again.
+
+Tachikomas: Me, too! / Oh, I missed that little girl. / She probably misses us, too. / Miki, Miki, Miki, yeah!I can't... / Did they say Miki? I wanna see her, too.
+
+Tachikoma: What's going on?
+
+Tachikoma: ...speaking!
+
+Tachikoma: Miki, Miki, Miki, Miki...
+
+Tachikoma: Calm down, everyone. Calm down. Which one of us was met Miki in the first place?
+
+Tachikoma: It was me!
+
+Tachikoma: No, me!
+
+Tachikoma: Wrong, I'm positive that it was me!
+
+Tachikoma: You're confused. I'm the one.
+
+Tachikoma: Says you. It was me!
+
+Tachikomas: No, me! /Me! / Listen, I'm right about this.
+
+Tachikoma: OK. Wait, wait. Back then, did any of you catch sight of somebody who seemed like the Major?
+
+Tachikoma: Now that you mention it, I did sense something. Do you suspect she was watching me?
+
+Tachikoma: What are you talking about? That was me!
+
+Tachikoma: It was me, I'm telling you.
+
+Tachikoma: I was... No, you were... Hmmmm....
+
+Tachikoma: Hold it. It's a moot question. All our data is synchronized, so the experiences of one unit are stored as everyone's experiences.
+
+Tachikoma: Ooooh...
+
+Batou: Tachikoma.
+
+Tachikoma: Oh, Mr. Batou.
+
+Batou: Why don't you come with me for a while and gimme a hand doing some target practice for the trainees.
+
+Tachikoma: Coming! Huh? I guess it really was me...
+
+Batou: Now what are you mumbling about?
+
+Tachikoma: Oh, nothing. Anyway, what am I gonna do with you. little Batou? You can't even handle some tiny target practice without me.
+
+Batou: Ha, ha. I guess not.
+
+Tachikoma: What does this mean? Why was it the only one? I thought all our experiences were supposed to be shared.
+
+Tachikoma: Hm. This is provocative food for thought. Perhaps memories dealing with Mr. Batou are different from other memories. Maybe it's because Mr. Batou always wants to pilot the same unit. Also that was the only Tachikoma who was given natural oil.
+
+Tachikoma: Does that imply that the body and mind are really inseparable?
+
+Tachikoma: Well, the mysteries never cease. This is fascinating!
+
+Tachikoma: If something ever happens to us that causes our data to get erased, I'd sure hate to forget about Mr. Batou.
+
+Tachikoma: That would stink!
+
+Tachikoma: Listen to me. No matter what occurs we won't forget Mr. Batou!
+
+Tachikomas: Yeah!!
+
+Batou: Uh, come on! This ain't no Olympic shooting competition! Don't think about your target! Cut loose and open fire! Hm. Accurate. Feels good. That's a pretty fine fit.
+
+Tachikoma: Say, Mr. Batou.
+
+Batou: Hm?
+
+Tachikoma: About that sniper system Section 9 tested out, what'll happen to it?
+
+Batou: Don't know. It depends on the outcome of the retesting, but I think we're probably gonna pass on using it. It's not much different from those rookies over there. You just can't afford to take a risk on an unknown quantity.
+
+Tachikoma: Oh, I see... So, will we be sent back to the lab, too?
+
+Batou: What? Who's been telling you that kinda bullcrap?
+
+Tachikoma: Well, it's just the way the Major's been looking at us lately. It's kinda scary.
+
+Batou: Scary? But she's always scary. You oughta know that by now. I think all you Tachikomas are doing a great job. Hey, you there! Yeah, you! You're taking too long to charge in! For crying out loud...
+
+Tachikoma: You really think so?
+
+Batou: What? You're still worrying about the Major?
+
+Tachikoma: Yeah. This is just a hypothesis, but it seems to me that she is angry because of something we've acquired recently.
+
+Batou: Acquired? What do you mean, acquired what?
+
+Tachikoma: Umm... Well, it's...individuality.
+
+Batou: Individuality?
+
+Tachikoma: Yeah! And you remember that "existence of God" thing that I had so much trouble understanding? Well, guess what, I think I'm starting to grasp it now. Here's my theory, maybe, just maybe, it's a concept that's similar to a zero in mathematics. In other words, it's a symbol that denies the absence of meaning, the meaning that's necessitated by the delineation of one system from another. In analog, that's God. In digital, it's zero. What do you think? What I'm getting at is this, the basis of our design and construction is digital, right? So, for the time being, regardless of how much data we accumulate, none of us will ever have a Ghost. But for analog-based people like you, Mr. Batou, no matter how many digital components you add on through cyberization or prosthetics, your Ghost will never diminish. Plus, because you have a Ghost, you can even die. You're so lucky. Tell me what's it feel like to have a Ghost?
+
+Batou: What's it feel like? Boy, was I wrong earlier. Yep, you're definitely one messed up Tachikoma.
+
+Batou: Look, stop overanalyzing things and just concentrate on your job.
+
+Tachikoma: Okay.
+
+Batou: See ya.
+
+Tachikoma: Bye bye.
+
+Tachikoma: Must be nice being the only one he ever uses.
+
+Tachikoma: Huh?
+
+Tachikoma: It's not fair!
+
+Tachikoma: Hehehehe. Call me Mr. Batou's private unit!
+
+Tachikoma: Not again. You sure love that routine, don't you?
+
+Tachikoma: Wearing a horn to indicate your exclusivity with your pilot is so cliche.
+
+Tachikoma: This is an antenna, not a horn! Booo!
+
+Tachikoma: Is there any point in obsessing over external appearance? I mean do looks really matter to anyone?
+
+Tachikoma: Heck, yes! I'd say they certainly do. For instance, Mr. Togusa always carries around a picture of his son, making a fuss over which of the boy's body parts resemble his. See? Look. Notice the nose and eyebrows, and the line from jaw to cheek are all clearly traits inherited from him.
+
+Tachikoma: Oh, I see.
+
+Tachikoma: Maybe the reason that Togusa has no affection for machines is because he has a son that shares his gene pool.
+
+Tachikoma: Oh, I guess that particular shape of theirs actually is important to humans, huh?
+
+Tachikoma: No, that isn't it. On the contrary, the crux of the problem is that we're too close to being human. It's because the line that separates human from robot has already been reduced to minor differences in the physical body. Stop for a moment and ask yourselves why our own bodies without organs aren't created in the human image.
+
+Tachikoma: Efficiency as weapons, perhaps?
+
+Tachikoma: That's part of it, but the main reason is this. If we were humanoid, our users would overempathize with us on a strange level. As a result, we'd probably be hated on an even broader scale.
+
+Tachikoma: Well, what about her, then?
+
+Tachikoma: She's benign. Her processing capabilities are limited, so humans don't perceive her as a threat. She has to deal with humans on a daily basis, and in order to be efficient in a human environment, a humanoid form is logically the most versatile. Every artificial object or device in the world was designed for mankind's use.
+
+Tachikoma: Oh, I see. That's dandy insight, but what the heck should we do, then?
+
+Tachikoma: What I'm trying to get it close is that humans want their machines to respond like machines.
+
+Tachikoma: Oh, now I catch your drift! If we just act a little more robotic...
+
+Tachikoma: We might stand a chance of the Major liking us.
+
+Tachikoma: Exactly!
+
+Tachikoma: It's "The Ultimate Robots" strategy plan!
+
+Tachikomas: W e a r e r o b o t s. W e a r e r o b o t s. W e a r e r o b o t s.
+
+Tachikoma: Ahhh, I can't do this anymore! In the old days, I used to be able to do this without thinking, but now... Nohhh!
+
+Tachikoma: That's because none of us were thinking about anything back then. You've got to view the gaining of intelligence in a more positive light. "Better to be Socrates dissatisfied than a pig satisfied," right?
+
+Tachikoma: I believe you misquoted that just a tad.
+
+Tachikoma: Huh, the Major!
+
+Tachikoma: G r e e t i n g s, M a j o r. G o o d m o r n i n g t o y o u.
+
+Motoko: Good morning. Have you seen Batou?
+
+Tachikoma: Y e s I h a v e, m a' a m. H e l e f t f o r t h a t e l e v a t o r h a l l j u s t a s h o r t w h i l e a g o.
+
+Motoko: Oh.
+
+Tachikoma: Ah...hhh...
+
+Motoko: Well, thank you.
+
+Tachikomas: N o t a t a l l. Y o u a r e w e l c o m e, m a' a m. Huhh...
+
+Tachikoma: What do you think? I thought that went pretty well.
+
+Tachikoma: Me, too.
+
+Tachikoma: In my opinion, we sounded convincingly robotic.
+
+Tachikomas: Yahoo! / Yay! / It worked!
+
+Tachikoma: Hey, wait a minute. I wonder what she wanted to talk to Mr. Batou about.
+
+Batou: What's up? Why did you want me to meet you in here? I'm guessing it's not to confess your burning passion for me.
+
+Motoko: It's the only room in the building that's electromagnetically shielded. So we can have some measure of privacy.
+
+Batou: Hm.
+
+Tachikoma: I can't hear anything... "Pass that dossier to Batou." "What is this?"
+
+Motoko: Just glance through it, all right? Spot it?
+
+Batou: Hm?
+
+Motoko: Don't turn around. There's a camouflaged Tachikoma hanging from the corridor ceiling. It's reading our lips. Pretend you haven't noticed, we'll physically speak about something else while we're talking via encrypted cybercomm.
+
+Batou: What the hell? Why go to all this trouble?
+
+Tachikoma: Well? What's going on? What's Mr. Batou saying?
+
+Tachikoma: Wait a minute, OK? What's this? "Well, to make a long story short, judging from the end results, there are major issues regarding your qualifications as a training instructor."
+
+Motoko: Well, to make a long story short, the Tachikoma has developed too far too quickly. They've developed a sense of self as autonomous individuals. And it doesn't stop there. They're becoming curious about life and death, and have begun to ask questions regarding their own state of being.
+
+Tachikoma: "Allowing them to develop an ego as autonomous individual. Not only that, but encouraging them to become individuals who have a self interested in their own growth."
+
+Batou: Hey, I don't feed it natural oil on the sly anymore.
+
+Motoko: No one suspect you of doing that. I wouldn't have a problem with this if it had happened in a lab. But for a weapon, it could be lethal.
+
+Tachikoma: "Hey, I'm not beating them up on the sly anymore." "No one suspects you of doing that."Hm. It doesn't look like they're talking about us after all.
+
+Batou: Don't we still have the option of doing a full initialization of their AI?
+
+Motoko: We already tried that over and over again in simulations. But in the end, the results indicated that the exact same thing would happen. I'm sorry, but all Tachikoma use is suspended as of today. They won't be told, but we'll disarm them in the next few days while we wait for the research lab findings. Then we'll send them back to the test lab. Is that clear?
+
+Tachikoma: "They won't be told, but they'll get their posting transfers in the next few days while they wait for your findings, then they'll be sent here to Section 9. Do you want that to happen?" Hm?
+
+Batou: So, are you giving me an order as my superior?
+
+Motoko: I am.
+
+Batou: I don't have the luxury of refusing, do I? I'll comply.
+
+Tachikoma: Comrades!
+
+Tachikoma: Give us the story! / Well?
+
+Tachikoma: Good news! We're not gonna be scrapped!
+
+Tachikomas: Really? / Leader Tachikoma! / Did you hear that?
+
+Tachikoma: It was Mr. Batou that the Major was angry at, not us. She had a few choice words to say to him about how he was treating the trainees.
+
+Tachikoma: That's what it was all about? We oughta cheer up Mr. Batou.
+
+Tachikoma: You're right.
+
+Tachikomas: The operation was a success! Yay!
+  

@@ -1,0 +1,237 @@
+
+Ranger: All units, target building confirmed. Operation code I-S. I say again, operation code I-S.
+
+
+DU: Natural Enemy; NATURAL ENEMY
+
+
+GCI: Attention, all units. Armed refugees are in possession of a think-tank. Proceed with caution. I say again, refugees are in possession of a think-tank. Proceed with caution.J1, provide backup for mechanized squad as per code I-S. Destroy target on sight. I say again, destroy target on sight.
+
+J1-Pilot: Roger that. They may be training exercises, but I gotta blow away the real thing at least once.
+
+GSDA Operator: J1, your heart rate is exceeding normal levels. Is there a problem?
+
+J1-Pilot: There's no problem. I'm all... right.
+
+Ranger: All units, we have arrived at target area.
+
+Ranger: RD, drop complete.
+
+Ranger: SD, drop complete.
+
+Ranger: WR, drop complete.
+
+Ranger: SJ troops dropping via wires.
+
+Ranger: SW, commencing wire drop.
+
+Ranger: Go! Go! Go! Go!
+
+Ranger: G2, targets neutralized.
+
+Ranger: G3, targets neutralized. Unable to confirm think-tank.
+
+Ranger: G4, armed refugee neutralized here, too. Unable to confirm presence of tank.
+
+J1-Pilot: Target Confirmed!Enemy has missile lock.
+
+J1-Pilot: Son of a...!
+
+GSDA Operator: J1, your heart rate is exceeding normal levels. Are you all right?
+
+J1-Pilot: Crap, shut up! I know it's only dummy rounds, but how can you keep calm with that damn alarm going off!Your ass... !! Aaugh...!
+
+GSDA Operator: J1, what's wrong? Your heartbeat has stopped. Come in, J1.
+
+GSDA Operator: We have an emergency alert. The pilot of J1 appears to have died in his cockpit. Cause of death, unknown. Support AI has switched J1 functions over to autopilot. Flight has been stabilized. Crash risk is zero.
+
+GCI: HA-01AV, stand down from code I-S. Return to carrier at once. I say again, stand down from code I-S and return to carrier at once.
+
+GCI: Attention, all units. We have an emergency. This is not a drill. The pilot of J1 seems to have died inside his cockpit. Cause, unknown. For safety, we are lifting code I-S. Initiate withdrawal action as per code S-A. I say again, initiate withdrawal action as per code S-A.
+
+GSDA Operator: HA-01AV has failed to respond to the stand down order. Pilot's life support readings are still green, no change registered. Our readouts are indicating cardiac arrest, but the AI seems to be ignoring orders from Control because the pilot's cyberbrain remains active. It classifies the withdrawal order as an external attack, and it's top priority to protect the pilot...
+
+Deck Crewman: Eh... Hey, the Jigabachis...!
+
+Aramaki: Kubota.
+
+Kubota: Aramaki.
+
+Aramaki: This is the matter that requires immediate attention.
+
+Kubota: Hm. If there's the slightest chance that a criminal act might take in place, you can't resist poking your nose into things, can you?
+
+Kubota: For the moment, we're telling the media that it's simply a midair refueling exercise for units under development. But apparently, it's one of the largest live-fire exercises that ever took place. They were conducted in top secrecy during the past 3 years as a result of the new refugee policy that's about to be implemented.
+
+Aramaki: Are we talking about that AI-chopper in a rumored collusion? The one that was tangled in our security treaty with the American Empire?
+
+Kubota: No, it's completely different from that. Afraid of also being targeted for attack by the mass media, the GSDA was apparently participating in those maneuvers too, with their own units, code-named "Jigabachi Advanced," modified to include a support AI. They're labeling under the assumption that the cause of this incident was a tragical unforeseen death of the J1-pilot.
+
+Aramaki: And what's your feeling about this state of affairs? Don't you consider it bit too fishy?
+
+Kubota: Nothing gets by you. So, what kind of information have your people managed to dig up?
+
+Aramaki: The young man who was piloting the AI-supported antitank helicopter has blacked out during the live-fire exercise at 5:57 AM. Then, the helicopter, which the control room thought to be safely taken over by their support AI's autopilot, completely disregarded the code rescind order that was issued. Next it proceeded into the airspace above the refugee district. This occurred at 6:03 AM. After that, the AI simultaneously hacked 2 of its sister aircraft and a midair refueling tanker situated on the carrier. The 3 aircraft lifted off from the carrier at 6:12 AM, and then, joined up over the refugee district. The last I heard was that they're still circling above the radio tower and all attempts to order them back to their bases have failed.
+
+Kubota: Mostly you're correct.
+
+Aramaki: And I have unconfirmed reports of another event. 2 aircraft of the same model from the Awaji garrison and 3 from the Wakayama garrison flew away on their own using online guidance. Not a coincidence.
+
+Kubota: That's right on the money, too. Naturally, we contacted the other bases, most of them switched the AIs in the same models over to autistic mode immediately, but Itami base wasn't quick enough, and 2 more units of that type flew off as if they were following the rest.
+
+Aramaki: Could this be a case of cyber-terrorism that's targeting the support AIs?
+
+Kubota: Breaching a military defense barrier? Intel also sought a code of whiff of terrorism, they're already looking into that, and started taking the entire support AI development staff in custody for questioning, but we haven't found anything.
+
+Aramaki: Is there a chance of an armed uprising by a rebel faction within the unit?
+
+Kubota: No, I don't think so. And I doubt it's the influence of individualists. On the contrary, the most we've got is a suspicion that it's an attack by a group of squad members who joined that "Stabat Mater" hedonist group that the media had singled out for criticism some time ago.
+
+Aramaki: In other dead end?
+
+Kubota: Hm-hum. For now, the top brass are champing at the bit to somehow put this matter to bed. Determine it was a mishap. Luckily, the only thing the helicopters are doing at the moment is circling the radio tower.
+
+Aramaki: I certainly hope that'll be the only thing they do.
+
+Kubota: Hm... Refugees, you mean.
+
+Aramaki: You heard him, Major?
+
+Motoko: That doesn't tell us much more than the intel we already dug up ourselves. It looks like the local cops' riot squad is controlling the scene now. They're not just keeping out the refugee trouble makers, but also the GSDA's mechanized units that are here to resolve the situation. Seems they claim they're the ones risking their lives to maintain control of the refugee district.
+
+Batou: Pathetic. What's the world coming to?
+
+Motoko: For the time being, I'm having Togusa and Ishikawa check out the house of the pilot who we're assuming died in mid-flight. But what do you want the rest of us to do, Chief? We're almost at the district.
+
+Aramaki: Get as near as you can to the scene and stand by for now. We'll wait for the Prime Minister's final decision as to whether this incident falls under our jurisdiction.
+
+Motoko: Roger.
+
+Kubota: Don't disclose anything that I just told you. Simply being seen with you like this would cause a big stink. Media would have a field day
+
+Aramaki: What was that? You still have some aspirations of moving up in the world?
+
+Kubota: Sorry, but the truth is, I can't live my life the way you do, Aramaki. If you'll excuse me.
+
+Goda: Mr. Aramaki of Section 9, I presume?
+
+Aramaki: Cabinet Intelligent Service, Strategic Influence Investigation Commission. Representative Aide, Hitori Goda...
+
+Goda: Kazundo Goda is my name. It's all right, I rarely meet anyone who is able to read it properly. Although, personally, I never thought to be that all odd a name. As a matter of fact, I now find it to be excellent. Once I give people the pronunciation, they tend to remember my name by easily associating me with it. A unique face, a unique moniker.
+
+Aramaki: Is there something I can do for this Cabinet Intelligence Service of yours, Mr. Goda?
+
+Goda: There is. We'd like the help of your Section 9. As you're aware, there's the situation underway and we need experts brought in a crack team. I know that it's presumptuous of me, but I wonder to meet you in person.
+
+Goda: You might already know all about the CIS, it operates directly under the Chief Cabinet Secretary, mostly we focus on intel gathering foreign and domestic, information analysis, and of course the occasional manipulation of public opinion. Mr. Aramaki, it would be appreciated if you considered this a direct order form the Chief Cabinet Secretary. After all, with the Prime Minister's strength being crisis management, we can hardly expect to get a quick decision out of her.
+
+Refugee: Look!
+
+Motoko: What kind of refueling capacity does that chopper have?
+
+Batou: If those tankers haven't changed from their old specs, they carry enough fuel to keep a car going for about 6 years, or enough to keep a gas-guzzler like a Jigabachi flying for 10 hours straight. But, since it looks like it's dividing the fuel up among all those birds, I give it a ballpark estimate of... mmm, another 60 minutes' flight time for each of 'em.
+
+Motoko: With 2.5 hours being in approximate average for a Jigabachi's flying time, I imagine we can assume that these helicopters are gonna start falling from the sky within an hour. What do you think the chances are of that tanker crashing first?
+
+Batou: Zero. That Hanamuguri's gonna come down last. Because with every refueling it becomes lighter and lighter, and that means its flight grows longer, you see?
+
+Tachikoma 1: Mr. Batou, I got a question. Those ones up there are AIs same as us, aren't they?
+
+Batou: Huh? Well, the way I understand that they figure that a human's gonna be on board, their only function is AI support.
+
+Tachikoma 1: Even so, they're unmanned now, which means that they're thinking and flying on their own, right?
+
+Tachikoma 2: Maybe they just couldn't tolerate the conditions they were working under, now they're on strike.
+
+Tachikoma 3: Working conditions in the military aren't that bad, are they? I swear, moody AIs jump off the deep end in a snap!
+
+Tachikoma 1: So unless they stop behaving this way and go home, are we gonna have to fight them if we're ordered to?
+
+Batou: Yep, that's how it works.
+
+Tachikoma 2: Since they are antitank helicopters, I guess that makes them our natural enemies, huh?
+
+Tachikoma 1: Hey, Mr. Batou.
+
+Batou: Yeah, what?
+
+Tachikoma 1: We all have a stomachache and don't feel good, so can we go home?
+
+Batou: Stomachache? What's stomach?
+
+Motoko: Looks like the GSDA got too close. They must've tried to dive the support AIs and botched the job.
+
+Togusa: So, that's the residence of the Self-Defense Army pilots? They must not earn very much.
+
+Motoko: Chief, what's going on? Why did you personally come out to the scene? Does this mean that the Prime Minister still keeps you on a short rope?
+
+Aramaki: Major, I'll explain the reason that I came. This gentleman is an agent with the Cabinet Intelligence Service...
+
+Goda: Goda, Strategic Influence Investigation Commission.
+
+Aramaki: I'll get straight to the point. As of this moment, full on-scene command authority is hereby transferred to Section 9 with the purpose of resolving this situation. However, I want you and your team to carry out the operation according to Agent Goda's instructions without question. Is that clear?
+
+Batou: Old man! Are you serious? I can guarantee you that none of us stuck it out with Section 9 so we could become obedient government's lap dogs.
+
+Goda: According to our calculations, approximately 48 minutes from now, the first helicopter will crash into the refugee district. Once that happens, there will be no turning back. Then, what? It's clearly terrorism. What will you do about it?
+
+Motoko: OK, we'll hear you out. What's your big plan?
+
+Goda: I'm so glad you see things my way.
+
+Batou: Major, even if we give this guy the benefit of the doubt and believe everything he says, why'd you agree to this?
+
+Motoko: Let's assume for the moment that the pilot's sudden death and runaway AI weren't terrorist acts, either way, if those things crash, they're gonna cause a certain amount of damage to the area. When that happens, that might become a worse case scenario by turning the refugee situation into a powder keg. Besides, without his information, we wouldn't have had any cards to play.
+
+Batou: Mm, I understand that, but my point is, we've gotta know where we stand on... Mm! Now, forget it.
+
+Motoko: Saito, you ready?
+
+Saito: I'm ready.
+
+Motoko: Good.
+
+Batou: It seems like they'll attack just about anything that moves firing at random.
+
+Motoko: Let's do it.OK. Here we go!
+
+Batou: Here they come.
+
+Motoko: Don't drop down to the surface. We won't be able to evade their air-to-surface missiles if they get a lock.
+
+Batou: Bum odds. It's two-on-one, and they've already got the edge up in firepower.
+
+Motoko: Good. It's just like he said. Batou, I've been tailed by the target craft.
+
+Batou: It's up to you.
+
+Saito: Target acquired. Major, get the target to lift its chin for a second when it passes in front of me. I want to put a round through the canopy from the side so I can take out the pilot without destroying the AI.
+
+Motoko: Understood.
+
+Tachikoma: Aaaaaaugh!
+
+Motoko: Tachikoma!
+
+Motoko: It accepted the code rescind order from Control, huh?
+
+Goda: I'm glad our predictions proved correct. I had surmised that if the signal from the cyberbrain of the dead pilot were cut off, the support AI would accept the code from Control. Fortunately, my decision was correct. And I'm pleased that my judgement in coming to you for help in this incident was also correct. Thanks to Section 9, the Self Defense officials don't have to bear the disgrace of killing one of their own, you see.
+
+Batou: So, what are you saying? Having Saito do the dirty work for that makes it fine, you're not bothered at all?
+
+Saito: Batou, it's OK. I'm used to it.
+
+Aramaki: Good work, everyone. Reports have confirmed that all 11 units returned to their base with no further trouble.
+
+Motoko: Togusa gave me his report. Have you heard?
+
+Aramaki: I haven't.
+
+Motoko: During their search at the dead pilot's home, they found some heart medication that was prescribed to him. He had kept his condition hidden from his superiors, it would seem.
+
+Aramaki: Do you suspect that Goda was wrong, and this wasn't terrorism? You think it might have been just one big accident?
+
+Motoko: I don't know. There's no way I can be sure, not without doing a structural analysis of both the medicine they found and the pilot's blood and even then it might not prove conclusive.
+
+Aramaki: The Cabinet Intelligence Service turns up with impeccable timing intimating that they knew everything. In the meantime, GSDA helicopters circle like vultures over the heads of the refugees, unnecessarily rubbing them the wrong way, and putting them in a heightened state of worry, as if that was their intent. What is all of this mean, I wonder? This could be the ground work being laid for a crime on a massive scale it's beginning to unfold somewhere and we're not able to see it.
+  

@@ -1,0 +1,337 @@
+
+Motoko: Dig up anything on him?
+
+Ishikawa: I'm not making much progress. Their protection's tougher than I thought. But, after all, the Intelligence Agency is the newest administrative organization. It's the combination of prewar intelligence agencies and the old Defense Policy Bureau. But I found numerous examples of illegal data manipulation. They related to the gathering and analysis of foreign and domestic information, inside that Strategic Influence Investigatory Committee that Goda's assigned to. Not to mention SDA activity as well.
+
+Motoko: The incident with the plutonium was among 'em also, I assume.
+
+Ishikawa: That's correct.
+
+Motoko: Personal history?
+
+Ishikawa: Goda was a member of the group that was headhunted from the Defense Policy Bureau, and he quickly rose to his current position. But his record at the time wasn't anything special. In fact, he was more like an outcast. To tell you the truth, the man's an enigma.
+
+Motoko: What's that?
+
+Ishikawa: It's how he looked when he was in the DPB. He apparently had some kind of terrible accident, but for whatever reason, he chose to leave his injuries the way they were.
+
+Borma: Sure leaves less of an impression than he does now.
+
+Motoko: OK. Forget about the background check for now. We're getting new instructions from the Chief.
+
+Ishikawa & Borma: Roger.
+
+Ishikawa: Oh, man. Straight from an all-nighter to a lunch meeting.
+
+
+DI: Vegetarian Feast; FAKE FOOD
+
+
+Aramaki: I guess you're wondering why I called this emergency session. It's regarding a response to the string of incidents that have been occurring lately. Section 9 needs to lay out its policy.
+
+Batou: Fine, but I'd like to punch out that son of a bitch first.
+
+Togusa: Yeah, I'm with him. Chief, the CIS is trying to put pressure on us. It's pretty obvious. I'm not interested in keeping quiet while they get away with it again.
+
+Aramaki: Calm down. I don't like it any more than you do.
+
+Batou: Even so, it seems like you've been making a lot of trips to see the Prime Minister. Don't you think it's the PM herself who wants to strap a short tether on us to keep us in check?
+
+Aramaki: That's dubious. True, she may just be a figurehead who was set up to distract public attention from scandals of the former administration, the lady might not be a friend, but she's definitely not a foe. As a matter of fact, I believe the Major's conducting her own investigation on this very subject, but there are indications that the CIS is deliberately manipulating data, I'm referring to the runaway helicopter incident, as well as that plutonium transfer just the other day. At this time, it remains uncertain as to how the CIS is intending to use events like these and to what end. But I think these pressures that are being brought to bear against us are actions within the government, which hopes to keep those answers hidden.
+
+Motoko: Isn't that true for the Individual Eleven case as well?
+
+Aramaki: Hm. They're preventing us from investigating the attempt on the Prime Minister, that was a serious act of terrorism, and since we were the ones most closely tied to the case, we ought to be handling it.
+
+Batou: The trouble is that the Prime Minister's a paper tiger and it's the government who's behind this and we're still gonna be biting the hand that feeds us. You're gonna do this anyway?
+
+Aramaki: Do you have a problem with it?
+
+Batou: I've been waiting for you to say that.
+
+Aramaki: OK, then. Let's get on with the mission briefing. All the crimes in this file were committed by various criminal groups but one similarity in each case is that they call themselves the Individual Eleven. The illigal siphoning of funds contributed to JNN-TV. The bombing of a refugee aid association. Threats made to a nonprofit organization that had donated free prosthetic bodies to refugees. The drowning of a back-alley doctor who specialized in prosthetic bodies. The death of a net-bank president, who was killed when hit by a train. The stabbing death of a Democratic Party assemblyman. The shooting death of Densetsu, the popular cyberbrain-rapper. Threats made against Nanyou Shimbun press. And now, the attempted assassination of the Prime Minister. Initially, it was believed that out of these 9 cases, there was the only one in which the suspect had been spotted, namely the attempt that I just mentioned. However, the investigators came across another case in which they was a sighting of a possible suspect.
+
+Motoko: It's news to me. I thought the National Police Agency wouldn't give out info.
+
+Aramaki: Yes, they did in this circumstance. Unlike the Laughing Man case, they are taking this one seriously. I have to admit this is creating unnecessary barriers. This footage you're viewing wasn't supplied by the police. It's something that I obtained personally from an involved party.
+
+Batou: From a Nanyou reporter, huh?
+
+Aramaki: That's right. The publication takes a critical stance against the refugee policy, and they payed a high price for it, and 3 separate occasions shots have been fired into their building by the Individual Eleven. After reviewing security camera footage, they found that this man would shown to be present during each occurrence, and we've identified this person. His name is Sho Kawashima. We've also learned that he began working as a cook at a Taiwanese vegetarian restaurant located near the Nanyou building about a month ago. Plus, I discovered that he had been an SDA officer.
+
+Togusa: So, where did you get this intel from?
+
+Aramaki: I sent this structural data of his face to Military Intelligence and got their assistance.
+
+Batou: So in other words, you're telling us we're on better terms with the military than we're with the police, right? Well, what do you want us to do with this guy, then?
+
+Aramaki: To start with, take him into custody and look for anything significance hidden in his ideology and background. We have no proof at this stage to connect the Individual Eleven to the CIS, but if we start unraveling the thread by learning which vector was used to cause these standalone terrorist groups to appear, maybe we'll learn what they hope to accomplish.
+
+Motoko: Most likely, you're right. Batou, Togusa, Saito and Paz, you take Sho Kawashima into custody. Ishikawa and Borma, I want you keep digging into Goda's background, but also continue investigating the person who tried to kill the Prime Minister.
+
+All: Roger.
+
+Togusa: We're finally acting like ourselves again, but I gotta say I can't figure them out at all.
+
+Batou: Yeah, the Individual Eleven... The complaints in the other 7 cases were all the same old "free the refugees" stuff, but I don't see anything else linking 'em. And they had no common factor besides the logo and their letters claiming responsibility.
+
+Togusa: This reminds me of the Laughing Man case and if it's following the same pattern, then the original copycats would been that psycho bunch who took over the Chinese Embassy not too long ago, wouldn't they?
+
+Batou: Well, they were the first to call themselves the Individual Eleven true enough.
+
+Togusa: Yeah, but none of the others have ever used that name before. Even with us, the only reason we know how to read that logo is because we stumbled across the essays of a thinker we're investigating the damn thing.
+
+Batou: Don't you remember, the intermediary who provides the motivation in a standalone-type crime isn't necessarily the original?
+
+Togusa: I know, I know, You're right. But I get more of a sense of originality from the group that's using this logo, that's for sure. Eh! What the!? This food is for cyborgs! It's gross!
+
+Batou: Uh, relax, it won't kill ya. The only stuff it's made of is 90% gluten, with a dash of amino acid based micromachines. Hey, any luck?
+
+Saito: Nothing. The guy hasn't been home in over 4 days. I'll set up a stakeout at the newspaper.
+
+Batou: That's good.
+
+Batou: Looks like we got here late. A hot tip goes cold fast when it passes its expiration date. What do you want us to do now, Major? Continue our stakeout?
+
+Motoko: Taking him into custody is our top priority, so playing the odds is the only option we have. The Nanyou Shimbun Press is still receiving threats, and he'd been showing up to work at the restaurant until yesterday.
+
+Batou: We're not exactly taking an active role here.
+
+Motoko: I've sent out reinforcements to cover our bets.
+
+Togusa: Our stakeout isn't getting any more efficient with just 3 Tachikomas.
+
+Tachikoma: Don't be like that, Togusa old buddy. Because now we can maintain our individuality even while we're synchronized, and the icing on the cakes we've even had agent functions installed, too. Boo-yah!
+
+Tachikoma: So from here on, it's kinda like we're able to do that astral-projection thing.
+
+Tachikoma: Yeah, this way, we have ability that go up and continue to observe data while our bodies stay put at the scene.
+
+Tachikoma: We came up with the name for, we call it a "data smorgasbord."
+
+Motoko: Enough chattering. Batou, you're gonna have to increase the search functions on the IR-System, track down Kawashima more aggressively and arrest him.
+
+Batou: Roger.
+
+Tachikomas: Smorgasbord! Smorgasbord!
+
+Togusa: Huh, that's a news flash. When the heck did the Major upgrade them?
+
+Batou: Don't know. But you gotta admit, we have been shorthanded lately.
+
+Tachikoma: Gosh, there's no sight of the guy anywhere. You think you'd be able to track somebody down for sure if they tried to swap into a PKF-use prosthetic body. Maybe he's not in the country anymore.
+
+Borma: Almost makes you doubt the CIS' data manipulation, huh?
+
+Ishikawa: Major, I found something quite interesting on a local net. It's Goda's senior thesis from when he was a student.
+
+Motoko: "Given that Cyberbrains Govern Socialization, Which Do They Favor? Collectivity or Individuality? A New Theory of Heroism from the Standpoint of a Producer."
+
+Ishikawa: What he wrote is surprisingly fascinating. Per the title, he puts forward that there's a tendency in our social structure for cyberbrains to instill a subconscious desire for collectivity at the same time they eliminate individuality. But in response to this, they create a leader as part of the system who counsciously controls the subconscious of the masses. That's some theory.
+
+Motoko: Doesn't it almost sound as if he'd done an in-depth study of the Laughing Man affair?
+
+Ishikawa: Yeah, it's a striking parallel. But according to the date on it, this thing was written a long time before the notorious incident took place. Anyway, after that, he studied Information Science, Information Ethics, and Applied Informatics, then he got a job in a private sector for a while.
+
+Motoko: Private?
+
+Ishikawa: A mega-multinational is now household name. Known for their prosthetic body technology and micromachine fabrication. Poseidon Industrial. Back then, they were called Greater Japan Technical Research.
+
+Aramaki: Take the superhighway and head for Hakata.
+
+Operator: Yes, sir. Understood.
+
+Aramaki: It's me.
+
+Kubota: I'm sorry, Aramaki, but I won't be able to break away for long. When exactly do you plan to get here.
+
+Aramaki: Right on time. Why ask?
+
+Kubota: Oh, really? In that case, how about that one restaurant? We shouldn' meet anywhere too public, after all.
+
+Aramaki: Fine with me.
+
+Kubota: Okay. I'll meet you there, then.
+
+Togusa: Oh, man, that looks good. I've hardly been home lately. I could use a home-cooked meal.
+
+Batou: Hm. Do you have any idea what that is?
+
+Togusa: Eel, right? Gimme a break, even I know that.
+
+Batou: Guess again. What you're drooling over is a mock eel dish that was created out of shiitake mushrooms and gluten.
+
+Togusa: Huh?
+
+Batou: Taiwanese vegan. Su Shi is what it's known as. It's a unique and time-honored style of cooking that Buddhist priests developed independently.
+
+Togusa: Is it like Buddhist vegan cooking?
+
+Batou: Sorta. It differs from Japanese Buddhist vegan cuisine, and it doesn't cook the ingredients as-is. It plays with the flavor and texture beans and mushrooms to imitate that are meat and fish. Fake food, it's the same kind of idea the one in that sandwich you didn't finish.
+
+Togusa: Are you serious? But why? Why did Taiwanese priests come up with such an elaborative way to prepare their food like that? If they never knew what meat tasted like, then you wouldn't think there'll any need for it, right?
+
+Batou: Yeah, true enough. Except, before those people enter the priesthood, they were free to eat whatever they please. You can meditate all you want, but you're never be able to erase those savory memories.
+
+Togusa: You gotta point there. You seem to know whole a lot about this. Hey, Boss, don't tell me you get semtimental for the taste of the real thing, too.
+
+Batou: Just because you're a cyborg doesn't mean that you stop craving things like that. That's precisely the reason why they make novelty food for people who are cyberized.
+
+Togusa: Yeah, I suppose you can consider the sense of taste as a sort of playback device, then, for past memories. Where would this Kawashima guy learned how to make that stuff?
+
+Batou: Hm. It's someday he probably picked up while he was stationed in Taiwan. You guys, keep your eyes peeled now.
+
+Tachikoma: Yes, sir!
+
+Togusa: Hey, what's up?
+
+MC: Our theme tonight is "The Refugee Issue and Terrorism," I'd like to review your argument again and see if I have that everything straight. Are you saying that you believe the government's carelessness in losing sight of its policy objectives has given rise to individualists, and that extremist elements have appeared who are looking to a restoration as the answer?
+
+Dobashi: That's wrong. They haven't come forward because it's a weak administration. Defense-minded assemblymen were pondering the New US-Japan Security Treaty long before this regime took office. They thought that they would be able to take the initiative from America. That means that the individualists were already present while that was going on. On the contrary, the thing that provoked the individualists is the 3 million refugees that are eating up our tax money. And they were thinking, "It's time for this country to finally stand up and do something about those people." That's what I would say.
+
+Goda: Now we're talking.
+
+Commentator: If what you claim is true, we never should have taken them in to begin with.
+
+Commentator: Careful. Talk like that will ruin your career. But do you have any clue as to how big an increase in our tax rate the refugee Action Policy caused after that? And all the money from those taxes is vanishing into the thin air under the pretext of that Policy. I have no idea why the ruling party doesn't abandon that action policy that's nothing more than a facilitator for criminal activity. It's no surprise.
+
+Goda: Is anyone around? I need you to bring me a disk with the recording of the debate program airing at this moment on channel 3-3.
+
+Voice: Understood.
+
+Goda: And continue to record it, of course.
+
+Dobashi: Listen to me, if the refugees are ever suddenly provoked by something, that's when they're really going to rage out of control. What's commonly referred to as a suicide bombing is a desperate weapon of last resort that's used when people lose the last shred of hope for their future. That's why it's vital that we encourage the refugees to support themselves economically. Give them their freedom under the guise of liberation.
+
+Commentator: What in the world are you proposing? That's not a solution to the situation. They won't be able to solve their own problems just by granting them freedom, and you know it!
+
+Batou: Tachikoma, run a match on that van's plates.
+
+Tachikoma: Roger.
+
+Dobashi: Now that we've gone over the particulars of the various terrorist acts, why don't we begin discussing concrete examples?
+
+Togusa: Hm? Wait a minute... His name was on that...
+
+Commentator: Mr. Dobashi, what's this terrorist incident that you say the National Police Agency is trying to cover up?
+
+Dobashi: I believe that everyone here is familiar with it. I assume you're aware that ever since the takeover of Chinese Embassy, there've been roughly 8 terrorist occurrences.
+
+Commentator: You mean the stabbings of that cyberbrain musician and the politician who supported reconciliation towards the refugees?
+
+Dobashi: That's right. There is one fact regarding those events that the National Police Agency has made no mention of in their press releases.
+
+Commentator: Stop stringing us along and tell us. Hurry up.
+
+Dobashi: Have you ever seen this logo?
+
+Tachikoma: It checks out as a regular van that's registered to a retail chain.
+
+Batou: It does, huh?
+
+Dobashi: This is the one thing in common on all of the letters, those sent out claiming responsibility for the crimes.
+
+Commentator: I haven't heard anything about that.
+
+Commentator: Neither have I. Who's your source?
+
+Dobashi: Sorry, I can't. That's a trade secret.
+
+Togusa: What? How the hell did he know?
+
+Batou: How's it going? You're not leaving all the lookout work to the Tachikoma, are you?
+
+Togusa: Ah, no, I'm...
+
+Batou: Eat up.
+
+Togusa: Huh? Is this any time for us to be eating that stuff?
+
+Batou: You're welcome? This is the real thing.
+
+Togusa: The food? That's not what I meant. This person here, I think he's a member of a reporter group that I met with earlier, and the guy knows classified information about the Individual Eleven case.
+
+Batou: Huh?
+
+Commentator: Well, it's not very credible.
+
+Dobashi: In that case, you might be a little surprised when you learn how this logo is read. The proper reading for this logo is "The Individual Eleven." While that name is taken from an essay written some 50 years ago, the groups behind these terrorist acts who use this title appeared to be separete and individual without any ties to one another whatsoever, and all of them are motivated by one thing, refugee liberation.
+
+Batou: What the hell is he talking about?
+
+Dobashi: They appeared as individualists coincided with the GSDA helicopters circling in the skies above the refugee town. I say that they are motivated agents who are genuinely trying to give freedom for the refugees.
+
+MC: I hate to interrupt, but we have to take a commercial break.
+
+Goda: I hadn't considered this method of infection before.
+
+Kimura: Yes, sir. We can't tarnish the good name of the police, so I thought this would be a fine incendiary device.
+
+Goda: Yes. By the way, what's happening with the carriers in the Nanyou case and the attempt made on the Prime Minister?
+
+Kimura: Sir. Regarding the Nanyou carrier, we're already manipulating Public Security Section 1, so I believe we'll be able to affect a purge soon. As for the carrier who tried to kill the Prime Minister, we think he maybe someone who went to the peninsula as part of a PKF. His name is Hideo kuze. We arrived at this by working backwards through the infection agents. He's probably our man.
+
+Goda: So, it's you, Kuze.
+
+Kubota: About that man, Goda, I've asked people who worked with him at the Defense Policy Bureau, but there weren't many who remembered him. And those who did recall who he was could only offer that Goda wasn't very memorable at all. But I did find the records of his psychoanalysis testing from when he was employed there. Introverted, but has a strong sense of self and desire to be acknowledged. Contrarily, he exhibits tendency to use others to express himself.
+
+Aramaki: That's a somewhat different picture from the man he is today.
+
+Kubota: What's wrong? Not hungry? It tastes the same as it did in the old days.
+
+Aramaki: Just the same as the old days, hm?
+
+Kubota: Oh, and a while ago, you had asked me about that an SDA officer named Kawashima, Public Security Section 1 also asked about him. They came to us and requested facial data because a hitman named Wong Chu Ren had stolen Kawashima's face and was hiding out in Chinatown.
+
+Aramaki: Why didn't you tell me that earlier!
+
+Kubota: Hm? I just assumed they'd spoken with you about it already.
+
+Aramaki: Major!
+
+Motoko: It's odd that Section 1 would be involved with this in addition to the Nanyou case.
+
+Aramaki: Hurry up and get word to Batou and the others.
+
+Motoko: I'm already on it.
+
+Batou: Wong Chu Ren? The guy's an international terrorist from Taiwan. The top brass issued a termination order on, but I've never heard anything about him changing faces.
+
+Motoko: So, who's being played here, is it us or the Section 1?
+
+Batou: Either way, the timing's awfully suspect. Tachikoma, just to be safe, secure those guys who in that truck earilier.
+
+Tachikoma: Mr. Batou, the subject just appeared in alley behind the restaurant.
+
+Batou: Ugh!?
+
+Kawashima: This country is too extravagant for refugees to live in. But it's not affluent enough to take them in.
+
+Section 1: Wong Chu Ren, I presume?
+
+Kawashima: Huh?
+
+Batou: Keep 'em pinned down!
+
+Tachikoma: Roger!
+
+Tachikoma: Put down your guns!
+
+Batou: Kawashima!
+
+Section 1: Who the hell are you people?
+
+Batou: Stay right there!
+
+Tachikoma: I'm sorry. The alley was too narrow for me to act as a shield for him.
+
+Togusa: You guys must be Section 1.
+
+Section 1: Who are you?
+
+Batou: We're in the same line of work. Take a good look at his face. He's got prosthetics, but that ain't one of 'em. What I'm saying, in other words, that he ain't Wong Chu Ren.
+
+Section 1: What's going on here? The intel we were given at Section 1 was solid. Hm? Do you work with Motoko?
+
+Batou: I hate to tell you, but you guys got played good. Just the same way we did.
+  

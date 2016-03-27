@@ -1,0 +1,951 @@
+
+  Ui:
+(Did you make it? Since you haven't called me, I'm just gonna assume that you were able to make it on time. Are you at the station by now? I hope you didn't forget anything.)
+Ah,
+(I was worried, so I went to your room to check, and it turns out you did. Have Mio and the others take lots of great pictures for you, okay?)
+Have a great trip! See you soon.
+
+
+ ws:start:WikiTextHeadingRule:0:&lt;h6&gt; 
+
+
+Azusa:
+Now right in Mt. Fuji. Can now see the bullet train. [Sighs]
+
+Ui:
+Sounds like my sister is having a great time! Good for her.
+
+Azusa:
+You know she' so scatterbrain because you keep coddling her the way you do, Ui.
+
+Ui:
+Oh, scatterbrain?
+
+Azusa:
+Well, she is a senior in highschool, but all she ever really does is hanging around clubroom and eat snacks. She never practices unless I yell at her.
+
+Ui:
+So you think she'd be better of if she was all strait-laced and proper?
+
+Azusa:
+Of course! If she had her head on straight, she...
+
+Yui:
+Knock it off! You're not playing and sing for the rest of the band!!
+
+Azusa:
+Senpai, I'm sorry!! [Sighs with grinning]
+
+Juni:
+Hey, what are you looking at?
+
+Ui:
+You mean, this? It's a text from my sister.
+
+Jun:
+Ah..[Chuckles] Wow, that's pretty funny. Your sister is so goofy.
+
+Ui:
+You really think so?
+
+Jun:
+Look, check it out. I just got a text from my senior. She's in a Jazz Club.
+
+Ui:
+Be sure to look after the freshmen.
+
+Azusa:
+She's got it together...
+
+[Phone buzzes]
+
+Ui & Azusa:
+Huh?
+
+Azusa:
+Oh, it's from Yui senpai.
+
+Ui & S:
+Ah..
+
+Azusa:
+Remember to feed Tonchan, okay? ..They are so lame.
+
+Jun:
+Oh! In the Light Music Club, do you...?
+
+Mio:
+Today, we'll play Kick-the-can!
+
+Yui & Ritsu & Tsumugi:
+Yeah!!!
+
+All:
+[laughing in joy]
+
+Ui & Azusa:
+Hey, they are not that bad!!
+
+Jun:
+[Giggles]
+
+
+ ws:start:WikiTextHeadingRule:2:&lt;h6&gt; 
+
+Jun:
+Oh, the elusive golden chocolate eclair!! This is my first time seeing one in two years!
+
+Ui:
+I never knew they sold them.
+
+Jun:
+Um. They only sell three. The seniors always buy them up before anyone else can. Ah..
+
+Ui:
+Ah. Jun, you should take a picture.
+
+Jun:
+Yeah, good idea!
+
+Ui:
+That's so cute! [phone buzzes] Ah, it's from big sis!
+
+Azusa:
+Hum? What's the matter?
+
+Ui:
+[Chuckles] Big sister left her lunchbox in her classroom, and she wants me to take it home for her.
+
+Azusa:
+Ah.
+
+Jun:
+Ahem, I'm getting a little embarrassed over here..
+
+Ui:
+Am, pardon us..
+
+Jun:
+It's so quiet.
+
+Azusa:
+Is it really okay for us to go in?
+
+Ui:
+We're just gonna pick up something our senior left.
+
+Azusa:
+Let's see, I think her desk is somewhere over there on that side of the room.
+
+Ui:
+Ah! You're right!
+
+Jun:
+Woa.. Hey which one is Mio senpai's?
+
+Azusa:
+Hmm, I think this is it.
+
+Jun:
+Oh.. Ha, I feel kinda cooler somehow.
+
+Azusa:
+You're imagining it.
+
+All:
+[Giggles]
+
+Jun:
+Hm? Pull me?
+
+Azusa:
+Ah! Don't touch that!
+
+Jun:
+What the heck?
+
+Azusa:
+Ritsu senpai..
+
+Jun:
+Huh? Where is Ui?
+
+Ui:
+This is my sister's desk..
+
+Azusa:
+Wow, she looks really happy.
+
+Jun:
+If you like your sister so much, aren't you gonna be lonely tonight?
+
+Ui:
+Huh..?
+
+Jun:
+She won't be home until the day after tomorrow.
+
+Ui:
+Ah.. You're right. Sis isn't gonna be home tonight...
+
+Azusa:
+You just realised that!?
+
+Azusa:
+No, don't cry!
+
+Jun:
+Don't worry, we'll go over to hang out with you tonight. We can even sleepover if you want!
+
+Ui:
+And so, Jun and Azusa will be spending a night at my house tonight. So I've decided to help out the Jazz Club practice in return.
+Whoa, look at all the stuff!
+
+Jun:
+Ahaha, we have just as many instruments as the Brass Band Club!
+
+Azusa:
+Do you really have that many players?
+
+Jun:
+Pretty much.
+
+Ui:
+Amazing.
+
+Jun:
+Yep. It's about the survival of the fittest. So we had to practice hard where the upperclassmen are way, so that we're.. Ah! I forgot my base in the classroom!
+
+Azusa:
+She's gotta bring, too! Well, Jun never seem to change at all.
+
+[Door opens]
+
+Ah! We're..
+
+Ui:
+Sorry, we're friends of Jun-chan! She'll be right back.
+
+Girl A:
+Oh well well, are you Azusa senpai?
+
+Girl B:
+Jun senpai told us a lot about you. She said there was a amazing guitarist in the Light Music Club, and we should get lessons from her.
+
+Azusa:
+Ah... eh.. Oh, she did..?
+
+Ui:
+[Chuckles]
+
+Jun:
+Oh! Great timing, guys!
+
+GirlA & B:
+Good morning, senpai!!
+
+Jun:
+Good morning. These are two of the freshmen in the Jazz Club. Azusa, can you teach them a few guitar tricks?
+
+Azusa:
+Ah.. sure.
+One, two, three, four, one, two, three, four.
+
+Girl A:
+AH! Oh, I'm sorry.
+
+Azusa:
+It's okay. This part is a little tricky.
+
+Girl B:
+I can't get my fingers in the right position,
+
+Azusa:
+Um-hm. Well, there's some finger stretches that you can do. Firstly hold your code hand strait out with all your fingers pressed tightly together. Now split your index finger from your middle finger like this. Then pull it back to the middle and split your ring finger and the pinky in the other way.
+
+Jun:
+[Groans]
+
+Azusa:
+One, two and three, four. One, two and three, four.
+
+Girl A&B:
+[Groans] I can't do it! Ah They're cramping!
+
+Jun:
+Aw... Wait a minute, you can do it, Ui?
+
+Ui:
+Yeah, I copied my sister when she was doing her stretches.
+
+Azusa:
+If you're doing it in the bath or before playing, you'll find that your fingers will gradually become more flexible overtime.
+
+Girls:
+Okay!!
+
+Jun:
+[Groans in pain]
+
+Ui:
+What's the matter!?
+
+Jun:
+Uh.. What do I do!? My hand is totally seized up!
+[Groans in pain] ...Pig feet! E..it was a joke.
+
+
+
+
+Jun:
+I'm here--!
+
+Ui:
+Come in!
+
+Jun:
+Good evening, Ui!
+
+Ui:
+Hi, come on in!
+
+Jun:
+Uh, this isn't really very much, but please accept this gift.
+
+Ui:
+Wow, Jun-chan, thank you. ....Ah, donuts, huh?
+
+Jun:
+Hum, they're Super All-star pack! I've always wanted to buy one.
+
+Ui:
+Jun-chan, this is so cute! Oh, come and see!
+
+Jun:
+Oh.. wow...
+
+Ui:
+Since there is going to be three of us, I thought I should make a lot. Now let's see... Ah, if this isn't enough, I also have sushi rice bowl and pizza.
+
+Jun:
+This will be plenty! It's more than enough.
+
+Azusa:
+Good evening!
+
+Ui:
+Come on in!
+
+Azusa:
+Ah, my mother said I should bring this for you.
+
+Ui:
+Ah! Thanks.
+
+Jun:
+Ah... What did you bring?
+
+Azusa:
+It's sushi, why? Hhm?
+
+Jun:
+My donuts are even lamer now...!!
+
+Azusa:
+[Take a breath]
+
+Jun:
+I'm full.
+
+Azusa:
+I can't eat another bite. ..Huh? Is that really how you eat donuts?
+
+Jun:
+I couldn't help it, I wanted to taste them all.. [stretches] Go ahead. Eat the rest of you want, Azusa.
+
+Azusa:
+I don't have any more room.
+
+Jun:
+Come on, there's always room for desert. That chocolate one is great.
+
+Ui:
+Ah, you're gonna eat one?
+
+Azusa:
+[munches] So sweet.
+
+Ui:
+Ah! It's from big sis!
+
+Azusa:
+Let me see!
+
+[chuckles]
+
+Ui:
+Nothing's so school trip like a pillow fight.
+
+Azusa:
+Are you guys having fun? They'll sleepover too?
+
+Azusa&Ui:
+Huh?
+
+Jun:
+What's up?
+
+Azusa:
+Ah, Ow...
+
+Ui:
+Are you okay?
+
+
+
+
+Azusa:
+She's asleep.
+
+Ui:
+Wow, she's out like a light. I guess we should go to sleep, too. Oops, daisy.
+
+Azusa:
+But I don't wanna go to sleep yet.
+
+Ui:
+Okay, then. Why don't we just talk in bed? Lights out.
+
+Azusa:
+I bet Yui senpai and others are having a lot of fun right about now.
+
+Ui:
+Yeah, or they could be asleep already.
+
+Azusa:
+I really doubt it. When we had band camp, we would always stay up late goofing around. I'll bet..
+
+Yui:
+[laughing] (Souvenirs? Ah, we are having so much fun, we forgot!)
+
+Mio:
+(Yeah, sorry!)
+
+Tsumugi:
+(Our tea is ready!)
+
+[laugh]
+
+Ui:
+Oh, Azusa-chan, I doubt it's that bad.
+
+Azusa:
+[sighs] They're so lucky.
+
+Ui:
+Hey, why don't we go somewhere tomorrow? Is there anywhere that you would like to go?
+
+Azusa?
+Uh.. ah, well maybe the zoo? ...I guess?
+
+Ui:
+Ah! I'd love to go to the zoo!
+
+Azusa:
+Really!?
+
+Ui:
+Yeah! ..Huh? It's from big sis!
+...Hum? Skull??
+
+Azusa:
+What the...
+
+
+-----------Side B-------------
+
+
+Azusa:
+[groans] Hey...
+
+Ah, rain.
+
+Ui:
+Here.
+
+Azusa:
+Here.
+
+Ui:
+I have a fresh tube.
+
+Jun:
+I got.. this...
+
+Ui:
+Azusa-chan, isn't it a little high?
+
+Azusa:
+I think it's about right.
+
+Jun:
+I'm Jealous, Azusa.Your hair's so black and strait.
+
+Azusa:
+Really? People always say I look just like a Japanese doll, so I hate it.
+
+Jun:
+I'll take that any day. Mines always takes full efforts to brush out in the morning. Especially on the rainy days like today. See? It does this.
+
+Ui:
+Wow, that's an impressive frizz.
+
+Azusa
+Well, maybe you could just wear a hat today!
+
+Jun:
+Ahh...
+
+
+
+
+Azusa
+It's really coming down out there.
+
+Ui:
+Yea.. I guess the zoo plan is the bust.
+
+Azusa:
+Ahh, I really wanted to go. Jun-chan, what do you think we should do?
+
+Jun:
+Hm.
+
+Azusa:
+Is there anywhere that you wanna go?
+
+Jun:
+Um.
+
+Azusa:
+We could even play the video games.
+
+Jun:
+Um.
+
+Azusa:
+Humm.
+
+Jun:
+Ui, do you have volume 6 of this?
+
+Ui:
+Huh? I don't know, I'm not sure.
+
+Azusa:
+I think that if you do that at the friend's place, you are gonna lose that friend.
+
+Ui:
+You know, I think I might have seen that up on my sister's book shelf.
+
+Jun:
+So this is your sister's room, huh?
+
+Ui:
+Yeah.
+
+Azusa:
+Hey, aren't those...
+
+Ui:
+Oh yeah, she brought home tons of stuff a while ago for some reason.
+
+Azusa:
+They're from the club room cleaning.
+
+Jun:
+Ah! So this is Guiita? Whoa, this is so awesome!
+
+Ui:
+Let's see.. Ah! Found it! Here, Volume 7!
+
+Jun:
+Huh? But I needed volume 6.
+
+Ui:
+Really? But I only saw volume 7 on the shelf.
+
+Azuse:
+Skipping one is really no big deal.
+
+Jun:
+Ahem.. I guess.. I could read it. ..No! I thought I could, but I can't! Let's go to a book store and get it!
+
+Ui:
+[gasps]
+
+Azusa:
+But it's pouring outside.
+
+Jun:
+[moans]
+
+Jun:
+I feel bored out of my mind all of a sudden.
+
+Azusa:
+That's why I've been suggesting all morning that we should do something. Hm? Oh, It's Yui senpai.
+So, what are you guys up to, Azu-nyan? Hmm...Come on guys! Let's go out and do something!!
+
+Jun:
+[breathing of sleep]
+
+Azusa:
+She's asleep now!?
+
+
+
+
+Azusa:
+Why did we come to a batting cage place..Uh!
+
+Jun:
+That was a baseball manga I was reading, so I had an urge to try it myself! ..Whow!! How do they expect this to hit that?
+Hey, I'm gonna go play the crane game over there.
+
+Azusa:
+She gave up so quickly!
+...Having any luck?
+
+Ui:
+Uh, No, this is pretty hard [all they]. [gasps]
+
+A man:
+Keep your eyes one a ball. Let it get really close. And picture a wall right about here. Swing! Okay, you got it?
+
+A boy:
+Yeah!
+
+Ui:
+Ah..! (Let it get really close. Picture a wall, and swing!) Oh, My!
+
+A man:
+[gasps]
+
+A boy:
+Whao.
+
+Ui:
+Ah, I did it! I hit it, I hit it, I actually hit it, Azusa! ...and she's gone.
+
+Jun:
+Boy, you sure pick things up quickly, Ui.
+
+Azusa:
+I guess you and Yui senpai have that in common.
+
+Ui:
+Huh?
+
+Ui:
+Thanks for waiting.
+
+Jun:
+Huh!? It's huge! That the home-run prize?
+
+Ui:
+Yeah.
+
+Azusa:
+That thing is ten times bigger than Ton-chan! Where in the world you're gonna put it? ...Huh?
+
+Jun:
+What's the matter?
+
+Azusa:
+Ton-chan... I forgot about him.
+
+
+
+[panting]
+
+Ui:
+Thank goodness. He looks just fine.
+
+Azusa:
+I'm sorry, Ton-chan.
+
+Ui:
+[smiles] So this is Ton-chan, huh? I guess he IS kinda cute.
+
+Azusa:
+You heard he is cute?
+
+Ui:
+Yeah, my sister is always saying to me. Ton-chan is just as cute as Azunyan is.
+
+Azusa:
+[Smiles] He's cute like me? Hmm..
+
+Jun:
+Whoaa!! Here it is! I found volume 6!
+
+Ui:
+Good thing we came, huh?
+
+Jun:
+[giggles]
+
+Azusa:
+Hum.. Well I'm relieved that Ton-chan is okay. But still... When is this rain gonna stop?
+
+Ui:
+Yeah, our sunday is going to waste.
+
+Azusa:
+[moans]
+
+Jun:
+Why don't the three of us have a jam session then? It's raining out, and nobody's going to complain if we played really loud, right?
+
+Azusa:
+The three of us? Aha, yeah, that might be fun!!
+
+Ui:
+Oh, but I'm not sure if I'm good enough to jam with you.
+
+Jun:
+Don't worry. We'll just stick to easy stuff.
+
+Azusa:
+Yeah. You can play the organ, can't you?
+
+Ui:
+Ah, well I used to play when I was a little.
+
+Azusa:
+Let's play, let's play!
+
+Ui:
+Am, okay.
+
+Azusa:
+Jun, do you have any spare guitars in the Jazz Club room?
+
+Jun:
+You bet we do! Just wait right here.
+
+Ui:
+[smiles]
+
+
+
+
+Azusa:
+All right. Here we go.
+
+Jun:
+And one, two, three, four!
+
+[Play a session]
+
+Ui:
+I did it!
+
+Jun:
+Wow, that song most sounded cool there! ..Look, the rain!
+
+Ui:
+Ah, wow!
+
+three girls:
+Aha..!
+
+Ui:
+Hang on a second. It's from sis!
+
+Azusa:
+Guiita, oh, how are yorn for thy?
+
+Three:
+[giggles]
+
+Jun:
+Come on Azusa, squeeze in closer.
+
+Ui:
+Ready? Here goes. Say cheese!
+To my big sister, pretty cool, huh?
+
+Jun:
+Bye I'll see you guys tomorrow. Ui, remember volume 7.
+
+Ui:
+Sure thing.
+
+Azusa:
+Don't get too caught up in your book and miss your stop, okay?
+
+Azusa:
+She's gonna be alright?
+
+Ui:
+Today turned out to be a lot of fun, huh?
+
+Azusa:
+Yeah, it really was.
+Huh? It's Yui senpai! Hello?
+
+Yui:
+Ha! Azunyan? Listen, we managed to get ourselves hopelessly lost.
+
+Mio:
+How is calling Azusa supposed to help us!?
+
+Yui:
+Oh! You're right.
+
+Azusa:
+Hum. So weird.
+
+
+
+
+Azusa:
+Ah, really?
+
+Ui:
+Uh-huh. Sis said that she is running really low on Azunyan energy.
+
+Azusa:
+Maybe I should hide..
+
+Jun:
+What's the matter?
+
+Yui:
+A--zunyan!! Aha, whao, it's been so long.
+
+Azusa:
+Come on! Cut it out! Not in the hallway!
+
+Jun:
+Is she always like this?
+
+Azusa:
+Could you please stop that!?
+
+Ui:
+Yep, always.
+
+Yui:
+Oh, right! We bought you a souvenir from our trip! Everyone's in the club room waiting, come on!
+
+Azusa:
+It can't wait until later?
+
+Yui:
+No, it can't! Mugi-chan has already made us some tea! See you guys later! [chucles]
+
+Azusa:
+Yui senpai!? Hey!!
+
+Jun:
+..Huh?
+
+
+
+Yui:
+Here, Azunyan?
+
+Azusa:
+Huh...? This is the souvenir?
+
+Yui:
+Yup! See? I have this one!
+
+Azusa:
+Uh?
+
+Yui, Mio, Ritsu&Tsumugi:
+[smiles] One, two!
+
+Azusa:
+Ah..! Then this is..
+
+Ritsu:
+MCL, that stands for "Music Club Light"!
+
+Mio:
+It does not!
+
+Ritsu:
+LMC! Light Music [C.....??? ]
+
+Mio:
+That's not it either!
+
+RItsu:
+What!? Then next stop is..!
+
+Azusa:
+Light Music Club.
+
+Ttsumugi:
+[chuckles] Exactly.
+
+Azusa:
+Do you... wanna practice!?
+
+Yui:
+Oh.. Let's just all have tea today.
+
+Ritsu:
+We've got jet lag.
+
+Azusa:
+[groans]
+
+
+
+ ws:start:WikiTextHeadingRule:4:&lt;h6&gt; 
+
+
+-----------Preview-------------
+
+Jun:
+I think, this might be some kind of spell.
+
+Azusa:
+[gasps]
+
+Jun:
+A curse cast by someone out of hate for someone else.
+
+Azusa:
+No way!
+
+Jun:
+Who's a mystery witch?
+
+Sawako:
+Eh... Ms. Hirasawa!?
+
+Nodoka:
+What's the matter?
+
+Yui:
+It's a special occasion, so I wanna wear something different!
+
+Yui:
+Yeahhh.
+
+Mio:
+Wait! Why would you pick THAT of all things!!?
+
+Yui:
+Sheesh, everybody was enjoying it.
+
+Nodoka:
+You don't have to live up to the expectations of others.
+  

@@ -1,0 +1,625 @@
+
+ ws:start:WikiTextHeadingRule:0:&lt;h1&gt; 
+(フラグ建築)
+Kaname:
+ Huh... Huh...
+Punks:
+ Hey! Get back here!
+Kaname:
+ Damn! They're not letting up!
+Kyoko:
+ Huh, what on earth did you think what's going to happen?
+ You let loose on them with the flying vacuum knee kick!
+Kaname:
+ I thought they were a bunch of con artists running a scam.
+Kyoko:
+ I can't go on...
+Kaname:
+ Kyoko!
+Punks:
+ Don't you give us any trouble now!
+ What? So you thought you could get away, did you?
+Kaname:
+ Ah... Everyone calm down, and let's resolve this by talking it over!
+Punks:
+ It's too late!
+Kaname:
+ Ah... Huh?
+Punks:
+ Ugh...
+Issei:
+ Full grown men shouldn't be hitting women.
+Punks:
+ What? You think you're a tough guy? I order... Owowow!
+ Come on! Stop it! Let go of me! I'm begging you!
+ Don't mess with us, you freak! Ugh... Ah...
+ Who the hell do you think you... Ugh!
+Kaname:
+ Wow...
+Issei:
+ Hm!
+Kaname:
+ Um...
+Issei:
+ Hm?
+Kaname:
+ Thank you so much for rescuing us.
+Issei:
+ Don't get the wrong idea.
+Kaname:
+ Huh?
+Issei:
+ I did it 'cause it'd be a nuisance to have a big scene behind the shop I work at.
+ Otherwise, hell if I'd help a couple of shallow women like you.
+Kaname:
+ Oh, I see then.
+Issei:
+ If you get the picture, then beat it, woman.
+Kaname:
+ Grr... Patronizing creep! But he did save us.
+ Control, control, control... huh, under control. But before we both go.
+Issei:
+ Ah...
+Kaname:
+ There you are.
+ It's just a little token of our gratitude but it'll have to do.
+ If you just had been more pleasant, I would've given you a steamy kiss to go along with it.
+ I guess it's too bad, eh?
+Issei:
+ K-Kiss?!
+Kaname:
+ Hu, heh, heh... Just kidding. Anyway thank you.
+ Let's go, Kyoko.
+Kyoko:
+ Um, uh, thank you. See ya.
+Issei:
+ Ah...
+
+*[語　　句]
+
+
+
+
+Kaname:
+Man, issuing an eviction notice...
+Sousuke:
+We have no choice. This is by order of His Excellency.
+Kaname:
+But I hear the amateur karate club has quite a history.
+Even if we march right down there they may not be in a listening mood.
+Sousuke:
+That's probably why we were the ones who were chosen.
+Kaname:
+Things are gonna get messy here, aren't they?
+Sousuke:
+Here we are.
+Kaname:
+Huh?
+Wow, this place is a dump.
+Sousuke:
+Get down!
+Kaname:
+What the...?
+karate boy1:
+You two over there. Are you losers here to challenge us too?
+Sousuke:
+So, that's the amateur karate club?
+karate boys:
+So, what do you want?
+Kaname:
+As we've informed you before, this dojo is so old and run-down that we're going to demolish it.
+So please vacate the premises. Today, if possible.
+karate boy1:
+That's something we can't agree to.
+karate boy2:
+We don't have anywhere else we can go.
+karate boy3:
+If you build another club house for us, then we might consider it.
+Kaname:
+Sorry you guys, but that's a little beyond my power.
+karate boy1:
+Okay, no deal.
+karate boy2:
+If you really want this place that bad...
+karate boy3:
+You'll have to come take it by force.
+Sousuke:
+Chidori.
+They're telling us it's okay for us to use force on them.
+So why don't we just forcibly remove them?
+karate boy1:
+An interesting proposition.
+karate boy2:
+So a girly man like you...
+karate boy3:
+Think he has what it takes to beat us?
+Sousuke:
+It's a fact. None of you could beat me by yourself.
+Kaname:
+Hang on, Sousuke.
+karate boy1:
+All right, then.
+We were just starting to get little bored.
+karate boy2:
+Now, choose any one of us three.
+If by some chance you win, we'll vacate the dojo. But...
+karate boy3:
+If it's dead you end up losing we expect suitable compensation.
+Now let's see...
+karate boys:
+We'll take the woman.
+Kaname:
+What!?
+karate boy1:
+We are looking for a new club manager.
+karate boy2:
+And she's quite a pure and lovely maiden.
+karate boy3:
+Yeah, looks like she'd bear good kids!
+Sousuke:
+All right. That's fine.
+Kaname:
+Wait! Sousuke!?
+Sousuke:
+No need to worry. I just have to win.
+I'll fight you.
+karate boy2:
+All right. Bring it on.
+First, you should know something.
+Here, we aspire to the true Vale Tudo.
+Extreme combat style no-holds-barred mixed martial arts.
+So be prepared to break a few bones, pretty boy.
+Sousuke:
+Combat style? That should be perfect.
+karate boy2:
+Eat this!
+Sousuke:
+I won.
+karate boy1:
+You coward! What was that?
+karate boy3:
+Where do you get off using guns, huh?
+Sousuke:
+So guns aren't fair? Why is that?
+karate boy1:
+Silence. Anyway, guns are forbidden.
+Sousuke:
+In combat shouldn't you face your foe with the best tools you've got?
+karate boy3:
+Guns aren't allowed even in a real match!
+karate boy1:
+We wanna rematch. Now!
+Kaname:
+Well, what they're saying makes sense, you know.
+Sousuke:
+Understood. I won't use guns.
+karate boy1:
+It's my turn. Get ready.
+Eat this!
+Stop! I'm begging you! Stop it!
+Sousuke:
+I won.
+karate boy3:
+You can't use gas either!
+Sousuke:
+I just don't get it.
+Kaname:
+Don't you see, Sousuke? These guys do all their fighting with nothing but their bare hands.
+Sousuke:
+Just their bare hands? I've never heard of actual fighting like that.
+Kaname:
+It's true.
+Sousuke:
+Okay. But I st...
+Kaname:
+Stop whining!
+Sousuke:
+Understood. I have to win using just my hands and no weapons.
+Kaname:
+That's correct. Exactly.
+karate boy3:
+Now it's my turn. Get ready!
+Eat this!
+Sousuke:
+Here. Catch.
+karate boy3:
+No! Stop it!
+Sousuke:
+I won.
+Kaname:
+Really, why do you have to be so dirty and underhanded?
+Sousuke:
+I used my bare hands.
+Kaname:
+You used a grenade or did you forget?
+Sousuke:
+That was merely a decoy. The pin wasn't pulled.
+Kaname:
+You've really got some nerve thinking up dirty tricks like that.
+Sousuke:
+Yes, well, we've seized control now.
+Issei:
+You still got me here.
+Kaname:
+Oh.
+Sousuke:
+You are?
+Issei:
+Issei Tsubaki from class A, karate club captain.
+Kaname:
+What? Captain?
+Sousuke:
+How long were you watching?
+Issei:
+Not long. I suspect you made some kind of deal where they have to do something for you if you defeated them.
+Sousuke:
+Correct. We want you to vacate the dojo.
+Issei:
+If that's what you want you'll have to go through me.
+Kaname:
+Hey, wait a sec.
+Issei:
+What is it, woman?
+Kaname:
+It's me. Me! Don't you remember?
+Issei:
+Quiet! You know what I know.
+Kaname:
+A look-alike? No, it can't be.
+Sousuke:
+In other words, all I have to do is defeat you?
+Issei:
+Yeah. Use whatever means you want.
+Issei:
+"Daidomyaku secret technique"
+"Thrombotic Fist"
+Kaname:
+Sousuke!
+Issei:
+Now leave! No woman should be entering our sacred dojo. Get out!
+Kaname:
+Why do you keep calling me woman? I have a name and it's Kaname Chidori.
+Issei:
+Woman's a good enough name for you.
+Kaname:
+Man, I thought you were a nice guy yesterday but now...
+Issei:
+Say what? No way! Well, at any rate, I won. So you can forget about doing anything...
+Sousuke:
+It's not over yet.
+Kaname:
+Sousuke, are you...
+Sousuke:
+Yes. I'm all right. The punch affected me but...
+Issei:
+Oh? Who'd thought you're still moving after a punch like that?
+Sousuke:
+I think I'm starting to see why some people prefer to fight barehanded.
+For them, in this setting, guns would just be inelegant.
+Allow me to fight you seriously.
+Issei:
+Well, in that case, guess I'll just have to use these.
+Last time, I just missed the vital spot.
+Now I won't miss.
+All right, then, Sagara. Let's see you try to hit me.
+Kaname:
+Excuse me, can we talk about that manager position real quick?
+Sousuke:
+Save it for later, Kaname.
+Issei:
+Woman, did I not tell you to... get... out!?
+You... you mean to say you're from... the same school?
+Kaname:
+Huh?
+Issei:
+So-Sorry I yelled at you and everything. Please forgive me.
+I-I didn't mean any harm. I appreciate the Band-Aid. Really.
+Kaname:
+Oh, so you didn't know it was me because of bad eyesight?
+Issei:
+No, that's not it. Your tone of voice, it just sounded different, so I am, so, yeah...
+Your name's Kaname Chidori, huh? That's a nice name.
+Sousuke:
+Tsubaki, let's go.
+Issei:
+Go? Go where?
+Sousuke:
+I don't get it. But it looks like I won.
+Kaname:
+Wow, that's odd. I was sure he'd be much stronger than that.
+Sousuke:
+What goes on in their heads of guys like these is truly a mystery.
+Issei:
+Through carelessness or not, a loss is still a loss. We'll vacate the dojo.
+But don't think you've heard the last of us.
+We wanna rematch, Sagara. The stakes are Kaname Chidori.
+karate boys:
+Yeah.
+Sousuke:
+That's fine. Whenever you're ready.
+Kaname:
+Huh? Who said it was your decision, anyway!?
+
+
+
+ ws:start:WikiTextHeadingRule:2:&lt;h1&gt; 
+
+Kaname:
+Now, look, bomber boy!
+How many times do you have to do this till you are happy!?
+Sousuke:
+I found a suspicious article in my locker.
+Kaname:
+That again. What is it this time?
+Sousuke:
+Well, it would appear the item is another letter.
+Kaname:
+Give me that. Oh, man. I can't read it 'cause you blew it up again!
+Sousuke:
+I will try and reconstruct it then.
+Kaname:
+Oh, really? Fine. Make sure you clean this up because I'm going home.
+Issei:
+Sagara! Sagara! Sagara! Sagara! Sagara!
+Sousuke:
+Put your glasses on, Tsubaki.
+Issei:
+Shut up. Why didn't you make it to the duel, huh?
+Sousuke:
+When was this?
+Issei:
+Don't play dumb! You know I put a letter of challenge in your locker yesterday.
+Kaname:
+That letter was a challenge then?
+Sousuke:
+Well, that's news to me.
+Issei:
+You're saying you didn't read it?
+Sousuke:
+I'm afraid I was unable to read it. I blew it up.
+Issei:
+You, what? What are you, some kind of freak?
+Take this!
+Hold it, Sagara!
+Here. Daidomyaku Ultimate Secret Technique.
+"Fist of Near Death"!
+So, learned your lesson, Sagara?
+
+Mikihara:
+They say recovery will take a week.
+Kaname:
+So what you're saying is his injury wasn't actually that bad?
+Hayashimizu:
+The extent of his injury is beyond the point.
+A student has hurt Mr. Zenji Onuki.
+That is the problem, Miss Chidori.
+Kaname:
+Oh...
+Hayashimizu:
+So, you're Issei Tsubaki, correct?
+Would you tell me why you're so obsessed with Sagara?
+I heard you made some kind of bet when you were evicted from your dojo.
+Kaname:
+The deal was that I become their club manager if he beats Sousuke.
+Hayashimizu:
+Yes, that's it? Unfortunately, Tsubaki, that bet you made is null and void.
+Sagara exercises no such right to control her person.
+And to think that your club could possess her is simply outrageous.
+Kaname:
+Ah-huh.
+Hayashimizu:
+The only person who can control student body vice president Chidori is I, president Atsunobu Hayashimizu.
+Kaname:
+That's right... Hey, wait!
+Issei:
+The bet, to me, is not that important.
+But losing due to my own carelessness is what I found unbearable.
+Losing to him, a dirty, slimy, senseless, cheeky, disagreeable, shameless, cowardly, dishonest, impure guy who always looks down on everyone.
+Kaname:
+Wow, that's quite a list.
+Hayashimizu:
+Yes, I believe I understand now.
+In that case, why not try fighting head-on.
+If you win you get a new club house, lose and you will no longer interfere with Sagara.
+How does that sound?
+Kaname:
+President...?
+Issei:
+That would be perfect, Mr. president.
+Sousuke:
+If that's you order.
+Hayashimizu:
+Hold on one moment.
+A contest needn't always rely entirely on brute force.
+
+Onuki:
+Things were better in the old days.
+Students back then were all simple and honest filled with dreams and hope.
+Even if they lacked material possessions their hearts were rich.
+But what about now? A single punch and one can see that wild material objects are plentiful.
+People's hearts are grown dissolute. It's so sad.
+Sousuke:
+Reporting for duty, Sir.
+Issei:
+xxx, Onuki?
+Onuki:
+You're, you're the boys...
+Sousuke:
+Is your body still sore, sir?
+Onuki:
+What?
+Issei:
+Now, look! Does it hurt or doesn't it.
+Onuki:
+If you must know it does.
+Sousuke and Issei:
+Right.
+Issei:
+What?
+Issei:
+There's internal bleeding. Give him a cold compress.
+Sousuke:
+No. I strongly object to cooling it.
+You should turn him so his head faces down to keep him suitably warm and take a urine sample.
+Onuki:
+Cut it out!
+Just what you up to? No. No way. You're here to take my ripen flesh by force.
+You're planning to have your fill of the fruit that's just about to fall from the branch.
+Sousuke:
+He appears to have misunderstood us.
+Issei:
+We're not going to hurt you so rest easy.
+Onuki:
+What?
+Sousuke:
+We have come here to care for you and take over your duties while you're recuperating.
+Issei:
+We've been given permission. So you just take it easy now.
+Issei:
+Wh-What? Really?
+Onuki:
+In my twenty five years of service I've never, I've never been so moved as I am right now.
+Oh, there still is compassion in this world.
+Thank you, thank you boys, oh, thank you!
+Sousuke:
+For that reason, Mr. Onuki, please observe as I, Sousuke Sagara, competently fulfill your duties.
+Issei:
+Hey, don't pay any attention to this guy. Watch the way that I, Issei Tsubaki, work for you.
+Sousuke:
+Sousuke Sagara!
+Issei:
+Issei Tsubaki!
+Sousuke:
+Are you hungry, sir? I'll make you dinner.
+Issei:
+Wait, I do it!
+Onuki:
+W-W-Wait! B-Boys, hung on. Thank you, but...
+Kaname:
+Is this really gonna be okay?
+Deciding which of the two will win by who's the most useful?
+Hayashimizu:
+Brilliant. Yes.
+Mikihara:
+Even those on the school stuff were satisfied with the conditions of the contest.
+Kaname:
+Yes. But, more than likely, both of them will just keep on threatening and bugging Mr. Onuki until he just gives up and picks a winner.
+Hayashimizu:
+You're thinking too much, Miss Chidori.
+Both those boys are good people at heart. See for yourself.
+Kaname:
+Hey, he's right.
+Issei:
+Outta way, Sagara! That's my job!
+Sousuke:
+Hey! What are you doing!? I was here first.
+Issei:
+Oh, yeah? I'm gonna show you. How about this?
+Sousuke:
+Give that to me! Leave this job to the expert!
+Issei:
+What!? Jerk! Idiot!
+Onuki:
+All right. Let's see how they've been doing.
+What's this!?
+No, no. Mustn't get angry, mustn't get angry.
+Because no matter how clumsy they are they're actually doing the job, I'm sure those two are trying their hardest in their own way.
+A small thing like this is nothing compare to the lifetime of hardship...
+Issei:
+Get out of my way!
+Sousuke:
+Out of mine!
+Sousuke and Issei:
+Mr. Onuki.
+Onuki:
+Both of you have a seat there.
+First, I'll say this. I am incredibly grateful for all the kindness you've shown me and your boundless enthusiasm.
+Content of the work aside, I intend to give you a great deal of credit for your efforts thus far.
+Sousuke and Issei:
+Sir.
+Onuki:
+However, there is one thing that I simply cannot overlook and that's the relationship you have with each other.
+Why can't you guys just get along? You're always squabbling over the littlest thing.
+It's so sad.
+Nothing good can come from fighting.
+I'm not asking you to become best friends but couldn't you help each other out just a little bit more?
+Sousuke:
+If that's what you're looking for...
+Issei:
+That's what we're actually doing just now, Sir.
+Onuki:
+Oh?
+Tonight's dinner, fish in miso.
+Issei:
+Sagara prepared the ingredients. I cooked it.
+Issei:
+Hmm.
+Oh, it's good.
+See? You two can do it if you try.
+Hey, by the way, what kind of fish is this? I've never had it before.
+Sousuke:
+It's koi.
+Onuki:
+It's koi?
+Sousuke:
+Yes. It's from the pond behind the school.
+Issei:
+Man, it was huge.
+Sousuke:
+And it put up quite a fight, didn't it?
+Issei:
+Took forever to kill it.
+Hey, Mr. Onuki?
+Onuki:
+Boys, that koi was...
+Issei:
+It was what?
+Onuki:
+That koi... I spent the last fifteen years of my life taking care... and I mean good care, in raising that koi.
+She was like a granddaughter to me.
+That's the kind of koi she was.
+Sousuke:
+Oh...
+Issei:
+Her name was Catherine.
+I named her after this one particular famous French actress.
+So you caught her. It took forever to kill her.
+And once more after doing all these things you fed her to me. Is that correct?
+Sousuke:
+That's correct, sir.
+Onuki:
+Yes, yes. I think I finally understand now.
+You don't have the slightest bit of good intentions.
+The only thing in you two is sheer maliciousness.
+Issei:
+But, sir.
+Onuki:
+I must avenge the death of my dear sweet Catherine.
+It's too bad you'll have to die, Sagara and Tsubaki. Die!
+Kaname:
+Ah, what's this!?
+Just what the heck is all this about!? What happened here?
+Sousuke:
+Live ammo, live ammo has no effect whatsoever on this guy...
+Issei:
+No, please, no more, no more of this fighting, please no more...
+Onuki:
+So what am I... What am I doing out here?
+Did something happen last night?
+
+
+(次回予告)
+
+Kaname:
+Speeding patrol cars, mascots that fight and an unbeatable janitor?
+I don't know but it looks like we're rapidly losing our principles.
+I think the serious viewers are gonna get mad.
+Sousuke:
+Relax. Next, we offer up a couple of serious horror stories.
+Kaname:
+I see. Well, tuning in next time for "The Hard Self Fetish" and "The Patient of Darkness."
+Sousuke:
+I don't really get it. But I suppose I should be scared now.
+Kaname:
+Be afraid. Be very afraid.
+  

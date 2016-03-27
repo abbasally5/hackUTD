@@ -1,0 +1,233 @@
+
+Reporter: We are coming to you live from above the Kyushu Radio Tower. A ghost town. Five days ago, a mass evacuation began with the discovery of an unexploded bomb planted in a subway construction site. It's believed to be a tactical nuclear device from the last world war. This removal of 35 million people within a 30 km radius has finally been completed under the direction of the Self Defense Army. However, some parties are speculating that this may be another act of refugee terrorism. The government has made no specific announcements, and with part of Fukuoka sealed off by the Self Defense Army. The city almost looks like it has been placed under martial law. 
+
+Batou: Martial law, huh? I'll admit there're chinks in the government's response to this, but it ain't like the authority's been handed over to the military. 
+
+Motoko: You're right. It's a fact that the ship Kuze was aboard sank off the coast of Dejima. We're still not certain whether or not it was carrying any plutonium. And as for that massive blackout, we don't know yet if the refugees really did it. Although it did seem to be exactly timed to help Kuze escape. Now the public is directing its anger towards the government, and support within the government for refugee expulsion is increasing. No one seems to be giving a second thought to the consequences and what this means to the country. Even if this is all the result of data manipulation by the CIS, the false information isn't gonna simply banish. 
+
+Aramaki: Batou. Any clue what's wrong with the Major? 
+
+Batou: Didn't I report that she's acting weird ever since she dove Kuze's cyberbrain back in Dejima? 
+
+Aramaki: Right now, you need to focus on disposing of that nuclear bomb. The CIS has already started to take control of the scene under the pretext of media control. I'm going to negotiate with the Prime Minister and request authorization to investigate the CIS. 
+
+Batou: With nothing but the circumstantial evidence? The Prime Minister is already got a lot on her plate, what with the whole "SDA Invasion of Dejima" situation. At this point, I don't see how she'd possibly okay the proposal, especially if it could end up as a national scandal. If we aren't careful and don't play our cards right in this, Chief, that's Section 9's gonna take the heat again. 
+
+Aramaki: That's why I got authorization for our people to get involved at the scene. You have to turn up something over there. 
+
+Batou: Say, Major... After all this, why do you think the refugees are being so tightlipped? 
+
+Motoko: The truth had already been silenced before the phenomenon. Kuze must have come to that conclusion. Right now, he's not talking, even keeping the refugees in the dark. He is desperately searching high and low for anything that will let him turn the tables again. 
+
+Batou: What makes you suspect that? 
+
+Motoko: Because that's what I would do if I were him. 
+
+Batou: You know your mind doesn't seem to be on the job at all. Look, Major. It's true that we're all here because we're drawn to you by your exceptional talent, but we're not so dependent on you that we aren't able to back you up, got it? 
+
+Motoko: Thank you. I don't have a problem with you talking to me like that. Borma, you and Paz will join in on the bomb disposal work as we'd originally planned. Saito, you're with me. 
+
+Borma: Hey, hold on? We're not going in as a unit now? What's up? 
+
+Motoko: I just got an idea. But aside from that, there's something I'd normally do that want you to do for me. 
+
+Kayabuki: Have the arrangements for the Japanese Miracle been made? 
+
+Aramaki: Excuse us, ma'am. 
+
+Proto: Everything is ready. 
+
+Kayabuki: I see. It's unfortunate that it's come to this. As soon as the bomb defusing is carried out, I plan to hold a press conference with the intention of announcing the truth to the country. Then after that, the Self Defense Army will probably be authorized to invade Dejima. 
+
+Aramaki: Madam, as I had written in my report to you, it's very improbable that the refugees actually obtain some plutonium. The CIS likely worsened the whole situation. Prime Minister, I request that you delay the invasion, please, at least for the time being. 
+
+Kayabuki: Yes, I've read your report. However, we are already out of time. Based on intelligence recently gathered from the Russian authorities, the government is now operating under the assumption that plutonium ... has already been brought into Dejima. 
+
+Togusa: Please pardon my saying so, but isn't that have CIS wants you to react, ma'am? No one wants it, but after the SDA invades what we are going to find waiting for us is a full scale war against the refugees. Prime Minister, please, present the findings of that report to the Cabinet. 
+
+Kayabuki: If only this have been brought to my attention sooner... Public Security Section 9 was my final trump card. Chief Aramaki, I'd like you to remain on standby for the time being. 
+
+Aramaki: Understood, madam. 
+
+Officer: Squads 6 and 13 have reported in. They are currently in position on the top floor. 
+
+Batou: Public Security Section 9. We're here on the Prime Minister's orders. 
+
+Officer: Nobody said anything about you people coming. 
+
+Batou: Don't worry about it. It happens all the time out in the field. Isn't that right? 
+
+Officer: It's her signature. Hum. 
+
+Batou: We just want you to put our bomb techs on the front line. 
+
+Officer: We have no choice. Escort them up. 
+
+Sergeant: Yes, sir! 
+
+Officer: Mind if I ask what it is you wanna, do you? 
+
+Batou: Actually, that suit over there is who my business is with. 
+
+Goda: That being? 
+
+Batou: Thanks to you and all your bull shit, we're this close to being put out of commission but I have handful questions I wanna ask you. 
+
+Goda: If you must. 
+
+Paz: That's it, huh? 
+
+Officer: We've spent the last five days running a structural analysis. And we're finally about to start the defusing procedure. They're with Section 9. If there's anything they can help with, put them to work. 
+
+Bomb squads: Right. 
+
+Paz: "To Kayabuki with love"... The unique way to express one's love .. 
+
+Borma: I heard they used to write stuff like this on the nose cones of bombs like Fatman or on Tomahawk missiles. 
+
+Officer: They're imitating the Americans? 
+
+Borma: Don't know. Maybe they are, maybe they aren't. How do your Geiger counter's readings look? 
+
+Bomb squads: Bingo. But they must not have the time or technology to make this thing nuclear. 
+
+Borma: You mean they are only able to make a plutonium bomb? 
+
+Bomb squads: That's right. But if it blows, it'll cover everything inside of 30 km with radioactive fallout. Until they evacuated the citizens and got the Japanese Miracle ready for use, all we could do was put this thing on ice. 
+
+Borma: There was no timer on it? 
+
+Bomb squads: Lucky for us. 
+
+Borma: I see. But the bomb is still gonna be equip with redundant detonators. In a vibration/pressure sensor with a photoconductor element at the very least. Hum. Wait a minute... There's something on the back cover, too. 
+
+Bomb squads: You really are with Public Security? 
+
+Borma: Yeah. And I was in the army during the war. But, back then, my specialty, of course, was planting these things... 
+
+Batou: You won't have a problem with us talking right above the area where they're defusing that nuke, will you? So, how far are you planning to take this? 
+
+Goda: Take what? 
+
+Batou: Aggravating the situation. 
+
+Goda: That's a question for the refugees or a military analyst. It's outside my area of expertise. 
+
+Batou: Ha! Like hell it is. The fabrication of a mediator who will give rise to copycats... That was a subject of your old field research. Our society contains factors that make it easy for situations like this to be triggered. After all, human history was, for the most part made by those with power, There the ones who programmed the folk tales, myths and legends. And in that world of heroic fantasy, oblivious to anyone, there was a megalomaniac where growing hunger for his 15 minutes of fame. Eventually, he wanted to produce a hero who was greater than himself. Wasn't the Individual Eleven just a fake standalone complex created by a criminal along those same lines? 
+
+Goda: My, what a fascinating story. 
+
+Batou: Hum. Sneaky son of a bitch. But when it's all said and done, you simply, second rate. 
+
+Bomb squads: Kill the lights. Does the cover look crooked to you? Clear. 
+
+Borma: Found it. One parallel reflector switch. 
+
+Bomb squads: Okay, I'm inserting the mirror. 
+
+Borma: I've cut all the photoconductor elements. It's a mockup of an implosion-type nuke. 
+
+Bomb squads: And this is their way of saying that they did have the time and technology. They just chose not to build one? 
+
+Driver: What are you talking about? 
+
+Sergeant: There was a different retrieval unit that came through here just a few minutes ago. 
+
+Driver: Oh what? 
+
+Motoko: Borma, now that you've gotten a look at thing's construction, what's your take on it? 
+
+Borma: There seems to be a "message from the refugees" written on the bomb, but something is weird. 
+
+Motoko: Like what? 
+
+Borma: The explosives are M112 demo charges, the same type used by the U.S. Army. The refugees have always used C4. 
+
+Motoko: I see. You two stay there until the end, then meet up with the transport team. 
+
+Borma: But I still haven't found anything that links the CIS to... 
+
+Motoko: You've done enough for now. 
+
+Borma: Roger that. 
+
+Goda: What exactly do you mean, I'm second rate? 
+
+Batou: We met a standalone-type hacker a while back who was a true prodigy. You can't help but compare this incident with the phenomenon he started. Next to him, this group that committed mass suicide here just doesn't come off as being so impressive. And when we checked out the Individual Eleven's external memories, you know what we discovered? They there were nothing more than ordinary copycats generated by a virus. 
+
+Goda: Really? 
+
+Batou: That means they were functioning as an opinion-manipulation device conceived and created by some criminal somewhere. As for the name, they probably lifted it from terrorist group that took over the Chinese embassy. Still, I bet the bastard that spread that virus considers himself a brilliant hacker whose abilities are light up there with the best of them. 
+
+Goda: And are you implying that I was the one who manufactured that virus? 
+
+Batou: I'm not saying that at all. 
+
+Goda: In that event, what is it that you want to know? 
+
+Batou: I need to understand these guys so I wanna get your take. 
+
+Goda: All right. Here are my thoughts on the subject. If, as you say, the Individual Eleven appeared as the result of a virus, wouldn't you have to concede that these men are the ones who are the actual geniuses, no, heroes, in the same vein as your standalone hacker... Shouldn't they be seen as such, for continuing to escalate the situation even now? 
+
+Batou: That mass suicide stunt of theirs helped spread their cause, I'll give you that much. But as for being heroes, who are they heroes to. The Japanese? I don't think so. At best, they were nothing but a bunch of saps who gave the refugee situation an excuse to get worse. The fact is, their deaths have already been forgotten. 
+
+Goda: Yes, I follow. However if it's established that their memory is not the important thing, and that in reality it's our creation of the current situation. Wouldn't one be compelled to agree that the felon who produced the group is really quite a talented and extraordinarily clever hacker. 
+
+Batou: Yeah. Much as I hate to admit it, there's no denying that. I still have a problem using labels like "genius" to describe the guy, though, you understand? Based on what I've come to learn about their ideology and that virus... the criminal profile that jumps to mind is that of an individualist who's controlled by the desire to break free from his inferiority complex. You'll never win people over by forcing your personal beliefs on them. It doesn't matter if your intentions are good or bad. Unless you got some kind of unshakable conviction in something, you'll never become a person worthy of being called a genius or a hero. 
+
+Goda: Conviction? 
+
+Batou: That's right. That's my opinion, anyway. And there's one more thing. The most important element of all. It's the one that you have to have. Luck is the only factor that's you can't do without. 
+
+Goda: Oh? And why is that? 
+
+Batou: Isn't it obvious? If you look you'll see that when you get right down to it, geniuses and heroes are pretty much dependent on a third party's point of view. To convince people that someone actually is a hero, you need a response from onlookers. And it's the substance of that response that will either lift the hero to great heights or send him crashing to the ground. It depends entirely on luck. 
+
+Goda: Interesting. Quite a hypothesis. I must say, I had no idea you are capable of being such a conversationalist. 
+
+Batou: Is that supposed to be a compliment? 
+
+Goda: You can certainly take it as one if you like. 
+
+Batou: Since you're complimenting me, let me mention one other thing. It's a part of the situation. It's the X-factor. 
+
+Sergeant: They're up top. 
+
+Batou: Hideo Kuze, the only member of the Individual Eleven who didn't kill himself that day... Afterwards, he vanished to who knows where, And when he resurfaced, he'd become the leader of the refugees. Pretty bizarre, isn't it? Could it have been just a fluke? Or was it something that was carefully planned from the very start? 
+
+Goda: His behavior was completely opposite of that shown by the other Individual Eleven, so that must be your X-factor coming into play. But one can see that his actions are having the effect of contributing to the cause of the refugee expulsion. For a moment, let's consider his actions. Although different from the others, they're still navigating the situation to the same conclusion. So I pose my own hypothesis that it must mean the criminal produced even this unknown variable, your so-called X-factor. 
+
+Batou: Yeah, would it? I will admit that what he is doing is spurring support in favor of getting rid of the refugees, though. His getaway on the camouflaged ship was carried on the national networks and made all the more dramatic thanks to the blackout at Nagasaki. And now, a nuke is under our feet as we speak... If Kuze hit them this hard, I guess the government has no choice but to take off the kid gloves. But the question is, is Kuze really the one who's behind this whole affair? Couldn't it just be a fabrication that's cooked up by the criminal who's acting as his producer? Or more to the point, could you say that this criminal "producer" is unwittingly helping Kuze with his plan? Not only that, but is this guy now beginning to mimic Kuze's actions? 
+
+Goda: What do you mean by that? 
+
+Batou: Kuze came back to Dejima, but he didn't have any plutonium with him. I bet he normally would have wanted to tell the refugees about that and reign in the situation for the time being. But in spite of that, we've now had a terrorist act involving plutonium. And then what? Was he gonna play along with his "producer's" plan and actually try using a bluff to declare war? But he didn't do a damn thing. Right now, he's keeping his mouth shut about it and the refugees are being quiet. Because he is looking for something that will let him turn the tables. Or on the contrary, maybe by keeping quiet, isn't it really Kuze who's drawn a trump card? And he can control the situation? Kuze started out as an X factor, nothing more. So if it ends up that he's the real genius and hero in this, isn't it possible that the guy who thinks he's his producer has turned into Kuze's copycat somewhere along the line? 
+
+Bomb squads: Okay, it's all yours. 
+
+Motoko: Roger. 
+
+Batou: Despite the fact that those men believed in a fabricated ideology, they didn't become heroes to anybody and even gave away their lives for it. I wonder where their Ghosts are wandering right about now... Major, did you get the plutonium okay? 
+
+Motoko: The job's done. 
+
+Batou: Good. I used your external memory to talk with him about Kuze as best I could. But I'm not so sure it worked. 
+
+Motoko: It did. We'll take this straight to Spring-8. The obsession over realism by their information warfare pros' made them leave material behind. And that'll be their undoing. If this plutonium matches that which we collected at the Shinjuku nuclear plant, it'll prove that the CIS is behind this incident. 
+
+Batou: Roger that. Goda. We're just like Kuze, you know, because we haven't given up on the fight yet, either. 
+
+Goda: Is that so? 
+
+Batou: There's one thing I forgot to ask you. I doubt there'll be another outbreak, but we still don't know the final trigger is for the virus. We wanna write a vaccine just to be safe. If it was you, what would you use as the final triggering factor? 
+
+Goda: Well, if I were the culprit the factor I would probably use is virginity. They'd had been virgins prior to getting their prosthetic bodies. 
+
+Batou: What the hell? 
+
+Goda: If you're looking for someone who is prepared to martyr himself as a hero of the masses, that is the essential factor. Of course, it would be a bit of a gamble as to how many people have that particular outstanding talent. 
+
+Batou: Bastard... That goes beyond the limits of being perverse. 
+
+Goda: Perverse? Well, if you must know, I myself am a virgin. This has been the most enjoyable chat. Or informative, rather. I'm grateful. As for my own battle, it's not over yet, either. But the question remaining is, will you stop me first, or will I succeed and my plans come to fruition? I imagine the answer to that will be left entirely up to our X-factor. Now, if you'll excuse me.
+  

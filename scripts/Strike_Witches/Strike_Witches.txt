@@ -1,0 +1,654 @@
+
+Sailor:
+Abandon ship! Abandon ship!
+
+Perrine:
+We've got to get to a lifeboat.
+This ship's going under!
+
+Yoshika:
+Just run?
+There has to be something we can do!
+
+Perrine:
+Don't be stupid!
+What can we hope to do without our Striker Units!
+
+Mio:
+Hold on!
+Perrine, help me up!
+
+Perrine:
+Major, you shouldn't!
+
+Mio:
+We've still got an ace in the hold, right here.
+
+Yoshika:
+Is that... a Striker Unit?
+
+Mio:
+I'll take off and try to buy us time until reinforcements get here.
+I want you two to get to safety.
+
+Perrine:
+Major, you can't! No! Let me go with you!
+
+Mio:
+How, Perrine? There's only one Striker.
+
+Perrine:
+But, Major...
+
+Yoshika:
+Wait, Major!
+Let me!
+It's time I fly!
+
+----[OP]----
+
+Mio:
+What are you saying?
+
+Yoshika:
+That I'm gonna fly!
+
+Mio:
+Sergeant!
+That is not a decision for you to make.
+
+Yoshika:
+Fine!
+But I'm not ready to give up!
+
+Mio:
+Who's giving up?
+
+Yoshika:
+You! [Are] you trying fly that thing?
+You're still too weak to fight.
+And if you can't fight then that means, it means we're giving up and I can't do that!
+Not without at least putting up a fight!
+I made a promise to protect you!
+
+Mio:
+You'll protect me.
+I bet you would be surprised at how many times I heard that.
+Miyafuji, prepare to attack!
+
+Yoshika:
+Right!
+
+Shirley:
+What is that?
+
+Lucchini:
+A carrier. But why is it being attacked by the Warlock?
+
+Shirley:
+Strange that you think I would know.
+Hold on tight!
+
+Lucchini:
+Holding!
+
+Perrine:
+Warlock 10 o'clock! Altitude 2,000m. Right above us!
+
+Mio:
+The right engine spotters a little after start but don't let that distract you.
+Once you get going you're fine.
+
+Yoshika:
+Yes, ma'am.
+
+Perrine:
+The enemy is here!
+
+Mio:
+All right, it's time!
+
+Yoshika:
+Right!
+
+Mio:
+Miyafuji!
+
+Perrine:
+Major!
+
+Mio:
+C'mon! You can do it!
+
+Perrine:
+Oh, Miyafuji!
+
+Yoshika:
+Oh, no!
+
+Mio:
+Nice work, Perrine!
+
+Perrine:
+Thanks!
+
+Shirley:
+No way!
+Is that Miyafuji fighting the Warlock?
+
+Lucchini:
+Hurry! We've got to help her!
+
+Shirley:
+Yeah.
+I've forgot this thing doesn't have any weapons.
+
+Perrine:
+Here!
+
+Mio:
+Go for it, Miyafuji!
+
+Sugita:
+What the...? Miyafuji!
+
+
+
+Maloney:
+What exactly are you planning to do with us?
+
+Barkhorn:
+What do you think, Minna?
+
+Minna:
+You certainly have been keeping busy, haven't you?
+I guess it's not an easy task deceiving the Witches, is it?
+The only way for you to become stronger than the Witches was to use Neuroi technology.
+You try to hide your method by forcing us to disband.
+If we were gone who else would even think to question you.
+A decent plan.
+However Sergeant Miyafuji's actions exceeded military understanding and caused you to slip.
+
+Barkhorn:
+I wish... I wish we had known to trust Miyafuji's instincts earlier.
+
+Hartmann:
+Hey, this doesn't look good.
+I think the Akagi is sinking.
+It looks like the Warlock is fighting a Witch.
+But who is it?
+
+Minna:
+Sergeant Miyafuji!
+
+Barkhorn:
+Are you sure?
+
+Maloney:
+Impossible!
+You don't have any Strikers to use.
+Everything is locked away in the hangar, isn't it?
+
+Minna:
+This signal I'm receiving... is from Mio's Striker.
+
+Hartmann:
+What? How?
+Not bad at all, Miyafuji.
+
+Barkhorn:
+I've heard to deceive your enemies first deceive your friends.
+That sounds just like Sakamoto.
+
+Minna:
+I'm betting Miyafuji's gotta hands full just trying to buy time.
+Let's go!
+
+Hartmann:
+Yeah, you're right.
+C'mon!
+
+Barkhorn:
+Hey, wait!
+
+Yoshika:
+I don't get it.
+Why is the Warlock attacking the Akagi?
+It's just like the Neuroi.
+Neuroi...
+If it's a Neuroi then...
+
+
+Man:
+Was that a Witch I just saw?
+
+Lynne:
+Yes. In fact she was my friend.
+She was the best friend I've ever had!
+
+
+
+Yoshika:
+No way! This isn't the Neuroi that was my friend!
+This one is the real enemy!
+
+Perrine:
+Oh, wow.
+
+Mio:
+Yes. It's amazing that she can hold on against that monster.
+
+Barkhorn:
+All right, then.
+So we're saying that when Miyafuji flop there to make friends with the Neuroi,
+those guys freaked out on us and that's the reason we have to help her fight.
+Does that make sense, Minna?
+
+Minna:
+Yep.
+
+Barkhorn:
+Well, what do you think?
+
+Hartmann:
+Yes, sure. But who are and what did you do to Trudy?
+
+Minna:
+Eila. Sanya.
+
+Barkhorn:
+Hi, guys. What are you doing? Is everything okay?
+
+Eila:
+Well, uh... we... we... it's the train's fault!
+We fell asleep and when we woke up, we're back at the starting station.
+So, you know, since we were here we figured we'd see what was going on.
+Right, Sanya?
+
+Sanya:
+No, we found out Yoshika's fighting.
+So we... we thought maybe she could use some help.
+
+Eila:
+Sanya, what's wrong with you?
+
+Hartmann:
+You're not very good liar.
+
+Minna:
+I don't think we're either.
+
+Barkhorn:
+Hey! What do you mean? I'm not lying about anything!
+
+Hartmann:
+Oh, c'mon. Who cares?
+
+Minna:
+What do you say we get started.
+
+
+
+Perrine:
+Major. Keep holding out, okay?
+
+Mio:
+I'll be fine!
+Let go!
+
+Perrine:
+No!
+I'm very sorry, Major.
+That's one order I won't accept!
+
+Yoshika:
+Sakamoto!
+
+Shirley:
+Okay, now!
+
+Lucchini:
+I'm ready! Let's go!
+
+Yoshika:
+Francesca!
+
+Mio:
+Let go!
+
+Perrine:
+I can't!
+
+Shirley:
+All right!
+Whoa! Nice catch!
+
+Lucchini:
+Welcome back!
+
+Yoshika:
+Yeah!
+
+
+
+Lynne:
+Wait. Please wait for me, Yoshika.
+I'm almost there!
+
+Lucchini:
+Hi, Lynne!
+
+Hartmann:
+Hey, Lynne, we're over here.
+
+Barkhorn:
+You're late.
+We'll let it slide this time.
+
+Minna:
+Hurry it up. You're the last who arrive.
+
+Lynne:
+Right. Yes ma'am!
+
+----[A/B part]-----------------------------------------
+
+Yoshika:
+We did it!
+
+Lynne:
+Nice work, Yoshika!
+
+Sugita:
+The Akagi...
+
+Sailor:
+It's sinking, sir.
+
+Shirley:
+Thanks for waiting.
+
+Lucchini:
+Yoshika!
+
+Yoshika:
+You're all back!
+
+Mio:
+I'm quite impressed!
+Nice work!
+
+Yoshika:
+Thank you.
+
+Barkhorn:
+Looks like you won't be needing these anymore then.
+
+Eila:
+That may not be true.
+Look over there.
+
+Sailor:
+It can't be...
+
+Mio:
+The Warlock... and the Akagi!
+
+Mio:
+Perrine, thank you.
+
+Minna:
+'kay. Letting go.
+
+Mio:
+Don't worry about me.
+Wait. Am I seeing things?
+
+Minna:
+The Warlock and Akagi have fused together.
+It's beyond our control at this point.
+
+Mio:
+Still, we have to try.
+This thing is no longer just a Warlock or a Neuroi.
+It's completely different.
+We're not going to give up.
+If the Witches can't stop it then no one else will be able to.
+
+Sanya:
+It's coming.
+
+Minna:
+All right. Listen up!
+All units, prepare to attack.
+Our targets are the Akagi and the Warlock!
+
+Everyone:
+Right!
+
+Mio:
+The core is in the Akagi's engine.
+
+Minna:
+I don't think we'll be able to destroy it from the outside.
+Which means we'll have to go inside.
+
+Mio:
+I'll go. I know my way around the interior.
+
+Yoshika:
+No, Major, I'll go!
+
+Lynne:
+I'll be her backup.
+
+Perrine:
+Well, I know little about the inside. We don't want you getting lost.
+
+Yoshika:
+Thank you, Perrine.
+
+Perrine:
+Don't thank me.
+It's not like this is some kind of gesture.
+
+Mio:
+Well, it'll be very comforting for me to know that you're with them.
+
+Perrine:
+Right!
+
+Minna:
+Now, the rest of us will provide cover for them and clear a path so they can fly safely.
+
+Everyone:
+Roger!
+
+Mio:
+Commence attack!
+
+Barkhorn:
+You're not gonna let the others take all the credit for that, are you?
+Hey! Wait!
+
+Hartmann:
+See you later!
+Strum!
+
+Barkhorn:
+Hey, that's my job!
+
+Eila:
+Move to the right.
+
+Sanya:
+'kay.
+
+Eila:
+Head upward.
+
+Sanya:
+'kay.
+
+Eila:
+Are you getting sleepy?
+
+Sanya:
+Uh-uh. I'm okay.
+
+Shirley:
+The attack seemed to be letting up.
+
+Lucchini:
+So should we go?
+
+Shirley:
+Ready?
+Go!
+
+Yoshika:
+Is she okay?
+
+Shirley:
+Go for it, Yoshika!
+
+Perrine:
+Time for us to go!
+
+Yoshika & Lynne:
+Right!
+
+Perrine:
+That's the bulkhead.
+
+Yoshika:
+Yours, Lynne!
+
+Lynne:
+Got it!
+
+Perrine:
+No, your weapons!
+
+Perrine:
+In here.
+We're gonna need more than one gun.
+
+Yoshika:
+Oh, no!
+
+Lynne:
+But we've come all this way.
+
+Yoshika:
+What are you doing?
+
+Perrine:
+I was planning on saving this till we really needed it.
+Tonnerre!
+
+Lynne:
+Yoshika!
+
+Perrine:
+What are you doing?
+Are you completely crazy?
+
+Yoshika:
+Lynne, please. Both of you. I need your help.
+
+Yoshika:
+Thanks for everything.
+
+
+
+Shirley:
+They did it!
+
+Lucchini:
+It's Yoshika!
+
+Lynne:
+Yoshika...
+You did it, Yoshika! You're amazing!
+I don't know how you figure that out, but, wow!
+
+Perrine:
+What's that?
+
+Mio:
+Look at the hive!
+
+Shirley:
+It's disappearing!
+
+Lucchini:
+We won!
+
+Perrine:
+Gallia... my homeland is freed... after all this time.
+
+Lynne:
+Amazing! You're amazing, Yoshika!
+
+Mio:
+So that's it.
+
+Minna:
+Yeah.
+Great work, Witches. All units, return to home.
+
+Everyone:
+Yes, ma'am!
+
+Yoshika:
+In September 1944, the complete annihilation of the Neuroi in the Gallia region was confirmed.
+And 501st Joint Fighter Wing, the Strike Witches, were officially disbanded.
+But never forgotten.
+
+----[ED]----
+
+Yoshika:
+And to think, it all started with just this letter, didn't it?
+
+Michiko:
+Yoshika, I need your help!
+
+Yoshika:
+Michiko, what happened?
+I see. I can do this.
+Wow, isn't it amazing?
+
+Michiko:
+Yes, it is. Thanks!
+
+Yoshika:
+What's that?
+A Witch!
+
+Amaki:
+Hi, I'm Amaki of the Army Airforce Squad 47.
+How are you two doing today.
+
+Yoshika:
+We're fine.
+
+Amaki:
+Do you know Yoshika Miyafuji?
+
+Yoshika:
+Yeah. I'm Yoshika.
+
+Amaki:
+Oh, that's great news!
+
+Yoshika:
+Huh?
+
+Amaki:
+I have a letter for you.
+From your dad.
+
+Yoshika:
+Huh!?
+  

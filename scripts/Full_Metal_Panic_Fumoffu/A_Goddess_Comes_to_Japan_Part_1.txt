@@ -1,0 +1,960 @@
+
+ ws:start:WikiTextHeadingRule:0:&lt;h1&gt; 
+ ～前半戦～
+
+(テスタロッサ休暇)
+Soldier A:
+Captain, Tank Thirteen in Group A on the port side needs to be completely replaced.
+
+Soldier B:
+No problems with the *palladium reactor.
+However, the *bulkhead stress test will be executed as planned.
+
+Soldier C:
+And about the EMFC surface treatment, a GeoTron technician will arrive next week.
+
+Captain(Testarossa):
+Good job.
+ Mr. Mardukas, are these all the items on the work agenda?
+
+Madukas:
+Yes, Captain.
+ It'll take more than half a month to complete repairs on the ship.
+ So, how about it?
+ *Why not use this opportunity to take some *R&R?
+
+Testarossa:
+R and... R, huh?
+
+Madukas:
+Yes.
+ I think it would do you good to take it easy once in a while.
+
+Testarossa:
+Hmm...
+ You're right.
+ I think I'm going to take a little vacation.
+ There is one place I've always wanted to go.
+
+Madukas:
+Well, captain, why don't you go there?
+ I'll even assist you.
+
+Testarossa:
+You're serious?
+
+Madukas:
+I'd be glad to help!
+ So where is this place?
+
+Testarossa:
+Well, actually...
+
+Madukas:
+No!
+ You mustn't!
+ I'm *firmly against it!
+
+Testarossa:
+And why is that?
+
+Madukas:
+It's just the...
+ Why would someone like you want to go to a place like that?
+ The air is bad, the *scenery is terrible.
+ I'm not even sure it's safe...
+
+Testarossa:
+Liar.
+ You just promised that you would assist me with this trip, didn't you?
+
+Madukas:
+But, ma'am...
+
+Testarossa:
+When I asked you, you said, "You'd be glad"...
+ It's decided!
+ Let's *get started on preparations!
+
+[語　句]
+palladium reactor:eow.alc.co.jp/palladium/UTF-8/
+bulkhead:eow.alc.co.jp/bulkhead/UTF-8/
+Why not ~?:eow.alc.co.jp/why+not/UTF-8/
+R&R:eow.alc.co.jp/r+and+r/UTF-8/
+firmly:eow.alc.co.jp/firmly/UTF-8/
+scenery:eow.alc.co.jp/scenery/UTF-8/
+get started on ~:eow.alc.co.jp/get+started+on/UTF-8/
+
+
+
+
+[女神の来日(受難編)]
+
+
+
+(痴漢が出現)
+Kaname:
+Sousuke?
+ What are you doing?
+
+Sousuke:
+I'm writing a report, and I'm almost finished.
+
+Kaname:
+Oh... for the *mercenary unit?
+
+Sousuke:
+Yes.
+
+Kaname:
+So, there's more to your work than just *duking it out.
+
+Sousuke:
+*Affirmative.
+ Plus with all the class assignments, I haven't slept in three days.
+
+Kyoko:
+Guys!
+ It's terrible!
+ Terrible!
+
+Kaname:
+Kyoko, what's wrong?
+
+Kyoko:
+A *peeping Tom in the girls' locker room!
+ A tall, *lanky man walked in...
+ But as soon as everyone *screamed, he *ran off!
+ He said like, "Oh, my!" something like that!
+
+Kaname:
+He ran?
+
+Sousuke:
+So, an intruder?
+ Must have some guts if he got to the restricted area marked by the student council.
+
+Kyoko:
+Catch him!
+ He's still in the south building, Sousuke!
+
+Sousuke:
+Roger.
+ *I'm on it!
+
+Kaname:
+Wait a sec!
+ Don't hurt him!
+
+Sousuke:
+Should we be showing *mercy to an *intruder?
+
+Kaname:
+Look, I know it's a peeping Tom, but try to be peaceable.
+
+Sousuke:
+Understood.
+ I'll peaceably *inflict pain on him.
+
+Kaname:
+I SAID NO!
+
+Kaname:
+Isn't that him?
+ Hey, wait!
+
+Sousuke:
+Hey!
+ What is your business?!
+ Your answer will...
+
+Kaname:
+So you go *rough him up anyway...
+ ...Sousuke?
+
+Madukas:
+Sergeant Sagara.
+ Is this the way you always treat your superior officers?
+
+Sousuke:
+I apologize.
+ If I'd known it was you, Commander, I wouldn't have subjected you to such an outrage...
+
+Madukas:
+Before you apologize, could you put down that gun?
+
+Sousuke:
+I'm sorry!
+
+Kaname:
+Hey, who is this guy?
+
+Sousuke:
+Watch what you say!
+ You've met him before too, you know.
+
+Kaname:
+Oh!
+ He *barks orders on the *sub!
+
+Sousuke:
+Wrong!
+ This is Commander Richard Mardukas, second in command of my unit.
+
+Madukas:
+May I presume, then, that you are doing well, Miss Chidori.
+
+Madukas:
+I met with your school principal *a short while ago...
+
+Sousuke:
+Sir.
+
+Madukas:
+After I was finished, I *took the liberty of touring the school grounds on my own.
+ But it appears I entered the locker room by accident.
+ I made my apologies, but I'm not sure if the little ladies understood...
+
+Kaname:
+No, they didn't.
+
+Madukas:
+I was just about to *summon you and get you to show me around.
+
+Sousuke:
+You mean...me, Sir?
+
+Madukas:
+Is that a problem?
+
+Sousuke:
+No, no, Sir!
+
+Madukas:
+Very well.
+
+[語　句]
+mercenary:eow.alc.co.jp/mercenary/UTF-8/
+duke it out:eow.alc.co.jp/duke+it+out/UTF-8/
+affirmative:eow.alc.co.jp/affirmative/UTF-8/
+peeping Tom:eow.alc.co.jp/peeping+Tom/UTF-8/
+lanky:eow.alc.co.jp/lanky/UTF-8/
+scream:eow.alc.co.jp/scream/UTF-8/
+run off:eow.alc.co.jp/run+off/UTF-8/
+(be) on it:eow.alc.co.jp/on+it/UTF-8/
+mercy:eow.alc.co.jp/mercy/UTF-8/
+intruder:eow.alc.co.jp/intruder/UTF-8/
+inflict:eow.alc.co.jp/inflict/UTF-8/
+rough up:eow.alc.co.jp/rough+up/UTF-8/
+bark:eow.alc.co.jp/bark/UTF-8/
+sub:eow.alc.co.jp/submarine/UTF-8/
+a short while:eow.alc.co.jp/a+short+while/UTF-8/
+take the liberty of ~:eow.alc.co.jp/take+the+liberty+of/UTF-8/
+summon:eow.alc.co.jp/summon/UTF-8/
+
+
+(祝！すっぴんガールズ武道館公演)
+Madukas:
+Officially, my position here is a Cambridge professor.
+I'm supposed to be an old acquaintance of your ostensible guardian.
+That same friend is the one who referred this school to me...
+And that's the story...
+
+Madukas:
+Sergeant!
+
+Sousuke:
+Sir!
+
+Madukas:
+What does that say?
+
+Sousuke:
+"Yay! Suppin Girls will play at Budokan," Sir!
+That's all!
+
+Madukas:
+What's it mean?
+
+Sousuke:
+Don't know!
+
+Kaname:
+They're talking about a concert by a popular Japanese idol group.
+I think one of their fans must have come in, and written that.
+
+Madukas:
+I see.
+So it's a completely normal piece of graffiti, then.
+But tell me, Sergeant.
+How can you blend in with the civilians if you don't even know the names of their celebrities?
+
+Sousuke:
+Sir, I apologize...
+
+Madukas:
+You've been inattentive.
+You lack enthusiasm for your duties.
+
+Sousuke:
+No, Sir!
+That's not the case...
+
+Madukas:
+No excuses!
+Improve yourself.
+The unit isn't paying your salary to assault your superiors.
+
+Sousuke:
+Y...Yes, Sir...
+
+Madukas:
+So, is this classroom completely secure?
+
+Sousuke:
+Yes!
+That's an affirmative, Sir!
+
+Madukas:
+And its sanitary conditions?
+There aren't any nasty germs or pests, are there?
+
+Sousuke:
+Of course not!
+
+Madukas:
+Clean as a whistle, eh?
+
+Sousuke:
+Yes, Sir!
+
+Kaname:
+Like a mother-in-law on a bad sitcom...
+
+Madukas:
+This is what you call "clean as a whistle"?
+
+Sousuke:
+I...I'm sorry, Sir!
+
+Madukas:
+Honestly, what the Captain sees in a man like you...
+
+Sousuke:
+Sir?
+
+Madukas:
+Ahh, nothing!
+Forget it!
+
+Sousuke:
+M...My apologies.
+
+Kaname:
+Hey, Sousuke, does this guy really just not like you or something?
+
+Madukas:
+Alright, I'm done here.
+I'm going.
+
+Sousuke:
+Where to, Sir?
+
+Madukas:
+Where do you think?
+Your apartment.
+
+
+(文明の香りが微塵も無い部屋だ)
+Madukas:
+Honestly...
+A room without the slightest scent of civilization.
+Just the smell of oil and explosives.
+
+Sousuke:
+Sir...?
+
+Madukas:
+We must do something to make this space more tolerable.
+A cleaning is an order.
+
+Sousuke:
+With all due respect, Commander...
+I do clean these quarters on a regular basis...
+
+Madukas:
+Sergeant, you will start cleaning now.
+
+Sousuke:
+Yes, Sir!
+
+Kaname:
+They're still doing something over there.
+Another sleepless night, huh?
+
+Madukas:
+Well, that about does it.
+
+Sousuke:
+Commander, why did you have me do this kind of work?
+I don't understand...
+
+Madukas:
+She has arrived.
+
+Sousuke:
+Ca...Captain?!
+Why are you...?!
+
+Testarossa:
+I took some leave and decided to do a foreign exchange at Jindai High.
+I'm looking forward to our time together.
+
+Sousuke:
+B...But, why?!
+
+Testarossa:
+Just this once I wanted to be able to go to the same school as you, Mr. Sagara.
+Is that so odd?
+
+Sousuke:
+No, Ma'am, not at all!
+Feel free to attend my school as long as you want!
+
+Testarossa:
+Then, I'm going to get ready right away.
+
+Madukas:
+The ship is undergoing maintenance.
+There are no ops scheduled at this time.
+So we've taken this opportunity to allow the Captain to enjoy normal student life.
+
+Sousuke:
+I see...
+
+Madukas:
+Unfortunately, I have to return to the base, as do these two.
+Now, listen up, Sergeant.
+As you know, she is...Captain Testarossa is an extremely valuable person.
+
+Sousuke:
+Sir.
+
+Madukas:
+During this vacation, should any danger befall her or should she suffer any injury, I am completely prepared to put my foot down.
+Do you catch my drift?
+
+Sousuke:
+Sir!
+
+Madukas:
+Very well.
+And there's one more thing.
+Sergeant Major Mao is planning to come us for support.
+As long as she's around, I have nothing to worry about...
+But, if in the unlikely event...you should happen to exploit the fact that you share the same roof and commit some shameless act against the Captain...
+Should you happen to commit some sort of shameless act against the Captain, I will personally stuff you into a torpedo tube and launch you along with a three hundred kilogram explosive!
+With God as my witness, I will tear you limb from limb!
+IS THAT CLEAR?!
+
+Sousuke:
+I'D NEVER DREAM OF DOING SOMETHING LIKE THAT!!
+
+Madukas:
+IS IT CLEAR OR NOT, SERGEANT?!
+
+Sousuke:
+SIR!!
+IT'S PERFECTLY CLEAR, SIR!!
+
+Testarossa:
+Hey, hey, take a look!
+What do you think?
+It's perfect, isn't it?
+I thought I'd surprise Mr. Sagara with it...
+What is it?
+What's wrong with you two?
+
+Sousuke:
+It's nothing.
+
+Madukas:
+It suits you well, Captain.
+
+
+
+Testarossa:
+I'm Teletha Testarossa. But please call me Tessa.
+
+Students:
+Oh, so cute!
+
+Kagurazaka:
+All right class, settle down.
+She'll only be at our school for two weeks.
+But let's all make her feel welcome.
+It's part of cultural exchange.
+And so, Sagara.
+
+Sousuke:
+Yes?
+
+Kagurazaka:
+You are not to show her your dangerous and skew perspective of the world under any circumstance, Got it?
+
+Sousuke:
+Yes, I'll do my best.
+
+Kaname:
+Sousuke, what the heck is going on?
+
+Sousuke:
+There's nothing to explain.
+It's just what it looks like.
+It's just part of the job.
+
+Student:
+Wow, you must know everything.
+
+Testarossa:
+No, there's really a lot of things I don't know.
+And I get nervous really easily too.
+
+Students:
+That's all right. We're here for you.
+That's right. We'll always back you up.
+
+Sousuke:
+This could be... the death of me...
+
+Kyoko:
+Oh, and that girl there is our class rep, Kaname Chidori.
+
+Kaname:
+Huh?
+
+Kyoko:
+She's also Student Council Vice President.
+Go to her if you're having any problems.
+
+Kaname:
+Now hold on, I'm...
+
+Kyoko:
+Come on, come on. Get over here and introduce yourself.
+
+Kaname:
+Uh, yeah, hi, how do you do?
+I'm Kaname, your class rep.
+Feel free to ask me about anything, from how to use a Japanese-style toilet to how to rescue a helpless captain from danger.
+
+Testarossa:
+Thank you, Miss Chidori.
+If I happen to have any boy troubles, I do hope you'll listen and be able to help me.
+
+Kaname:
+Well, just ask!
+
+Testarossa:
+Oh, how kind.
+
+Kaname:
+That's the kind of get-up people with strange fetishes are into.
+
+Testarossa:
+But, it's... Sergeant Weber kept saying that at Japanese schools this was the only way to go...
+He said I'd be the laughingstock of the school if I wore a racing suit...
+
+Kaname:
+That foreign sicko.
+
+Testarossa:
+Was that a lie? Oh, what am I going to do now?
+Maybe I'd better stay out of trouble and just watch you all.
+
+Kaname:
+No, it should be okay.
+I think it looks good on you.
+
+Testarossa:
+Oh, really? Thank goodness.
+Then, I'm sure Mr. Sagara will be pleased with it too.
+
+Kaname:
+So, you're gonna be all right?
+
+Testarossa:
+What do you mean?
+
+Kaname:
+You're so uncoordinated you'd trip and fall just walking, right?
+
+Testarossa:
+I guess, maybe like once in a blue moon.
+When it comes to swimming though, I can hold my breath for a long time.
+
+Kaname:
+You don't say.
+
+Testarossa:
+Here goes!
+
+Kyoko:
+She's not coming up.
+
+Kaname:
+You are kidding!
+
+Kyoko:
+You think she drowned?
+
+Sousuke:
+Out of my way!
+
+Kaname:
+Sousuke?!
+
+Kyoko:
+He landed smack on his belly.
+
+Kaname:
+That's gotta hurt.
+
+Testarossa:
+Here I am!
+Hey, what'd you think of that?
+If there's one thing I'm good at it's swimming.
+
+Kaname:
+Don't startle us like that.
+
+Kyoko:
+But now it looks like Sousuke is the one who's not coming up.
+
+Kaname:
+What?!
+
+Kyoko:
+You know, for some reason, he didn't look very well at all today.
+
+Students:
+Heave ho!
+
+Kagurazaka:
+Hey! Hey! Sagara!
+
+Kaname:
+Sousuke!
+
+Testarossa:
+Mr. Sagara!
+It's all my fault.
+Everyone, please stand back.
+I'll tend to Mr. Sagara.
+
+Kaname:
+Ah, do you know how?
+
+Testarossa:
+Of course. I'm a submariner.
+In other words, getting wet is my business!
+
+Kaname:
+Ew. Poor choice of words.
+
+Testarossa:
+Do not worry!
+According to the US Navy First Aid Manual, a case like this clearly calls for mouth-to-mouth resuscitation.
+It's what you have to do!
+Clear the victim's air passage, then hold his nose and place your mouth over the top of his.
+I'm embarrassed, but I can't stop!
+Now, if you'll excuse me...
+Mr. Sagara...
+
+Kaname:
+Now, just wait!
+
+Testarossa:
+What are you doing?!
+
+Kaname:
+Oh be quiet!
+Stop taking advantage of the situation!
+
+Testarossa:
+It's mouth-to-mouth resuscitation!
+Do you want him to die!?
+
+Kaname:
+He doesn't need any! He's been groaning ever since we pulled him out!
+
+Testarossa:
+No. You're hearing things!
+Your psyche is so vicious and twisted. You'd rather see him die then...
+Okay. Now let's play it safe around the water, everyone!
+Was it something I said?
+
+Kaname:
+Don't think you can wrap this up like a PSA!
+
+Kyoko:
+Question, are Sousuke and Tessa actually old acquaintances or something?
+
+Kaname:
+Huh?
+
+Kyoko:
+I mean, I may be wrong but it seems he's been really concerned about Tessa.
+Just look at him now.
+
+Students:
+Yeah, it's strange.
+Uh-huh, it's anything but normal.
+Yes, you're right.
+
+Testarossa:
+Let me tell you the story behind all this.
+The truth is, my father, Ricardo Testarossa, and Mr. Sagara's foster father, Andrei Preminin, are old friends.
+Because of that, from a young age, I often played with Mr. Sagara.
+That's why... in my eyes... he's, well, really just a... a special boy!
+
+Kyoko:
+Uh-oh! Looks like Kaname's got a rival?!
+
+Kaname:
+What was that?!
+
+Testarossa:
+You're okay.
+
+Kyoko:
+Hey, hey, Sousuke!
+
+Sousuke:
+Yes. What?
+
+Kyoko:
+Tell me. Do you and Tessa really have a special relationship?
+
+Sousuke:
+Yeah... I can't be more specific but it's something that you couldn't even begin to imagine.
+
+Students:
+Oh, such boldness!
+
+Testarossa:
+Please, don't tease me like that.
+
+Sousuke:
+Tease you?
+What's going on?
+
+Kaname:
+Don't ask me.
+
+Sousuke:
+Huh? Kaname?
+
+Testarossa:
+Oh, you really mean you'll take me then?
+
+Student:
+Yeah, come with us.
+
+Sousuke:
+It's me.
+Lieutenant Commander Kalinin, what's going on?
+Sir, I'm already at my wit's end here.
+
+Kalinin:
+There's nothing to explain.
+Now I do sympathize with you, but...
+Too slow! You can cut that time by five seconds! Try again!
+So, anyway, please see that she's well attended to.
+
+Sousuke:
+But, sir! I can't do it alone!
+
+Kalinin:
+Don't worry. Sergeant Major Mao is on her way.
+She should be arriving at the stopover in Hachijojima any minute now.
+She'll arrive at your location this evening.
+
+Sousuke:
+That's definite?
+
+Kalinin:
+Take it easy tonight. That is all.
+
+Sousuke:
+Yes?
+
+Mao:
+Yeah, hello! Hey, it's me! Mao!
+
+Sousuke:
+Mao? What's your position?
+
+Mao:
+I'm in Hachijojima right now!
+It looks like there's a typhoon approaching!
+I'm afraid all the flights to Tokyo have been cancelled!
+
+Sousuke:
+What? Can you repeat?
+
+Mao:
+Cancelled! They've been cancelled! So I've gotta be spending the night here!
+You take care of Tessa for me, okay?!
+
+Sousuke:
+Hold on! You can't...
+
+Mao:
+Oh, that's right! It's just the two of you!
+You can jump her bones if you like!
+You have my permission! Young lady-killer, you!
+
+Sousuke:
+Mao! You're turning your back on a fellow soldier?
+
+Mao:
+See ya! Good luck!
+
+Sousuke:
+Wait! Come in, Uruz 2! Respond!
+Requesting immediate backup, Uruz 2!
+
+Sousuke:
+Kaname?
+
+Kaname:
+Yeah, what?
+
+Sousuke:
+This may sound strange but, well, if you wouldn't mind it, I would like to have you spend the night at my place tonight.
+You see, the Captain will be with us... so together...
+
+Kaname:
+Not on your life.
+
+Sousuke:
+K-Kaname!
+
+Kaname:
+Why don't the two of you just go make out to your heart's desire?
+Since you've got such a "special relationship," right?
+See ya!
+
+Testarossa:
+Sorry to keep you waiting. Shall we go home now?
+Mr. Sagara?
+
+Sousuke:
+They left me high and dry, didn't they?
+
+Testarossa:
+Hey, what's the matter?
+Are you still not feeling well?
+You look terrible.
+
+Sousuke:
+Why?
+Why has she pushed me so far into a corner?
+
+Testarossa:
+Maybe you should be taking some kind of medicine for that, Sousuke.
+Or should we go to a clinic and get someone look at you?
+
+Sousuke:
+Why does she cause me so much trouble?
+
+Testarossa:
+If it's too much for you to walk, I'll call an ambulance.
+
+Sousuke:
+Or rather, why am I so troubled in the first place?
+
+Testarossa:
+So go and rest in the nurse's office till then.
+Are you all right?
+
+Sousuke:
+What is this... pressure?
+
+Testarossa:
+Pull yourself together! Come on! Hang in there!
+
+Sousuke:
+Why is she...
+
+Testarossa:
+Mr. Sagara! Can you hear me?
+
+Sousuke:
+I can't... go on...
+
+Testarossa:
+Mr. Sagara!
+
+Sailor:
+We've received word that Sergeant Sagara has collapsed.
+Most likely from overwork.
+
+Madukas:
+What did I tell you? It was foolish to even think of entrusting her to a youngster like that.
+Sergeant Sagara is an inappropriate target for the captain's affection.
+Wouldn't you agree?
+
+Sailor:
+Ah, Sir.
+
+Madukas:
+Officers fraternizing with enlisted men set a bad example for the rest of the crew.
+
+Kalinin:
+Sousuke couldn't possibly make a move on her.
+
+Madukas:
+I believe I will have to raise a formal objection about this and other related matters next time without hesitation!
+
+Testarossa:
+Here you are!
+
+Kaname:
+Gimme that!
+
+Madukas:
+Of course, since the captain is a blossoming young woman, she's bound to make some mistakes in this regard.
+However, even if you ignore that, there are still other issues involved.
+Today's young ladies lack prudence, wouldn't you say?
+I can't help but think that the problems plaguing society, education and the family are eating away at her.
+
+Kalinin:
+Sergeant, don't die on us now.
+
+
+（次回予告）
+
+Sousuke:
+It's great to be a man.
+I feel relaxed in the company of other men.
+
+Kaname:
+Don't say something that could be taken in the wrong way.
+This is a hot spring.
+You're surrounded by cute girls.
+Show a little excitement!
+
+Sousuke:
+I've left that up to Kurz and the boys.
+Right now I'm really crazy about this electric massager!
+
+Kaname:
+Next time, "A Goddess Comes to Japan, Part 2: The Hot Spring."
+This time Shinji plays a major role.
+Kazama fans stay tuned.
+
+Sousuke:
+If he has any.
+  

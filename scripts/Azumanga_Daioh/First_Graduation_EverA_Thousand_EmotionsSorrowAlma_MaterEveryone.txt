@@ -1,0 +1,704 @@
+
+ ws:start:WikiTextHeadingRule:0:&lt;h1&gt; 
+ Chiyo:
+ Let's see...
+ Oh, Um... There's nothing I need to bring today.
+
+ I'm heading out!
+ Mr. Tadakichi, good morning.
+ Hey, you know what?
+ Today is the graduation ceremony.
+ This will be the first time I've ever graduated.
+ Okay, I'll see you later.
+
+Sakaki:
+ Oh.
+ I'm sorry for always trying to pet you against your will.
+
+Kamineko:
+Meow!
+
+Sakaki:
+ Huh?
+ Well, okay... May I pet you then?
+ Ow...
+
+Chiyo:
+ Good morning, everybody!
+
+Tomo:
+ Whoa!
+ "Female College Graduate Employment Rate At An All Time Low!" it says.
+ You know, at this rate, it might be useless even if you do get in.
+
+Yomi:
+ I am getting in!
+
+Tomo:
+ Okay, I admit I heard this from the cafeteria lady, but she said if you go to college, your marrying age gets pushed back!
+ Great news, how's Yomi?
+
+Yomi:
+ I said, I'm getting in, damn it!
+
+Osaka:
+ Mornin', Chiyo-chan.
+
+Chiyo:
+ Miss Osaka, good morni...
+ What do you have there? Some tissues?
+
+Osaka:
+ Ah-ah, they aren't ordinary tissues.
+ These ones are high class for real.
+
+Chiyo:
+ I see. So, why do you have them?
+
+Osaka:
+ I'll reveal the secret.
+ And there ya have it.
+
+Chiyo:
+ Ah! Oh, you have hay fever?
+
+Osaka:
+ That's right, hay fever.
+ But I'm covered.
+ I've got eye drops too.
+ Although I'm one of those people who can't apply 'em unless I lie down.
+
+Kagura:
+ So, what are you doing?
+
+Chiyo:
+ Miss Osaka is using eye drops...
+
+Kagura:
+ Eye drops, huh?
+
+Osaka:
+ That's right, I've got hay fever.
+ Achoo...
+
+Kagura:
+ Huh? Was that a sneeze?
+ Ha-ha-ha. That was really great!
+
+Osaka:
+ What're you sayin'? There's nothin' great about it.
+ Achoo...
+
+Tomo:
+ Hay fever looks like fun.
+
+Yomi:
+ No, it isn't!
+
+ ws:start:WikiTextHeadingRule:2:&lt;h1&gt; 
+ Announcement:
+Those graduating will now enter.
+And now, a speech from our principal.
+
+Principal:
+To those of you who are graduating, congratulations.
+To our guests, to our visiting and to the guardians of the students, we...
+
+Osaka:
+ Achoo.
+
+Principal:
+We wish to extend our sincere gratitu...
+
+Osaka:
+ Achoo.
+
+Principal:
+We wish to extend our sincere gratitude to you for coming today.
+
+Student:
+What was that?
+
+Student:
+No clue.
+
+Principal:
+Now, for those of you who are graduating...
+
+Announcement:
+Presentation of diploma.
+Representing the graduating class, Masaaki Ohyama.
+
+Tomo:
+ Hey, why is that that I'm not the one representing the graduating class?
+
+Yomi:
+ You have to ask?
+ You sure your brain hasn't melted or something?
+
+Tomo:
+ Why do I ask? Maybe because I'm the strongest?
+
+Yomi:
+ Huh?
+
+Tomo:
+ Ha!
+
+Announcement:
+And now, to the student who achieved the highest grades this academic year, we'll present the Kinran Award.
+
+Yomi:
+ It isn't you. So, sit down.
+ I'm telling you. Sit down.
+
+Announcement:
+This year's Kinran Award goes to Miss Chiyo Mihama, a Year 3, Class 3!
+
+Yomi:
+ Like I SAID, it isn't you!
+
+Announcement:
+Miss Chiyo Mihama, please come forward.
+
+Osaka:
+ Chiyo-chan, they're callin' you, Chiyo-chan.
+
+Chiyo:
+ Huh?
+ Are they talking about me?
+
+Principal:
+Excellent work, Miss Chiyo Mihama.
+
+Chiyo:
+ Yes, sir!
+
+Tomo:
+ Bravo!
+ Bravo! Bravo! Bravo!
+
+Student:
+Should we stand?
+
+Student:
+Dunno.
+
+Everyone:
+♪あおげばとおとし(よく分からんところが多いので、後回し)
+
+ ws:start:WikiTextHeadingRule:4:&lt;h1&gt; 
+ Tomo:
+ Hm?
+
+Chiyo:
+ Mi... Miss Yukari!
+
+Yukari:
+ I lost my wallet!
+
+Chiyo:
+ What?
+
+Yukari:
+ Oh, I don't care anymore.
+ Presenting the diplomas...
+
+Tomo:
+ Hey, you're wrecking the mood!
+
+Yukari:
+ Kagura.
+
+Kagura:
+ Yes.
+
+Yukari:
+ Osaka.
+
+Osaka:
+ Yes.
+
+Yukari:
+ Tomo.
+
+Tomo:
+ Yeah.
+
+Yukari:
+ Argh!
+ I don't need your cheap sympathy!
+
+Tomo:
+ Hey, that's mean!
+
+Yukari:
+ My 10,000 yen bill! My 10,000 yen bill!
+ I knew I had one in there!
+ Okay, time for final words.
+ Well, goodbye, everybody.
+
+Tomo:
+ You're wrecking the mood!
+
+Nyamo:
+ Um... hey, Miss Tanizaki.
+
+Yukari:
+ What is it? Oh, Nyamo.
+
+Nyamo:
+ Someone who found this picked it up and turned it in.
+ Isn't it yours, Yukari? This wallet.
+
+Yukari:
+ Everyone, congratulations on graduating!
+
+Nyamo:
+ I'm sorry, everyone.
+ Didn't mean to be late.
+
+Students:
+Thank you for everything, Miss Kurosawa!
+
+Students:
+We've been waiting for you!
+Goodbye, Miss Kurosawa!
+It was fun!
+
+Nyamo:
+ Now, now, it's not over yet.
+ There might not be diplomas for everyone here, you know.
+
+Students:
+What?!
+
+Kimura:
+However, the three years that I have spent together with all of you in my class have been very rewarding and meaningful for me as well.
+This wonderful time that we have shared will be ending as of today and...
+
+Kaorin:
+Mr. Kimura...
+
+Kimura:
+But!
+Kaorin and I will be together forever!
+
+Yukari:
+ And so, that's all I have to say.
+ Everyone, rise!
+ Bow!
+
+Kagura:
+ Well, Miss Yukari, this is from everyone.
+
+Yukari:
+ What a huge bouquet!
+
+Kagura:
+ It's one flower from each of us.
+
+Yukari:
+ They're wonderful.
+ I wonder whose will first wilt and die?!
+
+Everyone:
+Uh...
+
+Chiyo:
+ Oh, Miss Yukari...
+
+ What did you do that for?!
+
+Yukari:
+ I just had to.
+
+Chiyo:
+ I guess... I guess high school really is over now, isn't it?
+
+Yukari:
+ Well, yeah.
+
+Chiyo:
+ We won't get to see each other every day anymore, will we?
+
+Tomo:
+ Hey, wait!
+ Hey! Hey!
+
+Osaka:
+ Ow! Ow!
+
+Yukari:
+ Well, when all's said and done, that's all there is to it.
+ You guys should be just fine, but no guarantees.
+
+Chiyo:
+ Huh?
+
+ ws:start:WikiTextHeadingRule:6:&lt;h1&gt; 
+ Tomo:
+ You ready?
+
+Osaka:
+ Uh.
+
+Tomo:
+ Okay, now let's do one more!
+
+Kaorin:
+Miss Sakaki... right!
+Uh... Miss Sakaki, how about we take a picture together?!
+
+Sakaki:
+ Mm.
+
+Kaorin:
+Tomo, take a picture of us too!
+
+Tomo:
+ Sure! That'll be 1,000 yen.
+
+Kaorin:
+Uh...
+
+Tomo:
+ No, I was just joking.
+
+ Is everybody ready?
+ There, got it!
+
+Kaorin:
+No, you don't! Got it! You tilted the camera down!
+
+Tomo:
+ Okay, fine, whatever.
+
+Kaorin:
+Take it right!
+
+Tomo:
+ Here goes.
+
+Kaorin:
+Send me that when you get it developed, okay?
+
+Tomo:
+ Yeah, yeah.
+ Hey, Osaka!
+
+Kaorin:
+Are you listening to me?!
+Please send it!
+Postage due is fine.
+
+Tomo:
+ O-Okay...
+
+Yukari:
+ Hm? Hey, Kagura, what's wrong?
+
+Kagura:
+ Miss Yukari.
+
+Yukari:
+ What's up? You forget something?
+
+Kagura:
+ Say, Miss Yukari,
+ I've been thinking, would it... be bad if I took a chair or desk home?
+
+Yukari:
+ Yeah, it would be bad.
+
+Kagura:
+ I was thinking of taking something back as a keepsake, but, oh well...
+
+Yukari:
+ Hm? Well, don't worry, you're already taking something back with you.
+
+Kagura:
+ Uh...
+
+Yukari:
+ That's right. Your precious memories of everyone.
+
+Kagura:
+ Oh... Thank you, Miss Yukari!
+
+Yukari:
+ What? Okay?
+
+Chiyo:
+ Then, for our graduation trip, why don't we all go to Magical Land.
+ Since Miss Yomi couldn't come last time.
+
+Yomi:
+ O-Okay.
+
+Tomo:
+ We'll do it before Yomi's school makes a posting.
+
+Chiyo:
+ What?
+
+Tomo:
+ 'Cause it'd be a real downer if she doesn't make it in.
+
+Yomi:
+ I am getting in! We'll do it after!
+
+Tomo:
+ Yeah, you're right! You'll get in.
+ You've just gotta believe it.
+
+Yomi:
+ Ah! You piss me off so much!
+
+Osaka:
+ That's right, you know.
+ It'd be great if Yomi gets in too.
+
+Yomi:
+Huh?
+
+Osaka:
+ Lemme see the charm that Chiyo-chan gave you for a sec.
+ You have it, right?
+
+Yomi:
+ Yeah. Here.
+ Wh-What are you gonna do?
+
+Osaka:
+ Yah!
+
+Yomi:
+ Uh... What are you doing?
+
+Osaka:
+ I'm puttin' my powers into it.
+
+Yomi:
+ That's unnecessary!
+
+Yukari:
+ Huh? What's the holdup? Hurry up and go home already.
+
+Tomo:
+ Okay.
+
+Sakaki:
+ All right then. Shall we go?
+
+Chiyo:
+ Yes.
+
+Yukari:
+ See ya. Be careful on your way home.
+
+Tomo:
+ You, too, Yukari.
+
+Yukari:
+ Sure thing!
+
+Tomo:
+ Let's do another trip this summer!
+
+Yukari:
+ Sure, if I feel like it.
+ See you guys around.
+
+Chiyo:
+ Ah, Oh, right.
+
+ ws:start:WikiTextHeadingRule:8:&lt;h1&gt; 
+ Yomi:
+ Hm, 3661, huh?
+ Okay, but I can't really say whether this number is lucky or not.
+
+Osaka:
+ Sure turned out to be a nice day.
+
+Chiyo:
+ It certainly has.
+
+Tomo:
+ Do you think this one's open today?
+
+Kagura:
+ This looks like fun too.
+
+Tomo:
+ Oh, yeah, what about that one?
+
+Osaka:
+ Chiyo-chan, are you excited?
+
+Chiyo:
+ Yes! Let's ride that big roller coaster we rode on last time!
+
+Tomo:
+ All right!
+
+Osaka:
+ Y'all are brave.
+
+Yomi:
+ Hey!
+
+Tomo:
+ Oh, Yomi, didn't know you were here.
+
+Yomi:
+ So you were serious about going to Magical Land immediately after the announcement was made?!
+
+Kagura:
+ We didn't have a choice.
+ This is the only time that worked for everyone.
+
+Tomo:
+ Don't worry, we've already thought of what to say to comfort you.
+ Right?
+
+Osaka:
+ Oh, yeah, did you make sure to bring that good luck charm?
+
+Yomi:
+ Yeah.
+
+Osaka:
+ Lemme see it for a sec.
+ I'll put my power into it one last time...
+
+Yomi:
+ Chiyo-chan, please imbue this with the power that got even Tomo into college!
+
+Chiyo:
+ Yes!
+
+Tomo:
+ Yomi, I looked but I didn't see your number.
+
+Yomi:
+ No!
+ She's still in the middle of imbuing it with her power!
+ You weren't supposed to...
+ You weren't supposed to look!
+
+ Huh? What's the...?
+ It's there.
+
+ It's there!
+ It's there, it's there!
+ It's there!
+ It's there! It's there! It's there!
+
+Chiyo:
+ Congratulations! Miss Yomi!
+
+Osaka:
+ Happy day!
+
+Kagura:
+ Good job, Yomi!
+
+Sakaki:
+ I knew it.
+
+Yomi:
+ Thank you so much.
+ Thank you, everyone.
+
+Tomo:
+ Yomi!
+ You did awesome!
+ Argh...
+
+Kagura:
+ Let's hoist her!
+
+Tomo:
+ Good idea!
+
+Yomi:
+ Tha-That's okay.
+
+Tomo:
+ Yeah!
+
+Tomo:
+ No! Yomi's too heavy, so let's do Chiyo-chan!
+
+Yomi, Chiyo:
+ What?!
+
+Everyone:
+Hurrah! Hurrah! Hurrah! Hurrah!
+
+Tomo:
+ Okay, who's ready to have some fun now?!
+
+Chiyo:
+ Won't this be great, Miss Sakaki?
+
+Sakaki:
+ Yeah.
+
+Kagura:
+ We're gonna have fun today!
+
+Tomo:
+ Off we go!
+
+Osaka:
+ Hey, wait! How're we gettin' there?
+
+Kagura:
+ We've gotta head to the train station first, right?
+ Hey, Sakaki, let's have a race to the station?
+
+Sakaki:
+ No, I... uh...
+
+Yomi:
+ I think I'm gonna ride a roller coaster first thing.
+
+Tomo:
+ Oh? You'll probably pee your pants, Yomi.
+
+Yomi:
+ I'll be fine.
+
+Tomo:
+ Sure if you say so?
+
+Kagura:
+ Hey, I heard they've built a brand-new ride.
+
+Everyone:
+Yeah.
+
+Osaka:
+ Ain't it supposed to be scary though?
+
+Tomo:
+ Woohoo!
+
+Kagura:
+ All right, we're riding that one!
+
+Tomo:
+Is it really that scary?
+
+Chiyo:
+ I see...
+ Even when we've graduated... we'll still be together.
+
+Osaka:
+ Chiyo-chan!
+ Come on, Chiyo-chan! It's time to go.
+
+Chiyo:
+ Okay!

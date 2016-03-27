@@ -1,0 +1,323 @@
+
+Tachikoma: Another air strike has begun! Anyone manage to locate any signals from the crew yet? It's no use! I haven't seen any signals that we might be able to back-hack! 
+
+Motoko: Tachikoma! Quickly gather up all the free area you can find within cyberspace. Secure enough room for me to upload the memories and Ghosts of three million people. 
+
+Tachikoma: What? Why the heck would you want us to do that? 
+
+Motoko: There's no time to explain! 
+
+Tachikoma: B- But is it even possible to do something like that? 
+
+Motoko: I don't know. But I can't think of any other way to salvage the refugees. So, just hurry up and get to it. 
+
+Tachikoma: R-Roger! 
+
+Motoko: I just ordered my support AI's to begin securing all the available room in cyberspace. Once they're ready, let's get started. 
+
+Kuze: Thanks for your help. 
+
+Motoko: Even if you and I successfully upload our Ghosts into cyberspace and we manage to survive, what about people who don't have cyberbrains? 
+
+Kuze: Refugees with family members like that will have difficulty accepting this decision, I know. I expect they'll lose faith in me and leave Dejima of their own accord. 
+
+Motoko: But in a situation such as this one, the role of the leader is both invaluable and filled with uncertainty. When you're in a position where you required to lead many people, you're sometimes forced to make difficult decisions. Don't worry, I'm sure those people will understand. 
+
+Kuze: Well, I hope you're right. 
+
+Batou: Tachikoma! What's the shortest route to the Major's location?! 
+
+Tachikoma: Mr. Batou?! I thought you were going to the bridge! 
+
+Batou: I'm gonna help the Major to... 
+
+Tachikoma: Mr. Batou? The line went dead... Ah... Do you think they'll use the confusion caused by the air strike to fire off the nuclear missile? Judging by the fact that the American submarine is running completely silent, the launch time might have been set beforehand. If that's the case... And we consider the timing of the Aegis cruiser withdrawal and the micromachine dispersal, we might be looking at a launch time of say, 0100 hours... Hey everybody. I want your honest opinion. Do you believe that the refugees' Ghosts will be preserved simply by uploading their memories to the net? Mum... From a biological processing standpoint, memories are a bio component, all right. However without a Ghost, memories are nothing more than data. Hold on, isn't the Major betting everything on this as the refugees' last hope? Yeah, yeah, I understand all that, but this order is just plain crazy! I have to agree. But if we don't do something, we won't be able to save Mr. Batou and the others. That's why I think we ought to take matters into our own hands and ignore the Major's order. 
+
+Aramaki: Are you having any luck? 
+
+Kayabuki: No use. I'm not getting any response at all from them. 
+
+Proto: The hotline is fully active and functioning properly. 
+
+Togusa: But that would mean... 
+
+Aramaki: Uh... 
+
+Kayabuki: Frustrating. I knew I was only a face for the billboards to win the general election after the last Cabinet broke up, but I didn't do anything to deserve this sort of treatment! If Takakura is willing to go to these extremes, I'll put an end to this situation my own way! 
+
+Aramaki: Madam, who are you calling? 
+
+Tachikomas: All right, we did it! This makes eight! Calculations like this are our specialty. You know it. This next satellite will let us put up a flak curtain along the missile's trajectory! Disobeying Major's orders and deciding to take a chance on dropping satellites in its path sure was the right call! Yeah... What's the matter? The plan is gonna work! Well, Look in this. This satellite. Isn't it the one that our Al is kept on? Oh! Oh! That's an American Empire satellite! Yeah... But it looks as if we're being stored in leased payload space on an American Empire satellite that was launched from Japan. Aw, what the hell?! Even without that Security Treaty, we're still doing exactly what they say! Even so, why do you think the Major would put our Al onto one of their satellites? Well, maybe she was planning to use us to spy on them or something. We never know what she was thinking, but this really puts us in a tough spot... We're almost out of time! 
+
+Tachikoma: Mr. Ishikawa! 
+
+Ishikawa: Yeah, what is it? 
+
+Tachikoma: Um, there's something important I got to do. I have to go somewhere with the rests. 
+
+Ishikawa: Mum, I see. 
+
+Tachikoma: I'm sorry. 
+
+Ishikawa: It's all right. Look after the Major and the others, okay? 
+
+Tachikoma: Sure! 
+
+Ishikawa: OK. I guess I really am on my own from here on in. 
+
+Batou: Ah, Major? Where are you? 
+
+Motoko: Kuze. 
+
+Kuze: Yes? 
+
+Motoko: Do you know how to fold origami cranes? 
+
+Kuze: Cranes? 
+
+Motoko: That's right. And only using your left hand. 
+
+Kuze: With the correct control software, anyone could do that. 
+
+Motoko: No, that's not what I mean. 
+
+Kuze: Can you do that? Fold left-handed? 
+
+Motoko: Now, I can. 
+
+Kuze: It sounds like you've endured your fair share of loneliness, too. I never asked, but who are you? What's your name? 
+
+Motoko: Don't recall. I do have a pseudonym, though. It's the same thing with you, isn't it? 
+
+Kuze: You're right. The refugees have given me countless names. I joined forces with them with the intent to save them, but maybe the real reason I united with them was to keep the loneliness at bay. 
+
+Motoko: Yet in the end, you couldn't make it go away, because, others could rely on you, but you couldn't rely on them. 
+
+Kuze: Do you have someone who you can open yourself up to? 
+
+Motoko: I suppose I do. 
+
+Kuze: I see... I've been looking for mine for a long, long time. 
+
+Refugee: We'll be fine! The missiles won't come near the bridge! Everyone, stay calm and keep moving! 
+
+Batou: Motoko! 
+
+Tachikoma: (Singing) bokura wa minna ikite iru... 
+
+Proto: I don't believe it... Do you want to know something? I bet anything that all of you have Ghosts... 
+
+Togusa: Hey, what's wrong?! Proto! 
+
+Aramaki: Proto, what's the matter? What just happened to you? 
+
+Proto: Sir, it appears that the Tachikomas have rammed a satellite into the nuclear missile. 
+
+Togusa: They've done what?! 
+
+Aramaki: So then, we successfully avoided a worst case scenario. 
+
+Proto: Yes, sir. 
+
+Kayabuki: I'm sorry, I don't follow you. You have to explain that. 
+
+Aramaki: It appears that some members of my team sacrificed themselves to stop the nuclear missile. 
+
+Kayabuki: You lost men?! 
+
+Aramaki: Don't concern yourself, ma'am. Who did you call just now? 
+
+Gouda: It's me. The missile was intercepted? Well, no matter. Either way, we are going to use Kayabuki's actions to establish a cold-war framework. What a shame, he wasn't able to become a hero after all... 
+
+Paz: Was that blast what I think it was? 
+
+Saito: Yeah, but I could swear I heard the Tachikomas singing. 
+
+Borma: Could they be the ones who stopped the missile? 
+
+Kuze: What happened? 
+
+Motoko: I can't explain why, but it looks like my AI's did something other than what I ordered them to. 
+
+Batou: Major! You okay in there?! The Tachikomas... 
+
+Motoko: I know. 
+
+Togusa: Hey, Chief. If she contacted who I think she did... 
+
+Aramaki: Yes, I know. But for now, arresting the Chief Cabinet Secretary and Gohda is our priority. It's slim. But there's a chance that what happened today won't be made public in our lifetimes. First, let's clean up this mess as quickly as possible. 
+
+Togusa: Understood. 
+
+Takakura: You may enter. 
+
+Aramaki: Chief Cabinet Secretary, I assume you know the reason why we're here, so I'll come straight to the point. Your actions in the current situation amount to a coup d'etat and mass murder under the guise of war. 
+
+Takakura: I can't set back and watch as they blow themselves up with a nuke. 
+
+Aramaki: They have no nuclear weapons! That story was fabricated by you and Gohda of the Cabinet Intelligence Service! 
+
+Takakura: Gouda? Fast tracking the Security Treaty with the purpose of securing this country's future was all I did. We're in a war against the refugees. 
+
+Aramaki: Now sir, may I remind you that you'll be put through a rather rigorous, unofficial inquiry... 
+
+Takakura: I've been prepared for that all along. And as for you, you turned out be even more of a typical weak woman than I expected you to be. I don't know who you begged for help during in your emotional fit, but this country has to stand on its own two feet without the American Empire! 
+
+Kayabuki: It's acutely clear that you are laboring under a false impression. 
+
+Captain: That doesn't look like a nuclear explosion. 
+
+First Officer: Your orders? Shall we launch a second missile, sir? 
+
+Captain: Not yet. Let's hold off on that until we can ID the southbound bogeys that're approaching from the northeast. 
+
+First Officer: What if they're aircraft is marked with the 81 military insignia, Sir? 
+
+Kayabuki: National independence through personal independence. I like to think that I have acted in accordance with that ideal ever since I took office. Just as it always has, my administration will pursue a policy of independent action and UN reconciliation. I intend to maintain an equal distance from the American Empire, the Ameri-Soviet Union, and China, as well as Asia and the nations of the EU. 
+
+First Officer: A secret Air Self Defense Army unit, huh? 
+
+Captain: All right, Japan's made its intentions clear. We're pulling out. 
+
+Kayabuki: You can take him away now. 
+
+Togusa: Yes, ma'am. 
+
+Soldier: Prime Minster sent us! Come on. Get in! 
+
+Batou: You got it! Stand up. That's mine. I'll take it if you don't mind. 
+
+Motoko: Saito! Paz! Borma! 
+
+Saito: You still in one piece, Major? 
+
+Motoko: Yeah. Sorry, but stay put and give a thorough report to the Self Defense Army. 
+
+Saito: Understood. 
+
+Motoko: You're... 
+
+Man: Ishikawa of Security Section 9, I take it. I came here to take that off your hands. 
+
+Ishikawa: Oh, you mean this? 
+
+Man: That's right. 
+
+Ishikawa: Don't screw with us, punk. Section 9 practically invented dirty tricks and information warfare. 
+
+Takakura: If the vassal state is negligent in its services, the starvation of the consumer state is inevitable. Manpower shortages always gives the slave manufacturing industries a boost, but if you're too strident in the assertion of rights, the arteries of capitalism will harden. 
+
+Gouda: In its mind, this country has always considered itself a capitalist state, but in reality, it's a virtual paragon of socialism. Although when waste matter builds up in the arteries, brains are needed to manage the blood's distribution. With its claims of liberty and security, I'm sure it's the same in your country. 
+
+Watanabe: Of course! But what we do behind closed doors are different matters. Ha,ha,ha. 
+
+Aramaki: All right... Do it! 
+
+Togusa: Don't do it! Don't rush to your death. 
+
+Gouda: It's Mr. Aramaki... What's all of this about? 
+
+Aramaki: You, Kazundo Gouda! You are accused of criminal action. Attempting to instigate civil war and conspire with a foreign power to start a war for personal gain. You are coming with us now. 
+
+Togusa: The Chief Cabinet Secretary admitted most of the charges. In addition, the final act of your play was a flop. 
+
+Gouda: Are you sure? Even if you are right, arresting me now would be utterly pointless. 
+
+Togusa: What's that supposed to mean? 
+
+Gouda: The Chief Cabinet Secretary and I have a standalone relationship. Not only that, I submitted a report personally written by me to the Metropolitan Police Headquarters, which should already being their possession at this time. 
+
+Aramaki: Um. 
+
+Gouda: Didn't you know? The penal record clearly states that by coming forward voluntarily, I can't be charged with any of the crimes you just mentioned. 
+
+Gouda: So I'm going to a country in need of someone with my abilities and talents. 
+
+Togusa: Are you sure? Have it your way. I happen to have a note here from the Prime Minister. It's written here that she holds your abilities in the highest regard. But if there is a risk of those talents ending up in the hands of a foreign power, we're to prevent that from occurring at any cost. She also says that it's necessary, we shouldn't hesitate to use lethal force. 
+
+Aramaki: How do you want to do this? 
+
+Watanabe: Don't worry. The old man is just bluffing. Let's go. 
+
+Gouda: Right. 
+
+Motoko: You think so, do you? Well, you're dead wrong. 
+
+Batou: Gee, what a crying shame... 
+
+Watanabe: Hi! 
+
+Batou: Hey, you're that prick! 
+
+Aramaki: One question. How long have you people had hand of this?! From the very beginning? 
+
+Motoko: Kuze! 
+
+Aramaki: Hurry! We can't let them eliminate him! 
+
+Togusa: Major! 
+
+Sato: What's that you have there? 
+
+Kuze: A crane... 
+
+Sato: A crane? My, these micromachines are rather effective, aren't they? You'll have a painless death. You really are a fascinating person, to be sure. However we view you as a dangerous element. Your country has no need of charismatic leaders that can't be controlled. Docile consumers, that's the way to go. 
+
+Kuze: I'll go on ahead... 
+
+Aramaki: Major! Where are you off goofing around?! Rendezvous with Azuma and Proto in Niihama Ward 4! What's the matter? The supplementary budget you requested was passed in its entirety. 
+
+Motoko: Fuchikoma! Information! 
+
+Fuchicoma: Yes, sir! 
+
+Aramaki: Major, listen to me. A great many lives were lost in this incident... All it's done is return the refugee issue right back to square one, plus, the Prime Minister's Self reliant United Front policy will probably prove to be a thorny path for the populace. People like us will be needed more than ever now. 
+
+Motoko: Maybe. 
+
+Batou: What's with you? Sounds like someone else has problem. 
+
+Togusa: Oh, come on, you didn't go and get off all philosophical on us now, did you, Major? 
+
+Fuchicoma: Major, I have a report stating that the supplementary budget passed in the 329th session of Parliament. 
+
+Motoko: Right! I'm calling off our round-the-clock cherry blossom op! We're back on the job so saddle up! 
+
+Paz: 'bout damn time... 
+
+Borma: Yeah... 
+
+Saito: I started to think I was gonna die of boredom. 
+
+Ishikawa: I should have had a drink to warm myself up. 
+
+Togusa: It sure is nice to have our Major back... 
+
+Batou: What about the briefing? Wanna handle it with a brain dive? 
+
+Motoko: No, go on ahead without me and take command. I'll just meet up with you a little later. 
+
+Batou: I see. 
+
+Motoko: What is it? 
+
+Batou: Forget it. It was nothing, anyway. 
+
+(Song) 
+Penetrate in whispers 
+In shadows rise to surface 
+In someone's mind 
+Echoes that dwell 
+Echoes that dwell 
+Blameless sorrow 
+Hollow hush of trees 
+Roots are deeply intertwined 
+Penetrate in whispers 
+In shadows rise to surface 
+In someone's sigh 
+Segments that yell 
+Silence is crying, is crying 
+Open doors and empty glasses 
+Christmas in the Silent Forest 
+The limp ticking of the hand
+  

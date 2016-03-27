@@ -1,0 +1,891 @@
+
+ ws:start:WikiTextHeadingRule:0:&lt;h1&gt; 
+ ws:start:WikiTextHeadingRule:2:&lt;h2&gt; 
+Post mortem complete.
+ Subject is identified as Lupin III aka "Wolf".
+ Probability of error - Zero.
+ But...
+ Nobody's Perfect...
+
+Zenigata:
+The coroner's report came over the Telex from Transylvania. They'd performed an autopsy on the prisoner they'd hanged–fingerprints, dental records, the whole ball of wax. The report left no doubt whatsoever that the dead man was the real Lupin III.
+But I wasn't buying it, not until I had seen his cold, stiff body with my own eyes.
+
+
+
+Zenigata:
+Who do you think you are, Count Dracula?
+Well, I read the book, and Dracula gets his in the end, just like you're gonna get yours! Here! Let me treat you to a nice stake dinner!
+MA!
+
+Lupin:
+Why, Detective Zenigata! Long time, no see, Old Man.
+
+Zenigata:
+Lupin! You're dead! Wait a second, that stiff in the coffin–that was you, right?
+
+Lupin:
+So they say. I'm a little confused myself.
+
+Zenigata:
+They guaranteed that you were deader than a doornail! There wasn't a shadow of a doubt!
+
+Lupin:
+It's news to me. Frankly, I've never felt better in my life.
+
+Zenigata:
+Well, just hold still a second and we can fix that!
+
+Lupin:
+Hate to cut this short, but dead or alive, I think it's time I got out of here.
+Now don't forget to write!
+
+Zenigata:
+You little...! I'll be writing "REST IN PEACE" on your tombstone when I'm done with you! That lousy little thief, I knew he was still alive!
+You had everyone else falling for it! Not Zenigata! This is one detective you can't shake that easily! This is one guy who will dog your every step to the very gates of Hell!
+
+ ws:start:WikiTextHeadingRule:4:&lt;h2&gt; 
+Egyptian police chief:
+I still don't understand–what makes you think he's coming here to Egypt?
+
+Zenigata:
+It's a long and complicated story. First, he stole an ancient and rare elixir from a museum in Peking, China. Then this mandrake root from a castle in Transylvania.
+
+Egyptian police chief:
+And now you believe he's headed for the Great Pyramid, eh? Pardon me, Detective, but I don't see a connection here.
+
+Zenigata:
+I told you it was complicated! Trust me, I'm never wrong about him. I know he'll be there.
+
+
+
+Zenigata:
+Anything?
+
+Egyptian officer:
+No movement at all, sir.
+
+Egyptian police chief:
+You couldn't ask for any tighter security than this. I only hope it's worth our while.
+
+Zenigata:
+Hey! Cut me some slack here, will you? I'm telling you, Lupin's going after something in the Pharaoh's tomb! I don't know what it is, but it's no ordinary treasure–huh?
+There, that's gotta be him! He's tripped the alarm!
+
+Egyptian officer:
+It might be just a mouse.
+
+
+
+Lupin:
+Uh, did we touch it?
+
+Jigen:
+'Fraid so. We'd better hurry.
+
+Lupin:
+You know you can't just hurry through a setup like this.
+Give me 80 centimeters.
+
+Jigen:
+Right.
+Lupin?
+
+Lupin:
+What now?
+
+Jigen:
+So who was that guy they hanged in Transylvania anyway?
+
+Lupin:
+Well, it was me. That's what all the evidence says–my DNA, my fingerprints, everything.
+
+Jigen:
+I hate hearing weird stuff like that.
+
+Lupin:
+You and me both. It's enough to shake you guys' confidence. At the rate we're going, I'm starting to wonder if he was the real Lupin.
+
+Jigen:
+Now you tell me.
+
+
+
+Zenigata:
+All right, the first unit takes the north passage! The rest of you take the south portal in case he tries to make a run for it!
+
+Egyptian police chief:
+Not so fast, Detective Zenigata! Who put you in command?
+
+Zenigata:
+Stay out of my way! I've got a job to do here!
+Lupin's in there, I can smell him! Forward, men! Charge! Go! Go! Go!
+
+
+
+Jigen:
+That's it?
+
+Lupin:
+Yup.
+
+Jigen:
+Ah! Now what?
+
+Lupin:
+This way! This way!
+
+Jigen:
+Which way?
+
+Lupin:
+No, no, no! That way!
+
+Jigen:
+Ah, make up your mind!
+
+Zenigata:
+Give it up, Lupin! We've got the whole pyramid surrounded!
+Go that way! Seal the exits! Hop to it!
+Hit those lights!
+
+Egyptian police chief:
+Well, seems you were right after all.
+
+Zenigata:
+Hey, what's with all the guns?
+
+Egyptian police chief:
+What do you mean?
+
+Zenigata:
+Listen, I want this little rat taken alive! No shooting, is that understood?
+
+Egyptian police chief:
+Is that so?
+I do not take orders...!
+Who do you think you are?
+
+Egyptian officer:
+He's coming!
+
+Egyptian police chief:
+What are you waiting for, you sons of goats? Fire!
+
+Zenigata:
+Not so fast; we got him where we want him! There's no way down from there!
+
+Lupin:
+Too bad. I thought we've seen the last of that mangy fedora of yours.
+
+Jigen:
+What are you talking about? It's my trademark, kind of like you and your bad haircut!
+
+
+
+Lupin:
+What the...? Goemon!
+
+Goemon:
+I suggest we hurry.
+
+Lupin:
+Oh, I see your point.
+
+Zenigata:
+There's no way out, wise guy! You're surrounded!
+Hey...!
+Oh no, here we go again!
+
+Lupin:
+Take it easy! You don't want a sunstroke, Detective! Not at your age!
+
+Zenigata:
+What the–oh!
+
+Lupin:
+Well, looks like you found some shade.
+Catch you later!
+
+Zenigata:
+Lupin! You dirty rat!
+I know I've said this before, but don't think you've seen the last of me! Wherever you go, I'll track you down, and when I do, it ain't gonna be pretty!
+
+ ws:start:WikiTextHeadingRule:6:&lt;h2&gt; 
+Mamo:
+Fujiko. Fujiko. Wake up, my lovely.
+He's pulled it off.
+
+Fujiko:
+Already? Aww...
+
+Mamo:
+Afraid so, my dear.
+
+
+
+Mamo:
+So beautiful. An ancient goddess of love made flesh and blood.
+
+Fujiko:
+Well, a girl's got to flaunt it while she's got it.
+
+Mamo:
+No need to worry. You will never grow old, Fujiko. I won't let that happen.
+
+Fujiko:
+Terrific. One question: who exactly are you, anyway? Having a palace like this always ready for me to use, you must be richer than God.
+
+Mamo:
+Ah, don't be so impatient, Fujiko. We will meet soon enough, when your job is done.
+
+Fujiko:
+Hmm. OK, no problem. It's not like Mr. Peepers is the first weird client I ever had.
+
+
+
+Goemon:
+Is she here?
+
+Jigen:
+And how.
+
+
+
+Lupin:
+Ahem. My love is like a red, red rose.
+
+Fujiko:
+Lupin.
+
+Lupin:
+A rose is a rose, by any other name, would smell as sweet.
+
+Fujiko:
+What is this, English Lit 101?
+
+Lupin:
+How like a rose thou art. Oh, your beauty dazzles my eyes. Your thorns pierce my heart.
+And that stuff didn't come out of any book, by the way. I made that part up all by myself.
+
+Fujiko:
+Don't give up your day job, OK? Shouldn't we get down to business?
+
+Lupin:
+I long to undress thee, Fujiko, petal by petal.
+
+Fujiko:
+Great. Now he's getting obscene.
+
+Lupin:
+I long to plant thee in my garden of love, water thee with my tears, and fertilize thee with my kisses, Fujiko.
+
+Fujiko:
+Enough with the fertilizer, Lupin. Get that bud out of my face before I plant it.
+
+Lupin:
+So typical of the materialistic modern woman. All they want is expensive jewelry.
+
+Fujiko:
+All I want is what we agreed to.
+What are you babbling about? Did you find the gemstone?
+
+Lupin:
+Does Santa Claus wear a red suit?
+
+Fujiko:
+That's it, all right. Hand it over!
+
+Lupin:
+Fujiko! You cut to the quick. I can't believe how unromantic you are! I mean, I risked my life to bring you this bauble, not to mention expenses! And what do I get in return for all my toil and trouble? "Hand it over!" Tell me, who's the pebble for, anyway? I assume you're acting for someone else, right? So don't tell me. It doesn't really matter. The fact remains that your part of the bargain was to go on a date with me, remember?
+
+Fujiko:
+How could I forget? You silly, aren't you just every girl's dream date? Just let me freshen up a bit, and we can go.
+
+Lupin:
+Why do you waste your time putting on that stuff, Fujiko? Frankly, you already look good enough to eat, and I'm ravenous!
+
+Fujiko:
+I want to look my best. It's the least I can do for you.
+
+Lupin:
+Fujiko, what did you just do?
+
+Fujiko:
+Don't worry. It'll wear off.
+Thanks for the jewel!
+
+Lupin:
+Hey, wait! What about our date? Hey! Hey! Ah!
+
+
+
+Lupin:
+You know, deep down I really think that woman's crazy about me.
+
+Jigen:
+Yeah, I'm sure that's why she double-crossed you. Good thing we double-crossed her first.
+
+Goemon:
+Lupin, the road to Hell is paved with pretty women.
+
+Lupin:
+What's the matter with you, Goemon? Did your mother drop you when you were a baby or something?
+
+Jigen:
+Shut up. I'm trying to pick up the transmitter's signal.
+
+
+
+Mamo:
+You did well, Fujiko.
+
+Fujiko:
+What did you expect? Besides, playing Lupin for a fool is like stealing pencils from the blind. Only, you don't feel so bad about it afterwards. Now come on, show yourself. You promised.
+
+Mamo:
+First, we must examine the merchandise. Kindly hand it over to Mr. Flinch.
+
+Fujiko:
+I hate when you do that!
+
+Mamo:
+The final piece of the puzzle! The secret that has baffled mankind for centuries! Revealed at last!
+
+Fujiko:
+You up there, show yourself. Who are you?
+
+Lupin:
+Turn it up, I want to hear this!
+
+Mamo:
+I am called...
+But wait! This is not right!
+Who has played who for a fool, Fujiko? You have proven to be a disappointment, my dear. And Mamo does not handle disappointments very well.
+
+Fujiko:
+Mamo?
+
+ ws:start:WikiTextHeadingRule:8:&lt;h2&gt; 
+Lupin:
+According to ancient Egyptian texts, the Pharaohs believed that the secret of Eternal Youth was contained in the legendary Philosopher's Stone, a jewel for which men have searched since time immemorial.
+
+Jigen:
+Heh. If you buy that, I've got some Siberian beachfront property on sale.
+
+Lupin:
+I know it's nuts, but someone believes it. That's why Fujiko wanted it so bad.
+Here. Take a look. It's all there.
+
+Goemon:
+The woman is pulling your leg, Lupin.
+
+Jigen:
+He'd rather she pull something else.
+
+Goemon:
+This is pointless. We watch sparrows while eagles pass overhead.
+
+Lupin:
+Come again?
+
+Goemon:
+This business is unworthy of me.
+
+Lupin:
+Hey, come on!
+
+Jigen:
+What the hell!?
+
+Lupin:
+Hurry up!
+
+Jigen:
+It would appear to me whoever's looking for that jewel's a little upset about us giving him a phony.
+
+Lupin:
+Yeah! I get that feeling!
+
+Jigen:
+Ever thought of driving something less conspicuous?
+
+Lupin:
+Don't blame the car; they're following that hat of yours!
+
+
+
+Lupin:
+Huh? Goemon! I knew you couldn't stay away!
+
+Goemon:
+Once again, I defile my blade on an unworthy object.
+
+
+
+Jigen:
+At least we're alive.
+
+Lupin:
+No thanks to you!
+
+Fujiko:
+Lupin, the man you're up against is extremely powerful! Hand over the stone and get out before it's too late!
+AAAAH!
+
+Lupin:
+Thanks for the lift. Now see you!
+
+Fujiko:
+What do you think you're doing!?
+
+Lupin:
+Well, we're swapping cars. Feel free to use mine. It's a classic. Ciao!
+
+Fujiko:
+Damn! Stop, you lousy thief!
+
+
+
+Jigen:
+That was dumb! Why didn't you bring her along? We could've made her talk!
+
+Lupin:
+I just didn't want her getting in the way.
+
+Goemon:
+Oh, really? That's a very unusual sentiment coming from you.
+
+Lupin:
+Things are going to be getting pretty dicey in a minute. Look behind us!
+
+Zenigata:
+Idiot! Can't you make this damn jalopy go any faster?
+Hey! Listen up, Lupin! You can make this easy, or we can play it the hard way! Why not save us both a lot of trouble and give it up now?
+
+Jigen:
+Give up? He's got to be crazy!
+
+Lupin:
+You're right. Besides, my family would never live down the shame.
+Watch; this time I'm going to shake him, once and for all!
+
+Jigen:
+How many times have I heard that?
+Uh-oh...
+
+Zenigata:
+Reinforcements! Terrific! I mean, that big 16-wheeler barreling down on top of us is one of your guys, right?
+I know I'm just a visitor here, but don't we have the right of way?
+What am I laughing about?
+
+Jigen:
+Yikes!
+
+Lupin:
+Sheesh!
+Jigen.
+
+Jigen:
+Yeah?
+
+Lupin:
+Those will kill you.
+
+Jigen:
+Want a drag?
+
+Lupin:
+Thanks!
+
+Jigen:
+Hey! What the hell are you doing?
+
+Lupin:
+You'll see!
+
+Jigen:
+Now that's what I call a big truck!
+These guys are sure persistent.
+
+Lupin:
+We just have to reach our hideout on foot. It's only 20 kilometers from here.
+
+
+
+Mamo:
+So they got away again? How typical. Don't waste any more time. Proceed to their hideout and destroy it. Then return here at once.
+
+ ws:start:WikiTextHeadingRule:10:&lt;h2&gt; 
+Jigen:
+No weapons, no food, no nothing. They must've got here first.
+
+Lupin:
+No kidding. So you don't think it was termites?
+
+Jigen:
+Look, it's obvious what happened. We know who must've told them about this place: a certain redhead with a motorcycle and a skintight black leather jumpsuit on. She's nothing but bad luck! Either you dump her, or you can count me out!
+
+Lupin:
+Will you give it a rest?
+
+Goemon:
+It is you who should give it a rest, Lupin. This infantile need to prove your virility is humiliating to behold, and dangerous. Your lust for this creature has blinded you to her true nature.
+
+Lupin:
+You're jealous, both of you!
+
+Goemon:
+I warn you: abandon these indecent cravings for the sake of your soul!
+
+Jigen:
+Save it. You'll never change him by preaching at him, Goemon.
+
+Goemon:
+And you. What kind of friend are you, Jigen? You just encourage him. You treat it as some kind of joke. You're worse than he is.
+
+Jigen:
+Hey, I don't have to listen to this!
+
+Goemon:
+Be careful I don't sink my blade into that hat of yours.
+
+Jigen:
+Yeah? You just try it.
+
+Goemon:
+On second thought, I'd probably hit solid rock.
+
+Jigen:
+That does it!
+
+Lupin:
+Hey now, hold on! Calm down!
+You're right, you're right! Fujiko is history, OK? I'll drop her, I swear. And that's a fact! No more women, OK? So let's head for the coast.
+Unless you'd rather stay here and starve to death!
+
+Jigen:
+No, but how are we going to get there? Huh?
+Lupin, the coast is 100 kilometers from here!
+
+Lupin:
+A couple of inches on the map, that's all! How long can that take us?
+
+
+
+Lupin:
+You taking a side trip to China?
+
+Jigen:
+Water! Water!
+Dammit!
+
+Lupin:
+This way, fellas!
+
+Jigen:
+You OK?
+
+Goemon:
+What WAS that?
+
+Lupin:
+I'm hoping it's just a natural phenomenon, or else the guys we're up against are scarier than we thought.
+
+
+
+Lupin:
+Up there. What is it? A mirage?
+
+Jigen:
+If it is for real, they've probably cleaned the place out.
+
+Lupin:
+Enough canned food for a feast!
+
+Jigen:
+And look at all this soda water!
+Boy, that feels great! Somebody up there sure must like us! What do you say?
+
+Lupin:
+Hey!
+
+Goemon:
+But are we worthy?
+
+Fujiko:
+Lupin!
+Lupin...
+
+Lupin:
+Fujiko, what happened to you? You look terrible!
+
+Fujiko:
+I failed him, so he threw me out.
+
+Lupin:
+Who? Who did this to you?
+
+Fujiko:
+I don't know who he is exactly. He calls himself MAMO, whatever that means. He's a monster, Lupin!
+
+Lupin:
+And he gets it free? Why, I have to pay for things like that!
+
+Fujiko:
+I don't care about the Stone anymore! Just help me!
+
+Lupin:
+It's all right. Don't worry, you're in safe hands.
+
+Jigen:
+Hey, loverboy! I thought you were through with her?
+
+Goemon:
+"No more women", or so you said.
+
+Lupin:
+Wait a minute, this is different! She's a lady in distress! I can't just leave her here–!
+
+Jigen:
+You promised, remember?
+
+Lupin:
+Aw, come on, fellas!
+
+Goemon:
+You have chosen your path. I will travel with you no longer.
+
+Jigen:
+He means it! You just gonna let him walk away like that? Well, are you?
+
+Lupin:
+Ah, why shouldn't I?
+
+Jigen:
+Lupin...!
+
+Lupin:
+Come to think of it, you're starting to get on my nerves a little bit too, Jigen. So go on! Go on, the two of you! Who needs you anyway?
+Ah, it looks like you're already packed.
+
+Jigen:
+Why, you...!
+
+Lupin:
+Ah, you guys are no fun anyway, always cramping my style! You're always such idealistic crooks! Hey, why don't you shave your heads and become a couple of monks, huh? Then you can spend the rest of your lives making wine and chasing altar boys!
+
+
+
+Fujiko:
+You must be starving. Open up. Come on.
+
+Lupin:
+What's wrong with you? Get out of here with that stuff! Haven't you done enough damage without scalding me too?
+
+Fujiko:
+I was just trying to do something nice. How long has it been since we've been alone like this with nobody else around?
+
+Lupin:
+A long time. Hey, but it's not my fault; those guys have been stuck to me like a couple of cheap suits! You know that!
+
+Fujiko:
+And now, it's just you and me.
+
+Lupin:
+Right! Let's make up for lost time!
+
+Fujiko:
+You're disgusting!
+
+Lupin:
+You're right. That was terrible.
+You know I love you. There never has been and there never will be anybody else but you.
+
+Fujiko:
+You mean it, Lupin?
+
+
+
+Lupin:
+Ah, this is great! Just terrific! Acting like it's all my fault! Excuse me, lady, but you were the one who started it! "Ah, at last, we're all alone together, just you and me." What was I supposed to think? You wanted to play Chinese checkers?
+Finished dinner… now I could use a little strawberry tart for dessert!
+
+Fujiko:
+Lupin! Lupin! Oh, I hope I didn't give him too much!
+Boy, these drops work even faster than I thought. He'll never trust my cooking again.
+
+Mamo:
+Fujiko, my lovely, done so soon?
+
+
+
+Jigen:
+Dammit, I can't just walk away and let that dame make a sucker out of him!
+
+
+
+Fujiko:
+Be careful with him, Flinch. He's not to be hurt. That was part of the bargain.
+Huh? Ugh!
+
+Jigen:
+Huh? Oh, no!
+
+ ws:start:WikiTextHeadingRule:12:&lt;h2&gt; 
+Gordon:
+Subject entered Madrid this morning. Destination and purpose unknown. Subject proceeded to the Playa del Sol. No sign he's aware of our surveillance, and for 45 minutes, no movement at all! At 1400, subject proceeded to the marketplace. We decided to move in.
+Huh? What the…?
+
+Jigen:
+Sorry. I don't mean to be rude, but I got this thing about being followed.
+
+Gordon:
+I'm Special Agent Gordon, and I'm warning you, Jigen, take it easy. You're in way over your head.
+
+Jigen:
+Really? You don't say!
+Ah… on the other hand…
+
+Gordon:
+Yeah. People are waiting. We don't want to be late.
+
+
+
+Jigen:
+All this just to bag the two of us? Boy, with the Cold War over, things must be pretty slow.
+
+Goemon:
+We can thank Lupin for getting us into this.
+
+Jigen:
+Life would sure be dull without him, wouldn't it?
+
+Gordon:
+Stand up! You're in the presence of a very important government official!
+
+Goemon:
+I stand for no one.
+
+Jigen:
+Me neither, not even for Heinrich Gissinger, Special Adviser to, and the brains behind, the President of the United States.
+
+Boris Yeltsin:
+Mr. President, my country's being blackmailed. I hope your government is not at fault.
+
+Bill Clinton:
+Now, calm down, Boris. That's ridiculous.
+
+Boris Yeltsin:
+Whoever it is demands that we hand over all of our secret scientific data on cryogenics and gene splicing. If we do not, he threatens to attack us with nuclear warheads!
+
+Bill Clinton:
+Well, he’s not one of ours. We’ve been threatened the same way. In fact, he’s already knocked out two of our communication satellites!
+
+Boris Yeltsin:
+You do not think that we...?
+
+Bill Clinton:
+No, no. The Cold War’s over, after all… isn’t it, Boris?
+
+Boris Yeltsin:
+Oh! Why, yes, of course! But then, who is this madman?
+
+Mamo:
+If I may, gentlemen... I am Mamo.
+
+Gissinger:
+The first two voices will remain unidentified. They are of no concern. What we want is the identity of the man who broke in on their top-secret conversation… this blackmailer who calls himself “Mamo”.
+
+Mamo:
+That’s right, Mamo. Some have called me a prophet; others, a God.
+
+Boris Yeltsin:
+That is lunacy!
+
+Bill Clinton:
+That’s an understatement. You can’t believe that we’ll go along with this.
+
+Mamo:
+You have no choice! I know every more you make before you know it yourselves. Why, I even know about that little floozy you keep in the steno pool, Mr. President. How would you like the world to find out about her?
+
+Bill Clinton:
+Oh! How dare you!?
+
+Boris Yeltsin:
+Floozy? What IS this floozy?
+
+Jigen:
+Ah, just when it was getting good!
+
+Gissinger:
+The rest of it is immaterial. All that matters is that we have every reason to believe that this Mamo character is quite serious in his intentions.
+
+Jigen:
+No kidding. You haven't said what any of this has to do with us.
+
+Gissinger:
+Don't be silly. We know your friend Lupin stole some objects at this fellow's request and that you were with him when he did.
+Now then, tell me everything you know about this Mamo person!
+
+Jigen:
+Hey, you guys know more about him than I do.
+
+Gordon:
+Well, OK, stop playing games, you lousy beatnik! We know you're in this with Lupin up to your neck, so start coming clean!
+Hmm? What the hell's this?
+
+Jigen:
+It's a clue, Sherlock. His double-crossing girlfriend wrote it and dropped it out of a plane. It says WATER.
+
+Gordon:
+Yeah, I can read.
+
+Jigen:
+I'm impressed. You're clearly overqualified for your job. Next, they'll be hiring guys who can think.
+
+Gordon:
+Dammit…! UGH! Listen! We have ways of getting you to talk!
+
+Jigen:
+Is this the way the U.S. Government treats folks? Well, I've got news for you, Charlie!
+
+Gordon:
+Huh? What's that?
+
+Jigen:
+I've always believed in my patriotic duty to buy U.S. savings bonds, but I never will again!
+
+Gordon:
+You pencil-necked little PISSHEAD!
+
+Gissinger:
+Gordon! It is obvious that these two know nothing.
+It appears we shall have to approach this problem from a different angle. In the meantime, gentlemen, you are both free to go.
+
+Gordon:
+You two clowns better watch your step!
+
+Jigen:
+Yeah, right back at you, ya big ape!
+
+Goemon:
+Wait… what did the message say? WATER?
+
+Jigen:
+Wouldn't you know it? There's something written in invisible ink.
+
+Goemon:
+There, look! Carib… Carib… the Caribbean!
+
+ ws:start:WikiTextHeadingRule:14:&lt;h2&gt; 
+
+ ws:start:WikiTextHeadingRule:16:&lt;h2&gt; 
+
+ ws:start:WikiTextHeadingRule:18:&lt;h2&gt; 
+
+ ws:start:WikiTextHeadingRule:20:&lt;h2&gt; 
+
+ ws:start:WikiTextHeadingRule:22:&lt;h2&gt; 
+
+ ws:start:WikiTextHeadingRule:24:&lt;h2&gt; 

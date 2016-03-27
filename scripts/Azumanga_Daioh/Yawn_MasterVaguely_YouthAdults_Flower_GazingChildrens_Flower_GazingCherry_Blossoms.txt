@@ -1,0 +1,876 @@
+
+ ws:start:WikiTextHeadingRule:0:&lt;h1&gt; 
+ Nyamo:
+Oh, Mom...
+Mm-hm, I saw the photo.
+Yes, I'm sure it's a good match for an arranged marriage, it's too soon to be looking at that.
+Honestly, how old do you think I am?
+
+Nyamo's Mom:
+What are you saying, Minamo?
+It's not as if you're gonna be young forever.
+And it's not often that you come across matches as nice as this one.
+
+Nyamo:
+Yeah... Yeah.
+All right, Mom, but just a meeting.
+Sure.
+I'll give them a call as soon as I get a chance, okay?
+Right, bye.
+
+Nyamo:
+All right!
+
+Nyamo:
+It's not as if I'll be young forever...
+Oh, what am I saying?
+I'm still young, you know!
+Oh, yes, yes! Going!
+
+
+Tomo:
+Oh, man, I can't believe how sleepy I was!
+
+Yomi:
+Or rather, you were completely asleep!
+Well, it can't be helped with this kind of weather.
+
+Osaka:
+For real, the weather sure is nice today, huh?
+
+Chiyo:
+It sure is.
+
+Osaka:
+Just sittin' out here in the warm sunlight, it feels like I'm all bundled up tight in a nice, fluffy blanket.
+Uah!
+Huh?
+
+Yomi:
+Well, it was... such a magnificent yawn, I couldn't take my eyes off it.
+
+Chiyo:
+Uh-huh.
+
+Tomo:
+So, so, so, <French>tres bien<French>!
+Amazing!
+It was the very picture of a yawn!
+I've never seen a yawn quite like that!
+
+Chiyo:
+Really? Never?
+
+Tomo:
+Yeah!
+It's like a woman who's come from the land of yawns to spread yawning all around the world!
+Hey, yawn master!
+
+Osaka:
+Huh?
+
+Yomi:
+I don't think you need to go that far.
+
+Tomo:
+Very stately.
+I guess that proves everybody has at least one redeeming trait.
+Now, I charge you to instruct me in the ways of yawning here in the yawn training hall!
+
+Osaka:
+All right, then.
+
+Yomi:
+Come on, now.
+
+Osaka, Tomo:
+Uah...
+
+Tomo:
+No, that wasn't quite the same somehow.
+
+Osaka:
+Yeah, you're right.
+
+Chiyo:
+Please let me join in your training!
+
+Chiyo, Osaka, Tomo:
+Uah...
+
+Yomi:
+Well, I'm heading back to the classroom.
+
+Sakaki:
+Yeah, so am I.
+
+Chiyo, Osaka, Tomo:
+Uah...
+
+
+ ws:start:WikiTextHeadingRule:2:&lt;h1&gt; 
+ Tomo:
+Shoot! Afternoon classes started already!
+
+Chiyo:
+Oh, it's your fault, Tomo!
+
+Osaka:
+Wait for me!
+
+Nyamo:
+You were sleeping on the roof?!
+Why's that?!
+
+Tomo:
+Well, um, because the sky was just so blue, or something?
+
+Nyamo:
+You three to ten laps around the schoolyard!
+
+Nyamo:
+Honestly, I can't believe those girls!
+Entrance exams are next year!
+
+Yukari:
+What's wrong?
+Why are you so irritated?
+
+Nyamo:
+It's nothing.
+Some girls from your class were apparently practicing yawning during lunch, and somehow all fell asleep on the roof.
+
+Yukari:
+What do you mean, practicing yawning?
+
+Nyamo:
+No idea!
+
+Yukari:
+I don't get it, but I don't see what's wrong with it either.
+Taking it easy is the privileges of adolescence.
+
+Nyamo:
+Privilege, really?
+But don't you think you can still only take that privilege so far?
+
+Yukari:
+I never mind that.
+You wanna go flower gazing?
+
+Nyamo:
+Huh? Flower gazing?
+
+
+Boy:
+Hey, wait for me!
+
+
+Tomo:
+That's when I realized I had put hashed beef on my plate instead of curry!
+
+Yomi:
+So, you're saying you can't even tell hashed beef and curry apart?
+
+Osaka:
+Oh, sometimes, I can't tell 'em apart even after I'm gone and taking a big bite.
+
+Chiyo:
+What?!
+
+Tomo:
+That's having way too little sense of taste.
+
+Yomi:
+Like you're one to talk!
+
+
+Boy:
+Hey, we get ready to head out here, so... um...
+
+Girl:
+When you leave, make sure to turn all the lights out.
+
+Tomo:
+Roger that!
+
+Yomi:
+I didn't know it was this late already.
+
+Chiyo:
+It's starting to get dark outside.
+
+Osaka:
+You're right.
+
+Yomi:
+Shall we go home?
+
+
+Chiyo:
+Oh.
+
+Chiyo:
+Miss Kagura, isn't it?
+
+Yomi:
+Huh.
+
+Tomo:
+Makes you feel we're full of youthful energy, huh.
+
+Yomi:
+Basic strength training?
+
+Tomo:
+Yeah, so is that for the swim team?
+
+Kagura:
+Yeah, it's because I wanna make it all the way to the national level this year.
+You could say I'm kinda gunning for it.
+
+Osaka:
+That's amazin'.
+
+Yomi:
+That's funny.
+I always thought the swim team was on break except during the summer time.
+
+Kagura:
+You dummy!
+Don't be thinking we're the same as you people in the Go-home Club!
+
+Chiyo:
+Go-home Club?
+What kind of club is that, Miss Kagura?
+
+Yomi:
+Oh, it's the students who don't join any clubs and go home when classes are over.
+In other words, people like us.
+
+Kagura:
+So, tell me, then what were you guys sticking around this late at school for?
+
+Tomo:
+Uh, because she said there were some book she had to check out
+
+Chiyo:
+And all of us went up to the library together.
+
+Yomi:
+But it was more like we were just sitting around and chatting there.
+
+Kagura:
+You're lucky.
+You guys have sort of freedom about you.
+
+Sakaki:
+Freedom?
+
+Tomo:
+We're barely passing and you think we have freedom, do you?
+The only part of freedom we have is a dumb part!
+
+Chiyo:
+That was there, Tomo...
+
+Tomo:
+Hey, you guys, was it really that unfunny?!
+Hey! Hey, come on!
+
+
+ ws:start:WikiTextHeadingRule:4:&lt;h1&gt; 
+ Yukari:
+Whoa, this place is nice.
+
+Nyamo:
+You know I would've dressed more properly if I'd known it was gonna be this kind of place.
+You said we were going flower gazing.
+
+Yukari:
+That's right.
+I said we were going out to a hotel bar?
+
+Nyamo:
+That's news to me!
+
+Yukari:
+Well, it doesn't matter.
+
+Nyamo:
+Hey, wait!
+
+Nyamo:
+Wow, Eiko, a section chief?
+I really have no idea how big companies work, but isn't that a pretty big deal?
+
+Eiko:
+Maybe, it seems I've gotten more work.
+But the natural of it hasn't really changed too much.
+You lecture your subordinates and get lectured by your supervisor.
+Well, my work does directly affects the results of operations, so in that sense, it's work worth doing.
+
+Nyamo:
+That's amazing!
+You seem so grown up, Eiko!
+
+Eiko:
+What are you saying?
+You two are grownups too.
+
+Nyamo:
+Well, that's... that's true, but...
+
+Yukari:
+That's right!
+We also have incredibly important demanding jobs, educating and shaping the minds of the promising youth of tomorrow!
+We're totally grownup!
+Hahaha...
+
+Eiko:
+Say, Minamo, you're a P.E. teacher, right?
+Thought about switching jobs?
+
+Nyamo:
+Huh?
+
+Eiko:
+A sports gym affiliated with our company is looking for a chief instructor.
+Naturally, you'd be treated as a full-time employee.
+The place is high-class, so you'd easily double your salary.
+
+Nyamo:
+A new job?
+
+Eiko:
+Come on, don't act so shocked, Minamo.
+I'm just saying, if you ever feel like it, okay?
+
+Nyamo:
+I'm really sorry.
+You brought it up so suddenly, it just caught me off guard.
+
+Eiko:
+Will you consider it?
+
+Nyamo:
+No, I'm not switching jobs for anything, because to be honest, I love my current job.
+Although...
+
+Eiko:
+Although?
+
+Nyamo:
+It never even occurred to me to think about changing my job...
+
+Yukari:
+No way! Stop it, Eiko!
+Without Nyamo, I'd have to go through unavailable pain of walking to school on my own two feet!
+
+Eiko:
+What's that mean?
+
+
+Chiyo:
+Oh, my eraser...
+All right, Mother and Father said they were going to be out of the house tonight.
+
+What do I do now?
+
+Kagura:
+Hey.
+
+Chiyo:
+Oh, no, please spare me! No! No! I'm so sorry! I'm so sorry!
+Please just help me out!.....
+
+Kagura:
+Calm down. Calm down!
+
+What are you... doing out here so late, Chiyo?
+
+Chiyo:
+I ran out of convenience stores, uh, so I trip to the eraser...
+
+Kagura:
+Going to the store to buy an eraser, huh?
+
+Chiyo:
+Uh-huh.
+This is the first time I've ever gone out this late at night by myself.
+
+Kagura:
+You better be careful. I've heard... they show up.
+
+Chiyo:
+Uh...?
+
+Who is it?
+Who shows up?
+
+Kagura:
+These guys.
+
+
+Eiko:
+Oh, hi!
+Yeah, I'm out drinking right now.
+Hold on a minute.
+
+If I may ask, do the two of you have anyone special right now?
+
+Yukari:
+No, no, nope!
+You won't be hearing any recent scandalous stories from us.
+There's absolutely nothing to tell.
+
+Eiko:
+Okay! We've got the right number!
+Hurry on over.
+
+Yukari:
+What was that?
+
+Eiko:
+Actually, I told the couple of the boys at work about you two.
+They're on their way.
+Both of them are pretty nice guys.
+
+ ws:start:WikiTextHeadingRule:6:&lt;h1&gt; 
+ Man:
+Thank you very much.
+
+Chiyo:
+This is like going flower gazing.
+
+Kagura:
+By the way, thanks for treating me, Chiyo-chan.
+
+Chiyo:
+No thank you.
+You walked me to the convenience store, it's the least I could do.
+
+Kagura:
+Well, I couldn't just leave you alone after you looked at me like that.
+
+Chiyo:
+Going to the convenience store at night is so fun.
+I guess once you're grownup, you can even shop in the middle of the night if you feel like.
+Must be nice. I can't wait when I'm all grown up.
+
+Kagura:
+So, that's it.
+Can't wait till you grow up, huh?
+
+Chiyo:
+And don't you wish you could, Miss Kagura?
+
+Kagura:
+Well, I guess I'd never really thought about it all that much.
+I mean, thinking about me going to work and getting married...
+I can't imagine it, not yet anyway.
+
+Chiyo:
+Going off to work somewhere and getting married...
+Yeah, you're right.
+That would be a little bit hard to imagine.
+
+Kagura:
+Yeah, well, in your case, you're still pretty little, so it's really not all that surprising.
+
+Chiyo:
+Oh, you think so?
+
+Kagura:
+Uh-huh.
+
+Chiyo:
+But I still can't wait for the day when I'm finally all grown up!
+
+
+Nakku:
+Hey, good evening! I'm Nakku, aka Nakuro Tanaka!
+
+Mitchy:
+I'm Mitchy, aka Michiru Ogino!
+
+Nakku:
+This is Nakku...
+
+Mitchy:
+And Mitchy's...
+
+Nakku, Mitchy:
+Thrilling Main Street of Youth!
+
+
+Nakku:
+Say, Mitchy, did you see the cherry blossoms in this town?
+They're blooming really early this year.
+
+Mitchy:
+Yes, I saw!
+The cherry trees in the park near the studio are totally in full bloom!
+
+Nakku:
+I'll bet people who were planning on going flower gazing next week or the week after are pretty disappointed.
+
+
+Tomo:
+Yo.
+
+Yomi:
+Oh, it's you.
+
+Tomo:
+Yeah.
+
+Nakku:
+Hey, if you don't change your plans and go soon, it'll be gone and we'll get there.
+
+Mitchy:
+xxxx any. Cherry blossoms scatter, you know?
+I love cherry blossoms, but I don't like watching them scatter.
+
+Nakku?
+Oh, yeah, what's that?
+
+Yomi:
+I won't be chatting.
+
+Tomo:
+Hey, it's cool with me.
+
+Mitchy:
+It's sad watching something so beautiful scatter.
+That's why I don't really like flower gazing that much.
+
+Nakku:
+Well, I can understand how you feel,
+but I think maybe the beauty of flowers strike people's hearts
+because they blossom so brilliantly,
+then scatter just as quickly, you know.
+
+Tomo:
+Hey, wasn't that a good yawn just now?
+
+Yomi:
+You're still doing that?
+
+
+Nyamo:
+Honestly!
+Those men took off because you had to go and say that.
+You just had to open your big mouth!
+
+Yukari:
+Okay, it was my mistake.
+I thought it'd be pretty funny.
+But I guess I was wrong, huh.
+
+Nyamo:
+Your attitude hasn't changed in the least since our college days.
+
+Yukari:
+Oh, who cares if those silly guys don't like us, then too bad for them, you know?
+
+Nyamo:
+Funny that you're calling them silly now?
+Oh, back there, you seemed to like them quite a bit.
+
+Yukari:
+Oh! Is that it, Nyamo?!
+You wanted to catch guys that badly?!
+
+Nyamo:
+Well! Would it be that wrong if I had?!
+
+Yukari:
+Oh, so I see then, well, excuse me!
+I'm so very, very sorry!
+
+Nyamo:
+Darn it!
+Let's go and drink another round!
+
+Yukari:
+All right, and you're buying!
+
+Nakku:
+Let's see, this one's from Rice Cake with Bean Jam Chocolate.
+That's a sweetie sounding name.
+Well, Rice Cake has requested Yu Asakawa's "My Heart Is That Of A Little Girl and I Parachute"!
+
+Mitchy:
+Oh, I love this song!
+
+Tomo:
+Come to think of it...
+
+Yomi:
+What?
+
+Tomo:
+You know how today, when Kagura was talking to us.
+She said something about us having freedom?
+I've been wondering what she meant by that?
+
+Yomi:
+Oh, that thing.
+Here's what I think, she meant that, be it club activities or studying or whatever, if you're working really hard at it, you sometimes get frantic about whether you'll accomplish your goals or not.
+
+Tomo:
+Huh.
+
+Yomi:
+There's nothing that we're working really hard at.
+So, she probably meant we have more freedom because we have nothing to be frantic about.
+But, personally, I kinda envy those people who have something they can really get into.
+
+Tomo:
+Oh, man, why didn't I join any clubs?!
+Why, Yomi?
+
+Yomi:
+It's a little late for complaints.
+
+Tomo:
+Oh, well.
+
+
+ ws:start:WikiTextHeadingRule:8:&lt;h1&gt; 
+ Chiyo:
+You run at school and run at night also?
+
+Kagura:
+No, I was just having a hard time falling asleep, so I ran to refresh myself.
+But after watching these cherry blossoms, I think I'll be able to fall asleep now.
+
+Kagura:
+Weird, isn't it?
+This is something I'm doing because I want to, and yet I still get stressed over it.
+
+Chiyo:
+I hope you go to the Nationals, Miss Kagura.
+
+Kagura:
+Huh? Yeah, thanks, Chiyo-chan.
+I'll make sure that I'll do my best.
+
+Chiyo:
+Good!
+
+
+Nakku:
+So, you see, Satchin from Saitama Prefecture, being dumped is certainly a sad thing, but you're not the only one in pain because your feelings aren't returned.
+
+Mitchy:
+Yeah, take Nakku.
+He's been dumped countless times.
+
+Nakku:
+Yup.
+I've been dumped left and right by girls since I was in school, I even ended up with the nickname, Emperor of Being Dumped, huh!
+Hey, look at what you made me say!
+
+Mitchy:
+I'm sorry.
+
+Tomo:
+This is stupid!
+I can't see why anyone would send postcards to a show like this, you know what I mean?
+
+Nakku:
+The pen name on the next postcard is...
+Oh! Tearful Little Diet Girl!
+Oh, I remember you!
+This is the girl who's been trying every sort of dieting methods under the sun, right?
+Apparently, all she does is diet.
+
+Mitchy:
+It's not nice to laugh at her, Nakku!
+It's a big problem for girls.
+
+Nakku:
+Right, right, I shouldn't be laughing about it.
+Oh, okay, let's see, the postcard says
+"Nakku, Mitchy, please hear this."
+"This time, I decided to try out the grainless diet."
+
+Mitchy:
+Wow, the grainless diet!
+
+Tomo:
+Hey, the grainless diet is the one you tried to follow though with last month and failed at!
+
+Yomi:
+Urg...
+
+Tomo:
+What's that? Don't tell me...
+Hey! A bull's-eye, right?!
+Oh, boy! How embarrassing!
+You actually send postcards to this kind of show!
+Wow, Yomi! This is just too much!
+What was that again?
+Tearful Little Diet Girl, right?! Oh, sad!
+
+Yomi:
+Shut up! Shut up!
+
+Nakku:
+"My mother made curry and rice for dinner."
+"Having rice for the first time in three days, it was just delicious."
+"It was so delicious, I ended up having seconds!"
+Hahahaha.
+"The next day, when I weighed myself,"
+"I weighed more than I had three days ago!"
+Of course!
+And that she says
+"The enemy of the grainless diet was in fact my mother's menu!"
+
+Tomo:
+Hahahaha.
+
+Yomi:
+Stop laughing!
+
+Tomo:
+But you sent it in so people would laugh, right?!
+
+Yomi:
+Your laughing in my face is pissing me off!
+
+Nakku:
+Eating curry without rice definitely sounds rough.
+I'm sorry to hear that, Tearful Little Diet Girl!
+Let us know again when you've tried another diet!
+
+Yomi:
+I will!
+
+Mitchy:
+I'll be rooting for you too!
+
+Yomi:
+I'll work hard!
+
+Tomo:
+You're an idiot!
+Really, Yomi, talking back to the radio!
+
+Yomi:
+Shut up!
+
+Tomo:
+Whoa, Tearful Little Diet Girl!
+
+Yomi:
+What's wrong with that?!
+
+Tomo:
+Nothing wrong, it's just too funny!
+
+
+Sakaki:
+Freedom...
+What does that mean?
+
+Osaka:
+It's freedom, you know...
+
+
+Nyamo:
+Eiko really seemed like she had her stuff together, you know?
+
+Yukari:
+Uh? Oh, did she now?
+
+Nyamo:
+And those men that Eiko brought along...
+I wouldn't be surprised if they thought maybe we were a little too childish.
+
+Yukari:
+You think so?
+
+Nyamo:
+I don't know.
+It's just this feeling I have.
+
+Yukari:
+It's probably your imagination.
+
+Nyamo:
+I think I might look into an arranged marriage.
+
+Yukari:
+An arranged marriage?
+
+Nyamo:
+There's been some talk of that sort.
+
+Yukari:
+If you want to, why don't you?
+It's your life.
+
+Nyamo:
+Yeah, you're right. It is my life, isn't it?
+
+Yukari:
+So, are you gonna do it or not?
+
+Nyamo:
+I don't know.
+
+
+Tomo:
+Why is it that spring always makes you so sleepy?
+
+Yomi:
+Could it be because you are always staying up so late!
+
+Nyamo:
+Come on, Osaka!
+Get it together! Really!
+Wah!
+
+Tomo:
+Wow!
+Fantastic! A fantastic yawn!
+
+Nyamo:
+Huh?
+
+
+-- Preview --
+
+Yukari:
+After all's said and done,
+I guess those guys are third years now.
+/After all is said and done = after all
+
+Nyamo:
+It's so fast.
+I get the feeling Chiyo-chan's grown quite a bit, too.
+
+Yukari:
+Hah! Time flows equally for all people.
+Ain't it great?
+
+Nyamo:
+Speaking of which, my students gave me a present for my birthday..
+
+Yukari:
+Kurosawa, what did you say?!
+
+Nyamo:
+Um, a present.
+
+Yukari:
+Eek! A present?!
+Who cares about birthdays?!
+You wanna age that badly?!
+
+Nyamo:
+I don't really understand, but things will continue next time.
+  

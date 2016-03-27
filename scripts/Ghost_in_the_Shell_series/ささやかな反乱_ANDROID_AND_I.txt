@@ -1,0 +1,320 @@
+
+SA: A Modest Rebellion; ANDROID AND I
+
+
+Motoko: Here? This is the factory that's still manufacturing those outdated androids, Chief?
+
+Aramaki: Mm-hmm.
+
+Motoko: It's smaller than I thought. Androids committing mass suicide...tell me the media's not gonna be all over this.
+
+Aramaki: Now you be quick. While I talk to the man in charge, you've got 10 minutes to survey the items that come off their production line, clear?
+
+Motoko: Roger. Tachikoma, you ready?
+
+Tachikoma: Of course! I may not look it, but I am a professional.
+
+Aramaki: I'm looking for the plant manager.
+
+Abe: Ship those to the warehouse.
+
+Aramaki: Pleased to meet you. The name's Aramaki. I'm from Public Security Section 9, here to ask you about these incidents with your androids going on the fritz all at once.
+
+Abe: I'm Abe, the plant manager. A pleasure to meet you. I apologize for all the trouble created by this. I'm eager to put it behind us.
+
+Aramaki: The same model was involved in each incident, correct?
+
+Abe: Yes, model GA07-JL. Users of that particular type nicknamed it "Jeri." They sold quite well right after they were released, but now there are only 8000 units operating in the entire country. To be honest, Jeri hasn't been our top seller for some time. All we produce for it anymore are after market repair components.
+
+Aramaki: Ishikawa!
+
+Ishikawa: I heard. I'm looking into it now.
+
+Abe: That model design has become obsolete. Besides, its movement and speech are clumsy. There’s no way to know how long we're gonna continue making parts for it.
+
+Aramaki: Can you think of a reason why the Jeri model in particular would display such behavior?
+
+Abe: It would be more difficult to not think of one. The thing is, a lot of users make inappropriate retrofits to the Jeri units that aren't in recommended standards.On the other hand, though, this makes the company executives happy because it helps product sell. Profit is the bottom line. Some of the kids here at the factory are downright scared of them. They say that Jeris have cursed their own fate and they're killing themselves because of it. If you find out what's behind all of it, I'd be grateful.
+
+Aramaki: Not to worry. Major, let's go. Thanks for your time.
+
+Motoko: I'm positive it's being caused by a type of virus. It could've been slipped in with a regular checkup program. And then it spreads like wildfire from one Jeri into another when their users connect to the internet. A time-released virus was probably planted in one of Jeris that was brought in for routine maintenance, and infiltrated the factory's program that way. Just to be on the safe side, I’ve got Ishikawa running a payload analysis.
+
+Aramaki: A crime by an ordinary user... Unrelated to the National Assembly building occurrence?
+
+Motoko: Probably. But we still need confirmation, don't we? I managed to get a list of the Jeri users.
+
+Aramaki: Check them out individually, starting with the highest priority ones. Give Batou and Pazu copies of the list.
+
+Motoko: Way ahead of you there, Chief. I'll start research on the first one now.
+
+Aramaki: Mm-hm.
+
+
+Motoko: Tachikoma, return to base and stand by for further orders. Sorry, doesn't look like we'll need you this time around.
+
+Tachikoma: M-Major, from what I understand, when somebody house-sits, they're entitled to a souvenir from the people who went on the trip, right?
+
+Motoko: Tell you what. As a souvenir, how about stories of my adventures? I'll tell you so many you'll never wanna hear another.
+
+Tachikoma: Adventures? Yay! Whoo hoo! Whoo hoo!
+
+Motoko: Incredible. They’re asking for souvenirs now.
+
+
+Aramaki: Ishikawa, are you there?
+
+Ishikawa: Yes, sir. I've finished analyzing the data. It's nothing like the virus detected in the National Assembly building recently. This is definitely more amateurish.
+
+Aramaki: Hmm.
+
+Ishikawa: There is one thing that bothers me. I found something that looks like a security code.
+
+Aramaki: He protected his own Jeri so that it would be the only one left uninfected. In which case, there's a high probability that the culprit has an android that hasn't malfunctioned.
+
+Ishikawa: Most likely.
+
+Aramaki: What about the information the manager gave us?
+
+Ishikawa: It all seems to check out. No new 07-JL model has come off the assembly line in the past three years. But when they announced the discontinuation, there was a flood of complains from hardcore fans opposed to the halt in manufacturing.
+
+Aramaki: Relay your findings to the others immediately. It might help them. Good work for such a short amount of time.
+
+Ishikawa: Uh...
+
+Operator: Is something wrong?
+
+Ishikawa: He complimented me.
+
+
+Marshall: So then, the cops are onto us? But we moved around so much. I can't live without you, you realize that.
+
+Jeri: Of course, you can.
+
+Marshall: But, I don't want to. You’ll stay with me now and forever?
+
+Jeri: Yes.
+
+Marshall: Maybe we'll escape to Italy.
+
+Jeri: What do we do then?
+
+Marshall: We'll see, once we get there.
+
+Marshall: Grief is a waste of time. If it's between emptiness and grief, give me emptiness.
+
+
+Anchorman: Moving on to our topic of the day, specifically the recent bizarre events of the mass android suicide. We invited modern sociologist Dr. Miyashiro to join today's program. Now then, tell me Doctor. What's your professional opinion of these wired circumstances?
+
+Dr. Miyashiro: Well, first, everyone knows, of course, androids aren't living beings. So it's not accurate to refer to it as suicide. Perhaps we should call it self-termination.
+
+Anchorman: Yes. But there's been a lot of rumors that robots are beginning to show evidence of having their own Ghosts, just like in the old science fiction pulps.
+
+Dr. Miyashiro: I find the idea hard to believe. On the other hand, maybe this really should be viewed as a thrill-seeking crime--
+
+Batou: What a load of crap. Focus on the damn assignment, will ya?
+
+Togusa: Those Jeris used to be pretty darn popular. Their capabilities weren't much to speak of, but they were cute. Nowadays, you don't see these very often.
+
+Batou: Which really ought to make our investigation easier if there are that few of them. And besides, their suicide trend is causing a rare machine to become even rarer.
+
+Togusa: I'm confused though, I mean, why are we the ones doing the footwork? Local police can be in charge of it.
+
+Batou: Do you remember the robot that caused all the ruckus last month, huh? You know, the one in the National Assembly building built by Genesis Androids?
+
+Togusa: Sure, I can recall the entire event. But you know, perhaps the two cases aren't even remotely related. Looking for some cause-and-effect relationship that was probably never there...
+
+Batou: ...Isn't our job, is what you're really trying to say? Being ready for that one-in-a-million job is what the work's about. Well, the other million minus one time, you simply spin your wheels and come up empty. Besides, we don't even know yet where this android suicide virus came from. Can't back out of it now, chum. We'll start at the top of the list and work downward. Let's finish this damn job and get it over with.
+
+Togusa: Public service, what a joy.
+
+
+Togusa: Why do you always have to be so rough? I could've opened the door without leaving a scratch.
+
+Batou: A commendable skill, but it's way too slow.
+
+Togusa: Humph.
+
+Batou: Get a load of this. Someone's a major film freak.
+
+Batou: What you got?
+
+Togusa: The same virus infecting the Jeris. We have scored.
+
+Batou: Major, we found our man. The guy's got sharp instincts. He was one step ahead of us. I'll send you our current location and all information we were able to gather. Now all we need is Ishikawa's data.
+
+Borma: All right. Spill it.
+
+Yakuza: I don't keep track of each and every sex-doll correctors who these plaything androids are being sent off to!
+
+Paz: Forget it, he's not our guy.
+
+Borma: Not again...damn it.
+
+
+Ishikawa: I confirmed the perp's ID. Marshall McLachlan, son of the Canadian ambassador. Age, 26. Height, 179cm. No arrest record. He returned home to Canada once about eight years ago, but he came back to Japan in order to avoid their draft. He's been here ever since.
+
+Batou: If he's an ambassador's brat, then we can't touch him, right?
+
+Aramaki: I'll request that the embassy revoke his diplomatic immunity.
+
+Motoko: You got a fix on him, Ishikawa?
+
+Ishikawa: He's currently on Beltway 6, bound for Fukuoka.
+
+Batou: Man, daddy’s boy sure has himself a sweet ride...
+
+Ishikawa: From what I can tell from the IR-System's photos, there's a Jeri in the passenger seat.
+
+Motoko: A Jeri, huh? No doubt about it, then.
+
+Aramaki: You'll coordinate your movements and maneuver him so that he gets off the expressway. Then, try to corner him on some dead end road. Any definitive efforts will happen after that point. That clear?
+
+Everybody: Yes,sir.
+
+
+Motoko: How romantic. Their last drive's a beachfront trip.
+
+Motoko: Still, for someone to buy a robot and try to turn it into his fantasy ideal girlfriend. It's so...sexist. I don't like it.
+
+Togusa: Sexist? Look who's talking.
+
+Batou: Hahaha. Respect the opinion of our representative of the fairer sex.
+
+Motoko: They lock them in the house and force them to cook and do laundry, right?
+
+Togusa: Well, it's not like they can cook anything fancy. I don't think it's possible to build one with those capabilities with such a low price.
+
+Motoko: Then what do they make them do?
+
+Motoko: Hey, don't get mad at me! I dunno, dress them up and look at them in the morning and at night.
+
+Togusa: Major really isn't one to talk. I wonder why a film fanatic so hung up on some outdated heap like her, anyway? It's weird.
+
+Batou: You're always gonna find somebody who's nostalgic over a piece of the past. For instance, an antiquated contraption money won't buy. You two have a lot in common.
+
+Togusa: Oh, bite me. You sure got some balls saying that to me considering this prehistoric clunker you drive.
+
+Batou: What I have is a pure love of machines.
+
+
+Jeri: What are you doing?
+
+Marshall: Looking at you.
+
+Jeri: What are you looking at me for?
+
+Marshall: Because I want to. In profile, your smile is very pretty. It's your best feature.
+
+Jeri: There are lots of girls prettier than I am.
+
+Marshall: I'm not good with other women. Whenever I'm with them, I just feel miserable. You scared?
+
+Jeri: Yes. But I'm...used to it.
+
+Marshall: Hey, talk about something pleasant to make me cheer up.
+
+Jeri: I don't know what to say. Do you believe in the existence of the soul, Marshall?
+
+Marshall: Love is the only thing I believe in. Damn it, construction! I promise this won't end the same way.
+
+Batou: Our boy just got off the express way as planned. He's all yours, Major.
+
+Motoko: Leave him to me.
+
+Togusa: She infiltrated his GPS and created a traffic jam that doesn't exist. Cool.
+
+Batou: Isn't it fun to work under a commander who actually knows what she's doing? Rerouting complete! Thanks to the great and powerful Major. Now we have to sit tight till we hear from the old ape himself.
+
+
+Batou: There he is.
+
+Aramaki: Batou.
+
+Batou: I'm here.
+
+Aramaki: The embassy has revoked his diplomatic immunity. Get him!
+
+Batou: Yes, sir.
+
+Togusa: But he is still an ambassador's son. Let's try not to damage him.
+
+Batou: Of course not. If we can, we'll settle the matter through calm verbal communication. Negotiation was always my specialty, not weapons or hand-to-hand combat.
+
+Togusa: Yeah, sure. I'll just bet.
+
+Batou: Pitiful.
+
+Togusa: The guy won't get very far dragging that Jeri behind him.
+
+Marshall: Stop right there! My name is Marshall McLachlan, son of Canadian Ambassador Herbert McLachlan! I know my rights! You can't arrest me!
+
+Batou: If you mean your diplomatic immunity, your country just revoked it.
+
+Marshall: But, how would... Damn! It's hopeless, after all? Back off!
+
+Batou: Hold on.
+
+Marshall: The two of us only want to be together. Just leave us alone! Jeri, let's go. Jeri, what are you doing? Are you crazy?
+
+Jeri: Crazy? No, I'm not. No. Yes, I am. I don’t want to go with you. I don't want to be in love with you.
+
+Batou: What's so outdated about her? She talks better than the ones we got.
+
+Jeri: I am sorry, I truly did love you.
+
+Togusa: What's going on here?
+
+Batou: Hmm...
+
+
+Batou: Nothing about this case made any sense.
+
+Motoko: You don't think so? Funny. I thought it was simple enough. Even though it was ultimately proven that there was no connection to the event at the National Assembly building. So Batou, what's your take on the case?
+
+Batou: A young mecha-freak with feelings for some dated android blackmails a robot manufacturer. What's ironic is the reaction was opposite from what was expected, and now parts aren’t produced for that model anymore.
+
+Motoko: I suppose he wanted to transform his android into a woman who would be the most unique one in the entire world.
+
+Batou: Uh, now, hold on a second. You mean that's how come he tried to get rid of the other Jeris? To eliminate competition?
+
+Motoko: His motives were insane, and his methods were awkward, but...
+
+Batou: Hey, whoa, whoa. Am I wrong or did that have a sentimental ring to it? If he really did love her, he'd put a safety code in her to protect his own android. But then why did that Jeri go wacky after all the safeguarding effort? And afterward, nobody found evidence, not even a trace of any virus. Major, are you telling me that Jeri saved that boy? Jeris are robots. They don't have Ghosts.
+
+Motoko: When I was young, the prosthetic body I had was hard to use and once I crushed the doll of mine, I cried.
+
+Batou: Well, you sure can operate it now. One of the best in the world.
+
+Togusa's Wife: Welcome home.
+
+Togusa: Hey honey. Watching old movies again?
+
+Togusa's Wife: 20th century films are great. Nothing beats them.
+
+Movie Actor: Are you crazy?
+
+Movie Actress: Crazy? No, I'm not. No. Yes, I am. I don't want to be in...
+
+Togusa's Wife: Stop! What are you doing? It was almost near the end!
+
+Movie Actor: Are you crazy?
+
+Movie Actress: Crazy? No, I'm not. No. Yes, I am. I don't want to be in love with you...
+
+Togusa: This is where it came from?
+
+Movie Actor: Grief is a waste of time. If it's between emptiness and grief, give me emptiness...
+
+Movie Actress: Do you believe in the existence of the soul?
+
+Movie Actor: Love is the only thing I believe in.
+
+Movie Actress: Crazy? No, I'm not. No. Yes, I am. I don't want to be in love with you...
+
+Togusa: The Jeri's final words...they seem to be missing. Hon, this movie, wasn't there more dialogue here at one time?
+
+Togusa's Wife: Um, never. The film's uncut version.
+
+Togusa: Huh? Hmm...
+  

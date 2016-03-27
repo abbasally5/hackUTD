@@ -1,0 +1,423 @@
+
+Girl:
+I don't need parents.
+Humans are alone.
+They're connected to no one.
+No one at all.
+No one.
+
+
+
+Mika:
+Let's see... mmhmm...
+
+Miho:
+So, how'd it go?
+
+Mika:
+Dad, what's with Lain?
+She's... really been acting strange lately.
+
+Yasuo:
+Now Mika, that's just perfectly normal.
+
+Mika:
+What? Have you even seen her?
+
+Miho:
+Mika, do I have to remind you again about your tone of voice?
+Is that right?
+
+Yasuo:
+Yes, of course it is.
+
+
+
+Man:
+Oh, shit!
+Oh, shit! Oh, shit!
+What do you want!?
+What's going on!?
+Damn keys!
+
+Girl:
+Gotcha.
+
+
+
+Alice:
+Hey Reika, our next period is homeroom.
+
+Julie:
+Lucky!
+
+Reika:
+Don't you think it's strange they called for a special staff meeting?
+
+Alice:
+Do you really think it's true, then?
+
+Reika:
+What, Alice?
+
+Alice:
+They say that a senior committed suicide.
+
+Julie:
+Huh? Suicide?
+
+Alice:
+And not just at our school, Julie.
+Somebody jumped off of their roof--of their apartment building.
+
+Alice:
+Lain?
+
+Lain:
+Huh? Oh.
+
+Alice:
+Huh?
+
+Lain:
+Sorry. What is it?
+
+Julie:
+You really don't think Lain would have heard anything about what happened, do you?
+
+Lain:
+The suicide, you mean?
+
+Reika:
+Lain, where did you hear about that?
+
+Alice:
+You know?
+
+Lain:
+Well, yeah.
+I only heard about it.
+
+Alice:
+Oh, like where?
+
+Lain:
+On the Wired.
+
+Alice:
+Right, you must've gotten the hang of your new Navi by now.
+You'll have to show it to me sometime.
+
+Lain:
+Mmm, sure, Alice.
+But after I modify it.
+
+Julie:
+You're modifying it?
+I didn't know you were into all that hacking stuff.
+
+Reika:
+You know, I don't know what it is about you, Lain.
+You've changed.
+
+Lain:
+Really?
+How so?
+
+Julie:
+Reika's right.
+
+Reika:
+I can't put my finger on it.
+
+
+
+Julie:
+So, what sort of rumors have you heard lately on the Wired?
+
+Lain:
+Well, that it's some kind of interactive game.
+
+Reika:
+A game?
+A network game, you mean?
+
+Lain:
+I don't really know.
+I haven't played it yet.
+But they've been saying that all the kids who committed suicide were hooked on it.
+
+Julie:
+And guys really do like that kind of stuff too, you know.
+
+Alice:
+A game?
+Wow, sounds dangerous.
+
+Lain:
+I know, but... Um...
+
+Alice:
+Hey, take it easy.
+You'll choke on it.
+
+Lain:
+I'm... I'm okay.
+Do you mind if I go home right now?
+
+Reika:
+Hey, you don't need to ask our permission for everything.
+
+Julie:
+You got something to do?
+
+Lain:
+I wanna put the finishing touches on my Navi.
+It's still in bits and pieces.
+
+Julie:
+Oh, you prefer a machine to your friends, huh?
+
+Alice:
+Julie, that's enough!
+Stop badgering her!
+
+Julie:
+I was just asking.
+
+Alice:
+Lain, just let us know when you're done.
+
+Lain:
+Mmhmm!
+I'll see you later.
+
+Alice:
+You know, I think it's true--she has changed.
+Aah!
+Oh, I'm really sorry.
+Here.
+
+Girl:
+It was all my fault.
+I dropped it.
+Sorry! Goodbye! Bye!
+
+
+
+Lain:
+Log in: Lain.
+
+Navi:
+Authorized.
+
+Lain:
+Mail?
+
+Navi:
+Voicemail.
+
+Man:
+Hello, Lain.
+I couldn't figure out the answer to your question by myself,
+so I asked a colleague at the lab about it.
+If that is a Pushuke processor that you are trying to install,
+then you probably should set the oscillation to "variable" like you thought.
+Navi motherboards are designed to be compatible with just about anything,
+but you might run into some glitches.
+Good luck to you.
+Remember, if you need anything else, just ask.
+
+
+
+Girl:
+JJ!
+
+JJ:
+Yeah?
+
+Girl:
+You know anything about that Net game all the kids are playing?
+
+JJ:
+Ah, Phantoma.
+Forget about it.
+An adult like you wouldn't be into a game like that.
+So, why do you ask, hmm?
+No!
+Oh man, are my ears, like, playing tricks on me already?
+Ahaha...
+
+
+
+Boy:
+Make it go away!
+I'm no longer part of it.
+I quit already.
+
+
+[B-Part]
+
+
+Boy:
+This isn't the Wired!
+Why?
+What am I doing here?
+
+Girl:
+Wait!
+Don't run away.
+
+Boy:
+Who-Who are you?
+Are you a PK, too?
+Please, help me!
+
+Girl:
+I can't go where you are.
+
+Boy:
+What's going on?
+Stop screwing around!
+Bullet charge, lock, gauge 5!
+Stop right there!
+Die!
+Die!
+Die! Die! Die! Die! Die! Die!
+Die!
+Die, you bastard!
+Die!
+Bastard! Bastard! Bastard! Bastard! Bastard! Bastard! ...
+
+
+
+Boy:
+I was scared.
+I didn't know it was just a young girl.
+I'm telling you it wasn't my fault.
+Look, I didn't even know who she was.
+She just came out of nowhere.
+
+The game Phantoma uses this dedicated client-server application.
+It lets you fight in the Wired without any boundaries.
+I downloaded the app from an illegal server to play it just a little while ago.
+For us, it had the most advanced dungeon-style action game interface.
+But it had somehow gotten linked up with a tag game played by kindergartners.
+
+
+
+Navi:
+Lain has mail.
+
+Lain:
+Open it.
+
+JJ:
+Hey Lain, it's JJ.
+I didn't know you were into something like Phantoma.
+I, uh, I checked around, but I didn't find out all that much.
+Um, anyway, the basic game isn't all that unusual in the Wired nowadays.
+So, my guess is they just modified that.
+The problem is how the programs connect to each other.
+It looks like there's some kind of weird hole in the protocol.
+My buddies and I think that it might be the work of the Knights.
+
+Lain:
+The Knights...
+
+Yasuo:
+Lain.
+Looks like you've gotten very comfortable now.
+Talking to people on the Wired.
+
+Lain:
+Yeah.
+
+Yasuo:
+Let me give you just one little warning.
+
+Lain:
+Yeah?
+
+Yasuo:
+I think that my little girl perhaps has become obsessed with the Wired.
+It's just an advanced medium for communication.
+Don't ever get it confused with the real world.
+Do you understand what I'm warning you about?
+
+Lain:
+You're wrong.
+
+Yasuo:
+Huh?
+
+Lain:
+The border between the two isn't so clear.
+And I will be able to enter it soon.
+In full range and full motion.
+I'll be completely metamorphosed.
+
+Yasuo:
+But even with a top-of-the-line civilian-use Navi, you couldn't possibly...
+
+Lain:
+I can do it.
+I've upgraded it.
+
+Yasuo:
+A Pushuke processor, huh?
+But Lain...
+
+Lain:
+Don't worry, Daddy.
+I'm still me, you know.
+
+Yasuo:
+Sometimes I wonder.
+
+
+
+Woman:
+I waited for you.
+Why the hell didn't you come?
+Why?
+
+Man:
+Damn you!
+Damn you!
+Damn you!
+Damn you!
+
+Woman:
+This mail is one of happiness.
+By agreeing to receive this, you'll be happier than you've ever dreamed possible.
+
+Man:
+In other words, the Knights do not physically exist, but are rather thought itself that occurs inside the Wired.
+They can be thought of as a religion that is spreading through the Wired and into your subconscious.
+
+Man:
+Would you go out with me?
+If you already have a boyfriend, I apologize.
+If you really like him, I'll give up on you.
+But please browse code J946-5488AA9...
+
+Woman:
+Whoever gets this mail, please help me, whoever you are.
+You may not believe this, but I'm always being followed.
+
+Girl:
+Lain, why won't you hurry and come here?
+
+
+
+Lain:
+Just go away.
+Go away!
+
+Navi:
+Intruder interrupted.
+
+
+[ED]
+  

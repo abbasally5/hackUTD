@@ -1,0 +1,762 @@
+
+ ws:start:WikiTextHeadingRule:0:&lt;h1&gt; 
+ Chiyo:
+Huh?
+Good morning, Mr. Tadakichi.
+This is Mr. Tadakichi.
+He is always by my side.
+He's been living with us since I was five years old.
+When we first met, he and I were about the same size.
+But Mr. Tadakichi grew and grew, and finally passed me.
+Hm. Smile.
+My day begins with preparing my lunch for school.
+Asparagus with bacon, salad, and a small omelet to top it all.
+Then, I wake up my mother and father.
+It's morning!
+And eat breakfast.
+
+See you later!
+I'm off to school.
+
+It feels good when the weather is nice.
+Oh, but my parents bought me a new umbrella, so little rain might not be so bad, either.
+
+Yuka:
+Chiyo-chan!
+
+Chiyo:
+Uh.
+
+Yuka:
+Chiyo-chan!
+Long time no see!
+
+Chiyo:
+Ah, Miruchi! Yuka!
+
+These are my classmates from grade school, Miruchi and Yuka.
+
+Long time no see.
+
+Yuka:
+Wow, is that your high school uniform?
+
+Miruchi:
+It's the first time I've seen the summer one.
+
+Chiyo:
+It's really cute, huh?
+Although, the skirt length is the same for winter as it is for the summer time.
+
+They're in 6th grade, but I'm a second year student in high school.
+It's because I skipped forward to the first year of high school when I was in 5th grade.
+
+Oh, yeah! So what's really popular at school right now?
+
+Yuka:
+Jump rope!
+It's gotten really popular again.
+
+Miruchi:
+Mm, and it's pretty fun too. Right?
+
+Yuka:
+And everyone can play too.
+
+Chiyo:
+Wow, jumping rope! Brings back memories.
+
+Yuka:
+What's popular in high school?
+
+Chiyo:
+Huh?
+
+Miruchi:
+Yuka, Chiyo-chan's in high school now, so she doesn't play anymore.
+
+Yuka:
+Oh, you're right.
+
+Chiyo:
+We play around in high school too...
+But I guess we don't do jump rope.
+
+Sakaki:
+Oh.
+
+Chiyo:
+See you around.
+
+Miruchi:
+Later.
+
+Yuka:
+Bye-bye.
+
+Chiyo:
+Miruchi and Yuka attend elementary school.
+I was attending the same school just a while ago too, but...
+
+Girl1:
+We've got swimming today!
+
+Girl2:
+Yeah, swimming!
+
+Girl3:
+Oh, wait for me!
+Wait!
+
+Chiyo:
+But... But I am... I am a high school student.
+
+Sakaki:
+Morning.
+
+Chiyo:
+Oh, good morning, Miss Sakaki.
+
+Sakaki:
+Those your friends?
+
+Chiyo:
+Oh, yes.
+They're my classmates from back in grade school.
+
+If we go straight down this road, we get to my high school.
+
+
+ ws:start:WikiTextHeadingRule:2:&lt;h1&gt; 
+ Chiyo:
+They said jump rope is really popular right now in elementary school.
+
+Sakaki:
+Oh yeah, jump rope.
+It's been a while.
+
+Chiyo:
+This is Miss Sakaki from my class.
+Miss Sakaki lives in my neighborhood, so I see her a lot on my way to school.
+
+So, did you jump rope too?
+Actually, I used to be quite good at it.
+
+Sakaki:
+Yeah.
+Huh!
+
+Chiyo:
+Miss Sakaki is big, but quiet.
+She really listens to what I say.
+
+Speaking of which, swimming starts today,
+I just can't wait.
+I want to swim as well as you do, Miss Sakaki...
+Huh?!
+
+But every so often, she suddenly disappears.
+It's a mystery.
+
+Tomo:
+Morning!
+How goes it, my friends?
+
+Chiyo:
+Good morning.
+
+Tomo:
+Hey, Chiyo-chan! Good morning, Yomi!
+
+Chiyo:
+This is Tomo and Miss Yomi. Um...
+
+Yomi:
+Tomo.
+
+Tomo:
+Huh?
+
+Yomi:
+Did you catch that show yesterday?
+The one I asked you to record.
+
+Tomo:
+Oh, shoot! I forgot.
+
+Yomi:
+Oh... I knew it.
+I was stupid for even asking you.
+
+Tomo:
+Stupid! Stupid!
+Stupid! Stupid!
+Stupid! Stu...
+
+Chiyo:
+This is the kind of people they are.
+
+Yomi:
+You're the stupid one!
+
+Teacher:
+Let's move it!
+Slacking off is only gonna hurt you.
+
+Kimura:
+Um, "shitari" is a form of the sa-column irregular verb, "su."
+However, it can sometimes be used as a noun as well,...
+
+Boy:
+She still hasn't shown up.
+
+Girl:
+Yukari sure likes coming in late.
+
+Boy:
+Gotta be a new record.
+
+Tomo:
+Is there something going on today?
+
+Yomi:
+Who knows? The thing is it's Miss Yukari, she probably just overslept.
+
+Tomo:
+No, if I know my Yukari, I'll bet you anything today's the release date of the limited edition box for some video game.
+
+Yomi:
+There's a dumb theory.
+
+Tomo:
+Yeah, because you're the dumb one, aren't ya?
+
+Sakaki:
+How could I...
+Huh, if I become one of them...
+Oh...
+
+Chiyo:
+I'm a kitty cat!
+
+Yukari:
+This is not study hall!
+
+Chiyo:
+This is our homeroom teacher, Miss Yukari.
+She teaches language and grammar.
+
+Yukari:
+I just can't believe it!
+I was gonna make a quick stop at the gaming store on my way here, but there was this huge line on a weekday!
+Probably a bunch of college kids with all kinds of free time.
+Honestly! Well, you know I'm late because of them!
+
+Chiyo:
+She is a rather unconventional teacher.
+
+Teacher:
+Okay! That'd be sure to drink plenty of fluids!
+
+Chiyo:
+High school classes are more fun than grade school was.
+
+Yukari:
+Now, for this...
+Chiyo-chan.
+
+Chiyo:
+Yes, ma'am.
+
+Yukari:
+Good. Impressive as always.
+
+Chiyo:
+Aha.
+
+Chiyo, Yukari:
+Huh?
+
+Osaka:
+Huh? Um...
+
+Oh, brother.
+
+Yukari:
+So, did you sleep well?
+
+Chiyo:
+Aha.
+
+Osaka:
+No, not very.
+Ah! No, that's...
+That's not what I...
+
+Chiyo:
+Miss Osaka often sleeps during class.
+Could she be a night owl?
+
+
+ ws:start:WikiTextHeadingRule:4:&lt;h1&gt; 
+ Kagura:
+"At times, he appeared young and energetic,"
+
+Chiyo:
+Unlike grade school, in high school, we have a different teacher for every subject.
+So, we have all sorts of teachers.
+
+Kagura:
+......
+"Truly, what one would call a monster passing by."
+
+Kimura:
+Okay, you can stop there.
+Um, all right, who would be reading next?
+Anyone?
+Oh, yeah. The other day, I had an opportunity to speak with a teacher from a girls' high school.
+If they have P.E. in first hour...
+Then they... they apparently don't care whether they wear their P.E. clothes to homeroom too!
+And when they have swimming...
+Swimsuits!
+
+Boy:
+He's serious.
+
+Girl:
+He's crying for real.
+
+Chiyo:
+We really have all sorts of teachers.
+
+Yes?
+
+Osaka:
+Chiyo-chan, here.
+
+Chiyo:
+Thank you.
+
+Some things haven't changed since grade school.
+
+Yukari:
+This time for sure!
+
+Chiyo:
+Unlike grade school, there is no school lunch in high school.
+So, we either bring our lunch, buy bread at the co-op, or eat at the school cafeteria.
+
+Osaka:
+Like the post-war...
+
+Yomi:
+We are in the post-war.
+
+Tomo:
+Here you go, thanks for waiting!
+
+Osaka:
+Welcome back.
+
+Tomo:
+Fried noodle's subs all around!
+
+Chiyo:
+Wow! Tomo, you're the best!
+
+Tomo:
+Here, that's yours, Osaka.
+
+Osaka:
+Melon bread...
+
+Tomo:
+Huh?
+
+Osaka:
+I asked you to get some melon bread...
+
+Tomo:
+Hey! Who cares?
+Fried noodle's subs are harder to come by.
+
+Chiyo:
+Harder to come by?
+
+Yukari:
+I forgot my wallet!
+
+Tomo:
+They left it open.
+
+Yomi:
+Probably because it lets the breeze through.
+
+Chiyo:
+Wow...
+
+Chiyo:
+The weather is so nice and the breeze feels great too.
+
+Osaka:
+Yeah, it does.
+Feels like you could fly away if ya just jumped off from the top of here?
+Huh? Hm?
+
+Chiyo:
+I feel like Miss Osaka might really do things like that.
+
+Tomo:
+Hey! Let's eat over here, okay!
+
+Yukari:
+Ahhh!!
+
+Damn it, they sold out!
+
+Chiyo:
+Eating our lunch on the roof was a perfect idea.
+
+Tomo:
+It just tastes better when you eat somewhere up high.
+
+Osaka:
+Huh?
+What is it?
+
+Chiyo:
+Nothing.
+
+Yomi:
+Tomo.
+
+Tomo:
+Hm?
+
+Yomi:
+That sub looks really good.
+Why don't you give me a bite?
+
+Tomo:
+What?!
+
+Yomi:
+Come on now, I always let you look at my homework.
+
+Tomo:
+You idiot!
+That's my line!
+
+Yomi:
+The line belongs to me!
+
+Tomo:
+Ha!
+
+Yomi:
+Was it good?
+
+Tomo:
+Oh, yeah! Really good!
+
+Osaka:
+They sure have a lot of energies.
+
+Chiyo:
+Tomo and Miss Yomi have been together since grade school, so they always seem to have fun together.
+The rooftop feels great.
+
+Yomi:
+You are so...
+
+ ws:start:WikiTextHeadingRule:6:&lt;h1&gt; 
+ Nyamo:
+Okay, that's it for warm-ups!
+Gather around!
+
+Chiyo:
+Fourth hour is P.E.
+Today, we have swimming.
+
+Nyamo:
+Today, we'll swim four 25-meter laps.
+And those of you who can't swim can use a kick board, okay?
+
+Everyone:
+Yes, ma'am!
+
+Yomi:
+So, what are you doing?
+You're using a kick board?
+
+Chiyo:
+No! Today, I will swim all the way to the middle without one!
+
+Kagura:
+You go for it, Chiyo-chan!
+
+Chiyo:
+Right!
+
+Chiyo:
+That's Miss Kagura.
+
+Yomi:
+Now, the middle of the pool is a bit deeper, so be careful, okay?
+
+Chiyo:
+Right.
+
+Tomo:
+Got two!
+
+Kimura:
+Uh...
+
+Tomo:
+Give it back, now!
+
+Yomi:
+You don't need two!
+
+Tomo:
+Yes I do too!
+
+Chiyo:
+Miss Kagura is a member of the swim team, so she's the best swimmer in the class.
+She can even hold her own against the boys.
+
+Wow.
+
+Yomi:
+You can do it, go Chiyo!
+
+Chiyo:
+Yes! Okay, here I go!
+
+Chiyo:
+I've become able to go for about ten meters, freestyle.
+In order to go further, I think I'll have to master breathing to the side.
+Ah!
+
+Tomo:
+Hey, I think I just hit something.
+
+Nyamo:
+Ahhh!
+
+Tomo:
+Man, sorry about that.
+You're so small, I couldn't even see you.
+
+Kagura:
+Hey, hey, be more careful.
+Chiyo-chan's feet can't reach the bottom.
+There is always a risk of death when you go swimming.
+
+Chiyo:
+Death?!
+I can't wait 'til I grow tall!
+
+Chiyo:
+Finally, there's cleaning.
+I like cleaning, because everything gets nice and tidy.
+
+Tomo, you can't sweep like that.
+
+I wish she would be more serious.
+
+Huh?
+Miss Osaka is serious about cleaning, but she's not very good with a dustpan.
+
+And then, we leave school.
+Today was certainly another busy day.
+
+Osaka, Chiyo:
+Bye-bye.
+
+Chiyo:
+I'm home!
+
+Unlike grade school, high school lets out late.
+So, by the time I finish my homework, it's already evening.
+
+Let's go, Mr. Tadakichi.
+In the evening, I go for a walk with Mr. Tadakichi.
+
+Oh!
+
+Lately, Miss Sakaki has been joining us on our walks.
+It seems Miss Sakaki also likes Mr. Tadakichi.
+Taking these walks with the three of us sure is fun.
+
+ ws:start:WikiTextHeadingRule:8:&lt;h1&gt; 
+ Chiyo:
+I know, let's go through the park.
+
+Sakaki:
+Mm.
+
+Girl:
+Here goes!
+
+Girls:
+Ready. One. Two. Three.
+
+Girl:
+Four.
+
+Girl:
+Oh, Mimi, you messed up!
+
+Girl:
+Time to switch.
+
+Girl:
+Okay.
+
+Girl:
+Oh, it's 5:30 already!
+
+Girl:
+I'm gonna be late for cram school!
+
+Girl:
+I'll see you later!
+
+Girls:
+Bye-bye!
+
+Sakaki:
+We're in the middle of our walk, but...
+
+Chiyo:
+Huh?
+
+Sakaki:
+You wanna play, just for a little bit?
+
+Chiyo:
+What?
+
+Sakaki:
+Here.
+
+Sakaki, Chiyo:
+Little missy, come on in.
+Rock, paper, scissors, nobody wins.
+If you lose, then go outside.
+Little missy, come on in.
+Rock, paper, scissors...
+
+Tomo:
+And we're tied!
+
+Hey, Chiyo-chan.
+
+Chiyo:
+To... Tomo?!
+
+Yomi:
+Jump rope, huh?
+Brings back memories.
+
+Chiyo:
+Huh?
+
+Osaka:
+Especially since we don't even get to do it in P.E. anymore.
+
+Chiyo:
+Miss Yomi! Miss Osaka!
+
+Osaka:
+Know what? I'm here to look for some Tokyo earthworms.
+
+Yomi:
+Um, uh, well, I'm not.
+Um, I just happened to run into her.
+
+Tomo:
+All right! I challenge you!
+
+Yomi:
+What do you mean?
+You lost already!
+
+Tomo:
+It's okay.
+You always gotta do three rounds for these kind of things, Yomi.
+
+Yomi:
+Is that so?
+
+Tomo:
+Here, you take this end.
+
+Yomi:
+Okay, okay, fine.
+
+Tomo:
+Osaka, hold that end!
+
+Osaka:
+What are we singin'?
+
+Yomi:
+Whatever Chiyo-chan knows.
+
+Tomo:
+Master Chiyo, I challenge you!
+
+Chiyo:
+I accept your challenge!
+
+
+Chiyo:
+At night, I get sleepy very quickly.
+When I hear everyone talking about late night TV or radio, I envy them a little.
+Late nights are no problem once you grow older.
+I can't wait to be a grownup.
+Mr. Tadakichi, have a good night.
+
+Tomo:
+Ahahaha...
+
+Osaka:
+Ha...
+
+Kagura:
+Hahaha...
+Oh...
+
+Chiyo:
+Well... Good night.
+
+
+-- Preview --
+
+Oksaka:
+Our version of the great lord of terror is approachin'.
+And that is...
+
+Tomo:
+Tests! It's tests! Whoa, scary!
+
+Kagura:
+Don't worry!
+If we work together, there is no summit or summary we can't make.
+
+Osaka:
+That's right.
+We gotta all work hard together!
+
+Kagura:
+Okay! Everyone, fall in step! Here goes!
+
+Knuckleheads:
+Tell us what's gonna be on the tests!
+
+Yomi:
+Idiots.
+  

@@ -1,0 +1,685 @@
+
+ ws:start:WikiTextHeadingRule:0:&lt;h1&gt; 
+ Mihke:
+Mew.
+
+Girl:
+Mihke!
+I'm so happy.
+I'm so glad, you see.
+
+Mother:
+Did you have fun?
+
+Girl:
+Yeah, I liked it, even though I cried a little bit.
+
+Boy:
+Hey, Mommy, you know what?
+
+Mother:
+No, what?
+
+Boy:
+The big girl behind us was crying lots and lots, too.
+She cried through the whole movie.
+
+Mother:
+The big girl behind us?
+
+Sakaki:
+ Oh.
+ Mr. Kitty Cat...
+
+Chihiro:
+Wow, they're so cute!
+
+Kaorin:
+Aren't they?
+And this one playing with a ball of yarn is totally adorable.
+
+Chiyo:
+ I think they are all adorable.
+
+Osaka:
+ Uh-huh.
+ They look so fluffy and soft, it's like they're just two balls of fur.
+
+Chihiro:
+ I know, I look how peacefully they sleep.
+
+Kaorin:
+Oh, Miss Sakaki. Here, you take a look.
+
+Sakaki:
+ Hm?
+
+Kaorin:
+Our cat had kittens.
+
+Sakaki:
+ Um, if I wanna order copies, do I write it in the back?
+
+Kaorin:
+Huh? Do you like cats too, Miss Sakaki?
+
+Sakaki:
+ Um... a little.
+
+Chiyo:
+ So, do you have any cats of your own?
+
+Sakaki:
+ Oh, no. My parents can't handle cats or anything like that.
+
+Kaorin:
+Oh, I see then. That's really too bad.
+
+
+Woman:
+Will these photos be all right for you, ma'am?
+
+Sakaki:
+ I guess.
+
+Woman:
+Thank you, please come again!
+
+Sakaki:
+ Huh!
+
+Chiyo:
+ Oh....uh...
+
+Sakaki:
+ Chiyo-chan.
+
+Chiyo:
+ Oh, Miss Sakaki.
+
+Sakaki:
+ Hey, where did you get that?
+
+Chiyo:
+ Well, you see, I won it in a lottery in the shopping district.
+ Wait a minute while I take it off.
+ Okay, let me see here...
+ Uahh.....
+
+ I'm sorry for making you carry the costume all this way.
+
+Sakaki:
+ No, it's okay.
+
+
+ ws:start:WikiTextHeadingRule:2:&lt;h1&gt; 
+ Yomi:
+ Huh?
+
+Tomo:
+ Like for real?
+
+Osaka:
+ I had no idea.
+
+Chiyo:
+ Uh-huh, that's right, it really is.
+
+Sakaki:
+ Morning.
+
+Chiyo:
+ Oh, hello, Miss Sakaki.
+ A very good morning to you too!
+
+Tomo:
+ Good morning.
+
+Yomi:
+ Good morning.
+
+Osaka:
+ Good Mornin'.
+
+Sakaki:
+ You look cheerful.
+
+Yomi:
+ Oh, we were talking about Chiyo-chan just now.
+ She has a birthday coming up real soon.
+
+Sakaki:
+ Your birthday, huh?
+
+Chiyo:
+ Uh-huh, it's this coming Sunday.
+ And I'll finally be turning eleven years old.
+ That means I'll be a little more grown up now!
+
+Sakaki:
+ Eleven years old...
+
+Tomo:
+ But just looking at her, you'd swear she was a lot younger than eleven years old, huh.
+
+Chiyo:
+ Even when I was in grade school, if we were lined up by height, I was always to the front.
+
+ Miss Sakaki.
+
+Sakaki:
+ Huh?
+
+Chiyo:
+ Miss Sakaki, please tell me, how did you get to be so tall?
+
+Sakaki:
+ How... what?
+
+Chiyo:
+ I wish I could get taller just like you.
+
+Sakaki:
+ No, being short is better. You're cuter that way.
+
+Chiyo:
+ Yeah? But being tall makes you like that much cooler.
+
+Sakaki:
+ Tall is cooler?
+
+Chiyo:
+ Uh-huh.
+
+Sakaki:
+ Being cute rather than cool is...
+
+Chiyo:
+ Huh?
+
+Sakaki:
+ It's... stronger.
+
+Chiyo:
+ Stronger?
+
+Tomo:
+ Speaking of tall, are you still growing, Miss Sakaki?
+
+Sakaki:
+ Looks that way.
+
+Tomo:
+ Thought so!
+ You're even taller than you were this spring, aren't you?
+ Did you break 170 yet?
+
+Sakaki:
+ I broke it.
+
+Osaka:
+ Uah... Uah... Uah...
+ Chiyo-chan!
+ That's it.
+ Miss Sakaki must be suckin' it all away.
+
+Chiyo:
+ Miss Sakaki?
+ Have you been taking all my height away from me?
+
+Sakaki:
+ No...
+
+Chiyo:
+ You took it, didn't you?
+ You took it, didn't you?
+ You took it, didn't you?
+ You took it, didn't you?
+ You took it, didn't you?!
+
+Sakaki:
+ Um... no...
+
+Chiyo:
+ Give it back! Please give it back!
+
+Sakaki:
+ I didn't...
+
+Chiyo:
+ Give it back! Give it back!
+
+Sakaki:
+ I...
+
+Chiyo:
+ Give it back! Give it back!
+
+Sakaki:
+I'm sorry...
+
+Chiyo:
+ Please give it back!
+ Give it back! Give it back! Give it back!
+
+Tomo:
+ Ooh, Miss Sakaki does not have a clue what to do.
+
+Osaka:
+ Way to go, Chiyo-chan.
+ Guess that's an eleven-year-old for ya.
+
+Yomi:
+ Say, Chiyo-chan?
+
+Chiyo:
+ Yes?
+
+Yomi:
+ You wanna have a party this Sunday?
+ For your birthday?
+
+Chiyo:
+ Huh?
+
+Yomi:
+ We can all get together at your place for the party.
+ How's that?
+
+Tomo:
+ I'm in!
+
+Osaka:
+ Uh-huh, me too.
+
+Sakaki:
+ Mm-hm, I'll go.
+
+Chiyo:
+ Really, all of you?
+ I'm so excited!
+
+Osaka:
+ We've gotta get presents and stuff and set it all up!
+
+Tomo:
+ Oh, yeah!
+
+Yomi:
+ While we're on the subject, what did you get last year?
+
+Chiyo:
+ Oh, I got ribbons.
+
+Sakaki:
+ Uh... Ribbons...
+
+Osaka:
+ Hey, what's the matter, Miss Sakaki?
+
+Sakaki:
+ Uh, nothing.
+ Huh...
+
+ ws:start:WikiTextHeadingRule:4:&lt;h1&gt; 
+ Sakaki:
+ Uh...
+
+Girl:
+Wow, it's so cute!
+
+Sakaki:
+ Oh...
+
+
+Woman:
+Here you are. That'll be 1,500 yen.
+
+Children:
+These are fun!
+Can I get one?
+
+Girl:
+Here, I've got you one.
+
+Boy:
+Thank you.
+
+ ws:start:WikiTextHeadingRule:6:&lt;h1&gt; 
+ Everyone:
+Hello!
+
+Chiyo:
+ Hello, welcome, everyone.
+
+Everyone:
+Thank you for having us over!
+
+Tomo:
+ Happy birthday, Chiyo-chan!
+
+Osaka:
+ Happy birthday.
+
+Yomi:
+ Hi, Chiyo-chan, we brought some presents with us.
+
+Chiyo:
+ Wow, thank you all so very much!
+ Well, anyway, please come up to my room.
+ Oh, hold on. Miss Sakaki?
+
+ Miss Sakaki! Miss Sakaki!
+
+Sakaki:
+ Hm?
+
+
+Tomo:
+ All right, ladies, let's begin the super awesome present contest!
+
+Everyone:
+Yay!
+
+Tomo:
+ At the top of the lineup is me.
+ Here you go.
+
+Chiyo:
+ Thank you very much.
+ I can't wait!
+
+ What's it supposed to be?
+
+Tomo:
+ It's my feeling!
+
+ What?
+ You guys didn't like that?
+ I guess that means I failed, huh.
+ Fine, have it your way.
+ Here. This one's the real present I got for you.
+
+Chiyo:
+ But, what is it?
+
+Tomo:
+ It's a magic wand!
+ If you use it, you'll be able to grow tall just like Miss Sakaki!
+
+Chiyo:
+ Even I'm old enough that I don't believe that stuff anymore.
+
+Tomo:
+ Oh, come on, come on.
+
+Yomi:
+ Here you are.
+ This present is from me.
+
+Chiyo:
+ Thank you very much, Yomi.
+ I'm sure I'll love it!
+
+Sakaki:
+ This one's from me. Here.
+
+Chiyo:
+ Oh my goodness,
+ You brought a little stuffed kitten for me?
+ It's so cute!
+ Thank you so much, Miss Sakaki.
+
+Sakaki:
+ You're welcome.
+
+Chiyo:
+ I wonder what name I should give to it?
+
+Sakaki:
+ It's Mon Petit.
+
+Chiyo:
+ Oh, I see, so it already has a name.
+ I'll take good care of it.
+
+Sakaki:
+ Now, I want you to give her a good home.
+
+Chiyo:
+ I'm a little surprised though.
+ I had no idea you named your stuffed animals too, Miss Sakaki.
+ It's nice to meet you, Mon Petit.
+
+Sakaki:
+ Mon Petit...
+
+Chiyo:
+ Huh?
+
+Sakaki:
+ Mon Petit is the younger sister.
+ And she has an older sister.
+
+Chiyo:
+ Uh...
+
+Osaka:
+ Speakin' of names, not too long ago, I discovered that a lot of racehorses have real cute-sounded names.
+
+Yomi:
+ Huh, really?
+
+Osaka:
+ Yeah, they do.
+ If I remember a lot, I think some of the names were like "Princess Winy" or "Esprit Ja-ja".
+
+Yomi:
+ You call those cute?
+
+Osaka:
+ Why don't you give her a cute name like that?
+
+Chiyo, Sakaki:
+ Uh...
+
+Sakaki:
+ No way.
+
+Osaka:
+ What? But...
+
+Sakaki:
+ No way.
+
+Osaka:
+ Oh, well, whatever.
+ My present is a stuffed animal too.
+ Here you go.
+
+Chiyo:
+ Thank you very much, Miss Osaka.
+ Oh.
+
+Sakaki:
+ Ah!
+ That's...
+
+Chiyo:
+ What?
+ What's wrong, Miss Sakaki?
+
+Sakaki:
+ The father...
+
+Chiyo:
+ Huh?
+
+Sakaki:
+ This here is the father...
+
+Chiyo:
+ Do you mean, her father?
+
+Sakaki:
+ No, yours.
+
+Chiyo:
+ Mine?
+
+Tomo:
+ Fine.
+ So whatever my present didn't make anyone happy or stir up any interesting conversation, it's not like I care.
+
+ Oh, Chiyo-chan, Chiyo-chan.
+
+Chiyo:
+ Huh? Yes?
+ What is it, Tomo?
+
+Tomo:
+ Chiyo-chan, you're a Giants fan?
+
+Chiyo:
+ Oh, yeah, this year, the Giants is going all the way.
+
+Tomo:
+ No way, the Giants are hopeless.
+ This year is going to Hanshins.
+
+Chiyo:
+ The Giants!
+
+Tomo:
+ Hanshins!
+
+Chiyo:
+ The Giants!
+
+Tomo:
+ Hanshins!
+
+Chiyo:
+ The Giants!
+
+Tomo:
+ No, Hanshins!
+
+Chiyo:
+ The Giants!
+
+Tomo:
+ Hanshins!
+
+Chiyo:
+ The Giants are going to win for sure!
+
+Tomo:
+ Hanshins!
+
+Umpire
+Strike!
+
+Tomo:
+ You know that's what the Giants say every year and every year they keep losing again.
+ It'll be the same things this year.
+ Ah, well, I mean...
+
+Sakaki:
+ Don't worry.
+
+Chiyo, Tomo:
+ Huh?
+
+Sakaki:
+ You have your father.
+
+Chiyo, Tomo:
+ Huh?
+
+ ws:start:WikiTextHeadingRule:8:&lt;h1&gt; 
+ Yomi:
+ Well, we're going now.
+
+Osaka:
+ It was real fun.
+
+Chiyo:
+ Oh, I'll come too.
+
+Yomi:
+ What?
+
+Chiyo:
+ I'll go with you part of the way.
+ I have to walk Mr. Tadakichi anyway.
+
+Tomo:
+ Okay. Then, let's all go together.
+
+Chiyo:
+ All right.
+
+ Oh!
+ It's a shortcut if we turn here and go down that way.
+Tomo:
+ Why did you stop?
+
+Osaka:
+ Wow...
+
+Chiyo:
+ Wow!
+
+Yomi:
+ Wow, it's so...
+
+Tomo:
+ So big.
+
+Chiyo:
+ It's really pretty.
+
+Osaka:
+ I almost feel like it's drawing me into it.
+
+
+Chiyo:
+ Oh, wait!
+
+ Wait for me!
+
+ Look out!
+
+ Miss Sakaki!
+
+Yomi:
+ See you tomorrow at school!
+
+Osaka:
+ So long.
+
+Tomo:
+ Later.
+
+-- Preview --
+
+
+Kagura:
+I'm Kagura.
+I showed up a couple of times, like in the pool and sports fest episodes.
+But next time is the second year class shuffle.
+With me and Sakaki's class, you can bet there's gonna be some competition.
+All right, Sakaki! Now is the time for us to fight it out!
+I challenge you!
+
+Sakaki:
+What? Who?
+
+Kagura:
+Hey, wait!
+Sakaki, wait up, damn it!
+
+Sakaki:
+I'm not waiting.
+  

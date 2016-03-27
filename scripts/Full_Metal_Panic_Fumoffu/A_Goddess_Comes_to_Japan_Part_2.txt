@@ -1,0 +1,844 @@
+
+ ws:start:WikiTextHeadingRule:0:&lt;h1&gt; 
+
+Soldier:
+Hey, get up!
+
+Sousuke:
+We're under fire! We need backup! Radio!
+Radio!
+
+Testarossa:
+I'm looking forward to our time together.
+
+Kyoko:
+Such boldness!
+
+Kaname:
+Make out to your heart's desire.
+
+Madukas:
+Now, Sergeant Sagara, if you should happen to commit some sort of shameless act against the Captain, I will tear you limb from limb!
+
+Sousuke:
+Just a dream.
+
+Testarossa:
+No, Mr. Sagara, we shouldn't. Please.
+
+Kaname:
+Okay, what's all the racket in here?
+
+Sousuke:
+Kaname!
+
+Kaname:
+When... When the heck did she...?
+
+Sousuke:
+I-It's not what it looks like! I didn't do any...
+
+Kaname:
+Yeah, yeah, whatever.
+Hey, Tessa! I thought you promised that you'd stay out of this room.
+You broke the rules we agreed on!
+
+Testarossa:
+No, thanks. I couldn't eat another bite!
+
+Kaname:
+Look, I'm not falling for it! Now, wake up, will ya!?
+
+Sousuke:
+Kaname, don't be so rough with...
+
+Kaname:
+Shut up! It's your fault too! You left yourself open!
+
+Testarossa:
+Now I don't mind. Just go ahead and fire.
+
+Sousuke:
+Fire what?
+
+
+
+Mao:
+It's your last weekend here.
+Let's see, what should we do.
+
+Testarossa:
+Oh, I've already made plans!
+I'm spending two days and one night at a hotspring in Okutama.
+Miss Kaname and her friends are invited too.
+
+Sousuke and Mao:
+A hot spring?
+
+Testarossa:
+Yes! No trip to Japan is complete without a hot spring visit.
+He strongly recommended it.
+
+Mao:
+"He recommended it"? You don't mean...
+
+Kurz:
+Hi! Good morning to everybody!
+
+Everyone:
+Good morning to you too.
+
+Kurz:
+I'm Kurz Weber and I'm gonna be your coordinator.
+I'm a student of Tessa's dad [at the] college.
+Let's be good friends, just call me Kurz-baby.
+
+Kazama:
+Excuse me, Kurz-baby?
+
+Kurz:
+I didn't say that boys could ca...
+
+Mao:
+[***] sorry about that!
+Let me introduce myself. I'm Melissa Mao, a research student at the college.
+It looks like I've already met some of you.
+If you have any problems, just ask me, okay?
+
+Kurz:
+This is one heck of a party.
+
+Ono-D:
+Three whole hours cramped in a car with three other guys.
+It's torture, I tell you!
+
+Kurz:
+Oh, you don't have to tell me. I know all too well.
+Who asked Mao to take charge, anyway?
+Hey, Sousuke! You look awfully relaxed back there.
+
+Sousuke:
+Mno frovlem. I feew reraxk...
+
+Kurz:
+Okay, all I hear is a mouthful of jerky.
+
+Sousuke:
+Not a problem.
+I appreciate the lack of female disruption.
+
+Kurz:
+Yeah, in any case, as you know, gentlemen, we'll be staying at the hot spring's lodge tonight.
+
+Kazama and Ono-D:
+Yeah.
+
+Kurz:
+A bunch of young guys and girls on a trip to the hot spring.
+You know what that means?
+
+Ono-D:
+You don't... You don't mean that?
+
+Kurz:
+That's right. I mean that.
+A trip to a hot spring isn't complete without that!
+
+Ono-D:
+Oh, I get it!
+So not doing that would be rude to the girls!
+
+Kurz:
+Exactly, Ono-D!
+I think we'll get along just fine.
+
+Ono-D:
+Yes, I think we will.
+
+Sousuke:
+What peafeful feenery.
+
+Kurz:
+Ah, again with the jerky!
+
+Kyoko:
+Wow, it's gorgeous, huh?
+
+Mizuki:
+Yeah, it's a fantastic view.
+
+Mao:
+Well, it looks like we have a fair amount of time before dinner.
+Hey, Kaname, you feel up to going to the open-air bath?
+
+Kaname:
+Umm, I guess so, but...
+
+Mao:
+Are you worried about something?
+
+Kaname:
+Well, Kurz is here and all, so I was wondering if they might be plotting something sketchy.
+
+Mao:
+Oh, you don't need to worry about that!
+
+Testarossa:
+It'll be okay. Even Mr. Weber wouldn't be that lewd.
+
+Kurz:
+Actually, I would be that lewd, Miss Tessa.
+Our prey is on the move. Heading for the open air bath.
+
+Ono-D:
+All right, we should get moving too.
+
+Kazama:
+Um, Kurz, are you sure about all this?
+
+Kurz:
+Don't worry. Let's get going, okay?
+
+Sousuke:
+Kurz.
+Going to the bath?
+
+Kurz:
+Oh, you wanna in?
+Then get ready for a little taste of heaven!
+
+Sousuke:
+That's not what I meant.
+Enjoy your bath like normal. Nice and normal.
+
+Kurz:
+Hey, what does that mean?
+
+Ono-D:
+Kurz, let's go!
+
+Kurz:
+I'm coming.
+
+Sousuke:
+What peaceful scenery.
+
+Kaname:
+Wow! What a pretty view out here!
+
+Kyoko:
+You see? Didn't I tell you, Kaname?
+
+Kaname:
+Hey, look over there! A river!
+
+Kyoko:
+Oh wow!
+
+Mizuki:
+Better not lean over too much or you're gonna fall.
+
+Kaname:
+We're fine!
+
+Mikihara:
+This certainly is rather nice hot spring and the water temperature is perfect too.
+
+Mao:
+I can just relax here in the open air. Here's to sweet freedom.
+By the way, do you know what benefits this spring is supposed to have?
+
+Mikihara:
+I think it helps headaches and stiff shoulders.
+
+Mao:
+Hun? Nothing for pretty skin?
+
+Mizuki:
+But you shouldn't have to worry about that. You have pretty skin already.
+
+Mao:
+Really? But my skin gets some rough treatment in my line of work.
+Oh, that's right! Hey, Tessa! Stop being so shy and get out here, will you?
+
+Testarossa:
+I am sorry.
+I guess the thought of stepping out into the open air bath just makes me a little nervous.
+You're sure it's all right?
+
+Mao:
+Look! Don't worry. It's fine! Come over here and I'll wash your back for you.
+
+Testarossa:
+Oh, thank you.
+OW! OW ow ow...
+
+Mao:
+You really are one hard-core klutz, aren't you?
+
+Kaname:
+Tessa, you all right over there?
+
+Testarossa:
+Yes. But my butt hurts a little bit, though.
+
+Mao:
+Where? Let me see.
+
+Testarossa:
+Oh! Melissa! Stop!
+Please don't stare at me like that!
+
+Mao:
+It looks like it just scraped a bit.
+But you have really nice skin.
+
+Testarossa:
+That's off limits!
+
+Mao:
+Oh, come on, let me see there too.
+
+Testarossa:
+There too?
+
+Mao:
+What if I do this? Does it hurt?
+
+Testarossa:
+No, that's fine.
+
+Ono-D:
+Kazama!
+Hey, come on, man! Snap out of it!
+
+Kazama:
+Oh, man. She's the best ever.
+
+Ono-D:
+What are you blabbering?
+Hey, Kurz, Kazama collapsed over here!
+
+Kurz:
+That proves he's nothing but a kid.
+We're just getting started here!
+
+Ono-D:
+Uh, your nose...
+Yeah, anyway, what now?
+We can't see over unless we get on each other's shoulders.
+
+Kurz:
+That's where these come in!
+
+Kazama:
+An electric drill and a fiber-optic scope? Oh, I see.
+
+Ono-D:
+You carry around the same kinda stuff as Sousuke.
+
+Kurz:
+Don't worry. Well, here we go.
+
+Kyoko:
+Hey, Mao, Tessa says you know a bunch of foreign languages.
+How did you learn those?
+
+Mao:
+Men.
+M-E-N.
+
+Kyoko:
+Men?
+
+Mao:
+Well, the secret to improving is to learn while you're in bed.
+
+Kyoko:
+No way!
+
+Ono-D:
+Isn't it done yet?
+
+Kurz:
+Wait a sec. Something's not right.
+There's a metal plate behind the wall!
+
+Ono-D:
+What?
+
+Kazama:
+Maybe to keep guys from peeking?
+
+Kurz:
+This metal... It's what the military uses for armor.
+Fine. If that's how it is...
+
+Ono-D:
+Can you reach yet?
+
+Kurz:
+Almost.
+
+Ono-D:
+How about now?
+
+Kurz:
+Almost...
+
+Ono-D:
+I don't like having that on the back of my head!
+
+Kurz:
+Almost there.
+
+Girls:
+Huh?
+
+Kurz:
+Okay, why is there a security gun?
+What kind of inn is this?
+
+Ono-D:
+What's he talking about?
+
+Kazama:
+I guess it must be the latest security system or something.
+
+Kurz:
+What if I try to go around this side?
+Damn, there's no opening!
+
+
+
+Kyoko and Mao:
+Wow!
+
+Mao:
+This is like a feast!
+
+Kyoko:
+Yeah! You're right!
+
+Mizuki:
+It was worth coming all this way and the bath was so relaxing.
+
+Mikihara:
+Yes, it was nice.
+
+Mizuki:
+Wanna go back in later?
+
+Kyoko:
+Oh, I'll go too!
+
+Mizuki:
+Sounds like a plan. I agree.
+
+Kazama:
+Looks like we still have a chance.
+
+Kurz:
+We do. But normal methods won't break through that security system.
+
+Ono-D:
+So, we'll have to come up with a good plan.
+
+Kurz:
+I agree, rookie.
+But first, let's eat while we can.
+
+Kurz:
+We'll have to attack from a distance.
+We can get them with night-vision scopes from the summit facing the inn.
+The best observation points are here and here.
+
+Ono-D:
+How about here? It's faster going in a straight line, right?
+
+Kurz:
+No good. That's in the west, and the topography makes it sunny there, so the vegetation will be thick.
+There's no way we'll be able to capture our target.
+
+Ono-D:
+Oh, I see. You're pretty smart, you know that?
+
+Kurz:
+I'm a sniper! Knowing how to read a map is a specialty for me.
+
+Kazama:
+A sniper?!
+
+Kurz:
+All right, prepare to move out!
+
+Sousuke:
+Kurz.
+Going to the bath again?
+
+Kurz:
+That's right. Something wrong with that?
+
+Sousuke:
+There's nothing wrong. It's just that...
+
+Kurz:
+It's just what?
+
+Sousuke:
+Enjoy your bath like normal.
+Nice and normal.
+
+Ono-D:
+Kurz, let's go!
+
+Kurz:
+I'm coming.
+
+Testarossa:
+Umm. This one!
+
+Mao:
+Oh, yeah!
+
+Testarossa:
+The Joker again?
+
+Kaname:
+I guess he must really like you.
+
+Testarossa:
+Funny. I think the Joker fits you better!
+
+Kaname:
+What did you say?
+
+Mao:
+Hey, now...
+
+Kyoko:
+Hey, don't you think Ono-D and the guys were acting kind of down earlier?
+
+Mizuki:
+Oh, you were thinking that too?
+
+Kyoko:
+I wonder why?
+
+Mizuki:
+I don't know.
+Let's go, Ren.
+
+Mikihara:
+Be right there.
+
+Kyoko:
+Shinji didn't look too good.
+
+Mizuki:
+Think he got the chills?
+
+Ono-D:
+You have the chills?
+
+Kurz:
+Be careful what you step.
+
+Kazama:
+Hey, Kurz, at least let me use a flashlight, come on!
+
+Kurz:
+Not a chance. We'll be spotted by the enemy.
+
+Ono-D:
+But we gotta hurry. They'll be out of the bath by the time we get there.
+
+Kurz:
+Ono-D, Kazama, it's a trap!
+What's wrong, Kazama?
+
+Kazama:
+I think I stepped on a land mine!
+
+Kurz:
+You think what?!
+
+Ono-D:
+Land mine?! You mean that kind of land mine?
+Wait a second! What the hell kind of inn is booby-trapped with land mines?!
+No way! This has Sousuke written all over it!
+
+Kurz:
+Yeah. That bastard. Did he come here yesterday?
+He must have won over the inn-keeper and then set his traps.
+And Mao...
+
+Kazama:
+Pl-Please help me!
+
+Kurz:
+Don't worry! We won't abandon you!
+There it is.
+All right, Kazama. Shift your weight slowly now.
+Got it? Very slowly.
+Just a little more.
+
+Girls:
+Huh?
+
+Sousuke:
+What fools they are.
+
+Kazama:
+That's it! I can't take it any more!
+Even with infinite lives, I couldn't!
+
+Ono-D:
+Yeah, that's right. I mean, why are we still alive, anyway?
+
+Kurz:
+Kazama.
+I won't force you to do anything.
+But are you sure you wanna run away now?
+See, even I'm afraid of dying and sometimes I wanna run away.
+But I believe there are some things in this world that you just can't give up, even if you have to risk your life.
+Something that makes you feel, "As long as I can get through this, I can live my whole life with pride."
+Having something you can get that passionate about is important, don't you think?
+That's why I'm not going to give up.
+That's why I'm going to fight.
+
+Kazama:
+My hero...
+
+Kurz:
+It's not like me to say stuff like that.
+But, well anyway, I'm going to go on alone.
+Maybe you two [shouldn't].
+Wait, you mean, you guys...
+Time is running out. This is our last chance.
+I'm only going to tell you this once. So listen good.
+There's only one way to attack the situation.
+We have to climb this slope and get our eyes on the target directly.
+
+Kazama:
+But they have that security system.
+
+Ono-D:
+Yeah!
+
+Kurz:
+Right.
+That's why you two are going to climb the slope first as decoys.
+
+Ono-D:
+Hey, no fair!
+
+Kurz:
+There's nothing to worry about.
+There's about a two-second delay between the time those guns identify their target and the time they fire.
+And in those two seconds, I'll find where they are, and finish them off with this!
+
+Kazama:
+A VSS Vintorez!
+But something like that is almost impossible!
+
+Kurz:
+I can do it. Trust me.
+
+Kurz:
+Now!
+Where are you? Come on out!
+Gotcha!
+Don't stop! Keep going!
+Crap!
+Damn, another land mine?
+Kazama, get down! Now!
+Hey, are you all right, Ono-D?
+Son of a...!
+
+Kazama:
+Kurz!
+Kurz, are you all right?
+
+Kurz:
+I messed up.
+
+Kazama:
+Come on, you can't wimp out now! Your butt just got burned, that's all!
+
+Kurz:
+It's all right. I know the limits of my body better than you can imagine, so...
+
+Kazama:
+Kurz?!
+
+Kurz:
+What are you hanging around here for?
+Hurry or you'll miss the target!
+
+Kazama:
+But.... but...
+
+Kurz:
+Go, Kazama! Don't let our deaths be for nothing!
+If you don't move it, I'll lose any respect I have for you! Now go!
+Go and burn the image of those girls into your mind!
+Pass it on to the next generation!
+Tell them the tale of the victory we earned here!
+Go on! Go! Don't just stand there! Run! Now!
+What are you doing? Hurry! And you call yourself a man? Kazama!
+Yes. That's it. Now run, Kazama. Go run up that slope...
+
+Kazama:
+I can see it! I can see it!
+Kurz, I can see the enemy!
+I got it! The target! It's right in front of me!
+
+Sousuke:
+The men's and women's baths switch places at 10:00.
+
+Kagurazaka:
+It seems like only yesterday that Miss Testarossa came here as an exchange student.
+But it's time for her to go now.
+Well, I know it was only for a short time, but did you have fun while you were here?
+
+Testarossa:
+Yes.
+
+Kyoko:
+Um, excuse me.
+All of us have prepared something for you today.
+
+Kagurazaka:
+What is it, Kyoko?
+
+Kyoko:
+This is for you!
+Best of luck back home too!
+
+Testarossa:
+Thank so much. I'll do my best. Really, thank you.
+Everybody, I'll never forget this!
+Thank you, everyone. I really, really mean it.
+
+Testarossa:
+Good work. I'll be taking command now.
+
+Madukas:
+Aye aye, Captain!
+The captain will now resume command!
+
+Testarossa:
+Start the engine.
+
+Madukas:
+Start the engine!
+
+Sailor:
+Starting engine!
+Run a performance check on all links.
+
+Madukas:
+Captain.
+
+Testarossa:
+What is it?
+
+Sailor:
+This is Damage Control. Preset the JDA.
+
+Madukas:
+How was your R&R?
+
+Testarossa:
+It was nice. Very nice.
+
+Sailor:
+Airlock check complete.
+
+Testarossa:
+I will endeavor to do everything I can to protect them, no matter what.
+
+Sailor:
+Commencing final check.
+A Group: Check.
+
+Madukas:
+Well, I'm glad to hear that.
+
+Sailor:
+B Group: Check.
+C Group: Check.
+Awaiting XO approval.
+
+Madukas:
+All checks complete, ma'am.
+
+Testarossa:
+Very well. Ahead at one-third top speed!
+
+Madukas:
+Aye, ma'am. All ahead at one-third top speed!
+
+Sailor:
+Ahead at one-third speed!
+
+Testarossa:
+I will protect them, no matter what.
+
+Sousuke:
+And that's everything.
+
+Kaname:
+Well, she's gone, huh?
+
+Sousuke:
+Yeah.
+
+Kaname:
+You feel relaxed?
+
+Sousuke:
+I guess so.
+
+Kaname:
+But, you're actually gonna miss her a little, aren't you?
+
+Sousuke:
+No, not really.
+
+Kaname:
+Me too.
+I think I'm gonna miss her a little bit too.
+
+
+（次回予告）
+
+Kaname:
+Duty and humanity. A world of manly chivalry.
+
+Kurz:
+Hey, missy, you better watch your tongue.
+
+Kaname:
+Patience, patience and more patience!
+
+Kurz:
+What!? Give up without a struggle!
+
+Kaname:
+A light snow that soaks the heart!
+
+Kurz:
+You gonna let me handle this or what?
+
+Kaname:
+Shut up!
+
+Sousuke:
+Next Time, "A Fancy Without Honor or Humanity."
+We dedicate this story to the late director Kinji Fukasaku.
+
+Kaname:
+Stop it! I don't think he'd appreciate that!
+  

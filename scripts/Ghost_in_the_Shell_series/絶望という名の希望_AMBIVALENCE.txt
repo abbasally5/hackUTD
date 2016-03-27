@@ -1,0 +1,313 @@
+
+Chief of Security Section: Hm!? We've got an intruder!?
+
+Security Operator: Virus intrusion in defensive barrier. Inflection spreading.
+
+Security Operator: Conflict with antibodies. Enemy probes have breached outer wall.
+
+SS Chief: Reinforce allocations to peripheral defenses. Cut the infected sectors loose and use as decoys!
+
+Security Operator: Status. Mutual destruction in progress. 14 variants neutralized. 2 variants alive. 1 variant unidentified.
+
+SS Chief: Unidentified? What do you mean!? Verify that!
+
+Security Operator: Scans indicate that it's inert and unresponsive. It seems to be a decoy.
+
+SS Chief: Change the antibodies' version then analyze it. Don't let the intruder spot our response protocols.
+
+Security Operator: Intruder is beginning to gain control of proxies. Unable to physically disconnect circuits. Viruses that have gained access are propagating.
+
+SS Chief: Damn it! Who the hell are these cyber pirates?
+
+Security Operator: #1 defense line is 60% eliminated.
+
+SS Chief: Request backup from Poseidon's Decatoncheir!
+
+
+DU: The Hope Named Despair; AMBIVALENCE
+
+
+Batou: Damn! Too late!
+
+Togusa: You, call an ambulance now! Helping the wounded takes top priority.
+
+Borma: It's the same, all right. No doubt about it.
+
+Batou: A suicide bomber, huh?
+
+Borma: Yeah, using plastic explosives with nails and screws crammed into it.
+
+Togusa: Damn! First comes a warning, then a random act of terrorism? What's the deal with that?
+
+Ishikawa: The reason they're doing this is probably to get a reaction the maximum fear, that's what I'd think.
+
+Togusa: They want maximum fear?
+
+Ishikawa: That's right. Just like the Individual Eleven, they issue a warning ahead of time, then they attack indiscriminately with bombing after bombing. It's clear that they're particularly nasty type that finds meaning in these vicious actions.
+
+Togusa: So based on what you're saying, we can expect at least one more suicide bombing?
+
+Ishikawa: If we believe their warning, then yeah.
+
+Togusa: Son of a bitch. What the hell is happening to this country, huh? Is something starting to go insanely wrong somewhere?
+
+Ishikawa: I suppose so. At this rate, we won't have enough manpower to keep pace.
+
+Batou: Chief, we'll never be able to catch up to the bombers this way. Haven't you found any hints about times or places in the warning?
+
+Aramaki: At this point, the only thing we have is an e-mail sent to the Prefectural Police that reads, "We will set off 5 suicide bombings inside Niihama today." If it follows as the same pattern as the ones in Fukuoka last week, the final blast will definitely happen here in Niihama, too. Turn over the crime scene to the local authorities and take whatever measures necessary to stop the next bombing.
+
+Batou: Like what? For instance, arrest everybody in the city with a prosthetic body?
+
+Aramaki: These may be haphazard acts of terrorism, but there ought to be some method to them.
+
+Batou: Roger. By the way, where's the Major at a time like this?
+
+Aramaki: She says she's conducting a top-secret dive investigation.
+
+Batou: Top-secret? Hey, leave this to the local cops and the old-timers. We're on the move. Borma, if you find anything, give us a holler.
+
+Togusa: What's up this "human bomb" crap, anyway? This isn't some anarchist state that's under foreign rule.
+
+Batou: It means this country isn't so peaceful that you can speak your mind like that anymore. Like everyone else.
+
+Togusa: I'll admit that the refugee issue is a powder keg ready to blow and probably will someday, and the fact that the individualists are resorting to such extreme measures might be because the future political situation of this government appear so uncertain.
+
+Batou: Damn! It could've been refugees! I missed that.
+
+Batou: Chief, I need you to do some dig in. Get information on the suspects in both last week's bombings and Fukuoka and the suicide bombings over the past few hours.
+
+Aramaki: Hm? The bodies are damaged beyond recognition. About all we know is that each of them had relatively high percentage of prosthetics.
+
+Batou: No, that's not what I mean. They probably showed up on the IR-System or security cameras while they were still alive, I want you to pull all those records for me.
+
+Aramaki: Understood. I'll see what I can do.
+
+Togusa: Boss, what's this all about?
+
+Batou: Bombings like this one, they aren't large-scale affairs, nobody's been forced and carrying 'em out commanded to do by their superiors. They're suicide bombers, they have no reason to keep on living because they've lost all hope so they resort to acts of desperation.
+
+Motoko: Chief, are things okay over there? We seem to be playing catch up and loose.
+
+Aramaki: We'll grab the next one in time. How are things going on your end?
+
+Motoko: The agent Tachikomas are working out fine. I don't need to worry about range-related signal loss now. We have no chance of winning, but it doesn't look like we'll lose, either.
+
+Tachikoma: Too true, too true.
+
+Aramaki: Don't do anything flashy.
+
+Motoko: I'll try. Oh, I'll exercise self-restraint, anyway.
+
+Motoko: Tachikoma, is my sensorium mask working?
+
+Tachikoma: I'm done with planning out the shortest route.
+
+Tachikoma: Mask array activation complete.
+
+Tachikoma: I designated the emergency lock on the security room.
+
+Security Operator: Intruder is utilizing 512 attack barrier variants. Deploying in level 1.
+
+Security Operator: Chimera virus still progressing. Current rate of progression, 52%.
+
+Security Operator: 403 are destruct-mobile types. 82 are chimera components. 27 are explosives and decoys.
+
+Security Operator: Activity level of the supplemental barrier from Decatoncheir is maxing out at 97%.
+
+Security Operator: Defense line back up to 70%. 22% engaging intruder, 8% corroded.
+
+Security Operator: Of the enemy's 512 attack barrier variants, 7 have infiltrated up to level 2.
+
+Security Operator: Request decoys.
+
+Security Operator: 108 of the enemy's 403 offensive barrier have been eliminated.
+
+SS Chief: We've rallied back up...
+
+Security Operator: Functionality down 30% due to enemy incusion. Incusion line still undetermined. Security line, 40% eliminated. Attack barriers, 28% eliminated.
+
+Motoko: If you let AIs handle everything, and even the mice will outsmart you.
+
+Operator: We've received a report from the Cyber Police, sir. "People suspected to being the suicide bombers have been identified on footage collected from the locations where the incidents occurred." See images on the screen.
+
+Aramaki: Very well. Borma, how's your analysis of the explosives coming?
+
+Borma: Judging from the residue, it looks like C-4 was used in each case.
+
+Aramaki: Can you profile where they got it or the manufacturing method?
+
+Borma: I can probably tell you more if I could get this stuff over to SPring-8.
+
+Aramaki: I see.
+
+Ishikawa: Chief, I discovered some interesting data on the shops that were blown up. It turns up the first 2 buildings have being used as assembly halls where individualists would meet, the other 2 were owned by groups that were making money by operating under the cover of the Refugee Action Policy. This restaurant has an identical background, too. Batou's take on the situation might be right on the money.
+
+Aramaki: Was the Prefectural Police's Public Security Bureau aware of this?
+
+Ishikawa: There's no matching data on the public net.
+
+Aramaki: I see. Contact the local police at once. Have them send patrols out to individualist meeting places, mob-affiliated offices and restaurants and any other locations where money is being made off of the Refugee Action Policy. If they see anyone around 20 years of age who appears to have come from a refugee camp, question 'em immediately, regardless of gender. And exercise extreme caution around any person with a high prosthetics percentage.
+
+Operator: Understood.
+
+Batou: So, it actually is the refugees.
+
+Saito: That really blows me away. Because if anything you'd figure the citizens would be the ones wed a problem with them.
+
+Togusa: Considering their nature, that's the very reason why an individualist group like the Individual Eleven would enter the picture. Maybe this is a backlash against them.
+
+Batou: Well, now that you brought it up, I'm willing to bet it's probably true, so it's reasonably safe to assume the refugee powder keg has now been lit.
+
+Togusa: The whole idea of killing yourself to make a point something, I simply don't get it. It's completely crazy.
+
+Batou: On that note, let's get back to business. What were the intervals between the bombings, going from the first to this 4th one?
+
+Saito: It was noon sharp when they issued the warning for the first bombing. The suicide run on the building occurred 13 minutes later. The next one took place 38 minutes after the first. The interval increased a little for the 3rd one, happening about 2 hours later at 3:23. The gap was even wider for the 4th bombing, which was at 7:11.
+
+Batou: Then that'll be wider for the next one. These are bombings by serial suicide, meaning they occur in the order of bomber's willingness to die. Let's hope that these freaks are growing reluctant so we can gain some time before the next one.
+
+Togusa: I'm worried, Boss, you know way too much about this kind of creepy stuff.
+
+Batou: Hm.
+
+Togusa: Do you mind if I ask you one more thing?
+
+Batou: What's that?
+
+Togusa: If their objective is the greatest amount of fear, don't you think that their actions would be a lot more effective if they'd just carried out the bombings without issuing a warning? Why do you suppose they always raise a red-flag beforehand?
+
+Batou: Who knows? Maybe the only thing they wanted was to tell someone so that somebody knew what their last act on this earth was.
+
+Motoko: Just as I expected. We confirmed from Goda's history that he had a fat pipeline to Poseidon, but I had no inclining it was manualized to this extent. Is this a trap? Or is it a ...
+
+Motoko: Deploy root array along all 3 axes. Have all attack barrier variants standing by.
+
+Tachikoma: Deployment complete, Major.
+
+Motoko: Back me up with all your functions on full. Watch out for chimera viruses.
+
+Tachikomas: Yes, ma'am.
+
+Motoko: Okay, do a sensorium projection into the heaviest barrier. Upload my Chroma file into the system before their security shows up. Go to high combat alert using 8 arrays.
+
+Tachikoma: All tracker mines equipped with virus arrays have gone active.
+
+Tachikoma: We've taken over the cyberbrains of 12 SAT people.
+
+Motoko: Do a final perimeter security check.
+
+Tachikoma: The activity control viruses we uploaded into 45 security personnel are functioning.
+
+Tachikoma: All attack barrier variants active. No conflicts detected.
+
+Motoko: Okay, we should have until somebody notices the freeze we put on their security people. You three monitor the 45 cyberbrains, if we're discovered, notify me immediately.
+
+Tachikomas: Understood, ma'am!
+
+Midoriyama: Something wrong, sir?
+
+Goda: No, no. It's nothing.
+
+Chroma: So, this is the Decatoncheir I've heard so much about. Is it running a simulation, using a virtual personality it constructed out of amount of data? Identify yourself.
+
+Goda: My name is Kazundo Goda. I was involved in the molecular engineering robot project at Greater Japan Research and Technology that created radioactive fallout scrubbers, among other things.
+
+Chroma: Fallout scrubbers? You must mean the Japanese Miracle. Were you an engineer?
+
+Goda: No, not at all. Actually, my brain specializes in linguistic operations. After two great wars, this country once again rose to prominence as an economic superpower thanks to the radioactivity scrubber technology for which I acted as a producer. At the time, I entertained every expectation of rising to the upper ranks of men, as well. However, in much the same way that this country was unable to garner a position of distinction in the international community, I too found that I couldn't hold a significant post within the system.
+
+Chroma: What are you saying then, that the society didn't place any concrete value on a paper-pusher, a man who was all talk?
+
+Goda: It's not quite so simple. A long long time ago, I noticed that the problem in our current social system is that it suffers from an inherent and fatal flaw in its structure.
+
+Chroma: Which is?
+
+Goda: The degradation of information, which by all rights should not be degradable and the illusory originality commonly known as individuality, these are the chinks of the mechanism that trigger synchronization all too easily within our present social structure. I call it, "acts of creation by the name of consumption."
+
+Chroma: It sounds like a conclusion that would be reached by someone who's barricaded himself in the net.
+
+Goda: You're referring to a standalone complex, I believe. Well, as luck would have it, I possessed a rather high tolerance for solitude. However, it took me a very long time to realize something, my contributions to society hadn't been recognized the reason I wasn't given a kudos I deserved from the system was due to the mental disposition I'd been born with. It's sadly prevented them from doing so.
+
+Chroma: In other words, you had an inferiority complex.
+
+Goda: No, the problem's deeper, it lay in my very existence. In every society, there are certain personalities that are longed for, characteristics sought by the system itself. Most of us even lust after them. But you know it's funny because in spite of this, they're totally unaware of that longing.
+
+Chroma: And you're satisfied with the man you are now?
+
+Goda: More than I ever expected. Life often surprises us with wonderous revelations. In fact, here's one. Were you aware that the Ghosts whose existence is paradoxically proven by the physical body, assumes the appearance of that body?
+
+Chroma: Not really. There was a thinker who looked at revolutions and saw in them his own reason for being, he tried to practice what he preached, though.
+
+Goda: You're alluding to Patrick Sylvester? There was a time when I, too, idolized his thinking. I once looked up to my hero and whole-heartedly hoped to someday emulate his charisma. "I am a man who stands above other men." That notion has filled my head, driven me, been my burning obsession for as long as I can remember. Ultimately my physical form stood in the way, but fate was on my side. Caught in an accident that left me wandering between life and death, my body underwent transformation and my Ghost unexpectedly changed as well. Just like the author you mentioned, a man who stumbled upon a revolution, I, too, was given a mission. That mission became my newly-found purpose in life, I was to rebuild the system known as the state.
+
+Chroma: An advocate of state reform? Or just a guy with delusions of grandeur?
+
+Goda: I'll tell you what this country is searching for right now. It's the return to a Shang-Gri La way of life that is built entirely on the backs of outsiders. Although occurring by accident, there was a period in this country's history in which this had come to pass. Even now, those without motive yearn for this without realizing it. All I'm doing is giving them what they want.
+
+Chroma: And making yourself out to be a hero in the process?
+
+Goda: I'm not interested in things like that now. I realize what my role is and it's to be the producer of that hero. My purpose is to create an activist who will represent the unmotivated and fulfill the desire of the people. One who will give them what they crave for but are unable to put a voice to.
+
+Chroma: "Shang-Gri La as a result of consumption." Isn't this Japan as it was in the cold war? Well then, I'd like to know who this hero is that you say you're producing for society. Is it the Individual Eleven?
+
+Tachikoma: Uwgh! Oh, no...!
+
+Goda: Hey, what's the matter? Hm? Contact security. It appears we've got a cyber pirate incursion. Took them longer than I expected.
+
+Tachikoma: Major! They've spotted our break-in!
+
+Chroma: Understood. You're trying to manipulate and direct the thinking of the general public by setting up the refugees to be an imaginary enemy of the state, an easy target. Am I right?
+
+Goda: It's necessary to guide the people's thinking as is bending the law in order to do that, the end justifies the means as they say. This theory applies equally to terrorists and democratic nations.
+
+Chroma: You're telling me that the public consensus is to get rid of the refugees?
+
+Goda: Humility is the chief virtue of our citizens.
+
+Tachikoma: Major!
+
+Chroma: I heard you. One last thing. What about Public Security Section 9?
+
+Goda: Uh, yes. What about them? The cycle of hatred based on absence can't be broken now. I expected that they'll straddle the line between the will of the people and their own sense of justice, gnashing their teeth all the while.
+
+Tachikoma: Major, you'll be in trouble if you don't log out right now!
+
+Chroma: Damn, out of time.
+
+Batou: We just arrived at Gate 6!
+
+Aramaki: When the Prefectural Police tried to question some girl, she fled into the subway, threatening to blow herself up. I've had them stop the trains, but most have entered the station building with all their passengers aboard. Do whatever it takes to stop her!
+
+Batou: You go that way!
+
+Batou: Where's the girl!
+
+Station Staff: Uh, uh...
+
+Togusa: I found her. She's a refugee, all right. Stay where you are! Okay, now. Take it easy. Put your hands behind your head. Nice and slow. Good. Nobody's gonna hurt you. Stay calm. That's right.
+
+Girl: Huh... Ah...!
+
+Batou: Move it!
+
+Togusa: Why'd you shoot!?
+
+Batou: You dumbass!! You see that! It's a detonator! Get her an ambulance. There's a bomb in her stomach, so be sure to keep her completely isolated. That clear?
+
+Policeman: Y-Yes, sir.
+
+Aonuma: Damn it! Where's the security!? Check the building top to bottom. Looks like the cyber pirate used decoys to infiltrate the building in person.
+
+Midoriyama: What were they doing? Reactivate the SAT team!
+
+SS Chief: Uh...
+
+Goda: Check the viruses. Once the defense array is rebooted and operating properly, have the remainder of the work completed at Poseidon. The pirate won't show here again.
+
+Aramaki: Well, you succeeded in stopping the last one, hm?
+
+Batou: Just barely. This is gonna have repercussions, though. This is a loud and clear declaration of war from the refugees.
+
+Motoko: I hate to admit it, Batou, but your take on this was right. There is every likelihood that the Individual Eleven is a group of individualists produced by Goda. And their objective is a refugee uprising. I imagine their primary goal is to create an autonomous region for them inside Japan. We have zero in the wins column so far. The cycle of hatred that Goda has in mind is definitely starting.
+  

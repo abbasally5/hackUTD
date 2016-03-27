@@ -1,0 +1,988 @@
+
++ 
+ ws:start:WikiTextHeadingRule:0:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:2:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:4:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:6:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:8:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:10:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:12:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:14:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:16:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:18:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:20:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:22:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:24:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:26:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:28:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:30:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:32:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:34:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:36:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:38:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:40:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:42:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:44:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:46:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:48:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:50:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:52:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:54:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:56:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:58:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:60:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:62:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:64:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:66:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:68:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:70:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:72:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:74:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:76:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:78:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:80:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:82:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:84:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:86:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:88:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:90:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:92:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:94:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:96:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:98:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:100:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:102:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:104:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:106:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:108:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:110:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:112:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:114:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:116:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:118:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:120:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:122:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:124:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:126:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:128:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:130:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:132:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:134:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:136:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:138:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:140:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:142:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:144:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:146:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:148:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:150:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:152:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:154:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:156:&lt;h6&gt; 
+ ws:start:WikiTextHeadingRule:158:&lt;h6&gt; 
+
+
++++++++++++++++++++++++++++++++++++++++
+
+14
+00:00:18,250 --> 00:00:20,190
+Shirou’s not around.
+
+15
+00:00:24,090 --> 00:00:26,690
+If I can just stay on the defensive and wait her out ...
+
+16
+00:00:27,800 --> 00:00:28,760
+Saber!
+
+17
+00:00:29,770 --> 00:00:30,730
+No, Saber! Get down!
+
+18
+00:00:30,970 --> 00:00:32,020
+Shirou?
+
+[Saber's reminiscences]
+
+
+
+19
+00:03:22,800 --> 00:03:24,070
+So? How's Saber doing?
+
+20
+00:03:24,870 --> 00:03:28,830
+Judging from her condition, I doubt she'll be waking up anytime soon.
+
+21
+00:03:29,880 --> 00:03:31,280
+Oh…
+
+22
+00:03:32,650 --> 00:03:34,640
+It was a good thing you were here, Tohsaka.
+
+23
+00:03:34,920 --> 00:03:38,980
+I didn't have anything to do with this. Saber's condition isn't getting better, Shirou.
+
+24
+00:03:39,560 --> 00:03:41,420
+Would you mind explaining what happened?
+
+25
+00:03:42,020 --> 00:03:43,790
+Well, we took out Rider,
+
+26
+00:03:44,460 --> 00:03:46,260
+I still can't believe it.
+
+27
+00:03:47,000 --> 00:03:50,760
+Saber used her Noble Phantasm, and then when it was over, she collapsed.
+
+28
+00:03:52,200 --> 00:03:54,500
+Hmm…she used her Noble Phantasm, huh.
+
+29
+00:03:54,740 --> 00:03:58,830
+You are lucky. I’m going to be nice and not grill you on the specifics of Saber’s power.
+
+30
+00:03:59,370 --> 00:04:02,240
+As it is, you two have a much bigger problem to worry about right now.
+
+31
+00:04:02,950 --> 00:04:04,570
+What are you talking about?
+
+32
+00:04:04,910 --> 00:04:07,140
+The thought should have at least crossed your mind.
+
+33
+00:04:07,780 --> 00:04:10,750
+If you don’t figure something out quick, Saber is going to disappear.
+
+34
+00:04:11,490 --> 00:04:12,890
+Disappear?
+
+35
+00:04:13,190 --> 00:04:16,160
+Saber's mana is nearly gone, she has hardly anything left.
+
+36
+00:04:17,090 --> 00:04:19,420
+I have no idea what kind of Noble Phantasm she used last night,
+
+37
+00:04:19,530 --> 00:04:23,090
+but whatever it was, it almost depleted the mana she has.
+
+38
+00:04:24,170 --> 00:04:28,760
+Servants are essentially spiritual entities, they can’t exist in the physical realm without mana,
+
+39
+00:04:30,010 --> 00:04:33,460
+so if Saber’s runs out, she’ll fade away.
+
+40
+00:04:34,510 --> 00:04:37,600
+Yeah, but she’s been in fights before and she’s managed to come out okay.
+
+41
+00:04:38,750 --> 00:04:42,150
+She said all she needed to do was sleep, then she'd be able to recover.
+
+42
+00:04:42,620 --> 00:04:45,710
+Because she started this war with inordinate amount of mana.
+
+43
+00:04:45,820 --> 00:04:48,980
+Keep it in perspective, it’s not that she doesn't have any mana left at all.
+
+44
+00:04:49,090 --> 00:04:52,290
+She should be able to create enough to maintain her physical state.
+
+45
+00:04:52,530 --> 00:04:54,260
+So she’s gonna be okay?
+
+46
+00:04:54,560 --> 00:04:56,860
+Yeah, she’s gonna be okay but that’s about it.
+
+47
+00:04:57,800 --> 00:05:00,860
+Because you're unable to replenish her mana,
+
+48
+00:05:01,270 --> 00:05:04,500
+the next time she has to fight someone, she’ll have to attack them in a rather compromising physical condition.
+
+49
+00:05:05,040 --> 00:05:07,840
+If she uses her Noble Phantasm, she'll disappear for sure.
+
+50
+00:05:07,940 --> 00:05:10,810
+Alright fine, then all she has to do is not use it again.
+
+51
+00:05:11,380 --> 00:05:15,510
+No Servant can survive the Holy Grail Wars without the Noble Phantasm, Shirou.
+
+52
+00:05:15,920 --> 00:05:17,210
+Really?
+
+53
+00:05:17,320 --> 00:05:21,260
+Really. Look! There are only two ways a wounded Servant can recover.
+
+54
+00:05:22,260 --> 00:05:26,190
+The first is to have their Master replenish their mana;
+
+55
+00:05:26,660 --> 00:05:29,930
+The other is less attractive, it requires forcing the Servant to replenish their mana on their own.
+
+56
+00:05:30,030 --> 00:05:36,460
+Are you talking about doing what Rider did?
+
+57
+00:05:37,170 --> 00:05:40,340
+You want Saber to build her strength back by ripping the souls out of the innocent people?!
+
+58
+00:05:37,170 --> 00:05:40,340
+That’s ridiculous! Saber would never agree to do something like that!
+
+59
+00:05:40,710 --> 00:05:47,210
+No, she probably wouldn’t. Well then, can you think of a way that allows you to provide with the mana she needs?
+
+60
+00:05:48,450 --> 00:05:53,410
+No of course not. If I could do that I would have done it already. Unfortunately, I don’t have that kind of power.
+
+61
+00:05:54,660 --> 00:05:56,150
+Let’s look at this in another way. When you summoned Saber,
+
+62
+00:05:56,490 --> 00:06:00,620
+some sort of connection must’ve been created between the two of you.
+
+63
+00:06:02,000 --> 00:06:08,370
+Assuming that connection still exists, you may have a chance here.
+
+64
+00:06:02,000 --> 00:06:08,370
+I have to be honest I won’t sugarcoat this, it's not pretty.
+
+65
+00:06:09,000 --> 00:06:13,200
+You may have come to this conclusion on your own.
+
+66
+00:06:13,540 --> 00:06:15,740
+As ugly as it is, the only option you have, the only thing you can do to save Saber,
+
+67
+00:06:15,880 --> 00:06:18,570
+is to use your Command Seal and force her to attack someone.
+
+68
+00:06:18,950 --> 00:06:21,010
+You're asking me to kill innocent people?
+
+69
+00:06:21,120 --> 00:06:23,640
+It’s your only way avoiding the worst case scenario.
+
+70
+00:06:24,050 --> 00:06:27,650
+If you don't want to lose Saber, then use a Command Seal.
+
+71
+00:06:29,460 --> 00:06:31,430
+But, I can't do that...
+
+72
+00:06:41,000 --> 00:06:43,490
+Saber's nearing her breaking point.
+
+73
+00:06:43,940 --> 00:06:48,340
+You need to accept this fact before you're attacked by another Servant and it’s too late.
+
+74
+00:06:49,780 --> 00:06:56,620
+Make her attack people by using a Command Seal? What would I do? Is that really the only way to save you?
+
+75
+00:07:33,820 --> 00:07:37,620
+Whosoever pulleth this sword from the stone,
+
+76
+00:07:38,430 --> 00:07:42,120
+shall be the rightful king of whole Britain.
+
+77
+00:07:43,330 --> 00:07:49,600
+Before you attempt this, Arturia, I suggest you give great thought and regards to what you are about to commit to.
+
+78
+00:07:50,570 --> 00:07:56,810
+Once you take that sword in hand, there’s no returning. You’ll no longer be a mere human-being.
+
+79
+00:07:59,150 --> 00:08:03,980
+I know. I have come here to free the sword on my own volition.
+
+80
+00:08:37,220 --> 00:08:40,920
+Our king is the god of battle! He will always be found leading the charge!
+
+81
+00:08:41,020 --> 00:08:42,280
+And he has never tasted defeat!
+
+82
+00:08:42,420 --> 00:08:45,550
+No one can stand in King Arthur's way!
+
+83
+00:08:45,660 --> 00:08:49,490
+His countenance has remained unchanged ever since he drew the sword of choosing!
+
+84
+00:08:49,630 --> 00:08:51,000
+Our king does not age!
+
+85
+00:08:51,100 --> 00:08:54,130
+Truly, he is the embodiment of the dragon!
+
+86
+00:08:58,240 --> 00:09:01,900
+What king? Who are these guys talking about?
+
+87
+00:09:03,410 --> 00:09:04,840
+That's Saber!
+
+88
+00:09:06,180 --> 00:09:09,150
+That's not the same sword she used last night...
+
+89
+00:09:11,120 --> 00:09:13,950
+How come she doesn't have that sword now?
+
+90
+00:09:20,300 --> 00:09:22,990
+Oh, man...did I fall asleep?
+
+91
+00:09:26,870 --> 00:09:29,860
+I saw a side I've never seen her in that dream.
+
+92
+00:09:30,210 --> 00:09:33,970
+Can dreams really tell you that kind of stuff?
+
+93
+00:09:36,480 --> 00:09:40,880
+It’s weird, ever since I saw that sword I feel like I'm on fire.
+
+94
+00:09:52,290 --> 00:09:55,060
+Please Saber, don't disappear on me.
+
+95
+00:09:55,430 --> 00:09:59,760
+The only thing you can do to save Saber is to use a Command Seal and force her to attack someone.
+
+96
+00:10:20,220 --> 00:10:24,590
+What do you want, huh? I won't answer questions even about archery.
+
+97
+00:10:25,290 --> 00:10:28,790
+Well good, because as it turns out, I could care less about that damn bow.
+
+98
+00:10:29,630 --> 00:10:32,530
+I just thought I'd stop by and see what you were up to, that’s all.
+
+99
+00:10:33,740 --> 00:10:36,260
+As you can clearly see, I’m checking the perimeter.
+
+100
+00:10:37,070 --> 00:10:39,440
+I've finally recovered from the injuries I received from Saber,
+
+101
+00:10:41,010 --> 00:10:43,770
+but I doubt I will be kept on watch duty much longer.
+
+102
+00:10:44,810 --> 00:10:47,680
+Because after all, I am a Servant employed to Rin.
+
+103
+00:10:48,550 --> 00:10:51,640
+He's right. I can’t be indecisive any more.
+
+104
+00:10:51,750 --> 00:10:54,590
+Now that he and Tohsaka have both fully recovered,
+
+105
+00:10:54,720 --> 00:10:56,820
+I’ve gotta make a decision.
+
+106
+00:10:56,990 --> 00:10:58,980
+I heard what happened to Saber.
+
+107
+00:10:59,090 --> 00:11:01,260
+A Servant summoned by a Master who can't replenish their mana has no chance of survival.
+
+108
+00:11:05,170 --> 00:11:07,290
+She knew all along this would happen, Shirou.
+
+109
+00:11:08,540 --> 00:11:11,160
+Think what you want, I'm not gonna let Saber disappear.
+
+110
+00:11:11,270 --> 00:11:13,710
+Obviously I need to spell this out for you.
+
+111
+00:11:13,810 --> 00:11:18,010
+Saber must have known that if she used her Noble Phantasm she would disappear.
+
+112
+00:11:18,350 --> 00:11:22,650
+Knowing the outcome, she'd probably intended never to use it.
+
+113
+00:11:23,420 --> 00:11:27,150
+Therefore there can only be one reason she called up her Noble Phantasm.
+
+114
+00:11:27,560 --> 00:11:31,150
+Saber decided to protect you rather than protect herself.
+
+115
+00:11:31,560 --> 00:11:33,650
+You should never forget that.
+
+116
+00:11:50,350 --> 00:11:54,680
+In order to defeat the other Masters and bring the Holy Grail Wars to an end,
+
+117
+00:11:54,820 --> 00:11:56,880
+I have to have Saber with me.
+
+118
+00:11:58,920 --> 00:12:03,880
+Even if this war wasn't going on, I wouldn't want to lose Saber.
+
+119
+00:12:06,960 --> 00:12:11,920
+If I use this, I can force Saber to carry out my orders whether she wants to or not.
+
+120
+00:12:12,800 --> 00:12:15,130
+I could force her to survive by attacking people
+
+121
+00:12:15,370 --> 00:12:17,500
+and drain their mana, just like Rider did.
+
+122
+00:12:19,610 --> 00:12:22,670
+Yeah right, I can’t make her do something like that!
+
+123
+00:12:22,780 --> 00:12:25,010
+I didn't expect you to be here.
+
+124
+00:12:25,110 --> 00:12:26,340
+Illya?
+
+125
+00:12:26,580 --> 00:12:28,520
+Good to see you again, Shirou.
+
+126
+00:12:29,780 --> 00:12:32,410
+Hey you, something wrong? You look really sad.
+
+127
+00:12:32,520 --> 00:12:35,220
+Did you come all the way here by yourself again?
+
+128
+00:12:36,020 --> 00:12:39,620
+Wait, hold on, I'm sorry Illya, but I don't have time to play with you today.
+
+129
+00:12:40,560 --> 00:12:43,260
+Saber’s about to fade away, isn't she?
+
+130
+00:12:43,630 --> 00:12:44,620
+Illya?!
+
+131
+00:12:47,600 --> 00:12:52,200
+Shirou, the reason Rider’s master got away is because you are always so nice.
+
+132
+00:12:53,780 --> 00:12:57,210
+When you beat somebody, you just gotta kill him and be done with it.
+
+133
+00:12:57,910 --> 00:13:00,570
+Wait a minute, were you on top of that building last night too?
+
+134
+00:13:06,050 --> 00:13:07,680
+Yep, I sure was!
+
+135
+00:13:07,920 --> 00:13:08,820
+You were?
+
+136
+00:13:08,920 --> 00:13:12,950
+But I was watching from the sidelines, I was inside the building.
+
+137
+00:13:14,230 --> 00:13:15,200
+What are you doing..?
+
+138
+00:13:15,330 --> 00:13:17,460
+Wow, you're already paralyzed?
+
+139
+00:13:17,600 --> 00:13:20,160
+I can’t believe it, Shirou. You don't have any defenses at all, do you?
+
+140
+00:13:20,670 --> 00:13:24,570
+I did’t think I‘d be able to catch you this easily.You're so cute!
+
+141
+00:13:26,140 --> 00:13:27,200
+Illya...
+
+142
+00:13:28,640 --> 00:13:33,710
+Don’t try moving, it just a waste of time, okey? Pretty soon, you won't be able to talk, either.
+
+143
+00:13:33,850 --> 00:13:39,250
+But I wouldn't worry about that, I didn't come here to talk today, anyway.
+
+144
+00:13:39,620 --> 00:13:41,610
+You're gonna kill me?
+
+145
+00:13:45,190 --> 00:13:49,390
+Saber's gonna be gone pretty soon, so let us just hurry up and get it over.
+
+146
+00:13:50,170 --> 00:13:52,760
+Sweet dreams, Shirou.
+
+147
+00:13:55,900 --> 00:13:57,630
+A golden sword...
+
+148
+00:13:57,840 --> 00:14:01,210
+That sword was meant for nobody but her.
+
+149
+00:14:01,780 --> 00:14:05,230
+It's not like I want it or anything. It's just that it's so beautiful.
+
+150
+00:14:06,080 --> 00:14:09,910
+If it's possible, I really like to hold that thing someday.
+
+151
+00:14:10,650 --> 00:14:14,650
+Even if it’s just in my dreams, it's still be okay with that.
+
+152
+00:14:14,760 --> 00:14:17,620
+But if I'm gonna imagine what is like to actually hold that sword,
+
+153
+00:14:17,760 --> 00:14:19,730
+reinforcement magic isn't gonna do it.
+
+154
+00:14:20,160 --> 00:14:22,190
+I'll have to use something more complicated.
+
+155
+00:14:22,300 --> 00:14:26,230
+There is a name for it, why the heck can’t I remember it?
+
+156
+00:14:32,010 --> 00:14:34,030
+Where the hell am I?
+
+157
+00:14:34,840 --> 00:14:39,250
+Last thing I remember, Illya had paralyzed me, and then...
+
+158
+00:14:40,180 --> 00:14:44,280
+Wait, what the hell is going on?!
+
+159
+00:14:50,990 --> 00:14:54,450
+The sun’s already going down? If I don't get home soon, Saber’s gonna...
+
+160
+00:14:57,030 --> 00:14:58,930
+So, you finally decided to wake up.
+
+161
+00:15:00,800 --> 00:15:04,290
+How are you feeling? You should be able to talk again by now.
+
+162
+00:15:04,740 --> 00:15:09,940
+Oh yeah, I’m feeling great. I recovered enough presence of mine to realize that you've gone and made me your prisoner.
+
+163
+00:15:10,280 --> 00:15:16,270
+What’s wrong, are you mad now? I did you a favor. Captured enemies are supposed to be thrown into the dungeon, you know.
+
+164
+00:15:16,820 --> 00:15:20,520
+But I decided to make an exception for you, Shirou, and keep you in my room instead.
+
+165
+00:15:21,090 --> 00:15:23,320
+My castle is deep within the forest.
+
+166
+00:15:23,420 --> 00:15:27,260
+No one’s gonna come save you, and no one’s gonna interfere.
+
+167
+00:15:27,360 --> 00:15:29,730
+Why did you even bother bringing me here?
+
+168
+00:15:29,830 --> 00:15:32,960
+If you're planning to kill me, you could've easily done that back at the park.
+
+169
+00:15:33,430 --> 00:15:37,460
+What do you mean? I don't want to kill you, Shirou, I never even thought about it.
+
+170
+00:15:37,610 --> 00:15:41,170
+Sure I'm going to kill other Masters, but not you Shirou, you're special.
+
+171
+00:15:41,280 --> 00:15:46,480
+So, what do you say you join me and become my Servant? That way, I won't ever have to kill you.
+
+172
+00:15:47,120 --> 00:15:48,980
+You can't be serious!
+
+173
+00:16:02,730 --> 00:16:04,430
+Shirou...
+
+174
+00:16:13,340 --> 00:16:17,840
+Shirou...Where are you?
+
+175
+00:16:27,560 --> 00:16:28,850
+Why aren't you here..?
+
+176
+00:16:29,720 --> 00:16:31,210
+Shirou is missing?
+
+177
+00:16:32,430 --> 00:16:37,420
+Yes. But I sense somehow that he is still unharmed, and far away.
+
+178
+00:16:37,870 --> 00:16:41,320
+Probably in the hands of an enemy. Please Rin, I’m gonna need your help.
+
+179
+00:16:41,440 --> 00:16:43,370
+Leave him to his fate.
+
+180
+00:16:45,110 --> 00:16:49,570
+Chances are, he was abducted while sitting in the open, lost in thought.
+
+181
+00:16:49,880 --> 00:16:53,310
+You have no obligation to help such an incompetent Master like him.
+
+182
+00:16:53,410 --> 00:16:54,140
+You're out of line!
+
+183
+00:16:54,250 --> 00:16:56,310
+Need I remind you, we're enemies?
+
+184
+00:16:57,020 --> 00:17:00,320
+If the boy gets himself killed, it’s less work for us.
+
+185
+00:17:02,360 --> 00:17:06,320
+Careful Saber. You're so low on mana right now that you can't even begin to arm yourself.
+
+186
+00:17:06,660 --> 00:17:10,320
+I can still fight. No matter how I feel I can't abandon Shirou.
+
+187
+00:17:19,710 --> 00:17:21,070
+Archer.
+
+188
+00:17:27,150 --> 00:17:30,520
+So, what do you say? You gonna be my Servant or what, Shirou?
+
+189
+00:17:30,620 --> 00:17:32,920
+Oh, come on! You know that’s crazy!
+
+190
+00:17:33,250 --> 00:17:37,490
+No, it’s not. Think about it. When Saber is gone, there’s no way you can win a fight.
+
+191
+00:17:38,060 --> 00:17:40,460
+And if you can’t win, why should you still be a Master?
+
+192
+00:17:40,560 --> 00:17:43,090
+No, you're wrong. Saber isn't gonna go anywhere.
+
+193
+00:17:45,470 --> 00:17:48,990
+She may not disappear, but in the shape she's in, she'll easily be killed.
+
+194
+00:17:49,370 --> 00:17:54,430
+You really are better off just staying here, and if you stay here I’ll protect you forever.
+
+195
+00:17:54,980 --> 00:17:58,840
+You can keep asking me this all you want, Illya, but there’s no way I’m gonna...
+
+196
+00:17:59,480 --> 00:18:05,850
+Wow, you just don't get it, do you? What do you want to admit it or not, you're caged bird and I hold the key.
+
+197
+00:18:06,150 --> 00:18:09,450
+And the person who decides if you live or die today is me.
+
+198
+00:18:09,560 --> 00:18:12,750
+So maybe you should think twice about saying things that’s gonna make me mad.
+
+199
+00:18:13,090 --> 00:18:19,860
+Besides, I've been waiting ten years for this. It wouldn't be much fun to just kill you now, would it?
+
+200
+00:18:21,840 --> 00:18:27,240
+Alright, I’ll ask you this one more time. What do you say? Come on, be my Servant Shirou.
+
+201
+00:18:27,610 --> 00:18:30,840
+Illya, I just can't do it, I’m sorry.
+
+202
+00:18:31,210 --> 00:18:35,710
+I still have Saber as my Servant. And as long as that’s true, I’m gonna keep being a Master.
+
+203
+00:18:37,080 --> 00:18:41,750
+I see. So that’s how you are. You're just gonna betray me, too.
+
+204
+00:18:43,090 --> 00:18:46,750
+I've been turning a blind eye to you lately, but that’s over now.
+
+205
+00:18:46,860 --> 00:18:48,120
+Wait here.
+
+206
+00:18:48,230 --> 00:18:50,530
+Hold on, Illya. What are you gonna do?
+
+207
+00:18:50,630 --> 00:18:52,460
+I'm gonna go kill Saber.
+
+208
+00:18:52,830 --> 00:18:56,200
+You will be sorry for turning me down once I do that, won’t you, Shirou?
+
+209
+00:18:56,540 --> 00:18:59,800
+Illya, don’t! Saber and Tohsaka have nothing to do with this!
+
+210
+00:18:59,910 --> 00:19:02,840
+The reasons I can't team up with you are personal, nothing else!
+
+211
+00:19:03,340 --> 00:19:06,750
+Is that so? Doesn't matter, I’m still gonna kill them.
+
+212
+00:19:07,080 --> 00:19:09,910
+And once they're gone, I'll come back for you.
+
+213
+00:19:10,520 --> 00:19:14,480
+You see, if you don't wanna be mine, then I'm afraid I just don't have any use for you.
+
+214
+00:19:14,920 --> 00:19:19,360
+If you wanna hate me, fine, but there's no reason for you to kill Saber and Tohsaka!
+
+215
+00:19:19,930 --> 00:19:24,460
+Shirou, I can't go letting the other Masters live. These are the Grail Wars, remember?
+
+216
+00:19:24,570 --> 00:19:27,360
+Dammit, Illya! Don't talk about killing people like it’s nothing!
+
+217
+00:19:28,140 --> 00:19:32,870
+But it’s not that big of a deal. In case you didn't know this, I've already killed one Master.
+
+218
+00:19:33,570 --> 00:19:34,840
+You did?
+
+219
+00:19:35,280 --> 00:19:40,040
+Yeah, it was yesterday. It was kind of unexpected, I didn't plan it or anything.
+
+220
+00:19:40,520 --> 00:19:45,540
+I thought for sure you would've finished him off yourself, but when you didn’t…
+
+221
+00:20:18,250 --> 00:20:21,950
+I hope you are not upset, I only killed him because you didn’t. To tell you the truth, I kinda feel bad when I was obliged to steal a prey from somebody else.
+
+222
+00:20:23,490 --> 00:20:27,830
+I will be back soon, try to escape if you want. But it’ll be a waste of time.
+
+223
+00:20:28,760 --> 00:20:31,100
+Illya, wait! Illya!
+
+224
+00:20:31,200 --> 00:20:32,960
+Dammit, Illya, get back here!
+
+225
+00:20:35,370 --> 00:20:38,240
+I've gotta stop her, she really means it!
+
+226
+00:20:40,170 --> 00:20:45,310
+Damn it! That brat, I'm still feeling the effects of the evil eyes she used on me.
+
+227
+00:20:46,080 --> 00:20:49,810
+All right... It won't be pretty, but I'll use mana to flush it out.
+
+228
+00:20:50,280 --> 00:20:52,050
+Trace, on!
+
+229
+00:20:52,990 --> 00:20:55,180
+Basic structure... established.
+
+230
+00:20:57,360 --> 00:21:00,450
+Components... determined.
+
+231
+00:21:01,660 --> 00:21:03,630
+The mana's being generated really quickly,
+
+232
+00:21:03,760 --> 00:21:06,530
+it must be because of that gem Tohsaka made me swallow.
+
+233
+00:21:30,990 --> 00:21:34,020
+I’m almost there... Wait for me, Saber!
+
+234
+00:22:01,860 --> 00:22:05,790
+Shirou... Stay safe.
+
+235
+00:23:43,320 --> 00:23:45,920
+Fate Stay Night...
+
+236
+00:24:04,850 --> 00:24:06,210
+Next time,
+"The End of the Ideal."
+
+237
+00:24:06,210 --> 00:24:07,980
+Next time,
+"The End of the Ideal."
+  

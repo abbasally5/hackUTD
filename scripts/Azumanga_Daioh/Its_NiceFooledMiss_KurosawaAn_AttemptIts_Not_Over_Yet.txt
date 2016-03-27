@@ -1,0 +1,779 @@
+
+ ws:start:WikiTextHeadingRule:0:&lt;h1&gt; 
+ Osaka:
+ Summer's here.
+
+Kagura:
+ Hm? Wha-What?
+
+Osaka:
+ You're tanned.
+ When you're tanned through and through like that, it's hard to tell just how tanned you are.
+
+Kagura:
+ Oh, in that case, then here. See?
+
+Osaka:
+ That imprint in your swimsuit.
+ You know, with that, you could go to the pool wearin' nothin' and no one would even notice that something was missing.
+
+Kagura:
+ Uh...
+
+Yomi:
+ Kagura, don't listen to her!
+
+
+Yukari:
+ It's hot! It's summer!
+
+Tomo:
+ Summer means...
+
+Yukari:
+ Starting tomorrow is happy summer break.
+
+Everyone:
+Yay! Yay!
+
+Tomo:
+ All right! It's summer time!
+ I'm keeping with our summer custom.
+
+Chiyo:
+ Huh?
+
+Tomo:
+ So can we take another trip to your summer home this year?
+
+Chiyo:
+ That's fine, but won't everyone be studying for entrance exams now?
+
+Yukari:
+ Hm?
+
+Tomo:
+ Then, let's make it an exams study camp all right?
+ Let's get away from the din of the city and focus on our studies somewhere quiet!
+
+Chiyo:
+ Oh, that's a great idea!
+
+Yomi:
+ Don't let her fool you, Chiyo-chan.
+
+Yukari:
+ Ha ha ha ha...
+
+
+Kagura, Tomo, Osaka:
+ Hey, there!
+
+Chiyo:
+ Hey, you guys, we've been waiting for you!
+
+Tomo:
+ And joining us for the first time, here's Kaorin!
+ Huh?
+
+Kaorin:
+Um...
+
+I hope we'll get along!
+
+Sakaki:
+ Mm-hm.
+
+Kaorin:
+Even though I'm not worthy!
+
+Sakaki:
+ Uh-huh.
+
+Nyamo:
+ All right then, we have a total of nine people.
+ And we'll be splitting up into two cars.
+
+Yomi:
+ There's nine of us?
+ Two cars?
+ No, no way...
+
+ Yu... Yukari-mobile...
+
+Kaorin:
+What are you talking about?
+
+Kagura:
+ That's the car that psychologically scarred Chiyo-chan two years ago.
+
+Kaorin:
+Ah! Psychologically scarred?!
+
+Osaka:
+ Ah! Chiyo-chan already made it safe to Miss Nyamo's car!
+
+Kaorin:
+What kind of driving are we talking about?
+
+Kagura:
+ So, what now?
+
+Osaka:
+ Which of us is gonna have to ride with Miss Yukari in her car?
+
+Yomi:
+ Well, um, I guess Chiyo-chan's excused...
+
+Kaorin:
+I... I don't handle riding in cars well, so could I...
+
+Sakaki:
+ Fine, I'll ride with her.
+
+Kaorin:
+Ahhh.
+I hope I'll go too.
+
+Osaka:
+ Y'all are so cool.
+
+Tomo:
+ All right! Go, Yukari!
+
+Yukari:
+ Yeah!
+
+Kaorin:
+Wha... What just happened here?!
+
+Yukari:
+ Okay, that was really weird.
+ Oh?
+
+Kaorin:
+What is it?
+
+Yukari:
+ Sorry, I must've been in reverse, huh.
+
+Tomo:
+ Man, you're so bad, Yukari!
+
+ Go, Yukari!
+
+Yukari:
+ Yeah!
+
+Tomo:
+ Come on! Pass the Nyamo-mobile!
+
+Osaka:
+ It sounds funny.
+ Huh?
+
+Tomo:
+ Hey! What did you stop for?!
+
+Yukari, Tomo:
+ Looser! Looser!
+
+Kaorin:
+It's red! Ahhh!
+
+Osaka:
+ Ooh, they're flyin'.
+ ws:start:WikiTextHeadingRule:2:&lt;h1&gt; 
+ Yukari:
+ Safe arrival!
+
+Tomo:
+ Yay! We are here.
+
+Yomi:
+ Yeah, yeah, we are here.
+
+Sakaki:
+ Are you okay?
+
+Kaorin:
+The nice thing about roller coasters is they don't get into collisions...
+
+Yukari:
+ Huh?
+ The side mirror was in the whole time.
+
+Kaorin:
+Ah!
+
+Osaka:
+ Lazy, lazy.
+
+Kaorin:
+I had no idea going to the beach would involve such suffering.
+
+Tomo:
+ Yay! We're here, we're really here!
+
+Yomi:
+ Yes, yes, we get it.
+
+Chiyo:
+ Everyone, once we've rested, let's get right on down...
+
+Tomo:
+ To the beach!
+
+Chiyo:
+ The beach already?!
+
+Yomi:
+ You're not in grade school.
+ Don't wear your swimsuit under your clothes.
+
+Chiyo:
+ Isn't this trip supposed to be a study camp?
+
+Tomo:
+ I lied!
+
+Chiyo:
+ What?! So bluntly?!
+
+Yukari,Nyamo:
+ Uh...
+
+Tomo:
+ No dice?
+
+
+Tomo:
+ Whee!
+ Yay! The ocean, the ocean!
+
+Yomi:
+ Yeah, yeah, it's the ocean.
+
+Tomo:
+ Huh?
+
+Yomi, Kagura, Chiyo, Sakaki:
+ One, two, three, four, five, six, seven, eight.
+ One, two, three, four, five, six, seven, eight.
+
+Kaorin:
+I had no idea not being able to swim because motion sickness would be such a hardship...
+
+Osaka:
+ Ha-ha-ha-ha...
+ Hot, hot! Hot, hot! Hot, hot, hot, hot!
+ It's just too hot.
+
+Sakaki:
+ You might get burns on your feet today if you don't wear your sandals.
+
+Tomo:
+ Yay! Watermelon, watermelon!
+
+Osaka:
+ So nice...
+
+Sakaki:
+ Mm...
+
+Tomo:
+ Totally, I'd sure like to know those measurements.
+ Though, I've also been growing quite a bit lately.
+
+Osaka:
+ What? Aren't you one of us?
+
+Tomo:
+ Oh, I am one of you!
+
+Chiyo:
+I got you! I got you, got you guys!
+
+Yomi:
+Take that! And that!
+
+Kagura:
+ But is it really okay for us to be goofing off like this instead of studying?
+
+Tomo:
+ C'mon! You're way too serious, Kagura!
+ Of course, you shouldn't goof off!
+ But let's goof off!
+
+Kagura:
+ You're amazing.
+
+Nyamo:
+ Just keep the two apart.
+ Focus on studying when you study, focus on fun when you're on a break.
+
+Tomo:
+ You heard her?
+ This camp is going be for goofing off only.
+
+Nyamo:
+ No, it's not!
+
+Yukari:
+ Sure, it is. Keep goofing off.
+
+Tomo:
+ See? It's got our teacher's stamp of approval!
+
+Yukari:
+ Even if you did study, you wouldn't be ready in time for the entrance exams anyway, so...
+
+Kagura, Tomo:
+ Huh?
+
+Tomo:
+ Really?
+ ws:start:WikiTextHeadingRule:4:&lt;h1&gt; 
+ Everyone:
+The food was great!
+
+Osaka:
+ Oh, yeah, lazy, lazy.
+
+Chiyo:
+ Okay, everyone, now that we've all had dinner, why don't we...
+
+Tomo:
+ Yay! It's bed time, bed time!
+
+Yukari:
+ Yes, by all means, go to bed!
+
+Tomo:
+ Really?
+
+Yukari:
+ If there's anything you don't get, don't hesitate to ask someone.
+
+Everyone:
+Yes, ma'am!
+
+Kaorin:
+Um, Excuse me, Miss Sakaki.
+
+Sakaki:
+ Um...
+
+Kaorin:
+Um...
+
+Kagura:
+ Oh, yay. Study, study...
+
+Kagura:
+ I gotta be ready. Please let me be ready!
+
+Yomi:
+ You two are both so noisy.
+ Why don't you take a cue from Osaka.
+
+Chiyo:
+ Miss Osaka is incredibly focused today, isn't she?
+
+Osaka:
+ Chiyo-chan, explain this part to me.
+
+Chiyo:
+ O-Okay.
+
+Osaka:
+ Hey, Yomi, explain this part to me.
+
+Yomi:
+ S-Sure.
+
+Osaka:
+ Miss Yukari, explain this...
+
+Yukari:
+ Are you really thinking at all?
+
+Chiyo:
+ Miss Osaka, if you stay down there, you're going to fall asleep again.
+
+Osaka:
+ Hehehe...
+
+Yukari:
+ If there's anything you don't get, don't hesitate to ask someone.
+
+Everyone:
+Yes, ma'am!
+
+Kagura:
+ Hey, did you get this part at all?
+
+Tomo:
+ Oh, yay. Study, study.
+
+Kagura:
+ Yukari, explain this part to me.
+
+Yukari:
+ If you don't get it, don't hesitate to ask someone.
+
+Kagura:
+ Coach, explain this part to me!
+
+Nyamo:
+ Huh? Me explain?!
+
+Nyamo:
+ Ma... Math... Well... um...
+ Uh, let me think...
+ What to say... What to say...
+
+Osaka:
+ Ya got it wrong.
+
+Nyamo:
+ Give me a second!
+
+Nyamo:
+ I... wrong... yet...
+ It...It's just taking me a while to find the words... yeah, yeah, the words.
+ So, you understand, I... I-I mean I could do it back in school!
+ It's sure, it really is! I'm telling you the truth, I promise!
+
+Kagura:
+ So you really don't get it, huh?
+
+Nyamo:
+ Well, I...
+ That is to say...
+ I really don't get it at all.
+
+Yukari:
+ Come on, be nice to your poor dumb P.E. teacher,
+
+Yukari:
+ I'm not dumb! Listen, Yukari!
+
+Yukari:
+ Regarding shame, in a cultural idiosyncratic way, most Japanese treat this issue.
+ I have to say, unlike my coward, I am not gripped by it, but merely fascinated.
+
+Nyamo:
+ Everyone, don't let her fool you!
+ Just 'cause she's a teacher of language, it doesn't make her great or anything!
+
+Kagura:
+ Yukari is so much more...
+ Much greater...
+
+Nyamo:
+ No, girls, don't be fooled by her words! Don't let her fool you!
+
+ Hey, isn't it time for break now?
+ Look, look, do you girls know how to juggle?
+
+Chiyo:
+ Ah!
+
+Yukari:
+ What are you interfering with their studies for?!
+
+Nyamo:
+ Ahhh!
+
+Chiyo:
+ Um, uh, would you please teach me how to juggle?
+
+Nyamo:
+ It's okay, you don't have to be so nice.
+
+Chiyo:
+ Ye... Yes, ma'am.
+
+Nyamo:
+ It's cold...
+ Is it morning?
+ Hm? Where'd this blanket...? Huh?
+ ws:start:WikiTextHeadingRule:6:&lt;h1&gt; 
+
+Chiyo:
+ One, two, three, four, five, six, seven, eight!
+ One, two, three, four, five, six, seven, eight!
+ One, two, three, four, five, six, seven, eight!
+ One, two, three...
+
+Nyamo:
+ Honestly, I don't know if she's like a child or an old man.
+
+Kaorin:
+Oh, Chiyo-chan, what's that?
+
+Chiyo:
+ A stamp book.
+ Miss Kurosawa made it special for me.
+ She said she'll stamp it for me every morning that I do radio warm-ups.
+
+Kaorin:
+Lucky you!
+
+Sakaki:
+ Radio warm-ups?
+
+Chiyo:
+ Huh? Ah!
+
+Sakaki:
+ A stamp every morning...
+ Huh?
+
+Kaorin:
+Taking a snapshot! Please act normal!
+
+Sakaki:
+ Uh, sure...
+
+Kaorin
+Please relax, relax!
+
+Sakaki:
+ Uh...
+
+Kaorin:
+Say cheese!
+
+Kaorin:
+Damn it!
+
+Tomo:
+ Oh...
+
+Chiyo, Sakaki:
+ One, two, three, four, five, six, seven, eight!
+ One, two, three, four, five, six, seven, eight!
+ One, two...
+
+Kaorin:
+I had no idea getting up this early could be such a wonderful thing.
+
+Tomo:
+ Cheese!
+
+Kaorin:
+Damn it!
+
+Tomo:
+ Wow!
+
+Osaka:
+ Whoa! She's flyin'.
+
+
+Chiyo:
+ Oh, Miss Osaka, you're awake.
+
+Osaka:
+ Yeah...
+
+Chiyo:
+ Now, the only one still sleeping is Miss Yukari.
+
+Yomi:
+ But I have a feeling she'll get mad so I can't bring myself to wake her.
+
+Osaka:
+ Uh...
+ Then, you just let me handle it for you, okay?
+ It's been my dream...
+ I've always wanted to try wakin' someone with a fryin' pan.
+
+Yomi:
+ Hm? Ah!
+
+Yukari:
+ Oh, it's you, Osaka.
+
+Kagura:
+ Oh, man, you splattered everywhere!
+
+Yukari:
+ Wha... What?
+
+Osaka:
+ Ya woke up yourself...
+ Then I failed...
+
+Chiyo:
+ Mi-Miss Osaka, what in the world are you carrying around?!
+
+Osaka:
+ Huh? Wh-What? I was holdin' a fryin' pan just a minute ago.
+ Where'd it go?
+
+Chiyo:
+ Ah, Miss Osaka, please don't swing it this way!
+
+Osaka:
+ Do you know what happened, Chiyo-chan?
+
+Chiyo:
+ Please don't swing it around! Ahh!
+
+Yukari:
+ Kni... knife flying...
+ ws:start:WikiTextHeadingRule:8:&lt;h1&gt; 
+ Osaka:
+ Once again, summer break is over.
+
+ It's autumn.
+
+Kagura:
+ Autumn?
+
+Osaka:
+ And autumn means chestnut rice.
+
+Kagura:
+ Huh?
+
+Osaka:
+ Broiled saury is good too.
+ Do you have char marks like a broiled saury?
+
+Kagura:
+ Huh?
+ What? Are you kidding?
+ Don' be silly!
+
+Osaka:
+ Saury with rice, two big course.
+
+Yomi:
+ Kagura, don't listen to her!
+
+Chiyo:
+ Tomo, what's the matter?
+ Your eyes look so dead.
+
+Tomo:
+ Today is a summer service day.
+ Today is a summer service day.
+ Today is a summer service day.
+ Today is a summer service day.
+ Summer break will pick up again after today.
+ Let's all go together to the blue, blue sea.
+ Smashing watermelons, beach volleyball...
+ It'll be so much fun, will never leave.
+ Today is a summer service day.
+ Today is a summer service day.
+ Today is a summer service day.
+ Today is a summer service day.
+
+Chiyo:
+ Please get a hold of yourself!
+ The second semester starts today!
+
+Osaka:
+ Tomo, get a hold of yourself!
+ It ain't a summer service day.
+
+Tomo:
+ Today is a summer service day.
+ Today is a summer service day.
+ Today is a summer service day.
+ Today is a summer service day.
+
+ We're still in the middle of summer break, you know?
+ Let's all go together to the blue, blue sea.
+ Smashing watermelons, beach volleyball...
+ It'll be so much fun, won't you join me?
+
+Osaka, Tomo:
+ Today is a summer service day.
+ Today is a summer service day.
+ Today is a summer service day.
+
+Chiyo:
+ No, you're wrong!
+
+Osaka, Tomo:
+ Chiyo-chan, please cast a charm on us that'll get us motivated.
+
+Chiyo:
+ Ca... Cast a charm?
+
+Chiyo:
+ Huh...
+ Get motivated!
+ Get motivated!
+ Get motivated!
+ Get motivated! Get motivated!
+ Get motivated! Get motivated!
+ Motivation! Motivation! Motivation! Motivation!
+ Motivation! Motivation! Motivation! Motivation!
+ Get motivated!
+ Ah! Get motivated! Get motivated! Get motivated! Get motivated!
+ Get motivated! Get motivated! Get motivated! Get motivated!
+ Oh, no, oh, no, oh, no!
+
+Kagura:
+ No, no, Chiyo-chan.
+ Let me show you how to do it!
+ Motivation slap!
+
+Chiyo:
+ Ah!
+
+Kagura:
+ Oh, are you okay?!
+
+Kamineko:
+Mew.
+
+Chiyo:
+ Uh...
+ Get motivated! Get motivated!
+ Get motivated! Get motivated!
+ Get motivated! Get motivated!
+ Get motivated! Get motivated!
+ Get motivated! Get motivated!
+ Get motivated! Get motivated!
+ Get motivated! Get...
+
+ Oh! Get motivated! Get motivated!
+ Get motivated! Get motivated!
+ Get motivated! Get motivated! Oh?!
+
+
+-- Preview --
+
+Kagura:
+We're finally in our third year!
+The last sports fest in high school!
+All right, let's do it again this year!
+
+Osaka:
+What're we doin' for our third year?
+Is there gonna be some conspicuous distinction?
+
+Kagura:
+Distinction?
+But we're gonna be doing the same thing!
+
+Osaka:
+Which scene should we keep our eye on?
+
+Kagura:
+Um, the bread eating contest, I guess.
+
+Osaka:
+Then, which one should we keep our ear on, our mouth, and our nose?
+
+Kagura:
+I have no idea what you are talking about.
+Anyway, let's get fired up!
+  

@@ -1,0 +1,986 @@
+
+ ws:start:WikiTextHeadingRule:0:&lt;h1&gt; 
+ Yomi:
+ Hey, Tomo!
+ You're not in grade school anymore, so knock it off!
+
+Tomo:
+ Hah, hah, but you can't catch me!
+
+
+Sakaki:
+ Ah!
+
+Osaka:
+ Oh! What'cha doin', Sakaki?
+ Say, looks like you're on the internet.
+ Ah!
+ Which means you're on the internet. Forget I asked ya.
+
+Chiyo:
+ Then, why did you ask?
+
+Osaka:
+ Hm?
+
+Chiyo:
+ Miss Osaka...
+
+Osaka:
+ Oh, there's a dead pikanyaa.
+
+Chiyo:
+ No, that's yamapikaryaa, or yamamayaa.
+ Did a car...?
+ Because I heard traffic accidents were one of the biggest threats to yamamayaa.
+
+Osaka:
+ Poor, poor pikanyaa.
+
+Chiyo:
+ What's the matter?
+
+Sakaki:
+ This cat...
+ I have a feeling it's that mother cat.
+
+Chiyo, Osaka:
+ Oh!
+
+Chiyo:
+ When did the accident happen?
+
+Sakaki:
+ The day after our school trip.
+
+Chiyo:
+ But I can't tell whether or not it's her, though.
+
+Osaka:
+ Poor thing.
+ It'd be good if it wasn't her...
+ But it's still not good.
+
+Chiyo:
+ It's so sad...
+
+Sakaki:
+ I wonder if he's okay?
+
+
+Chiyo:
+ Mr. Tadakichi was half asleep this morning.
+
+Sakaki:
+ Really?
+ Oh, look. The name plate's gone.
+
+Chiyo:
+ Uh-huh, the people who lived here moved away.
+
+Sakaki:
+ I didn't know.
+ Remember there used to be a big cat living here.
+
+Chiyo:
+ That's right. Maru.
+ He was a big and peculiar cat, wasn't he?
+
+Sakaki:
+ Yeah, he was the boss around here.
+
+Chiyo:
+ Well, they'll have a changing of the guard!
+
+Sakaki:
+ Hm.
+
+Chiyo:
+ There are a lot of cats in this area.
+ It must be tough to be the boss.
+
+Sakaki:
+ Yeah.
+
+
+Chiyo:
+ Timetable time, timetable time. Get it ready early and you'll never have to worry.
+ Oh...
+ Please promise you be careful around cars and things, okay?
+ What? Is something the matter?
+ Aw!
+ Yeah, you're right. Sorry about that, Mr. Tadakichi.
+ I'm the one who needs to be more careful, huh.
+
+ A work sheet. I almost forgot.
+
+Sakaki:
+ I wanna go here.
+ Although it would be pretty hard to commute to, I guess I'd be living on my own.
+
+ No, wait!
+ If that's the case, then having a pet...
+ Mm!
+ Yeah.
+ Mm-hm.
+
+ ws:start:WikiTextHeadingRule:2:&lt;h1&gt; 
+ Kagura:
+ I see, so you wanna be an animal doctor, huh, Sakaki?
+
+Sakaki:
+ Yeah, but there aren't that many veterinary universities.
+ How about you?
+
+Kagura:
+ I'm planning to apply somewhere with strong sports program.
+ I wanna keep up my swimming after highschool.
+
+Sakaki:
+ So do you wanna be a P.E. teacher?
+
+Kagura:
+ Haven't really thought much about it, but that's one way to go.
+
+Chiyo:
+ Miss Sakaki!
+ I brought that cat catalog you wanted.
+
+Sakaki:
+ Uh...
+
+Chiyo:
+ Here.
+
+Kagura:
+ Huh?
+
+Sakaki:
+ Thanks, Chiyo-chan.
+
+Chiyo:
+ Sure.
+
+Kagura:
+ What's this? Are you getting a cat?
+
+Sakaki:
+ No, my parents can't handle them. I'm just looking.
+
+Kagura:
+ Ooh, so are they cat haters?
+
+Sakaki:
+ No, it's my mother. She's allergic to cats, so we can't get one.
+
+Kagura:
+ Allergies, huh? I guess it can't be helped then.
+ Well, no big deal!
+ No cat you got would ever like you!
+
+Chiyo:
+ Ah!
+
+Kagura:
+ Think positive! Positive!
+ Right?!
+
+Sakaki:
+ Positive?
+
+Chiyo:
+ I'm sure that's not true, Miss Sakaki.
+
+Sakaki:
+ When I graduate and go to college, I'm gonna live by myself and get my very own cat.
+
+Chiyo, Kagura:
+ Wow...
+
+Kagura:
+ But, Sakaki, cats really just hate you.
+
+Chiyo:
+ Argh!
+
+Kagura:
+ How could you keep one?
+
+Sakaki:
+ That's the problem.
+
+Chiyo:
+ Miss Sakaki, think positive! Think positive!
+
+Osaka:
+ Speakin' of career path, you're goin' to America, Chiyo-chan?
+
+Chiyo:
+ Uh-huh.
+
+Osaka:
+ Then, what's gonna happen to Mr. Tadakichi?
+
+Chiyo:
+ Well, right now, it looks like I'm gonna end up living at a friend's place over there.
+ And they said Mr. Tadakichi is welcome to stay.
+
+Osaka:
+ Really? Well, that's good.
+
+ The French Mr. Tadakichi, and the Japanese Chiyo-chan, goin' to America...
+ It's hard to say who's the foreigner there.
+
+Chiyo:
+ Oh...
+ Miss Osaka sure is interesting.
+
+Osaka:
+ See you tomorrow!
+
+Chiyo:
+ Bye-bye now!
+
+Sakaki:
+ Bye.
+
+Chiyo:
+ Miss Sakaki, you're going to a veterinary university, right?
+
+Sakaki:
+ Yeah.
+
+Chiyo:
+ You know, it'll be nice if you get to live with a cat too.
+
+Sakaki:
+ Yeah... Oh.
+
+Chiyo:
+ O-Oh...
+
+Sakaki:
+ It's a cat.
+
+Chiyo:
+ Wow, it's like there're just so many of them!
+
+Sakaki:
+ Uh...
+
+Chiyo:
+ Yeah...
+
+Sakaki:
+ Um...
+
+Chiyo:
+ They're all... so angry, something's wrong!
+
+Sakaki:
+ Uh!
+ Kamineko!
+ I don't really know why, but that cat is always hostile towards me.
+
+Chiyo:
+ What?!
+
+ Ah! Cat claws have lots of germs.
+ Grandma's hand got scratched, and it swelled out!
+
+Sakaki:
+ Chiyo, get back.
+
+ Yamamayaa?!
+
+Chiyo:
+ Huh?
+
+ Incredible! He chased them away!
+
+Sakaki:
+ Yamamayaa, how did... What are you doing here?
+ Ah, are you okay?!
+
+Chiyo:
+ He may be weakened or even sick!
+ The vet that Mr. Tadakichi goes to is nearby! Let's go there!
+
+Sakaki:
+ Right!
+
+ ws:start:WikiTextHeadingRule:4:&lt;h1&gt; 
+ Chiyo:
+ Miss Sakaki, in here.
+ Doctor!
+ Doctor! Dr. Ishihara!
+
+Woman:
+Oh, Miss Chiyo Mihama.
+
+Chiyo:
+ Oh, please ma'am, this is an emergency!
+ We've got to see him right away!
+
+Woman:
+The doctor went for a snack...
+
+Doctor:
+What's all the ruckus out here?
+
+Chiyo:
+ Doctor!
+
+Doctor:
+ Ah, Chiyo-chan, you sure have grown.
+ You'll break two meters one day.
+
+Chiyo:
+ Yes, thanks for the compliments.
+ But there's a patient who needs your help.
+
+Doctor:
+Oh? Hm...
+
+Chiyo:
+ Let's wait here.
+ It'll be fine now that Dr. Ishihara is on it, Miss Sakaki.
+
+Sakaki:
+ Mm.
+
+Chiyo:
+ It's thanks to Dr. Ishihara that Mr. Tadakichi is always so healthy.
+ Let's have a seat.
+
+Sakaki:
+ Mm.
+
+Chiyo:
+ Is that cat really...
+
+Sakaki:
+ It is him.
+ I'm certain it's the yamamayaa that we met out there on our school trip.
+
+Chiyo:
+ That's what I thought.
+ Although I'm surprised he was able to find you, Miss Sakaki.
+
+Sakaki:
+ Mm.
+ That's it. The yamamayaa came to see me.
+
+Doctor:
+Oh, Chiyo-chan, you've grown since I last saw you.
+
+Chiyo:
+ Yes, sir, thank you very much.
+
+Sakaki:
+ How is he?
+
+Chiyo:
+ He'll be okay, right?!
+
+Doctor:
+Well... he's physically weakened, but he'll be perfectly fine.
+Your friend will recover as long as he eats well and gets plenty of rest.
+
+Chiyo,Sakaki:
+ Uh.
+
+Doctor:
+By the way, that's a strange cat you've got.
+
+Chiyo,Sakaki:
+ Uh...
+
+Doctor:
+I've been a vet for quite some time, but never seen anyone like him.
+He's almost like a... an iriomote...
+
+Sakaki:
+ He's a mixed breed.
+
+Doctor:
+Hm?
+
+Sakaki:
+ Yeah, a mixed breed.
+
+Doctor:
+I see.
+Mixed, eh?
+
+Sakaki:
+ Mixed breed. A Mix. He's a mixed breed.
+
+Doctor:
+Is that right, Chiyo-chan?
+
+Chiyo:
+ Oh, yes! He's a mixed breed.
+
+Doctor:
+I see. Well, go on and take him home.
+Take good care of him.
+
+Chiyo, Sakaki:
+ Yes.
+
+Chiyo:
+ Thanks, Dr. Ishihara!
+
+Sakaki:
+ Thank you very much, Doctor.
+
+Chiyo:
+ Isn't it great that he's okay?
+
+Sakaki:
+ Yeah.
+
+Chiyo:
+ So then what now?
+ What will you do with him?
+
+Sakaki:
+ I'm not sure I really know what the right thing to do is.
+ But you know...
+ I think he risked his life to come here because he believed in me.
+ I think it... must have been really hard.
+ I feel like I have to do everything I can, not to let him down.
+
+Chiyo:
+ Absolutely.
+ But at your place, with your mother...
+
+Sakaki:
+ Yeah.
+
+Chiyo:
+ I know! Hey, why don't I house him until springtime?
+
+Sakaki:
+ What?
+
+Chiyo:
+ That way, when you find a place to live on your own, you can come and take him.
+
+Sakaki:
+ Are you sure?
+
+Chiyo:
+ Yes!
+
+Sakaki:
+ Is that okay, yamamayaa?
+
+Yamamayaa:
+Meow.
+
+Chiyo:
+ Oh, he answered!
+
+Sakaki:
+ I know! Mayaa.
+ His name's gonna be Mayaa.
+
+Chiyo:
+ I wonder if Mayaa will get along with Mr. Tadakichi?
+
+Sakaki:
+ I know I can.
+
+
+Tomo:
+ Wow! The yamamayaa came here?! Wow!
+
+Chiyo:
+ We've been keeping him in my house for now, right?
+
+Sakaki:
+ Mm-hm.
+
+Tomo:
+ Sweet! Awesome! Yamamayaa!
+ Awesome! Awesome! Yamamayaa!
+ Yay! Wow!
+
+Yomi:
+ It's awesome, but you're going overboard.
+
+Osaka:
+ Then, why don't we go and pay him a visit.
+ 'Cause you know, it's been a long time.
+
+Tomo:
+ Yay! It's Chiyo-chan's, we go!
+
+Osaka:
+ Yeah!
+
+Tomo:
+ You come too, won't ya?
+
+Yomi:
+ Yeah, yeah.
+
+Kagura:
+ Yeah, no practice today.
+
+Chiyo:
+ So, then it's the six of us.
+
+ Huh? Huh?
+ Where's Miss Sakaki?
+
+Osaka:
+ Maybe, the bathroom.
+
+Chiyo:
+ Outside?! Already?!
+
+Tomo:
+ Wow!
+
+ ws:start:WikiTextHeadingRule:6:&lt;h1&gt; 
+ Tomo:
+ I guess this is what they call "trooping along", huh.
+
+Kagura:
+ Is it hard to take care of him and stuff?
+
+Sakaki:
+ Mm-hm. I've read some books for research.
+
+Kagura:
+ Wow.
+
+ I see... Hmm...
+ The ecology of Nishihyou Island is...
+
+Tomo:
+ That's "Iriomote"!
+
+Kagura:
+ I did that on purpose!
+ I know that!
+ It slipped out!
+
+Tomo:
+ Which is it?
+
+Osaka:
+ The pikanyaa came a long way.
+
+Chiyo:
+ I keep telling you it's not pikanyaa.
+
+Osaka:
+ Really?
+ Pika...
+ Pika...
+ Pi?
+ Pika...
+ Pika...
+ Pi...
+
+Chiyo:
+ Shall we just say that pikanyaa is okay too?
+
+Yomi:
+ No, that'll just spoil her.
+
+Tomo:
+ Oh!
+ Chiyo-chan, will Mr. Tadakichi be okay?!
+ He just might get eaten up!
+
+Chiyo:
+ Oh, he'll be fine. He's way too big to get eaten.
+
+Kagura:
+ Iriomote cats are sometimes even known to hunt and eat full-grown wild boars.
+
+Chiyo:
+ Ahhhh!
+ We've got to hurry home!
+ Hurry, you guys!
+
+Osaka:
+ Wait! I'm sure he's gonna be fine!
+
+Tomo:
+ Maybe it's too late already!
+
+Kagura:
+ All right! The race is on!
+
+Chiyo:
+ Don't leave me!
+ Come on, you guys, wait for me!
+ Wait...
+
+Tomo:
+ Is Chiyo-chan coming yet?
+ Hm?
+
+ Ah... Oh, no! We didn't make it!
+
+Chiyo:
+ Mr. Tadakichi!
+
+Sakaki:
+ Mayaa!
+
+Tadakichi:
+...
+
+Sakaki:
+ Mayaa.
+
+Chiyo:
+ Thank goodness you're... Ah!
+ Mr. Tada...
+
+Narration:
+Azumanga Daioh!
+
+Chiyo:
+ Please, come on in.
+
+Osaka:
+ Wow, how nice.
+ It's a big heated table.
+ Can I sit at the heated table?
+
+Kagura:
+ I used your bathroom.
+
+Chiyo:
+ Please, go ahead.
+
+Tomo:
+ Hey, she's already there.
+
+Osaka:
+ It's nice. This heated table is nice.
+ Oh, hello there, pi... ka...
+ Pika... nyaa?
+
+Chiyo:
+ Sure, you can call him pikanyaa.
+
+Tadakichi:
+...
+
+Tomo:
+ Tadakichi, I'm gonna eat you!
+ Come on, come on, what are you gonna do? Meow.
+
+Yomi:
+ You might wanna stop that.
+ Mayaa's gonna get mad at you.
+
+Tomo:
+ Huh?
+ Ha-ha-ha-ha...
+
+Osaka:
+ It's really very comfortable, this heated table sure is nice.
+
+Tomo:
+ I am a great iriomote cat!
+ Roar! Roar, roar, roar!
+
+Yomi:
+ Give it a rest, huh!
+
+Tomo:
+ Ah!
+
+Yomi:
+ Hm?
+
+Tomo:
+ It hurts!
+
+Yomi:
+ Wah!
+
+Tomo:
+ It hurts! It hurts me!
+
+Chiyo:
+ Blood! There's so much blood! Blood!
+
+Yomi:
+ See?! what did I tell you?!
+
+Kagura:
+ Call an ambulance now!
+
+Sakaki:
+ Hey, you can't scratch people.
+
+Yomi:
+ No! It's okay!
+ Good work!
+
+Kagura:
+This is for getting carried away!
+
+Yomi:
+ Well, see you tomorrow at school.
+
+Osaka:
+ Till we heat again.
+
+Yomi:
+ Sakaki?
+
+Sakaki:
+ I'm going to stay for a little bit.
+
+Chiyo:
+ Tomo, are you okay?
+
+Tomo:
+ I hate that cat.
+
+Yomi:
+ It's your own fault.
+ For once you suffer the consequence.
+
+Kagura:
+ Yeah, she is right!
+
+Osaka:
+ Well, see ya.
+
+Chiyo:
+ Oh, yes, good-bye.
+
+Tomo:
+ It hurts.
+
+Yomi:
+ It's a good lesson. Learn something from it.
+
+Kagura:
+ Yeah, really.
+
+Yomi:
+ Moron.
+
+Kagura:
+ Moron.
+
+Chiyo:
+ That's some scolding just for getting hurt.
+
+Osaka:
+ Till we heat again.
+
+
+ ws:start:WikiTextHeadingRule:8:&lt;h1&gt; 
+ Chiyo:
+ Miss Sakaki, why don't you stay over tonight?
+
+Sakaki:
+ Is that okay?
+
+Chiyo:
+ Yes, it's okay.
+ Mayya will sleep better if you are here with him.
+
+Sakaki:
+ Sure.
+
+Chiyo:
+ Then, Miss Sakaki, please go ahead on back to the room, okay?
+ I'll make coffee or something.
+ Cooking is so fun, cooking is so fun.
+ Now it's time to take a break and see what we have done.
+
+Sakaki:
+ Soon we'll be together everyday, won't we?
+ Mayaa?
+ Mayaa.
+ Mayaa, you're so cute!
+
+Chiyo:
+ Okay, thanks for waiting.
+ Um, coffee is ready...
+
+Sakaki:
+ Thank you.
+
+Chiyo:
+ Uh...
+
+Osaka:
+ Chiyo-chan's heated table was nice.
+
+Tomo:
+ Damn it, my hand hurts so much.
+
+Yomi:
+ And whose fault is that?
+
+Tomo:
+ Like hell I'll ever trust an animal again!
+
+Kagura:
+ You started it.
+ Mayaa didn't like what you were doing to him.
+
+Yomi:
+ Look, if you had been nice to him, he wouldn't have scratched you.
+
+Osaka:
+ Hey, look. It's a cat.
+
+Tomo, Yomi, Kagura:
+ Huh?
+
+Osaka:
+ Kitty-nyaa.
+
+Yomi:
+ Good, an example! Tomo, come on!
+
+Tomo:
+ Huh?
+
+Yomi:
+ Here, come on.
+ See? Nothing to be afraid of.
+
+Kamineko:
+Garrrr.
+
+Yomi:
+ Huh?
+ Nothing to fear.
+
+Kamineko:
+Garrrr.
+
+Tomo:
+ What the?!
+
+Yomi:
+ That's odd.
+
+Osaka:
+ Kitty-nyaa ran away.
+
+Tomo:
+ Why the heck were you using my hand?
+
+Yomi:
+ I didn't wanna get bitten.
+
+Tomo:
+ Uh...
+
+Kagura:
+ It's good to have a fear put into you once in a while.
+
+Chiyo:
+ Get Mayaa clean, get Mayaa clean,
+
+Sakaki:
+ That's a good boy.
+ Almost done.
+
+Chiyo:
+ He's certainly very well-behaved around you.
+
+Sakaki:
+ Huh?
+
+Chiyo:
+ You know, I tried to wash him yesterday, but he really fought up a storm.
+
+Sakaki:
+ Is that right?
+ Here comes rinse.
+ Okay, you're all clean now.
+
+Chiyo:
+ Are you ready, Miss Sakaki?
+
+Sakaki:
+ Mm-hm.
+
+Chiyo:
+ Okay, lights out.
+
+Sakaki:
+ Mayaa.
+
+Chiyo:
+ Miss Sakaki, I guess you really love animals, don't you?
+
+Sakaki:
+ I like cute things.
+ Because I've always been big, even when I was younger, and I was never cute.
+
+Chiyo:
+ That's not true at all.
+
+Sakaki:
+ Huh?
+
+Chiyo:
+ Earlier when I saw you playing with Mayaa, you were actually very cute.
+
+Sakaki:
+ Uh.
+ You... think?
+
+Chiyo:
+ Yes, you were both very cute, tee-hee.
+
+Sakaki:
+ Uh?
+
+Chiyo:
+ You know, I think Mayaa thinks of you as his mother.
+
+Sakaki:
+ Good night, Mayaa.
+
+
+-- Preview --
+
+Everyone:
+Oh, God! Please show us your love!
+
+Kagura:
+It's the entrance exams!
+There are here!
+
+Tomo:
+Don't worry.
+I was real generous with my offering on our first shrine visit of the year!
+
+Osaka:
+Wow, Tomo, how much did you give?
+
+Tomo:
+Five yen!
+
+Everyone:
+Oh, God! Please show us your love!
+
+Osaka:
+Speakin' of which, are we gonna get to graduate?
+
+Kagura:
+I-I hadn't thought about that.
+  

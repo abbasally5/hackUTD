@@ -1,0 +1,377 @@
+
+ ws:start:WikiTextMediaRule:0:&lt;img src=&quot;http://www.wikispaces.com/site/embedthumbnail/custom/23337972?h=0&amp;w=0&quot; class=&quot;WikiMedia WikiMediaCustom&quot; id=&quot;wikitext@@media@@type=&amp;quot;custom&amp;quot; key=&amp;quot;23337972&amp;quot;&quot; title=&quot;Custom Media&quot;/&gt; 
+ ws:end:WikiTextMediaRule:0 
+Did you know, there's an awesome treasure hidden at the end of the sea? And anyone who finds it will be King of the Pirates. Is that exiting or what? There are incredible adventures out there just waiting for us.
+
+
+I don't know but I've been told
+Battery never get old
+G8's gonna keep things right
+If you don't listen we'll use our might
+If they're dumb enough to come near
+Bad guys always run in fear
+
+You know, I heard that our fortress isn't very popular among those fellows on the open waters.
+
+Yeah, they think we're a bunch of dimwitted softies because we haven't seen any actions in so long. But think about it, when was the last time you got to really test your skills in a good battle with some pirate scum?
+
+What are you trying to say?
+
+Wait! I-I'm not trying to say anything! It's a rumor, all right. I'm just repeating what I heard.
+
+What's their problem?! There haven't been any battles because there's finally some peace around here!
+I don't know but I've been told...
+
+
+Another beautiful night.
+
+
+Oh man, this ship is messed up.
+
+I bet it'll take us at least a week to finish.
+
+Well, we got 3 days.
+
+There's no way!
+
+She looks rough. Maybe she's been climbing mountains?
+
+Hey, Mechao.
+
+You sure got a way with words, old man. Yeah, she looks like she's been climbing mountains, all right. Mountains that aligned with gunpowder.
+
+With damage this extensive, it looks like it fell clear out of the sky.
+
+Come on now, fellows. She's probably got caught on the Sea Gates coming into port.
+
+Yeah, that's a difficult area to sail through even for an experienced navigator.
+
+Enough with the lollygagging. We got a job to do, so let's get to work already.
+
+Yeah-yeah...
+
+
+Geez... Back in my days, sailors loved their ships and they treated them with respect.
+
+Hey, what's the matter? What happened?
+
+Up there! Look! Up there! In the sky!
+
+ ws:start:WikiTextHeadingRule:3:&lt;h1&gt; 
+
+We got a problem! Something's fallen from the sky! We are being invaded! Over.
+
+Attack from the sky? Attack from the sky?!
+
+Ah?
+
+An unidentified object has infiltrated the base!
+Get to your posts! On the double!
+I want men guarding the coast! Now!
+Sniper Unit! Move it!
+
+I'm so sleepy.
+
+Close the Sea Gate!
+
+Over there! Grid position 12!
+
+All lights at grid position 12! Immediately!
+
+Ah... A pirate ship! The flag has... a skull with a straw hat! It's the Straw Hat Pirates!
+
+What?!
+
+Ready!
+All cannons, target the Straw Hats' ship!
+
+The Straw Hat Pirates?!
+
+Yes, sir!
+
+Lieutenant Commander Drake! Sir, the Straw Hat Pirates have invaded our base!
+
+The Straw Hat Pirates?! Show me to Commander Jonathan!
+
+Well, sir, I would, but no one knows where he is.
+
+Of course, no one knows where he is.
+
+Well, I'll be -- someone invaded through the sky.
+
+Resistance is futile! We have you completely surrounded!
+
+
+It's been pretty noisy outside, huh?
+
+Yeah. You think there's a battle going on?
+
+There will be no chit-chatting in this kitchen! Look here, it is our duty to prepare a warm and delicious meal for 1000 hungry sailors. And we gotta get all of that done before the night shift starts in just under two hours! Does it sound like we have time to be fooling around?!
+
+No, ma'am.
+
+We're very sorry, ma'am.
+
+Ah! Don't you worry about a thing, lads. The day this hulkin' mass of canvas and concrete falls is the day that pigs fly! Now, gettin' on Jessica's bad side--that's something to be scared of.
+Right, no chit-chatting.
+
+
+What is it?
+
+Commander! Finally! Where have you been?
+
+I didn't catch anything today.
+
+What?! Again?!
+
+Well, I had quite a large catch yesterday.
+
+That's not what I'm talking about. Commander, if you're constantly absent then--
+
+Don't lecture me. Night fishing isn't necessarily a waste, you know.
+
+Commander, I have a report. According to the watchmen as well as the maintenance men in the dock who saw the enemy ship up close. According to them...
+
+Go on.
+
+Spit it out already, sergeant!
+
+Yes! Well...um... the men reported that they saw ghosts, sir!
+
+
+Like I said, the ship suddenly fell from the sky, okay? I swear!
+
+It was really big and scary and had a pink hat. Then it jumped up and disappeared.
+
+Hands... hands...
+
+What about hands?
+
+A million hands started to grow and go over my entire body. Next thing I knew everything went black.
+
+All those hands... The unmistakable touch of the beautiful woman...
+
+This is clearly...
+A ghost ship!
+
+
+Enough!
+
+Yes, sir!
+
+That ship out there belongs to the Straw Hat Pirates! Sergeant, I want reconnaissance, not ghost stories!
+
+And how dare you report to me with this nonsence about a ship that magically fell out of the sky?!
+
+The part about that falling from the sky is true at least.
+
+Huh?
+
+I told you, it's not a waste. Right, Lieutenant?
+
+
+I see... Ghost ship, huh?
+Smells delicious.
+
+Commander, look what I found in one of the rooms!
+
+Huh?
+
+Ingots and a crown... These treasures are quite old...Huh! The pirates must have stolen them from some ancient ruins.
+
+Get them to the lab!
+
+Yes, sir!
+
+Well, then. Let's have a look inside, shall we?
+
+What the--?
+
+Huh? Easy there. It's just an ordinary South Bird.
+
+A South Bird?
+
+Yes. They always point South, which made them a prized possession for the sailors of all despite their silly appearance.
+
+Aw! Ow! Stop it! Get off!
+
+Are you okay, sir?
+
+They certainly are volatile creatures.
+
+Hmm... The kitchen is well maintained.
+
+Medical and history books, sir! New ones!
+
+Interesting. Seems these ghosts study a lot.
+
+Not ghosts again. That's ridiculous!
+
+Excellent work, men! Stay brave and remember to keep a watchful eye during your investigation of this ghost ship.
+
+Ghost ship?
+
+Hm, back to work!
+
+Yes, sir!
+
+
+It would appear that the ship in question stopped by Jaya quite recently. That coffee was delicious, wasn't that?
+
+Yes...
+
+Judging from the color and smell of the coffee left on deck one can assume that the beans are from Jaya. But you must already know this having courageously sampled the a beverage yourself.
+
+Um...well...
+
+And that South Bird... That species of bird only inhabits the jungles of Jaya. Incidentally, there's a legend of the City of Gold that exists there.
+
+Commander, are you telling me that vessel isn't really --
+
+I don't know where the ship's crew is or what they're up to, but that's no ghost ship. It's just a pirate boat [out of] Jaya.
+
+And not just any pirates', it's the Straw Hat pirates'. I should know I've seen their boat twice now.
+
+I don't understand, Commander. Weren't you just calling it a ghost ship earlier?
+
+Frankly, our men are a little too green to deal with a situation like this. If we tell everyone that the notorious Straw Hats have infiltrated our ranks it'll cause panic and confusion that will undoubtedly aid the pirates in their mission. So for now, we continue calling it a ghost ship. Understood?
+
+With all due respect, I think we should assemble a special investigation unit and begin searching for the pirates immediately And I'd be happy to lead the team.
+
+Don't be so hasty.
+
+But--
+
+Our defense is our number one priority.
+You, go reinforce security at the coast as well as around the Sea Gate.
+
+Sir!
+
+I also want the ammunition store, the brig and all major passageways secure. You'll have extended authority to manage related personnel.
+
+Right away, sir!
+
+Is there a problem?
+
+No.
+
+The night is still young and the darkness will restrict their movement. And again, it'll also restrict ours. At dawn assemble your team and thoroughly investigate any places where people gather.
+
+Places where people gather?! But why?
+
+Here's why. Because it's difficult to find green insects living in green grass. If the Straw Hats were to acquire some of our uniforms...
+
+Huh?
+
+You must understand, it's not that I don't have faith in my men, but we must keep in mind that we are searching for the most clever enemy.
+
+Hmm...
+
+Pirates are like stray dogs... They're always hungry. Why don't you start by checking the dining hall at first light.
+
+Sir!
+
+
+Where did everyone go?
+What the heck is this place?!
+
+Holy crap!
+
+Good thing we still had this waver.
+Secutity is tight. I'd better find everybody and get out of here right away!
+Oh no! Is this...?!
+
+Well, look at that! We've landed in another fine mess, haven't we? I hope Robin and Nami were able to get out the ship okay.
+
+What is it?
+
+Well...Thought I saw light in the trees.
+
+I don't see anything.
+
+I can't even smoke in peace!
+
+Hmm...Beef! Pork! Chicken! Fish! Beef! Pork! Meat! Meat! Meat! I know there's some food in there! One way or another I'm gonna find it! Okay, that didn't work. Chopper [would be] really handy right about now. He could smell out something good.
+
+Found them!
+Oh man, we can't get anywhere near the Going Marry. They've got our ship under a freaking microscope!
+
+Oreja Fleurs!
+
+We looked and we couldn't find a single crewmember anywhere.
+
+That's not even a half of it. Did you hear the maintenance guys said they saw monsters?
+
+Yeah. And on top of that, the Commander clearly said that was a ghost ship.
+
+They aren't right... assigning us to watch a creepy ghost ship in the dead of night...
+
+I see. Apparently, the marines think that the Going Marry is a ghost ship.
+
+Ghost ship?! How rude! Why those...? You--!
+
+Relax. I believe this could work out in our favor if they go on believing that little ghost story. Don't you think we can use it to our advantage? It could buy us some time...
+
+I got it. The ghosts must've stolen cursed gold and they're now doomed to sail the seas forever.
+
+Cut it out, man. 'Cause I touched that gold.
+
+Ghost!
+
+
+Straw Hat Luffy and Pirate Hunter Zoro... We can also assume that the woman with countless hands and that hairy beast are also  ws:start:WikiTextMediaRule:1:&lt;img src=&quot;http://www.wikispaces.com/site/embedthumbnail/custom/23337984?h=0&amp;w=0&quot; class=&quot;WikiMedia WikiMediaCustom&quot; id=&quot;wikitext@@media@@type=&amp;quot;custom&amp;quot; key=&amp;quot;23337984&amp;quot;&quot; title=&quot;Custom Media&quot;/&gt; 
+//<![CDATA[
+hiddentext('part of the group.', '<b>part<\/b> is an uncountable noun here, because it means "a member of something"<br/>PART<br/>1. [U] ~ of sth - some but not all of a thing<br/>2. [C] - a section, piece or feature of sth<br/>3. [U] - a member of sth<br/>4. [C] - piece of machine<br/>(for more details click <a href="http://forum.wordreference.com/showthread.php?t=967487">here<\/a>)<br/>', 1);
+//]]>
+ ws:end:WikiTextMediaRule:1   ws:start:WikiTextMediaRule:2:&lt;img src=&quot;http://www.wikispaces.com/site/embedthumbnail/custom/23337988?h=0&amp;w=0&quot; class=&quot;WikiMedia WikiMediaCustom&quot; id=&quot;wikitext@@media@@type=&amp;quot;custom&amp;quot; key=&amp;quot;23337988&amp;quot;&quot; title=&quot;Custom Media&quot;/&gt; 
+//<![CDATA[
+hiddentext('All in all,', '= considering all the different parts of the situation together.');
+//]]>
+ ws:end:WikiTextMediaRule:2  there's seven pirates. Among them are... a very skilled gourmet cook, a knowledgeable ship's doctor and, possibly, a historian as well.
+
+
+I heard something over here!
+
+This way! Hurry!
+
+They're gonna get me! They're gonna get me! 'Cause I'm lost and I don't know where I'm going! Now I'm trapped! Cornered! What the heck am I gonna do?! I've got to think of something! Think!
+
+Wait! It's downstairs!
+
+On my way!
+
+Ahh...That was close.
+
+All right. Where to next?
+
+This is bad. It's enclosed by land in all directions. Then where are we? Did we land in a lake with no possible way to get out?!
+
+At any rate, obtaining the information necessary for our escape is our first task. Let's do this, Long-nose. What do you say?
+
+I don't wanna.
+
+It was nothing.
+
+That idiot! Can he take something seriously for once?
+
+
+What I don't understand is why... why are the Straw Hats pirates here? What could they possibly be at looking for at Navarone? Guess we'll have to wait and see.
+
+
+Of all places, a marine fortress?!
+I'm starving...
+We can't do anything until we can see the big picture!
+I'm starving!
+Let me see that cook's spirit!
+Are you talking to me?!
+I said I'm starving!
+Welcome to the fortress of Navarone.
+Are you talking to me?
+
+On the next One Piece
+
+"Sanji the Cook!
+Proving His Merit at the Marin Dining Hall!"
+
+I'm gonna be King of the Pirates!
+  

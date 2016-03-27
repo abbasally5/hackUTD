@@ -1,0 +1,1142 @@
+
+ ws:start:WikiTextHeadingRule:0:&lt;h1&gt; 
+ Tomo:
+ You are all working so hard at it.
+
+Yomi:
+ You talk as if you were not even a part of it.
+ You've got exams too, don't you?
+
+Tomo:
+ Ahahaha! No need to worry!
+ The truth is I came up with an absolutely splendid idea!
+
+Chiyo:
+ Idea?
+
+Tomo:
+ Uh-huh, since you're going abroad, you're not taking entrance exams, right?
+
+Chiyo:
+ Uh, yeah...
+
+Tomo:
+ So, if I go study abroad, I won't have to take entrance exams either!
+ I'm the smartest person ever!
+
+Yomi:
+ Then, you do that.
+
+Tomo:
+ Oh, vocab.
+ Huh, here, let me quiz you, guys.
+
+Yomi:
+ This is sudden.
+
+Tomo:
+ Um... the summer fruit you eat before you go swimming?
+
+Yomi:
+ Huh? What the heck is this?
+
+Chiyo:
+ Oh, that would have to be watermelon.
+
+Tomo:
+ Noooo!
+ The answer's persimmon!
+ It's for swimming!
+
+Chiyo:
+ Ah... Oh!
+
+Tomo:
+ I don't know if it's good that you're so impressed...
+ Okay, tell me who's always banging up cars?
+
+Chiyo:
+ Ah, Miss Yukari?
+
+Tomo:
+ Yeah, I know where you're coming from, but no.
+
+Chiyo:
+ Someone who works in a scrap-yard?
+
+Tomo:
+ Noooo!
+ No, it's the dentist!
+
+Chiyo:
+ Uh... Ah!
+
+Osaka:
+ Oh, hey, whatcha doin'?
+
+Tomo:
+ I was quizzing Chiyo-chan about some stuff.
+
+Osaka:
+ Really? Like what?
+
+Tomo:
+ What kind of bird doesn't get along with police?!
+
+Osaka:
+ A rook?
+
+Tomo:
+ Oh! So quickly!
+
+Chiyo:
+ That was amazing!
+
+Osaka:
+ It is?
+
+Tomo:
+ Okay, who built Osaka Castle?
+
+Osaka:
+ The mason.
+
+Tomo:
+ "Nihongo" is Japanese.
+ What then is "Eigo"?
+
+Osaka:
+ Still Japanese.
+
+Tomo:
+ A truck with pumpkins, eggplants and tomatoes hit a sharp turn, what fell off?
+
+Osaka:
+ Would it be speed?
+
+Tomo:
+ A-Amazing! What is with her?!
+
+Osaka:
+ What? Was I right?
+ Oh, Chiyo-chan, there's somethin' I wanna discuss.
+
+Chiyo:
+ Yes? What is it?
+
+Osaka:
+ Tell me, can you think what kind of job I might be suited for?
+
+Chiyo:
+ Huh? Hmm, let me think...
+ Oh, have you thought about becoming a school teacher?
+
+Osaka:
+ Ooh...
+
+Chiyo:
+ I bet you would raise students who were flexible thinkers!
+
+Osaka:
+ Ah!
+
+Yomi:
+ I don't know.
+
+Osaka:
+ Miss Yukari.
+
+Yukari:
+ Oh, Osaka.
+ You're the only one who hasn't turned in your school choice.
+ Hurry up and make up your mind, all right?
+
+Osaka:
+ Yeah, well, about that...
+ See, I'm gonna become a school teacher.
+
+Yukari:
+What?! Are you out of your mind?!
+
+Osaka:
+ Not really.
+ Chiyo-chan said I'd be well suited for it.
+
+Yukari:
+ What did you say?!
+
+Osaka:
+ Huh?
+
+Yukari:
+Look here, Miss Chiyo!
+ You think I'm an idiot, don't you?
+
+Yukari:
+ You probably think being a teacher is a job even stupid people can do!
+ I'm right, aren't I?!
+ If being a prodigy is going to your head, I'll be happy to knock that right out!
+
+
+Osaka:
+ Hello!
+
+Tomo:
+ Help us study!
+
+Chiyo:
+ Miss Sakaki is here too.
+
+Tomo:
+ Oh, I didn't know that.
+
+Tomo:
+ All right, let's get cracking!
+
+Osaka:
+ But this table's dangerous.
+ It's like I'm falling asleep.
+
+Chiyo:
+ Yeah, you're right.
+
+Osaka:
+ Hah!
+
+Chiyo:
+ Hm? Uh...
+
+ Like you're falling asleep?
+
+Yomi:
+ Hey there!
+
+Kagura:
+ Help us study!
+
+Yomi:
+ Oh? So are Tomo and the others here?
+
+Chiyo:
+ They are.
+ They're all studying with Miss Sakaki.
+
+Yomi:
+ Studying, huh?
+
+Chiyo:
+ Y-Yes...
+
+ ws:start:WikiTextHeadingRule:2:&lt;h1&gt; 
+ Tomo:
+ The New Year!
+
+Everybody:
+Happy New Year!
+May your new year be blessed.
+
+Yomi:
+ A long-sleeved kimono, huh?
+
+Osaka:
+ It looks real good on ya.
+
+Chiyo:
+ Oh, my. There're so many people.
+
+Osaka:
+ Not good. At this rate, all of us are gonna get separated.
+
+Tomo:
+ Well, then let's pick our rally points.
+ Everyone, if you get lost, meet up at Sakaki!
+
+Yomi:
+ Okay, got it!
+
+Kagura:
+ Yep, that's a roger!
+
+Sakaki:
+ Hmm...
+
+Chiyo:
+ You seem rather sleepy today.
+
+Yomi:
+ Yep, I was up so late studying I heard the watch night bell sound.
+
+Chiyo:
+ Oh, that's right, isn't it?
+ I forgot that the center exam is coming up.
+ Okay, then, I understand!
+ Since I'm not taking exams, I will pray for all of you as well!
+
+Tomo:
+ Oh! Imbue my being with your prodigy power so that I too may pass.
+
+Yomi:
+ Your being?
+
+Osaka:
+ Oh, I better get the money offerin' ready soon.
+
+Yomi:
+ Okay, I'm gonna be generous.
+
+Osaka:
+ That's a 500 yen coin!
+ Oh, I can't let that beat me out!
+
+Yomi:
+ No way!
+ You're doing paper bills?!
+
+Osaka:
+ This is it!
+
+Yomi:
+ A ten yen coin, Osaka?
+ That's pretty lame. You'll fail at this rate.
+
+Osaka:
+ No, you're wrong!
+ This coin is the chosen one among ten yen coins!
+
+Yomi:
+ It's what?
+
+Tomo:
+ Now that you mentioned it, I can almost see it!
+
+Chiyo:
+ Why is this coin the chosen one?
+
+Osaka:
+ This ten yen coin here always came back no matter which machine I put it in.
+
+Yomi:
+ You sure that's a good thing?
+
+Chiyo:
+ Finally, our turn is coming up, huh?
+
+Osaka:
+ Gonna pray good and proper.
+
+Chiyo:
+ May everyone pass their tests together.
+ Miss Osaka...
+
+Kagura:
+ Hey, let's draw sacred lots!
+
+Tomo:
+ Yes, I accept your challenge!
+
+Kagura:
+ Number 8!
+
+Tomo:
+ Number 15!
+
+Kagura:
+ Small blessing!
+
+Tomo:
+ Strife!
+ What?!
+
+Kagura:
+ You mean...
+
+Yomi:
+ Bad luck?
+
+Chiyo:
+ You... you got bad luck?
+
+Tomo:
+ Yeah, bad luck.
+
+Yomi:
+ Wow, you're right, Tomo.
+ They have those, huh? That's incredible.
+
+Osaka:
+ It's just too good to be true.
+
+Tomo:
+ Bad luck. Wh-What should I do?
+ J-Just what am I supposed to do with this?
+ Tie it to a tree?
+
+Chiyo:
+ I believe there was someone that I heard if you tie a sacred lot, then it'll become cleansed and bad things will be banished.
+
+Tomo:
+ Then, I gotta tie it!
+
+Chiyo:
+ But I also heard people say if you tie it, the stuff written on it will come true.
+
+Tomo:
+ What?! Am I just doomed?!
+ What should I do?! What should I do?!
+ Please tell me you're gonna help me here?
+
+Yomi:
+ Yeah, you're probably just doomed, Tomo.
+
+Tomo:
+ Ah! No way!
+
+Kagura:
+ All right, how about we get something to eat on the way home?
+
+Yomi:
+ You know there's a really good sweets shop up ahead.
+
+Osaka:
+ Ain't ya on a diet, Yomi?
+
+Yomi:
+ Actually, a moderate amount of sugar is needed to stimulate the brain.
+
+Kagura:
+ We got teachers ahead.
+
+Nyamo:
+ Huh?
+
+Yukari:
+ Oh, shoot!
+
+Tomo:
+ Yukari, New Year's allowance!
+ Give us a New Year's money!
+
+Kagura:
+ Gimme, gimme!
+
+Osaka:
+ Please, Miss Yukari!
+
+Yukari:
+ What was that? I can't hear what you're saying!
+
+Tomo:
+ Cheapskate!
+
+Kagura:
+ Cheapskate!
+
+Osaka:
+ Cheapskate!
+
+Yukari:
+ What did you call me?!
+
+Tomo:
+ Run away!
+
+Chiyo:
+ Miss Kurosawa, Happy New Year.
+ May your year be blessed.
+
+Nyamo:
+ Happy New Year.
+ Have you made your first shrine visit yet?
+
+Yomi:
+ We did. At the shrine back there.
+
+Yukari:
+ Hey, hold on, you guys didn't know?
+
+Tomo:
+ Huh? We didn't know what?
+
+Yukari:
+ Know that the son of that shrine went and failed to get into college.
+ They won't help you.
+
+Everyone:
+What?!
+
+ ws:start:WikiTextHeadingRule:4:&lt;h1&gt; 
+ Tomo:
+ All right, it's time for the center exam!
+ Let's take this chance to do it together and get terrible scores!
+
+Kagura, Yomi:
+ Uh...
+
+Tomo:
+ We're done for.
+
+Osaka, Kagura:
+ Yeah...
+
+Chiyo:
+ Uh, you guys...
+
+Osaka:
+ Do not worry.
+ I'll be teaching ya a good charm.
+
+Tomo:
+ A charm, huh?
+
+Yomi:
+ They're just chopsticks?
+
+Osaka:
+ Did I give one to everybody?
+ Then, please listen to me.
+ If you can split these neatly, then the test will go well.
+
+Everyone:
+Wh-What?!
+
+Kagura:
+ Wow, I had no idea. Never heard of this charm before.
+
+Osaka:
+ I developed it.
+
+Kagura,Tomo:
+ Ah!
+
+Osaka:
+ Do not worry. It will work.
+
+Kagura:
+ You can't just make charms up!
+
+Osaka:
+ Y'all are just too skeptical.
+ Look here, I'm gonna show you how to do it.
+
+Everyone:
+Uh...
+
+Osaka:
+ See now, that didn't count.
+
+Yomi:
+ Huh, no good.
+
+Chiyo:
+ Hey, um, I've been meaning to mention this for a while.
+ With disposable chopsticks, if you hold the ends and split them slowly...
+ See? Nice and neat.
+
+Osaka:
+ No way?! I-I didn't know there was a trick to it!
+
+ Ah... It's... it's so beautiful... A perfect break...
+ If I use this, college will be just...
+
+ Hey, everyone, lemme show you one more time.
+ Just like this and...
+ Tomo, what'd you do?
+
+Tomo:
+ Huh?
+
+Osaka:
+ You didn't make a proper split!
+
+Tomo:
+ What? Oh...
+
+Osaka:
+ Hah, you weren't holding the ends, were ya?
+
+Tomo:
+ Nuh-uh?
+
+Osaka:
+ We said it. You gotta hold 'em by the ends!
+ It's no good! Listen to what people tell ya!
+ Argh!
+
+Tomo:
+ I... I'm sorry then.
+ Hey, why am I being scolded?
+
+Osaka:
+ There's no hope. There's no more hope for ya, Tomo.
+
+Tomo:
+ What?! No way!
+
+Chiyo:
+ Oh, so um...
+ Anyway, I brought some good luck charms to hand out to everyone.
+
+Tomo:
+ What?
+
+Yomi:
+ More charms, again?
+
+Chiyo:
+ I thought about buying them on our shrine visit but I ended up making them myself.
+
+Kagura:
+ So, these are for us?
+
+Chiyo:
+ Correct. I have one charm for each of you.
+
+Yomi:
+ Wow.
+
+Chiyo:
+ Here, Miss Sakaki.
+
+Sakaki:
+ Thanks, Chiyo-chan.
+
+Tomo:
+ Wow...
+
+Kagura:
+ Here we go. Now this looks like it'll work!
+
+Yomi:
+ It's almost time for it.
+
+Tomo:
+ Yeah.
+
+Kagura:
+ We've done all we can.
+ Let's get in there and do our best!
+
+Osaka:
+ I agree.
+
+Sakaki:
+ Mm.
+
+Chiyo:
+ All right, you guys, I'll be praying that all goes well for everybody.
+
+Yomi:
+ Well, then, shall we go?!
+
+Tomo:
+ Let's go!
+
+Chiyo:
+ Um...
+
+Everyone:
+Huh?
+
+Chiyo:
+ Best of luck!
+
+Everybody:
+Ha-ha.
+
+Chiyo:
+ Oh, wow, you look like you're tired. So, how did it go? Oh...
+
+Tomo:
+ Who cares! It doesn't matter!
+
+Chiyo:
+ Ah? Was it really that bad?
+
+Tomo:
+ There were a lot of stupid questions where I could only narrow the answer down to two...
+
+Chiyo:
+ These questions are kind of boring.
+ Miss Yukari's tests are more interesting than this.
+ Your intelligence cannot be measured by these problems.
+ Please don't let it discourage you!
+
+Tomo:
+ Okay.
+
+Osaka:
+ Hey, Chiyo-chan,
+ Some of the stuff you taught me came up on the test.
+
+Chiyo:
+ Oh, how lucky for you.
+
+Osaka:
+ Uh-huh, I was lucky.
+
+Tomo:
+ Osaka, did you get some tutoring from Chiyo-chan?
+
+Osaka:
+ A little on non-school days recently.
+
+Tomo:
+ Oh, yeah, so you were perfectly ready, huh?
+
+Osaka:
+ Well, it was kinda like what Chiyo-chan just told ya.
+
+Tomo:
+ Huh?
+
+Osaka:
+ My intelligence simply cannot solve these kinds of problems.
+
+Chiyo, Tomo:
+ Uh...
+
+
+ ws:start:WikiTextHeadingRule:6:&lt;h1&gt; 
+ Chiyo-papa:
+Hello there, everymeow.
+<Spanish> Como estas? Bien gracious.<Spanish>
+
+Osaka:
+ Oh, my god!
+
+Chiyo-papa:
+There are some times when I wish I were a bird.
+
+Osaka:
+ Wait, whatcha saying things like that for?
+
+Chiyo-papa:
+My daughter is flying to America.
+
+Osaka:
+ But if you were a bird?
+
+Chiyo-papa:
+I am not a bird. Can you not see that I am a cat!
+If I were not, what would you say I am?
+
+Osaka:
+ Hold on, I know, you look like that American guy.
+ You know, like Bill Clinton.
+
+Chiyo-papa:
+Oh...
+
+Osaka:
+ Oh, no, I'm so sorry!
+
+Chiyo-papa:
+Hm? Are you the real cat? The true cat?
+I have a cat's tongue and hate hot food.
+But what of you? O cat?
+
+Osaka:
+ Oh, I've got a cat's tongue too!
+
+Chiyo-papa:
+Then I shall yank that tongue right out of your head there!
+
+Osaka:
+ What?! Why?!
+ Uh...
+
+Yomi:
+ Good morning.
+
+Osaka:
+ I wasn't sleepin'. I was studyin' honestly.
+ Huh? Hang on, this looks just like Chiyo-chan's place.
+
+Yomi:
+ Good morning.
+
+Sakaki:
+ Uh.
+
+Chiyo:
+ Okay, time to take a snack break!
+ Today, we have millefeuille.
+
+Kagura:
+ Ooh.
+
+Tomo:
+ Yes, finally!
+
+Yomi:
+ Sugar is necessary to keep your mind working, isn't it?
+
+Osaka:
+ Uh-huh.
+
+Yomi:
+ So, it should be okay if I eat them, right?
+
+Osaka:
+ It's okay.
+
+Chiyo:
+ Hello, Miss Sakaki, what are you doing over there?
+
+Sakaki:
+ I'm kinda stuck here in this spot.
+
+Chiyo:
+ Here, Miss Sakaki.
+
+Sakaki:
+ Huh?
+
+Chiyo:
+ I brought you a snack.
+
+Sakaki:
+ Oh, thanks very much.
+ Ah...
+
+Chiyo:
+ No, no, there's none for you.
+
+Sakaki:
+ Oh. Is he not allowed to have cake then?
+
+Chiyo:
+ Uh-uh, we try our best not to feed him sweets or anything like that.
+
+Osaka:
+ Oh, that was delicious. Thanks, Chiyo-chan.
+
+Yomi:
+ See, you really do need sugar to keep your mind working.
+
+Osaka:
+ Yeah, I see.
+
+Yomi:
+ Yeah, I was right, I was so right.
+
+Kagura:
+ Okay, doing my best on the homestretch!
+
+Tomo:
+ But you're not gonna beat me!
+
+Chiyo:
+ Hm...
+
+Tomo:
+ Huh?
+ What's wrong, Chiyo-chan?
+
+Chiyo:
+ Oh, I was just thinking that we'll graduate soon.
+
+Kagura:
+ Yeah, that's right.
+ I completely forgot because of the exams coming up.
+
+Sakaki:
+ Hm.
+
+Tomo:
+ Well, assuming nothing happens when we do get to graduate.
+
+Yomi:
+ You say that so cheerfully.
+
+Chiyo:
+ Although, it's already been three years since we all first met.
+
+Kagura:
+ I've only been around since the second year, but man, a lot has happened.
+
+Osaka:
+ Yeah for real. Three years go by in no time at all.
+ Chiyo-chan's grown quite a bit!
+ You have.
+
+Chiyo:
+ Do you think so?
+
+Osaka:
+ Sakaki's breasts've grown too!
+
+Sakaki:
+ Uh...
+
+Osaka:
+ I've gotten it together much better.
+ And Tomo...
+
+Yomi:
+ Hey, hey...
+ Don't think I'm gonna buy into that!
+
+Chiyo:
+ Everyone's individual entrance exams have finally begun.
+ All I can do now is pray for my friends.
+ Please do your best!
+
+
+ ws:start:WikiTextHeadingRule:8:&lt;h1&gt; 
+ Nyamo:
+ Hey, I hear Kagura is getting her results back today, isn't she.
+
+Yukari:
+ Is she, really?
+
+Nyamo:
+ That's your answer?
+ She's your student, you really should remember these things, you know.
+
+Yukari:
+ Yes, ma'am, you're so right.
+
+Kagura:
+ Miss Yukari, I made it! I made it in!
+
+Yukari:
+ What?!
+
+Nyamo:
+ I'm proud of you!
+
+Yukari:
+ Yeah, well, I had faith that you'd get accepted, Kagura.
+
+Kagura:
+ But you just screamed "What?!", when I told you.
+
+Tomo:
+ Incredible! So Kagura made it in?!
+
+Chiyo:
+ Congratulations! I'm really glad for you!
+
+Kagura:
+ Thanks, Chiyo-chan.
+ It's all because of the good luck charm you gave me.
+
+Chiyo:
+ Oh, no! It was your own abilities, Miss Kagura!
+
+Tomo:
+ So bright!
+
+Kagura:
+ Huh?
+
+Tomo:
+ You are shining so brightly now!
+
+Kagura:
+ So did they not accept you?
+
+Tomo:
+ Uh... it was thin.
+ The envelope I got was thin and the piece of paper inside it said "No."
+
+Chiyo:
+ Don't you worry! We still have the announcement board left, remember?
+ Your number will be there!
+
+Tomo:
+ Really? You stake your life on it?
+
+Chiyo:
+ I sure will!
+
+Kagura:
+ What?
+
+Osaka:
+ Hey, everyone!
+
+Chiyo:
+ Oh, Miss Osaka.
+
+Osaka:
+ Okay, well, the results from my first school came back.
+ But I haven't looked at it yet.
+ Chiyo-chan, you've really been there for me through the exams.
+ So I wanted you here for this too.
+
+Chiyo:
+ Oh, I see.
+
+Osaka:
+ So, what's it gonna be?
+
+Tomo:
+ Oh, it's thin!
+
+Osaka, Chiyo:
+ Ah!
+
+Kagura:
+ Don't be discouraged!
+ You still got others, right?!
+
+Osaka:
+ But this school, this was supposed to be my safety net.
+
+Kagura:
+ Oh.
+
+Chiyo:
+ Don't you worry! It'll be just fine!
+
+Osaka:
+ For real?
+
+Chiyo:
+ I'll stake my life!
+
+Kagura:
+ Don't be in such a hurry to die.
+
+Osaka:
+ Say, Sakaki, did you get your results?
+
+Sakaki:
+ Oh, yeah, I got into the first one.
+ But I haven't heard from my main choice.
+
+Osaka:
+ Wow, that's really something.
+ It's a university for vets, right?
+
+Sakaki:
+ That's right.
+
+Osaka:
+ Say, veterinarians, do they...
+
+Sakaki:
+ Huh?
+
+Osaka:
+ Do they take care of beetles as well?
+
+Sakaki:
+ What? Well, Um...
+
+Tomo:
+ All right, the time has finally arrived!
+ The crucial moments!
+
+Osaka:
+ Crucial.
+
+Chiyo:
+ Mm!
+
+Tomo:
+ So, will it be life or death?!
+
+Osaka:
+ Death?
+
+Tomo:
+ Okay! Before I go look at the announcement board, recharge this with your uncanny exams passing prayer power!
+
+Chiyo:
+ Yes, right away!
+
+Chiyo:
+ Uuuuum, Yah!
+ All right! You should be just fine now!
+
+Tomo:
+ O... Okay.
+
+Osaka:
+ Oh, oh, do mine too!
+
+Tomo:
+ Okay, let's have a look!
+
+Osaka:
+ I'm ready.
+
+Chiyo:
+ But Miss Yomi tried for two places and both fell through.
+
+Tomo:
+ Oh, the book just fell... oops...
+
+Osaka:
+ Oh, hey, guess what? The graduation trip...
+
+Tomo:
+ Shh! Stop it! We can't talk about it yet!
+
+Osaka:
+ Uh...
+
+Tomo:
+ Osaka, We're fine, but...
+
+Yomi:
+ Yeah, but what?! You have something you wanna say?!
+
+Tomo:
+ Hey, don't worry! You'll get into the next one.
+
+Yomi:
+ I don't need your sympathy.
+ I've still got my main choice left!
+ And don't worry. I'm gonna be accepted there.
+ Then I'm gonna have lots of fun!
+ With everyone!
+
+Chiyo:
+ That's right. We'll all go together!
+
+Tomo:
+ Definitely. It'll be great if we're all together.
+
+Yomi:
+ Somehow, it just doesn't sound right when you say it!
+ So, what if I'm the only one who hasn't gotten in.
+ Ha-ha-ha.
+
+Tomo:
+ Yomi's, Yomi's a goner!
+
+Chiyo:
+ Please hang in there!
+
+
+-- Preview --
+
+Yukari:
+Okay, it's the end, the end!
+Good riddance.
+
+Tomo:
+What?
+What do you mean, the end?!
+Are you saying it's the final episode?!
+
+Yukari:
+Yeah, you guys are graduating, remember?
+
+Tomo:
+So once we graduate, that's gonna be it for the show?!
+
+Osaka:
+We're gonna die after that?
+
+Yukari:
+Don't worry.
+All of you will continue to live on forever in everyone's hearts.
+
+Everyone:
+Miss Yukari!
+  

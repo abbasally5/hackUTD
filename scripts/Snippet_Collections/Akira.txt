@@ -1,0 +1,72 @@
+
+  冒頭部分、「ピーキー過ぎてお前には無理だよ」
+BDに関しては、スクリプトを作る必要は無さそう。 ws:start:WikiTextMediaRule:0:&lt;img src=&quot;https://www.wikispaces.com/site/embedthumbnail/custom/23736038?h=0&amp;w=0&quot; class=&quot;WikiMedia WikiMediaCustom&quot; id=&quot;wikitext@@media@@type=&amp;quot;custom&amp;quot; key=&amp;quot;23736038&amp;quot; align=&amp;quot;right&amp;quot;&quot; title=&quot;Custom Media&quot; align=&quot;right&quot;/&gt;  ws:end:WikiTextMediaRule:0 
+
+
+Manager:
+Hey, there. Call it.
+
+Guy:
+Gimme something.
+Three peanuts.
+
+Kaneda:
+Let's see...
+
+Manager:
+Now, uh...
+
+Guy:
+Ugh...
+
+Yamagata:
+The Clown bastards are herded out on route number 5.
+
+Manager:
+Damn it, don't scare me like that.
+Open that damn door quietly.
+
+Yamagata:
+You know, you wouldn't be so jumpy if you didn't have anything to hide.
+
+Manager:
+Urgh...
+
+Yamagata:
+Why don't you sell normal drinks for a change?
+
+Manager:
+How about buying something for once?
+This ain't a hangout for damn street gangs.
+
+Yamagata:
+Yeah, right!
+Drink your dog piss!
+
+
+Tetsuo:
+Twin ceramic rotor drives on each wheel.
+Let's see, and these are... computer-controlled antilock brakes.
+Huh, 200 horses at 12,000 R.P.M.
+
+Kaneda:
+You wanna ride it, Tetsuo?
+
+Yamagata:
+All right! Let's hit it!
+
+Kaneda:
+I customized that bike for myself.
+It's too wild.
+You couldn't handle it.
+
+Yamagata:
+I don't see how you could ride something crazy like that, man.
+
+Tetsuo:
+Huh, I could.
+
+Kaneda:
+Ha!
+If you want it so bad, then steal one yourself.
+  

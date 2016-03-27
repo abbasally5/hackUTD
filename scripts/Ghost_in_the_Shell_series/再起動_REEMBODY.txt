@@ -1,0 +1,271 @@
+
+Motoko: So, what do you make of this little situation?
+
+Batou: They got here sooner than I expected. These guys aren't dummies. They gotta be dialed in to how serious this is.
+
+Motoko: This is usually the part when the waiting game begins. It comes with the job when you're in anti-terrorist op.
+
+
+DI: Reactivation; REEMBODY
+
+
+Motoko: OK, people, stand by for brain dive.
+
+Batou: Make sure you got your back-hack blockers up.
+
+Motoko: 23 minutes ago, a criminal group armed with heavy weapons took over the Chinese embassy, which is located on the 46th floor of this building. They've taken hostages but exactly how many is unclear at this point. It has, however, been confirmed that at least 10 workers were still in the embassy at the time of the incident. Likewise, the number of perps is unknown. In the statement they released right after the act took place, they called themselves "The Individual Eleven," Although it's doubtful that this refers to the amount of members in their group.
+
+Togusa: A standoff inside an embassy, huh? Does that mean the indefinite standby order on Section 9 will get lifted now?
+
+Motoko: I really couldn't say, we won't know that until we get official dispatch orders.
+
+Togusa: So, what are these Individual Eleven people demanding?
+
+Motoko: An immediate halt to the acceptance of Asian refugees, and a complete closure of the 5 refugee residential districts that are spread across the country.
+
+Batou: Are they kidding? How long do they think it'll take us to make that happen? The Chinese government's been sending regular flights to Dejima in order to avoid taking in masses of recently created Asian refugees, I guess they just got caught in the crossfire on this one.
+
+Motoko: Yeah, that's if you're following the obvious logic. But since we don't know their true motives, we can't jump to any conclusions. Ishikawa, how's it coming?
+
+Ishikawa: I put taps on all the equipment in the facility.
+
+Motoko: What are the local cops using?
+
+Ishikawa: It looks like they're running a wide-area jammer along with the press blackout. It's causing radio interference. That means there'll probably be static in our cybercomms, too. All the surveillance cameras in the embassy are destroyed. Perps are negotiating with the cops by way of a phone line that doesn't even have a video feed.
+
+Motoko: OK, once you put a tap on that, come back to the unmarked van.
+
+Ishikawa: Roger.
+
+Motoko: Saito.
+
+Saito: I've reached my designated point. They've got image curtains drawn over the windows in the building, so I can't verify the situation inside. Neutralizing the curtains will be my top priority .
+
+Motoko: Good. Everyone else, be ready for the raid and stand by. We'll wait for orders from the Chief. However, if the Chief doesn't have any luck in convincing the top brass, we'll just pull out of this surveillance gig and go drown our sorrows in a nudie bar.
+
+Minister of Home Affairs: The real problem of this terrorist event is the timing. The government was set to make an announcement in an upcoming policy address regarding the refugees. It would put an indefinite stop to the constant influx of these people into the country, and it plans a phased reduction of the refugee zones. This would accompany the repeal of the Refugee Special Action Policy.
+
+Aramaki: This is the first major policy shift affecting refugees since the war, so, naturally you don't want to give the public the impression that you're caving in under pressure of terrorism. In order to avoid that potential problem, you'll need to neutralize the terrorists before their demands are leaked to the media. I would have to assume that my being called here has something to do with that, as well.
+
+Kayabuki: The rumors about you being a shrewd man are true, I see.
+
+Aramaki: There's no need to waste time on flattery, Prime Minister. This matter demands immediate attention.
+
+Kayabuki: Very well. I'll jump straight to the heart of the matter, then. I wouldn't have any objections to submitting a budget to rebuild Section 9 at the next assembly meeting. However, that would only occur under one condition, no hostages are to be killed in the process of neutralizing the terrorists. That is a deal breaker.
+
+Aramaki: Simply give us orders to go in and I assure you we'll meet your condition. My team is ready anytime.
+
+MHA: Don't be so hasty, Aramaki. We just began scrambling to contact the proper offices for every signatures we need to revise the Special Forces Bill. We're trying to rush this through.
+
+Aramaki: You're just now starting the paperwork? Do you really think we have the luxury of that much time?
+
+MHA: If you send in your team without being officially requested, I can just picture the media feeding frenzy that would ensue even if you did succeed. Don't forget that whole Section 9 affair is still fresh in people's minds. Until we have approval of a repeal authorization for the provisional bill revision, you won't get involved.
+
+Kayabuki: I'm sorry, but what the Home Affairs Minister says is correct. Remain on standby until the paperwork is ready.
+
+Ishikawa: Any word?
+
+Batou: Nope. Haven't heard a damn thing. Huh! That Cabinet's full of wimps, I'm tempted to get our team and go terrorist on their butts.
+
+Motoko: We're an unauthorized armed force that's mobilized on its own without police HQ's knowledge. Based on those circumstances, you might say we're already terrorists as it is.
+
+Ishikawa: It is pretty ironic, though. When Prime Minister Kayabuki's cabinet took over from the last so-called "Yakushima Administration," it was supposed to be a reactionary conservative government that was opposing the postwar democratic party line. In fact, she pledged in her inauguration speech to gradually phase out the refugee policy. Even if the terrorists had done nothing, a policy similar to their demands would've probably been instituted anyway.
+
+Togusa: There was a need for refugees during the postwar reconstruction. They provided a cheap labor force, but the national unemployment rate goes up year after year, and so does the tax rate. Factor in the government's reckless spending of part of that precious tax on the steady refugee increase, and it's no hard to figure out why subversive elements are coming out of the woodwork. They've run out of patients. Taxpayers ended up having to pay out compensation in the form of taking in refugees, it's a trade-off for the Article 9 issue which lets this country play the good guy in the international community.
+
+Batou: But some of those refugees are taxpayers just like the rest of 'em. Having said that, I imagine the other legit taxpayers are catching on that their heavy tax burdens are helping to support the lifestyle of people who might take their jobs away from them. However, for that to lead directly to terrorism is just a little extreme.
+
+Motoko: Since you mention it, I think there's something else extreme here, namely the decision for us, a group that was disbanded by force, to be called in the instant there's a situation that the police aren't able to handle. I bet you the Chief's meeting with the head honchoes of the new administration as we speak, and his blood's been boiling the whole time.
+
+Ishikawa: But the Home Affairs Minister came out unscathed from the last cabinet. So, what's up with that?
+
+Motoko: At the moment, the sole function of his office is to serve as a buffer among the various ministries in this country. In the fact that he hasn't been replaced probably proves that no one considers the Home Affairs Ministry to be any threat. And that harmlessness was what helped keep Section 9 off the radar until now.
+
+Batou: Hm.
+
+Motoko: Oh, by the way, I don't know if you've heard but we're supposed to be getting a bunch of fresh recruits if this mission goes down without a hitch. New blood.
+
+Batou: New recruits?
+
+Togusa: Major, I know it's not my place to be saying this, but I don't think there are all that many people who are qualified to handle the kind of work we do.
+
+Batou: Phew.
+
+Motoko: Well, like I said, it depends on how we carry out this assignment. We can do it the way we want to.
+
+Saito: Major, I neutralized the image curtains, but wouldn't you know it, they've got the blinds pulled shut, too. These guys seem to do things by the book.
+
+Motoko: All right. Ishikawa, I want you to run a bypass on that phone line you tapped. If I can borrow the eyes of somebody inside, I'll try to scope out the situation.
+
+Ishikawa: Roger. I'm on it.
+
+Ishikawa: Hey, we got a bite.
+
+Terrorist 1: What's wrong?
+
+Terrorist 2: Nothing. Just strange, it wasn't from the cops. ...Oooohh.
+
+Motoko: Well, well... What the!?
+
+Terrorist 1: Bastards sent in scouts. I guess they want even less time to negotiate.
+
+SWAT: Huh! The signal's been cut off.
+
+Motoko: There are 9 of them in all. Which one's the leader? Well, this guy's all-natural with a cyberbrain?
+
+Secretary: Ma'am, we...
+
+Kayabuki: Whatever is the matter? We're having a meeting here.
+
+Secretary: Prime Minister, we've just now gotten word from the embassy. It appears the police assault unit encounter the terrorists, and there were casualties on both sides.
+
+Kayabuki: They did what? But I didn't authorize any show of force.
+
+Secretary: An unpremeditated gunfight erupted while they were just trying to gather intel from the inside. I regret to inform you that an officer was taken hostage because of this. And now the terrorists have said that unless you make a public statement within an hour that you'll concede to their demands, they'll execute the police officer, then one hostage every 10 minutes. They want let us negotiate with them.
+
+Kayabuki: In other words, they needlessly made the situation worse.
+
+Aramaki: These circumstances require a speedy solution. Prime Minister, I'm asking that you make an on-the-spot judgment call. I assume that your press blackout on the media isn't going to hold much longer. You need to realize that if guerilla-style postings begin appearing on the local nets, this operation will become meaningless.
+
+Kayabuki: Where's the paperwork? Isn't it ready yet?
+
+?: I'm terribly sorry, ma'am.
+
+Aramaki: Madam, in that event, why don't you consider this? It's obvious that this situation can only be resolved with a direct assault by a tactical unit. As long as the current scenario continues, couldn't you issue an order to storm the embassy under your own authority right now?
+
+Cabinet: Huh?
+
+Aramaki: We will carry out our mission in utmost secrecy, of course, under the cover of the police operation. Admittedly, it'll be imperative for you to obtain the necessary paperwork that can offer post-facto legitimacy for the actions of my team.
+
+Kayabuki: I can give you my word on that, but in case your team fails to bring the terrorists under control, what would happen then?
+
+Aramaki: There's no doubt in my mind that the operation would succeed. Unfortunately, I have no way to prove that to you. You're going have to trust me on this one, Prime Minister. If you still have misgivings about doing that, then, I give you carte blanche to say that the Public Security Section 9 acted solely under my direction and authority from here on. I would be the only one put on trial if something went wrong. If the public should question the government's role in this, you could claim that your administration had no knowledge of my part in it. Am I right?
+
+Kayabuki: Very well.
+
+MHA: Madam.
+
+Aramaki: Home Affairs Minister, I would appreciate it if you contacted the Chief of Metropolitan Police as soon as possible.
+
+MHA: Hmm... understood.
+
+Aramaki: Major.
+
+Motoko: Developments, I take it?
+
+Aramaki: 15 minutes from now, a SWAT team is going to begin its assault on the embassy. I want you to slip in ahead of them, apprehend the terrorists and get the hostages before the police storm the building. You're authorized to fire only as a last resort. Rescuing the hostages is your number-one priority. I'll leave selection of the infiltration team to you.
+
+Batou: Oh, man! We wait forever and the old ape casually says 15 minutes like it was nothing.
+
+Motoko: Saito, bring the helicopter back for now. All right, people, you heard the man. Here you can see the situation inside the embassy. There are 9 terrorists, one of whom is dead, and there may be 10 hostages. Memorize the structure and layout of the building. We got 10 minutes max for this operation. There's not much time before SWAT crashes the party. Consider this proof of the Chief's faith in us.
+
+Togusa: Yeah, whatever...
+
+Batou: So, what's the team lineup?
+
+Motoko: Go in two-man cells. Batou with Togusa, Paz with Saito. We'll infiltrate using a different route than the SWAT team. We'll use the elevators to make a grand entrance. You guys go on ahead. I'll catch up after I do a little prep work.
+
+Batou: On our way.
+
+SWAT Chief: Storm the place in 15 minutes? But we don't even know what's going on in there, what the hell's the top brass thinking? They're crazy!
+
+Terrorist 3: Now, tell me. Where are your other assault routes?
+
+SWAT: The roof... and emergency stairs... Ah...
+
+Terrorist 4: All right. Let's move half of the captives to the emergency stairway.
+
+Terrorist 5: Right.
+
+Motoko: This is an odd bunch. No one's in command but they're carrying out duties. There's no organizational structure, either. And this guy... He hasn't got a defensive barrier to speak of, but I can't find any intel on the group.
+
+Terrorist 4: Get up.
+
+Batou: Major, I'm about to enter the building.
+
+Motoko: Good. I'll cause as much confusion for as long as my puppet holds out. After that, it's one shot, one kill. Don't hit any hostages, even by mistake.
+
+Terrorist 3: Don't move, damn it!
+
+Terrorist 6: The elevator's coming up here!
+
+Terrorist 3: Hm? I'll check it out. You watch the hostages.
+
+Terrorist 5: Hm.
+
+Terrorist 7: Hm?
+
+Terrorist 2: Ah, ah, ah, ah...!
+
+Terrorist 7: What are you... Owgh!
+
+Terrorist 3: You moron...! Ah!
+
+Terrorist 8: What the hell...!? Aagh!
+
+Motoko: Batou, I missed one of them!
+
+Batou: I noticed!
+
+SWAT Chief: Huh!? Screw this, we're going in now!
+
+Terrorist 4: You! Come here. Shut up, bitch!
+
+Togusa: Crap!
+
+Batou: Hey!
+
+Terrorist 4: Whoa, the others are...!
+
+Saito: Major, they came in early!
+
+Togusa: Damn it, the SWAT guys are in my way.
+
+Terrorist 4: We are known as the Individual Eleven. Even if we have failed today on our mission, the individual egos shall carry on our corrective will. Therefore, the threat of death means nothing to our people!
+
+Motoko: You don't say. Well, then, go ahead and die.
+
+SWAT: Outside the window!
+
+Kayabuki: I truly appreciate your outstanding work in this incident. You'll be pleased to learn that I'm approving your budget proposal in its entirety and appointing you to rebuild and run the section. Here are the papers.
+
+Aramaki: Thank you, Prime Minister.
+
+Kayabuki: Are you the unit commander who led the operation?
+
+Motoko: Not a single sarcastic comment back there. It's not like you, Chief. It's because she's a woman, right?
+
+Aramaki: She isn't the one I should tear into. I have no bone to pick with her. Besides, There's never been a recorded case of anyone developing stomach trouble after swallowing their pride.
+
+Motoko: But don't you think a boss like her could be problematic? She's the type who'll insist on keeping a short leash on her pet pooch. Plus, I can't help thinking that the assault order was her way of skillfully pulling a resolution plan out of you while avoiding the risk of taking responsibility herself.
+
+Aramaki: I have to admit, she doesn't seem to be a typical marionette put in place by the ruling party. Let's not look a gift horse in the mouth and simply celebrate the rebuilding of Section 9.
+
+Motoko: You're right.
+
+Batou: Damn, about time. Did the budget proposal make it through?
+
+Motoko: Exactly as submitted. Togusa, given the situation, you did great work. You've really improved.
+
+Togusa: Thanks for saying so, Major.
+
+Motoko: You can hold your head up high with the best of them when our new recruits come in.
+
+Batou: Oh, yeah. Who are these newbies, anyway?
+
+Aramaki: They're here. I'll introduce you. Please enter!
+
+Batou: Huh?
+
+Tachikoma: H o w d o y o u d o. I a m a T a c h i k o m a.
+
+Batou: You're not...
+
+Tachikoma: Gotcha! Hahaha! I'm just pulling your leg, Mr. Batou! Did I fool ya? Did I? Did I?
+
+Tachikomas: Goodie! / Yay!
+
+Motoko: We restored the Tachikomas that were structurally analyzed at the lab. As of today, they're members of Section 9.
+
+Tachikoma: You heard the lady? We're looking forward to working with you, Mr. Batou. Hahahaha!
+  

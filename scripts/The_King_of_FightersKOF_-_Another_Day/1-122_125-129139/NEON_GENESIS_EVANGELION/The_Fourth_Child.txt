@@ -1,0 +1,751 @@
+
+  Lorenz: Major Katsuragi, do you still refuse to allow us to question,
+the only person who was directly involved in this incident,
+the pilot of Unit One.
+
+Misato: Yes, Sir. It is my belief that he is still very unstable
+emotionally and that bringing him here, into this situation
+would be very unwise at the current time.
+
+Member: Then, as his proxy, let us ask you, Major Katsuragi.
+
+Member: Did the Angels attempt communication, with a human being?
+
+Misato: After reading the subjects reports, I found no concrete
+evidence, to validate that theory. In all likelihood, this
+irregularly, is simple an odd coincidence.
+
+Member: If the subjects memory is correct.
+
+Misato: There was no evidence, that his memory had been tampered with.
+
+Member: But the Eva's AC recorder was not functioning. There is no way
+to confirm it.
+
+Member: Was the Angel interested in the human mind?
+
+Misato: I am unable to answer that question. Whether the Angels even
+have a concept of what the human mind is, or whether they can
+understand our thought patterns, is completely unknown.
+
+Member: A new factor has been revealed in this incident, in that the
+Angel tried to take Eva into itself. Is there any possibility
+that this aspect may be linked to the predicted 13th Angel and
+all Angels thereafter?
+
+Misato: Based on the previous patterns we have observed, there would
+appear to be no systematic organisation among the Angels.
+
+Member: Correct. They have worked independently, thus far.
+
+Misato: What do you mean, Sir?
+
+Lorenz: You may not ask questions.
+
+Misato: Understood.
+
+Lorenz: That will be all, dismissed.
+
+Misato: Yes, Sir.
+
+*Misato disappears.
+
+Lorenz: Well, what do you think, Ikari?
+
+*Ikari appears.
+
+Ikari: The Angels appear to be getting more intelligent. There's not
+much time left...
+
+Lorenz: Left for us, you mean?
+
+
+
+TITLE
+
+
+
+Neon Genesis Evangelion
+EPISODE :17
+
+The Fourth Child
+
+
+
+Nurse A: Who's the patient in room twelve?
+
+Nurse B: That's the emergency room patient, from the first Eva
+incident. She's been here for a long time.
+
+Nurse C: Her injuries are really complicated.
+
+Nurse B: Poor girl and she's still in elementary school.
+
+Nurse A: He's here again today?
+
+Nurse C: Yeah. He comes to see her, at least twice a week. He's a good
+brother, thinking about his sister like that.
+
+Nurse B: Yeah. Boys like that are pretty rare.
+
+
+
+Ikari: Rei, are things satisfactory?
+
+Rei: Yes. I will be with Dr. Akagi all day tomorrow and the day
+after that, I will be in school.
+
+Ikari: And how is school?
+
+Rei: No problems, Sir.
+
+Ikari: I see. That's good.
+
+
+
+Hikari: Class attention. Ok. Sit down.
+
+Teacher: Well, Ayanami is absent, as usual and so is Mr. Aida.
+
+Shinji: Hey, what's up with Kensuke?
+
+Teacher: Professor Koike is absent today. Therefore,...
+
+Toji: He's in New Yokosuka, to see some dumb battleship. A ship
+called "Myoukou" or something like that, is in port.
+
+Teacher: Mr. Suzuhara!
+
+Toji: Ah, Ye, Yes, Sir!
+
+Teacher: Will you deliver this document to Miss. Ayanami, after
+school.
+
+Toji: Yes, Sir.
+
+
+
+Hyuga: The first branch is still Ok. No don't bother. The data from
+the recon sat is still been confirmed by the Magi.
+
+Aoba: Right.
+
+
+
+Fuyutsuki: It disappeared? The entire Second Branch, just vanished?
+
+Aoba: Yes, Sir. It's been confirmed. It's been wiped off the map.
+
+
+
+Misato: Oh my God!
+
+Hyuga: ADSC (Administrative Department...) and IDSC (Inspection
+Department...) are going crazy. General Affairs is total
+chaos.
+
+Misato: What do you think, happened over there?
+
+Ritsuko: It's under investigation. Our only clues, are these recon
+photos from the geo-synchronous satellite. There's nothing
+else left.
+
+Maya: Ten seconds, nine, eight, seven, six, five, three, two, one,
+contact.
+
+Misato: This is horrible.
+
+Maya: Evangelion Unit Four, it's support group and all the other
+facilities, within an 89 kilometer radius, were completely
+destroyed.
+
+Ritsuko: Along with thousands of people.
+
+Aoba: Looking at the time-schedule, it would appear that they were
+in the middle of installing the experimental S2 Unit, from
+Germany.
+
+Maya: Potential causes range from an insufficient structural
+integrity, to an error in calculation during the preliminary
+design stage. That's 32,768 possibilities.
+
+Misato: And that's not mentioning sabotage.
+
+Hyuga: But, it wasn't really an explosion, was it? It just,
+disappeared.
+
+Ritsuko: In all probability, they were swallowed by a Dirac Sea, just
+as Unit One was.
+
+Misato: Then, the restored S2 engine is...
+
+Ritsuko: Gone. Along with out hopes.
+
+Misato: We're being forced to use things, we don't understand.
+
+Ritsuko (thinking): Yes, things like the Evas.
+
+
+
+Misato: So what'll we do with, Unit Three?
+
+Ritsuko: It's being shipped here as we speak. The US government
+doesn't want to risk, losing their First Branch as well.
+
+Misato: Didn't they insist on the right to build, Unit's Three and
+Four in the first place? And now they're forcing it off on us.
+They're really pushing it.
+
+Ritsuko: Well, you can't blame them, can you? After a disaster like
+that, anyone would get nervous. We'll handle it.
+
+Misato: And how are you going to handle the test activation? Will you
+use Rei's Dummy Plug?
+
+Ritsuko: I'll decide, soon.
+
+
+
+Ritsuko: This is the Dummy Plug prototype. Rei's personal data has
+been transferred into it, but our current technology can't
+really digitise a human mind and soul. In the end this is
+nothing but a pale duplication, that emulates the real pilots
+thinking processes. It's still only a machine.
+
+Ikari: It transmits a signal pattern to the Eva, if the Eva believes
+that there is a pilot and synchronises, then that's good
+enough. Load the data into Unit's One and Two.
+
+Ritsuko: But we're still working out the bugs, Sir.
+
+Ikari: Just do it, it's sufficient.
+
+Ritsuko: Yes, Sir.
+
+
+
+Ikari: I've delegated the transport of the Unit to the UN. It will be
+here by the end of the weekend. At that time you will take
+care of it.
+
+Ritsuko: Yes, Sir. We'll perform the modifications and activation test
+at Matsushiro.
+
+Ikari: And the test pilot?
+
+Ritsuko: Use of the Dummy Plug not recommended. One of our
+candidates--
+
+Ikari: --will be chosen as the Fourth.
+
+Ritsuko: Yes, Sir. There is one child available, whose core can be
+prepared immediately.
+
+Ikari: Then, make it so.
+
+Ritsuko: Yes, Sir.
+
+Ikari: Rei, we're finished now.
+
+Rei: Right.
+
+Ikari: Let's eat.
+
+Rei: Yes, Sir.
+
+
+
+Hikari: Stand up. Dismissed.
+
+Toji: Yeah, it's lunchtime at last. My very favourite part of the
+entire school day.
+
+Asuka: What?! What'er you mean you didn't make our lunches?!
+
+Shinji: Ah, I didn't have time to cook last night, I had to much
+homework.
+
+Asuka: Oh you did, did you and that's your excuse for me having to go
+without lunch?!
+
+Toji: Oh, oh. The newly-weds are fighting.
+
+Students: (laughing)
+
+Shinji & Asuka: Oh, Shut up!
+
+
+
+Misato: What's with the grim face?
+
+Ritsuko: Ah, Well, it's the Unit Three activation test, we'll be using
+the Fourth as the test pilot.
+
+Misato: The Fourth? The Fourth Child's been found?
+
+Ritsuko: Yesterday.
+
+Misato: I haven't received a report from the Marduk Institute.
+
+Ritsuko: Don't worry Major, you'll get your report.
+
+Misato: Dr. Akagi, are you hiding something from me, again?
+
+Ritsuko: No, of course not.
+
+Misato: Well, Ok. So who's the kid?
+
+Misato: Your kidding, him?
+
+Ritsuko: Yes, well, the perspective candidates, have to be kept
+together, for their own protection, it can't be helped.
+
+Misato: I don't know how to tell them, it's hard. Asuka will be fine,
+she's committed to piloting an Eva. And Rei is exceptional,
+we've never had any problems with her. Shinji on the other
+hand, has gone through some pretty bad phases, even
+depression, I don't want to expose him to anymore stress.
+
+Ritsuko: I know, but gathering children of this kind is an imperative,
+it's for the sake of our own survival. You shouldn't--
+
+Misato: --shouldn't complicate things. Of course.
+
+
+
+Teacher: Class dismissed. Bye, see-ya later.
+
+Student: Hey call me later tonight, Ok.
+
+Hikari: Hey, don't forget that you've got bulletin duty this week,
+Suzuhara.
+
+Toji: I've got what?
+
+Hikari: The class bulletin, remember. Your suppose to deliver this to
+Miss. Ayanami.
+
+Toji: Oh, come on. Who else has duty?
+
+Hikari: It's you and Ayanami this week.
+
+Toji: It's Ayanami and me? Then I guess I gotta, huh? But, I can't
+go to some girl's place by myself.
+
+Hikari: Well, I could go with you...
+
+Toji: Hey, Shinji. Walk home with me, will ya?
+
+Hikari: Ah.
+
+Toji: You know where Ayanami lives, right?
+
+
+
+Shinji: Hey, Rei. I'm coming in.
+
+Toji: Hey, you can't enter a girl's place, without her permission.
+
+Shinji: Well, we've got no choice. She won't see it, if we leave it
+here.
+
+Shinji: Ahh, is anybody home.
+
+Toji: My god! This is a girl's room? It's so, decrepit.
+
+Toji: Hm? You shouldn't touch anything, she'll get pissed.
+
+Shinji: I'm just cleaning up.
+
+Toji: Well, I won't help you do it. It's just not manly.
+
+Shinji: Well Ok, but you know, Misato hates guys like that.
+
+Toji: mmmm, I don't care! It's my policy, alright!
+
+Toji: You know, now that I think about it, you've changed.
+
+Shinji: What?
+
+Toji: You, Shinji.
+
+Toji: The first time I saw you, I really thought you were the
+world's biggest jerk. I mean, you sure didn't seem like
+someone, who'd do something for someone else, back then. I
+guess you were so deep in your shell, that I couldn't see the
+real you.
+
+Shinji: Hmm.
+
+Shinji & Toji: Ah?
+
+Toji: Hi, excuse us.
+
+Rei: What for?
+
+Toji: We bought you, your school bulletins.
+
+Shinji: I'm sorry, I kinda cleaned up. It was just trash right.
+
+Rei: Ah, thank you.
+
+
+
+Toji: Man, you Eva pilots sure are a bunch of wackos, huh?
+
+
+
+Rei: "Thank you", words of gratitude. Words I've never used, not
+even with him.
+
+
+
+Neon Genesis Evangelion
+EPISODE :17
+
+The Fourth Child
+
+
+
+Fuyutsuki: The city, a paradise made by mankind.
+
+Ikari: Driven from paradise, man escaped to this earthly existence,
+on the edge of death. Created by the weakest of beings,
+created by the sapience born from that weakness, this paradise
+is our creation.
+
+Fuyutsuki: To protect ourselves from the fear death instills, to
+satiate our beings with pleasure, we created a paradise by and
+of ourselves. This city surly is such a paradise. A city
+designed and built to protect us.
+
+Ikari: A city for those who run in fear from the outside world, the
+world of our enemies.
+
+Fuyutsuki: Of course, cowards do tend to live longer. That's one
+benefit. The third New Tokyo, Nerv's hidden intercept base and
+now, the long-delayed seventh construction phase is about to
+be finished at last. It's almost complete.
+
+Fuyutsuki: Now, about Unit Four's accident, how will you present that
+to the Committee?
+
+Ikari: With the facts: the cause is unknown.
+
+Fuyutsuki: But, this was a major catastrophe.
+
+Ikari: It was of no consequence to us. The S2 engine sample, may have
+been lost, but the data is still in Germany. This installation
+and Unit One will be sufficient.
+
+Fuyutsuki: But the Committee is in a total panic!
+
+Ikari: Of course they're panicked, it wasn't scheduled.
+
+Fuyutsuki: Yes, Seele must be busy rewriting their schedules now.
+
+Ikari: Incidents not depicted in The Dead Sea Scrolls may occur. This
+should teach the old men a lesson.
+
+
+
+Announcement: The third district, transformation and directional
+weapon experiment will be held as scheduled...
+
+Kaji: The intercept system is completed, and they're not gonna' have
+any party for it. Nerv has got to be the most inflexible and
+stifling organization on earth.
+
+Maya: Well, it's because of Commander Ikari.
+
+Kaji: And are you approved, too?
+
+Maya: I don't think that's pertinent data, Sir. And, I'll have to
+tell Major Katsuragi and Dr. Akagi about this.
+
+Kaji: Not if I cover your mouth, with mine.
+
+Misato: Kaji, how's it going?
+
+Kaji: Oh, well, it's going I guess.
+
+Maya: Oh, ah, I have work to do. Excuse me...
+
+Misato: Far be it, for me to make judgements on your private life, but
+under the current situation, is it wise to be hitting on
+girls, who are under certain chains of command.
+
+Kaji: Who's under who, is not your concern. Would you prefer to be
+hit on?
+
+Misato: That depends on how you answer this. You know the secrets,
+behind the Marduk Institute and that "Adam" thing, right?
+
+Kaji: Er, what secrets?
+
+Misato: Don't play games!
+
+Kaji: Asking for help isn't like you, Misato.
+
+Misato: Well I'm asking, Kaji. Something sinks here. The way the
+Fourth child was found was too convenient, something funnies
+going on.
+
+Kaji: I'll tell you one thing.
+
+Kaji: The Marduk Institute doesn't exist. Nerv is pulling the
+strings all by itself.
+
+Misato: Nerv's pulling the strings? Commander Ikari?
+
+Kaji: 7-0-7 is a good starting place.
+
+Misato: Code 7-0-7? But isn't that Shinji's school?
+
+Shinji: Misato.
+
+Misato: Yes.
+
+Shinji: Ritsuko says she's expecting you for a meeting, about
+tomorrow's trip.
+
+Misato: Alright, thank you.
+
+Misato: I'll see you later.
+
+Kaji: Ah-ha.
+
+Kaji: So can I buy you a drink, Cup-o-tea?
+
+Shinji: Kaji, I'm a boy.
+
+
+
+Shinji: I thought you'd be a more serious person, Kaji.
+
+Kaji: You're saying that to someone as straight-arrow and reliable
+as me, Mr. Ikari?
+
+Shinji: Oh, I'm sorry.
+
+Kaji: I'm sorry too. I didn't mean to sound, rude. Hey, I wanta show
+you something.
+
+
+
+Shinji: You grow, melons?
+
+Kaji: Yeah, aren't they cute? This is my hobby. But, keep it a
+secret Ok. Making something grow is really great. One can see
+and learn, so many things from the process. It also brings
+pleasure.
+
+Shinji: But pain too, right?
+
+Kaji: Do you hate pain?
+
+Shinji: I don't like it.
+
+Kaji: Ah, but have you found what gives you pleasure?
+
+Kaji: That's not so bad. If you've known pain and hardship, it's
+easier to be kind to others. Being kind isn't a weakness.
+
+*Kaji's phone rings.
+
+Kaji: Hello, yes.
+
+Kaji: It's Katsuragi. The sync-test will be starting soon.
+
+
+
+Staff: Fix the depth at 3.2. LCL concentration in nominal. Harmonics
+level is 1.1. Current estimate is 0.2. Level 3 Data deleted.
+The rest saved to Melchior.
+
+Ritsuko: I was afraid of this. Shinji's sync-ratio is dropping.
+
+Misato: And what's that mean?
+
+Ritsuko: I can't say, for sure. But, I think that something may have
+happened to him during that last incident, something's
+affected him.
+
+Misato: This makes it even harder to tell him, about the pilot.
+
+Ritsuko: Well, the new pilot will be informed officially tomorrow.
+
+Misato: hmmm.
+
+
+
+Hikari: Everyone stand up. Dismissed.
+
+Toji: Alright, lunchtime!
+
+Announcement: Suzuhara Toji, report to the Principal's office.
+
+Toji: Huh, what?
+
+Kensuke: What'd you do now?
+
+Toji: Ah, I don't know.
+
+
+
+Toji: Excuse me, I'm Toji Suzuhara.
+
+Ritsuko: You're Toji Suzuhara?
+
+
+
+Shinji: How was your trip to New Yokosuka?
+
+Kensuke: Oh, it was way cool. Speaking of which, I did pickup some
+disturbing information.
+
+Shinji: Eva Unit Three?
+
+Kensuke: Yeah. The one they built in the US. It's been completed
+hasn't it?
+
+Shinji: I don't know.
+
+Kensuke: I know it's classified, but come on, you gotta tell me
+something.
+
+Shinji: But I really don't know.
+
+Kensuke: Haven't you heard the rumor, that the activation test will be
+held at the Second test facility in Matsushiro?
+
+Shinji: No I hadn't.
+
+Kensuke: Then the pilot hasn't been chosen yet?
+
+Shinji: How would I know?
+
+Kensuke: Misato could choose me for the position! Shinji, would you
+ask her for me? I really wanta be an Eva pilot.
+
+Shinji: I don't know if she could or not.
+
+Kensuke: Well, what about the story that Unit Four was lost?
+
+Shinji: Was lost?
+
+Kensuke: You really didn't know? It disappeared, along with the entire
+Second branch. My dad's whole section was in a panic.
+
+Shinji: Are you sure?
+
+Kensuke: I've got my sources.
+
+Shinji: Misato didn't tell me anything.
+
+Kensuke: Ah... Well you know, I guess it doesn't directly concern the
+pilots. If she didn't tell you, it's probably because you
+don't need to know. I'm sorry about bothering you with all
+these weird questions. Hasn't Toji come back yet?
+
+
+
+Teacher: Thus we, mankind, survived the hell called Second Impact and
+rose again. The number of children, have been decreasing on a
+year to year basis.
+
+Hikari: Oh.
+
+Toji: Sorry I'm late.
+
+Teacher: I know about it, be seated. Anyway, it is you, the younger
+generation, who will lead the way to the future...
+
+
+
+Kensuke: Let's get oughta' here.
+
+Shinji: And Toji?
+
+Kensuke: He's gonna' be late, he's got cleanup duty today.
+
+
+
+Announcement: The school is now closing. All students must go to their
+homes immediately.
+
+Hikari: Um, Suzuhara.
+
+Toji: Ah?
+
+Hikari: You're on cleanup duty. You have to lineup these desks and
+clean off the blackboards.
+
+Toji: I haven't had lunch yet. I'll do it, as soon as I've eaten.
+
+Hikari: Do you always buy your lunch from the school shop?
+
+Toji: Of course, there's no one at home who can cook.
+
+Hikari: Suzuhara.
+
+Toji: hm?
+
+Hikari: I have two sisters, their names are Kodama and Nozomi and I
+always make lunches for them, everyday.
+
+Toji: That's a lot of work.
+
+Hikari: I'm actually a pretty good cook, though I guess you might not
+expect that.
+
+Toji: hmm.
+
+Hikari: And you see I, always end up cooking too much for our lunches.
+
+Toji: Ah, that's definitely a waste...
+
+Hikari: Huh.
+
+Toji: If you need help getting rid of the leftovers, I'll help.
+
+Hikari: Yes please.
+
+
+
+Asuka: Hi-ya, Kaji!
+
+Kaji: Oh, Asuka? Sorry, I'm busy right now. Can it wait?
+
+Asuka: hmmm, but you have time for Misato. hmm. Kaji!
+
+Kaji: Ah! Damn it! Not right now.
+
+Asuka: Oh, these are our sync-data reports. Huh, four? Oh my God, it
+can't be?! Who in the hell made him the Fourth Child?! I won't
+stand for it!
+
+
+
+NERV First Branch - America
+
+
+
+Hikari: (humming)
+
+
+
+Ending Theme Song
+
+
+
+Trailer: In the next episode, The US built Eva Unit Three is delivered
+to the Matsushiro testing facility. It seems like a glorious
+day, but the peaceful dawn will soon be broken, by the dark
+clouds of disaster. It's a time of tragedy and the children
+will be at the focus of it. The tranquil days of the past are
+gone, ripped away with the camouflage, that hide the true
+nature of the beast inside and the last thing that Misato will
+hear, is the sound of Shinji screaming. Its the next episode:
+The Judgement Of Life.
+  

@@ -1,0 +1,810 @@
+
+LAVIE:
+Here we go!
+
+FEE:
+Tanabe, try lowering it a little bit on your side.
+
+TANABE:
+How's this?
+
+FEE:
+No, a little more! That side strut is caught up in a door jamb!
+
+PHILIPPE:
+It's slipping!
+
+LAVIE:
+Chief, try to hang on!
+
+TANABE:
+Oh, my! Yuri! Are you okay?
+
+YURI:
+Yeah... I think so...
+
+FEE:
+Oh, geez...
+
+PHILIPPE:
+Are you sure we shouldn't break it down any further?
+
+YURI:
+If we strip it down any more, we won' be able to put it back together.
+
+TANABE:
+Why the heck is this damn thing bigger than the door, anyway?
+
+LAVIE:
+This is hopeless! Let's forget it!
+
+FEE:
+What?!
+We're gonna be on the moon working on this project for at least a month. Do you expect me to go without a cigarette for that long?
+
+LAVIE:
+No, I just thought--
+
+COLIN:
+Sure, why not?
+
+LAVIE:
+Eh?
+
+COLIN:
+It'll be good for your health. And besides, clean air is a precious in space.
+
+LAVIE:
+Y-Young master Colin?!
+
+COLIN:
+You're going to the moon to clear debris, right? I'm gonna be tagging along.
+
+PHILIPPE:
+Yeh... You...
+
+FEE:
+The moron son of the INTO chairman.
+
+LAVIE:
+Hey, Fee! Watch your language!
+
+COLIN:
+Hahahaha, this place hasn't change a bit.
+
+TANABE:
+So, did you get into trouble again? You can't rely on your father-
+
+COLIN:
+No, I'm afraid I'm here on the job this time.
+
+TANABE:
+what?
+
+COLIN:
+I graduated from college a while ago, and I work for the INTO Development Inspector's Office now. Thanks to my dad's connections of course.
+
+
+
+
+
+strut : 支柱、突っ張り、筋かい
+jamb : 〔戸口・窓などの〕わき柱
+strip down : 解体する; 服を脱ぐ; すべてを奪い去る
+tag along : ついて行く、付き従う、付き添う
+watch one's language : 言葉遣いに注意する［気を付ける］
+
+
+LOCKSMITH:
+Welcome aboard the Von Braun. For the third round of testing, you will be spending the next six months learning the Von Brau inside and out. It is for that reason that I have issue each of you a Level 6 security keycard. It will open approximately 94% of the door on the ship. Incidentally, the highest card level cards:Level 8 are in the possession of only myself and a handful of others. If you manage to pass the test and are chosen to be the official members of the crew, that is when I will be able to issue you an official Level 8 card of your own.
+Each of six centrifugal crew block aboard ship has an independent fully equipped control room. Also, the Von Braun is designed in a six-column, axisymmetric layout that runs xxx, and is pressurized from the central control room at her bow to the shield disk at her stern.
+Passing through this area, we find the tank containing deuterium and helium 3 reaction masses and our refrigerate propellant tanks leading at last to the very heart of the Von Braun.
+The tandem mirror nuclear fusion engine, the most powerful propulsion device ever built.
+We're still testing the magnetic field units, so the reactor chamber is pressurized. Your lives will be in the hands of this part, so it seems most fitting, not to mention safest from a security standpoint that you should be ones who conduct those tests.
+Once functioning, this system will generate plasma radiation, and a powerful magnetic field ever created. xxx a world of death that no organism will servive. In other words, the active chambers are pressurized... 
+
+HAKIM:
+We're finally here.
+
+HACHI:
+Yeah...
+I made it here finally.
+
+
+NORMAN:
+I'm amazed that you're conducting a simple spot inspection of a debris hauler.
+
+COLIN:
+It's just because I'm new. I have to do a little bit of grunt work.
+
+
+LAVIE:
+Of course, grunt work is important, too, you know.
+
+COLIN:
+Well, just so long as there isn't too much grunting involved.
+
+NORMAN:
+It may be presumptuous of me but I've assigned some of our flight attendants to accompany you while you're here. If you need anything, just let them know.
+
+COLIN:
+This is more like it! I really like this new division director! This one sounds like the reasonable type--
+
+YURI:
+Tanabe, I have some good news. This is the call number for the test site.
+
+TANABE:
+What?
+
+YURI:
+Just call here, and they'll page him to come to the comm link. Apparently, they only give this out to family members so the guy who gave it to me said you should say you are his sister or fiancee.
+
+TANABE:
+How did you get your hands on this?
+
+YURI:
+I made a deal with the owner of that ferret that I'm taking care of.
+
+TANABE:
+Thanks, Yuri. I really owe you.
+
+YURI:
+Don't worry about it. Hey, I owe two of you my life, after all.
+
+TANABE:
+Don't be silly, Yuri. You've helped me way more time than I've helped you.
+
+YURI:
+You're not going to call?
+
+TANABE:
+The job comes first. I'll call him right after we reach lunar orbit.
+
+
+
+
+
+HACHI(PHANTOM):
+Wouldn't you be better off sleeping in your bed?
+
+HACHI:
+Geez, you again?
+HACHI(PHANTOM):
+That's pretty cold. No way to greet your best friend.
+
+HACHI:
+If you were my best friend, you'd let me get a night's sleep.
+
+HACHI(PHANTOM):
+You can't sleep anyway. You've got a lot on your mind. The truth is, you're having regrets, aren't you?
+You're lost and can't find your way home? If that's all you need, just have Tanabe reel you in. I think she'd make you a fine wife. What do you think?
+
+HACHI:
+I can't do that.
+I already made up my mind. My future is on the Von Braun.
+
+HACHI(PHANTOM):
+I see you later.
+
+HACHI:
+Yeah. Come visit anytime you want.
+
+
+
+
+
+
+centrifugal : 外側に向かう、遠心性の、遠心力を利用した、遠心分離式の、分離主義的な◆【対】centripetal
+axisymmetric : 線対称の、軸対称の
+propulsion : 推進（力）
+grunt work : 〈米俗〉単調でつらい仕事
+presumptuous : おこがましい、出しゃばりの、厚かましい、押し付けがましい、押しの強い、ずうずうしい、生意気な、思い上がった、僣越なことをする、無遠慮な、うぬぼれた、威張った
+
+
+ANNOUNCE:
+Attention, all personnel involved with the 3rd crew exam. Individual guidance will begin tomorrow morning. Please verify your time schedule at the information desk.
+
+WOMAN:
+I'm sorry that it took so long.
+
+HAKIM:
+That's all right. I'm used to waiting.
+
+
+WOMAN:
+Don't forget, Nono, you have check up at 2.
+
+NONO:
+Okay!
+I'm really not good with mechanical stuff like this, so I'm not sure if you'll be in focus in the picture.
+
+GIGALT:
+That's fine. It'll be better if they can't get a good look at me.
+So, shall we get started, Artemis?
+
+It's been a long time, Hachimaki.
+
+
+
+COLIN:
+I've never been able to forget that time you punched me. Guess I've got masochistic streak in me.
+
+TANABE:
+Y-Yeah...
+
+WOMAN:
+Mister Clifford, sir?
+
+COLIN:
+Hm?
+
+WOMAN:
+you dinner is ready now.
+
+COLIN:
+You did make sure to give me one without mustard, right?
+
+WOMAN:
+Yes, sir. We were told about that.
+
+COLIN:
+I'll talk to you later, Ai, okay?
+
+TANABE:
+O-Okay...
+
+LUCIE:
+I didn't know you knew Colin.
+
+TANABE:
+Hm, we've met before.
+What?
+
+LUCIE:
+Just so we're perfectly clear this time. I'm going after Colin, you understand?
+
+TANABE:
+Huh?
+
+LUCIE:
+No more a wage slave for me. I'm a bag the Chairman of INTO!
+
+TANABE:
+Colin's his son.
+
+LUCIE:
+It's the same thing! He's got money, status, and power, everything! I'm planning to make my move while we're en route to the moon.
+
+
+HACHI:
+It wasn't my own spaceship that I wanted. When I touched this the first time, I just knew it. What I really wanted was to be on a ship that was faster, more powerful than anything before it. Once I realized that, getting onto this ship was all I could think about.
+
+HAKIM:
+Hoshino.
+You realize the whole human race is behind this Jupiter project. There are opposition movements all over the earth. And even if this project succeeds, only a handful of first-world nation will reap the benefits. The minority is about to be overshadowed and swept aside by this huge project. Haven't you ever had any second thoughts?
+
+HACHI:
+None at all. Space is never gonna be developed by guys afraid to put their own dreams first.
+
+HAKIM:
+Hm. Sorry I asked, Hoshino. It was just a stupid-
+
+MAN:
+Shut up! I couldn't stand you from the moment I first saw you!
+
+HAKIM:
+Those two idiots. Don't they know they're being watched all the time?
+
+HACHI:
+The more rivals that get weeded out, the better for us. Let's ignore 'em.
+
+HAKIM:
+Yeah, guess you're right.
+
+MAN:
+All right. You asked for it, momma's boy!
+
+MAN:
+What?! What's wrong? Can't you fight with your bare hands?
+
+MAN:
+All that counts in a fight is results!
+
+MAN:
+Results, huh?
+
+MAN:
+What the--?
+
+MAN:
+Haha! Still feel like taking me on?
+
+MAN:
+You're never gonna be able to get me with that!
+
+MAN:
+All right you asked for it!
+
+HACHI:
+Knock it off!
+Don't xxx dangerous crap like this in a brawl! You're gonna bust my ship, you stupid bastards!
+
+
+
+
+
+
+
+streak : 〔垣間見える普段と異なる〕性格、性質
+wage slave : 賃金の奴隷、賃金生活者
+overshadow : ～に影を投げ掛ける、～を暗くする、曇らせる、見劣りさせる
+sweep aside : 一蹴する、圧倒する、一掃する
+brawl : 騒々しいけんか、乱闘
+bust : 失敗する、破裂する、壊れる、故障する、いかれる; 破産する、破滅する
+You ask for it. : 自業自得だ。／俺は知らないからな。
+
+
+CLAIRE:
+Excuse me. I have the inspection datalog for you.
+
+COLIN:
+Oh, I was expecting Ai to bring it.
+
+CLAIRE:
+Ms. Tanabe is taking a break now. Are you unsatisfied with my work?
+
+COLIN:
+No, Of course not. I know that you're an extremely capable girl, Claire. I mean, you used to be one of the elite.
+
+CLAIRE:
+Um...
+
+
+HACHI:
+Tanabe? What do you do on the moon?
+
+TANABE:
+A lot of debris was generated by the big tandem mirror explosion, so they sent for Debris Section. INTO's Supreme Council is meeting on the moon, so we have to clear the orbits.
+Sempai, you don't look so good. Are you ok? Are you getting enough sleep? Or are you getting enough to eat? Don't be a fussy eater and make sure you eat your vegetables. If no one gets on your case about it, all you eat is meat.
+
+HACHI:
+Tanabe, what do you want?
+
+TANABE:
+What?
+
+HACHI:
+I've got on-the-job training this afternoon. If this isn't important--
+
+TANABE:
+Wait, don't go! There's so much that I want to ask you and talk to you about! You decided all on your own to quit the company and to try out for the Von Braun. I wanted you to tell me about it, to talk to me about it. The thing is I--
+
+HACHI:
+It was my decision, wasn't it? Why should I discuss with you?
+
+TANABE:
+Uh..
+
+HACHI:
+I have my life, and you have your own, right?
+
+TANABE:
+But, how--
+
+FEE:
+We have work to do, people!
+We've got a debris retrieval order from the Third Division. They want us to collect a piece of debris that's in high lunar orbit right away.
+
+CLAIRE:
+Pick up debris before we even get to port?
+
+YURI:
+We've just arrived, and they're already treating us badly.
+
+COLIN:
+Hey, Fee, you read me?
+
+FEE:
+And how may I be of assistance, Inspector Clifford?
+
+COLIN:
+We're retrieving some debris, right? I want you to send out my inspection camera.
+I'll be able to make my inspection before I even reach the moon. What a lucky break!
+
+FEE:
+I copy.
+
+CLAIRE:
+Excuse me, Fee--
+
+FEE:
+Sorry, Claire, I'm busy.
+
+CLAIRE:
+Is it all right if I take a look at the retrieval plans?
+
+FEE:
+Sure, I'll put them up on three.
+
+CLAIRE:
+This words look like they came from a bureaucrat. This didn't come from Control Section. These directions are strange.
+
+FEE:
+I swear, Control Section just can't seem to find good help these days. You know, Claire. I can count on the fingers of one hand. The number of Control Section people is as good as you were.
+
+CLAIRE:
+Thank you, Fee.
+
+
+
+
+
+
+fussy eater : 好き嫌いをする人、食べ物の選り好みをする人
+get on someone's case about : ～のことで［～することで］（人）に干渉する［うるさく言う］
+lucky break : 幸運
+count on the fingers of one hand : 片手の指で数える
+
+
+
+LEONOV:
+Hey. Was that your girlfriend?
+
+HACHI:
+No way.
+
+LEONOV:
+Better be careful. All the cam links and phones on this boat are tapped, you know.
+
+HACHI:
+Protecting company secrets, huh?
+
+LEONOV:
+They're keeping an eye out for terrorists. Like the Space Defense Front.
+
+TANABE:
+Visual confirmation. I'm picking up some magnetic resonance. My face monitor is a bit garbled but I can manage.
+
+FEE:
+I copy. Tanabe and Yuri get top priority to assessing the debris' condition. If you sense any danger, return to the ship. We'll revise the mission based on your data.
+
+YURI:
+I copy. Once we do a sweep to determine its condition, we'll return to the Fishbone.
+
+TANABE:
+This looks familiar...
+
+YURI:
+It looks like a section of　the tandem mirror engine.
+
+TANABE:
+So this is wreckage from the blast. I can't believe that there are chunks this big are still intact.
+
+YURI:
+That's why we came all the way to the moon to help. Wait. Do you remember a part like that?
+
+FEE:
+Great. Illegal dumping again?
+
+YURI:
+No, it doesn't look like a dumped part.
+Tanabe, get some footage of it with your camera, too.
+
+TANABE:
+I copy.
+I wonder what this is.
+
+NEWSCASTER:
+It now seems possible tha the recent accident involving the #2 tandem mirror engine was a deliberate act. A civilian debris retrieval specialist recovered a section of the engine yesterday and this debris showed signs of stress fractures caused by localized overloading. The Meltdown lnvestigatory Committe seems to suspect that the structural collapse caused by this is what led to the meltdown.
+
+REPORTER:
+And were you the first to discover it?
+
+TANABE:
+Well, I wouldn't say "discovered"
+
+HACHI:
+Tanabe?
+
+TANABE:
+All I did was follow instruction and recover some debris.
+
+REPORTER:
+Can you describe the situation in front of us?
+
+SALLY:
+It was th Space Defense Front. Those guys have been awfully quiet lately.
+
+LEONOV:
+It's possible. I mean, they've always been strongly opposed to the Jupiter project.
+
+HAKIM:
+It's strange.
+
+SALLY:
+Hm?
+
+HAKIM:
+If it was them, they'd claimed responsibility. And I just don't see them leaving that kind of evidence lying around.
+
+SALLY:
+You sure seem to know a lot about them.
+
+LEONOV:
+It's 'cause he used to work at the OSA. He knows all about this stuff!
+
+SALLY:
+So why the hell do you sound so proud about it?
+
+HAKIM:
+Hahaha...
+
+NEWSCASTER:
+The retrieval operation by a civilian salvage crew was recorded from beginning to end by an INTO inspector...
+
+CLAIRE:
+Just as you planned. Nicely done.
+
+COLIN:
+Being too clever can sometimes be a problem. You see things that you're better off not seeing.
+
+LUCIE:
+Excuse me, Colin, but are you hungry, yet? There's a excellent restaurant that's not far from here. I know where all the good places on the moon are.
+
+COLIN:
+Sure, why not? Anyway, it looks like they're all done showing videos of Ai.
+
+TANABE:
+Eh, what?
+
+COLIN:
+Congratulations on your TV debut.
+
+TANABE:
+All I did was pick up some debris. Same as I always do.
+
+COLIN:
+Maybe, but you need big press event every once in a while. It must be boring to do nothing but pick up trash from the nooks and crannies of space day after day.
+
+TANABE:
+I don't think it's boring at all.
+
+COLIN:
+Uh?
+
+TANABE:
+It might not be a real flashy job, but when we go out there and pick up debris, it helps the cause of space development, right? When you look at it that way, doesn't it make you happy? I mean, if space development keeps advancing, our energy problems will be solved and even wars and refugees will be things in the past.
+
+CLAIRE:
+Do you really believe that?
+The only ones who benefit from space development are a handful of wealthy first-world countries like America or Japan.
+The space development that you're so happy about is causing the gap between rich and poor nations to widen.
+If your country doesn't have the technology to go into space, all you can do is watch the first-world countries monopolize the space resources.
+
+COLIN:
+Well, that's how capitalism is supposed to work.
+
+CLAIRE:
+We retrieve the debris that those first-world countries produce. All we really are lapdogs that protect their interests.
+
+TANABE:
+How on the world can you say things like that? I mean, you're a member of Debris Section now, too, you know!
+
+CLAIRE:
+It wasn't my choice to come here.
+
+TANABE:
+That's maybe the case, but this is the job you have now! Maybe you should try and have a little more love and pride in your work, Claire!
+
+CLAIRE:
+You and your love. Your "love" is both shallow and meaningless!
+Has this "love" of yours ever save even a single person's life? Don't talk to me about love if you can't back it up with actions.
+
+FEE:
+That's enough!
+Our works finish for the day. Go on. You're dismissed.
+
+CLAIRE:
+In the end, you're just one of the fortunate few.
+Love can't save any of them. Not El Tanika, and not Mananga.
+
+
+
+
+
+
+
+keep an eye out for : ～を見張っている、～に目を光らせる
+garbled : 事実を曲げた、不明瞭な、要領を得ない; 《コ》文字化けしている
+do[make] a sweep : 〔サッと〕見渡す、調べる
+section : 切ること、切断された部分、切り口、切断面、断面（図）、切片; 区分、区域、地区、部分
+claim responsibility : 犯行声明を出す、犯行を認める
+nooks and crannies : 隅から隅まで　用例：look in every nook and cranny／in the nooks and crannies of the Internet
+flashy : 〔服装などが〕派手な、けばけばしい
+things in the past : 過去の事
+lapdog : 膝(lap)に載せられるほどの小さなペット犬、愛玩用小犬、人の言いなりになる人
+
+
+LOCKSMITH:
+Welcome, Mr. Hoshino.
+You certainly live up to your reputation. You've done a magnificent job of stabilizing my engine.
+
+GORO:
+What about you? That program update of yours was really a fine piece of work.
+
+LOCKSMITH:
+Yes, for I spent a whole week locked in my office writing it.
+
+GORO:
+By the way, all this talk about the Space Defense Front. It's all a lie, right?
+
+LOCKSMITH:
+Hm? I can't say. I've been told not to discuss that matter with anyone regardless of rank.
+
+GORO:
+Yeah, I thought so.
+
+LOCKSMITH:
+They've added an emergency shutdown device, so why don't just leave it at that? Certain people would rather that the public believe old stories. Anyway, I leave those matters for the President to take care of.
+
+GORO:
+The President?
+
+
+
+DOLF:
+Why did you specify DS-12?
+
+MAN:
+Using them would make it a bigger news story, don't you agree? After all, they're the team of super debris haulers who saved ISPV-7 from a terrorist attack and found that INTO mine floating int the orbit. Look, I'm sure you already understand this, but make sure that Locksmith keeps his mouth shut. That accident was officially caused by the Space Defense Front.
+
+DOLF:
+Deliberations on the Space Peacekeeping Bill are all about to begin, you know.
+
+MAN:
+You don't need to spell it out for me. I think you want to return to the head office, don't you?
+This problem isn't limited to just our company. You understand that, right?
+
+DOLF:
+Yes. I understand.
+
+
+
+
+
+lock : ～に錠を掛ける、～を閉じ込める、抱き締める、からまる、錠がかかる、動かなくする、固定する、係止する、組み合わせる
+rather : 方〉～を選ぶ、～を好む◆【用法】wouldなどとともに使われることが多い。この用法を認めない人や動詞ではないと考える人も多い。
+deliberation : 熟考、審議、審理、討議、協議、評議、検討
+
+
+HAKIM:
+Oh, it's you, You startled me.
+
+HACHI:
+Sorry about that. Hey, do you have any idea where I might be able to reach Gigalt Sensei?
+
+HAKIM:
+What? Well, I suppose I can find out for you. You're in a hurry?
+
+HACHI:
+No. It's just that I never told him that I was quitting Technora.
+
+HAKIM:
+I see.
+
+HACHI:
+Forget about it. Sorry I bothered you.
+
+MAN:
+Out of the blue, they tell us they step up the security around here.
+
+MAN:
+They're kinda twitchy now that they found out the meltdown was really terrorism.
+
+MAN:
+Oh, so that's why they brought in that emergency shutdown device?
+
+Level 6 confirmed.
+
+
+HAKIM:
+That last meltdown was an accident, but this one won't be...
+
+
+HACHI:
+Hey, Hakim.
+
+HAKIM:
+Huh?!
+
+HACHI:
+I don't want you doing any fishy crap to my ship.
+
+HAKIM:
+Hoshino?
+
+HACHI:
+I have a wire anchor launcher pointed right at the middle of your back. These things fire rope into ship hulls. One of these hits you, you're dead.
+
+HAKIM:
+So, how long have you known?
+
+HACHI:
+Remember the that brawl in here a while back? The Von Braun was in danger, you didn't lift a finger to protect it.
+
+HAKIM:
+Just because of that?
+
+HACHI:
+No. Ever since we got here, you've progressively lost your edge. That intensity got you accepted here. All you've got now is a content, philosophical look in your eyes like some kinda monk! Up until now, I thought that you and I were the same kind of people. But I guess you're not like that anymore!
+
+HAKIM:
+I haven't changed. My objectives are different now, that's all.
+
+HACHI:
+The only reason you fought your way though all those tests was so you could get your hand on a Level 6 card?!
+
+HAKIM:
+Hachimaki, have you ever heard of a little country called Mananga? It's my homeland.
+
+HACHI:
+Yeah, so what?!
+
+HAKIM:
+It's nothing but a barren, wasteland. Crops won't grow properly there. But even so, up until my grandfather's time, we managed to get by because of the oil trade.
+But now-
+
+HACHI:
+Get back, Hakim! If you come any closer, I'll shoot you!
+
+HAKIM:
+All that's left in that utterly abandoned wasteland are crumbling oil fields and pipelines. Poverty brought us a civil war, and children die before reaching adulthood. And all that the first-world countries will sell us are antipersonnel mines.
+
+HACHI:
+Yeah, what about it? You expect me to let you go out of sympathy?!
+
+HAKIM:
+Just like with the moon. Jupiter's resources will belong to the countries that lead the pack in space development. In the end, nothing at all will change for us.
+
+HACHI:
+If you come any closer, I'll shoot, Hakim!
+
+HAKIM:
+You remember what happened with Temara Poitier, don't you?
+And it's not just him. Picking up your debris, you must've seen other people struggling in the shadow of modern space development.
+Haven't you learned anything? Will you just ignore it all and walk away? Or do you think it's somebody else's problem? That it's not your concern? Tell me why the man like you, someone who views the world through rose-colored lenses! He's holding something like that in his hands?!
+
+HACHI:
+Don't push me, Hakim! I pull this trigger!
+
+HAKIM:
+Are you sure? Those aren't the eyes of a man who's capable of killing.
+
+HAKIM:
+You weren't able to kill during the second test, either. In the end, you're just one of the fortunate few. So, don't talk to me about determination if you can't back it up with the action.
+
+HACHI:
+I can back it up!
+Shit!
+You liar!
+You turned around and betrayed me!
+You think you're the only one who's miserable?!
+I... I am, too! I am, too!
+
+HAKlM!
+Son of a bitch!
+
+
+
+
+
+step up : 強化する; 進歩［向上］させる; 〔仕事などに〕さらに力を入れる; 〔量などを〕増大させる
+twitchy : 引きつった、神経過敏な、落ち着きのない、イライラした
+bring in : （中に）持ち込む、取り入れる、取り込む、搬入する; 引き入れる、引き込む、呼び寄せる、連れ込む、家の中へ通す、紹介する、入学させる; 〔方式・手法を〕採り入れる、導入する
+hull : 《海事》船こく、船殻、ハル、船体◆エンジン、マスト、上部構造物を除いた構造体。;〔ロケットや宇宙船などの〕外殻構造
+lift a finger to : 腰を上げて～する◆否定形では、～するのに指一本も上げないという意味
+lose one's edge : 鋭さ［威力・迫力・痛烈さ］を失う、競争力［優位性］を失う、〔腕が〕なまる、〔技術が〕衰える
+fight one's way through : どうにかこうにか～を通り抜ける
+wasteland : 荒れ地; 荒廃した状態［場所・社会・時代］
+crumbling : 崩れかけの、滅びかけの
+  

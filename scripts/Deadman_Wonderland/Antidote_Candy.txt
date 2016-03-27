@@ -1,0 +1,100 @@
+
+ ws:start:WikiTextHeadingRule:0:&lt;h1&gt; 
+
+2023--The savage mass murder of over two dozen middle-school children in a Nagano classroom has led to the arrest and conviction of 14-year-old Ganta Igarashi. Horror-stricken and paralyzed with grief, the shell-shocked boy stood helpless as the wheels of justice ground his claims of innocence to dust. Now, behind the iron-clad walls of Japan's first and only publicly-funded Colosseum-style penal colony, he struggles to make sense of the cruel trick played on him by Fate--all for your personal amusement.
+
+Makina:
+That odd glow... is it actually coming from him?
+
+Tamaki:
+The plan to have a fatal accident befall Ganta Igarashi has been summarily abandoned.
+Retool your approach accordingly, please.
+We'll see how he fares on his own.
+Something tells me... we can expect a lot.
+
+Makina:
+Oily son of a bitch...
+
+Three inmates die in your attempt on his life and you're wringing your hands?
+Who's this kid anyway? Why should I give a damn?
+What are you planning to squeeze out of him, Tamaki?
+
+
+
+Ganta:
+When the Red Man butchered my friends, it's like he hacked the whole world to pieces, right along with 'em. All I know now, is that I don't wanna die in this hellhole...
+
+
+
+Doctor:
+Okay? Now try to keep still.
+
+Ganta:
+O-ow! Son of a...!
+
+Doctor:
+You're young, so that's in our favor. You'll heal up quickly.
+
+Ganta:
+Thank you for patching me up.
+
+Doctor:
+Now, my records show you're a death-row inmate.
+
+Ganta:
+Yeah...
+
+Doctor:
+I assume you've been eating your candy?
+
+Ganta:
+My what?
+
+Doctor:
+The first piece was in your bag.
+You did find it, didn't you?
+
+Ganta:
+Uh...
+
+Doctor:
+You should've been given a survival kit upon admission.
+A duffel bag?
+
+Ganta:
+Oh... I don't know if it had any candy in it.
+
+Doctor:
+I'd look again if I were you.
+Granted, it tastes pretty foul, but you learn to choke it down.
+
+You:
+Y'know, I bet it fell out.
+I did bash into you pretty solid with that cart.
+
+Ganta:
+You again...
+
+
+Aaagh!
+
+You:
+Sorry man. If you feel like breaking my nose, I'll totally understand.
+
+Ganta:
+It's fine. I don't have much of a sweet tooth.
+Anyway, I'm more worried about you.
+
+You:
+I'll live. All she did was give me a flesh wound.
+
+Ganta:
+Still though... she really unloaded on you.
+
+You:
+It's just how things are. But you do adjust to it after a while.
+You may hate 'em, and they sure as hell don't make much sense, but following the rules is how you get by.
+
+Ganta:
+Apparently...
+  

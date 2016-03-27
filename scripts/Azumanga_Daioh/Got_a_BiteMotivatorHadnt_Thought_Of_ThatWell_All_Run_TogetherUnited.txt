@@ -1,0 +1,930 @@
+
+ ws:start:WikiTextHeadingRule:0:&lt;h1&gt; 
+ Kagura, Tomo:
+ Let's eat!
+
+Kagura:
+ Many thanks for the food!
+
+Tomo:
+ Many thanks for the...
+
+Kagura:
+ I won!
+
+Tomo:
+ I lost.
+
+Tomo:
+ What gives, Osaka?
+ Are you really still eating?
+
+Kagura:
+ Man, You're slow.
+
+Yomi:
+ No, it's you guys that are too fast.
+
+Osaka:
+ Mm-hm.
+
+Chiyo:
+ Oh, hey, everyone!
+
+Everyone:
+Huh?
+
+Chiyo:
+ Look I have the printouts for the sports fest here.
+ And it looks like they completely change the events for this year.
+
+Osaka:
+ Ah!
+
+Chiyo:
+ Ah!
+
+Tomo:
+ O... Osa...
+
+Osaka:
+ Brea..!
+ Bread... eatin'... con!
+ Bread eatin' con! Bread eatin' con! Bread eatin' con!
+ Bread eatin' con! Bread eatin' con!
+
+Yomi:
+ Oh.
+
+Tomo:
+ Bean paste...
+
+Osaka:
+ Is there a bread eatin' contest?!
+
+Chiyo:
+ Oh... Bread eating contest?
+ Oh! There is! There really is a bread eating contest!
+ You see.
+
+Osaka:
+ There's a bread eatin' contest!
+ I better start practicin' for it right away.
+ And I gotta a sweet bean bun right here!
+
+ Oh, shoot, there's no string.
+
+Yomi:
+ Really, now...
+
+Osaka:
+ Ahhhh.
+
+ Huh...
+
+Chiyo:
+ Hm...
+
+Osaka:
+ Ah...
+
+Chiyo:
+ Hm...
+
+Kagura:
+ What're you guys doing?
+
+Chiyo:
+ Oh, Miss Kagura.
+
+Osaka:
+ After my first failure, I came prepared this time.
+ A sweet bean bun and a big ball of string.
+
+Kagura:
+ Right.
+
+Osaka:
+ But you know...
+ Uh...
+ How are you supposed to hang up the bread?
+
+Chiyo:
+ Do you just tie it around the bun?
+
+Kagura:
+ No. Isn't it more like... more like bait?
+ You know, with a fish hook?
+
+Osaka:
+ Ah!
+
+ I had no idea it was so dangerous!
+
+Kagura:
+ Nah, I guess not.
+
+Chiyo:
+ Oh!
+
+Tomo:
+ Oh, Yukari!
+ If we win this year, you treat us to juice!
+
+Yukari:
+ Do you honestly love juice that much, Tomo?
+
+Tomo:
+ Uh...
+ If you're asking if I want it that badly, then no, not really, but...
+ Who cares?!
+ You're making a bet!
+ You're gonna turn a profit, right?!
+
+Yukari:
+ Even when I profit, it's not like it's for real.
+
+Tomo:
+ Huh? What are you saying then?
+
+Yukari:
+ To put it simply...
+
+Osaka:
+ Huh?
+
+Yukari:
+ Osaka, come here for a sec.
+ Osaka will be Mr. Yukichi.
+
+Osaka:
+ Mr. Yukichi?
+
+Yukari:
+ Mr. Yukichi.
+
+Osaka:
+ Mr. Yukichi.
+
+Yukari:
+ If we win the sports fest, I get Osaka!
+
+Tomo:
+ Huh?
+
+Yomi:
+ I don't really get it, but whatever.
+
+Yukari:
+ Victory! I got Osaka!
+
+Osaka:
+ I've been got.
+
+Yukari:
+ But soon after, Osaka would leave to be with Nyamo.
+ Bye-bye.
+
+Osaka:
+ Bye-bye.
+
+Yukari:
+ See?!
+ Now, isn't that the lonely?
+
+Tomo:
+ So... so, in other words,
+
+Yukari:
+ Oh...
+
+ ws:start:WikiTextHeadingRule:2:&lt;h1&gt; 
+ Kagura:
+ All right!
+ The sports fest is tomorrow!
+
+Tomo:
+ Wow! You're fired up!
+
+Kagura:
+ Oh, yeah! Sports are my specialty!
+ Just leave it to me!
+
+Tomo:
+ I've got high hopes for you!
+
+Kagura:
+ All this talk is getting me fired up!
+ I'm gonna do it this year!
+
+Yomi:
+ Getting fired up is fine, but give us a hand, would ya?
+ We won't make it in time if we don't all help out.
+
+Tomo:
+ Ooh, a tent?
+
+Kagura:
+ A tent! A tent!
+
+Tomo:
+ Okay, what should I do?!
+
+Kagura:
+ And me, what about me?
+
+Chiyo:
+ Tomo, please support that pole and Miss Kagura, please take hold of this side.
+
+Tomo:
+ Right! let's go!
+
+Kagura:
+ It's on now!
+
+Yomi:
+ Okay, let's raise it up!
+
+Chiyo:
+ Yeah.
+
+Tomo:
+ Boom! Boom! Boom!
+
+Kagura:
+ You wanna fight?!
+
+Yomi:
+ Hey, quit goofing off!
+
+Kagura:
+ Attack!
+
+Chiyo:
+ Ah!
+
+Yomi:
+ Uwa...
+
+Chiyo:
+ Just when we thought we finally got it set up...
+
+Kagura:
+ I'm sorry. We were fooling...
+
+Tomo:
+ Oh, Kagura, she wrecked the tent!
+ Wrecked the tent, Wrecked the tent! Lalala...
+ Everybody was working so hard at it and Kagura had to go and mess it all up!
+
+Kagura:
+Oh...
+ Boo-hoo...
+
+Tomo:
+ Uh, what's wrong?
+ Hey, Kagura...
+
+Kagura:
+ Chiyo-chan, I'm sorry.
+ You were all working on it and I just...
+
+Chiyo:
+ Oh, oh no, it's okay.
+
+Kagura:
+ Why am I such a lousy no-good bumbling idiot?
+ I'll take care of the rest of it by myself.
+
+Tomo:
+ Tha... That isn't how it goes!
+ You're supposed to take a jab at me!
+ You know, say something like "It was totally Tomo's fault!"
+ Not go off getting all serious and stuff!
+
+Chiyo:
+ Miss Kagura.
+
+Kagura:
+ Huh?
+
+Chiyo:
+ Why don't we all set it up together?
+ Preparing for the sports fest ought to be fun.
+
+Kagura:
+ Thanks, Chiyo-chan.
+
+Yomi:
+ Let's do this.
+
+Chiyo:
+ Ready when you are!
+
+Tomo:
+ Yeah, let's have some fun!
+
+Kagura:
+ All right!
+
+Tomo:
+ Yah... Boom!
+
+Kagura:
+ What's wrong with you?!
+
+Tomo:
+ All right!
+ There you go!
+
+Yomi:
+ You go! You're in the way!
+
+Kagura:
+ Man, I'm hungry.
+ I had to skip breakfast 'cause I woke up so late this morning.
+
+Osaka:
+ That's too bad.
+
+Kagura:
+ Ta-da!
+ Pork cutlet, rice and a big noodle bowl.
+
+Yomi:
+ You'll gain weight.
+
+Kagura:
+ Oh, I'm not too worried about that.
+ You see, I'm the type who never gains weight no matter how much I eat.
+ In fact, if I don't eat, I don't have any energy, so it's bad.
+
+Yomi:
+ Oh yeah, is that so?!
+ Then why don't you go eat a hundred bowls of pork cutlet?!
+
+Kagura:
+ What're you so mad about?
+
+Osaka:
+ You're amazin'.
+ You know, I could never eat as much as you do.
+
+Kagura:
+ Really?
+ So you think this is a lot?
+
+Osaka:
+ Half of that...
+ Even a third of it would fill me up completely.
+
+Yomi:
+ Oh, how very happy for you!
+
+Osaka:
+ What'cha so mad for?
+
+ ws:start:WikiTextHeadingRule:4:&lt;h1&gt; 
+ Kagura:
+ Right, guess we'll give it a go!
+
+Chiyo:
+ Yeah!
+
+Tomo:
+ The anticipation is making me shake!
+
+Osaka:
+ The bread eatin' contest!
+
+Kaorin:
+Please do your best!
+I'm not in your class, but I'll cheer for you!
+
+Sakaki:
+ Um... Oh, thank you.
+
+Yomi:
+ Okay, what's with bloomers?
+ Why do they still make us wear these?
+
+Kimura:
+Hurray!
+Hurray!
+Hurray!
+Hurray!
+Hurray!
+
+I love those pants very very much.
+<Latin?>Ego amo te<Latin>
+
+Kagura:
+ Hey?!
+
+Kimura
+Ah!
+
+Man:
+Ready?!
+
+Announce:
+Next up is the costume race.
+
+Kagura:
+ I think Tomo and Chiyo-chan are pairing up for the costume race, aren't they?
+ So what is Tomo gonna be?
+
+Osaka:
+ The bread eatin' contest is comin' up.
+ Get it together.
+
+Yomi:
+ A policewoman, I think?
+
+Tomo:
+ Ding, ding, ding!
+ You're right!
+
+Kagura:
+ Wow, you could practically join the ICPO right now!
+ So, where's Chiyo-chan?
+
+Chiyo:
+ Heya, lady.
+ It's nice to meetcha.
+
+Tomo:
+ Here she is, the perp!
+
+Kagura:
+ Huh?
+
+Man:
+Ready?!
+
+Tomo:
+ Okay, let us through!
+ Make way!
+ Move it, move it!
+ Come on, make way! I said, move it!
+ You're in the way, damn it!
+ Hey, I said, make way!
+
+Kagura:
+ Is pushing allowed?
+
+Tomo:
+ Move it, move it, move it, move it!
+ Go, go, go,
+
+Osaka:
+ Say...
+ I wonder what crime Chiyo-chan musta committed?
+
+Tomo:
+ Make way! Let us through already!
+ Move it! Come on, I told you to make way!
+ All right! Number one!
+
+Osaka:
+ Hey, they won.
+
+
+Announce:
+Next up is the bread eating contest.
+Participants, please gather in front of the entrance gate.
+
+Osaka:
+ Now, my turn.
+
+Chiyo:
+ Miss Osaka, please do your best!
+
+Man:
+Take your places!
+
+Announce:
+For this bread eating contest, going in order by lane, we've hung up sweet bean paste bread, cream bread, jam bread, curry bread, and melon bread.
+Please go for whichever one you like.
+
+Osaka:
+ Huh?
+ What the heck?!
+
+Man:
+Ready?!
+
+Osaka:
+ Sweet bean paste, cream, curry, jam and melon, huh...?
+ Lemme think...
+
+ Shoot, I've only practiced with a sweet bean paste bread.
+ But if we're talkin' sweet, the jam or cream bread would be good, too.
+ Come to think of it, why's a cream bread have that lumpy shape?
+ I don't see any reason it couldn't be round.
+ Oh, I found one that doesn't belong.
+ Curry breads are fried.
+ Do they gotta fry it no matter what?
+ No, that's not it. So, sweet bean paste breads are round, cream breads are lumpy, and jam breads have pieces in 'em...
+ Oh, I don't know anymore.
+ I came in last.
+ I got the melon bread.
+ Ah...
+
+ ws:start:WikiTextHeadingRule:6:&lt;h1&gt; 
+ Yomi:
+ Right, right, left, left, front, down, jump!
+
+Kaorin:
+Oh, Yomi.
+
+Yomi:
+ What's up?
+
+Kaorin:
+Yomi, the cheerleader, huh?
+
+Yomi:
+ Something like that.
+
+Kaorin:
+Wow...
+You just look so cute!
+
+Yomi:
+ R-Really?
+
+Kaorin:
+Chiyo-chan.
+
+Chiyo:
+ Right, right, left, left, front, down, jump!
+
+Kaorin:
+You're so cute!
+
+Tomo:
+ I found a spy!
+ So what could this someone from another class be up to?
+
+Kaorin:
+Oh, a boy's uniform?!
+
+Tomo:
+ Yup! Me, Kagura, even Sakaki's wearing a boy's uniform!
+
+Kaorin:
+Ah!
+
+Tomo:
+ Sakaki's wearing a boy's uniform!
+ Sakaki's wearing a boy's uniform!
+ Sakaki's wearing a boy's uniform!
+
+Tomo:
+ Take that, and that, how's that?
+ Pretty cool, don't you think?
+
+Kaorin:
+Show me!
+Ah...
+Rah! Rah! Rah! Rah! Rah! Rah! Rah!
+
+Osaka:
+ Last up is the relay!
+ Class versus class with everyone!
+
+Tomo:
+ It's here, it's here, it's here!
+
+Yomi:
+ Hey, don't get so worked up that you trip.
+
+Kagura:
+ All right, now for the climax!
+
+Sakaki:
+ Mm.
+
+Chiyo:
+ I... I have to do my best. I just have to!
+ But what if I end up dragging everybody down again?
+
+Sakaki:
+ Don't worry.
+
+Chiyo:
+ Miss Sakaki.
+
+Sakaki:
+ Don't worry.
+
+Yomi:
+ That's right.
+ After all, we've got Sakaki and Kagura in our class.
+ So it's okay.
+
+Kagura:
+ You see, so you can just relax, Chiyo-chan.
+
+Chiyo:
+ Right!
+
+Tomo:
+ You've got me too!
+
+Yomi:
+ Yeah for us.
+
+Tomo:
+ What was that?!
+ Just watch!
+ We'll get first place!
+
+Yomi:
+ Where do you get that confidence of yours?
+
+Osaka:
+ Chiyo-chan, I'm gonna teach ya a great tactic!
+
+Chiyo:
+ A great tactic?
+
+Osaka:
+ Ka-ching!
+ If you run with your hands out like this, it'll be hard for people to pass ya.
+
+Chiyo:
+ You... you think so?
+
+Osaka:
+ You're not passin' me!
+
+Chiyo:
+ You... you really think so?
+
+Announce:
+At last, it's time for the class versus class 4000-meter relay.
+
+Tomo:
+ Number one!
+ Number one runner!
+ Lots of expectations! Huge expectations!
+ Vital! Vital!
+ There's no way I'm not gonna lose this race to anyone!
+ Yomi, I'll hand you the baton as the number one runner!
+ Just you wait! Yeah! Go! Go! Go! Go! Go!
+
+Yomi:
+ She's gonna use up all her energy before it starts.
+
+Man:
+Ready?!
+
+Yomi:
+ What?
+
+Kagura:
+ What a start! Wow.
+
+Tomo:
+ Move it, move it, move it, move it, move it, move it!!
+
+Chiyo:
+ Amazing! Tomo's in the lead!
+
+Kagura:
+ All right, Tomo! Go!
+
+Yomi:
+ I better not start slacking either.
+
+Tomo:
+ Uh...
+
+Yomi:
+ I told you not to get too worked up before the start!
+ Arh!
+
+Chiyo:
+ Are you okay?!
+
+Tomo:
+ Yomi, run! It's a diet!
+
+Yomi:
+ Shut up, moron!
+
+Yukari:
+ Go! Leave them in the dust!
+ Come on! I'm telling you to pass them!
+ Oh, what are they doing?!
+ Come on, pass them there!
+ And there! And there! And there!
+ All right!
+
+Girl:
+Osaka!
+
+Osaka:
+ Gotcha!
+ Ka-ching!
+
+Chiyo:
+ Look out! They're passing you, they're passing you!
+
+ ws:start:WikiTextHeadingRule:8:&lt;h1&gt; 
+ Yomi:
+ Oh, wow.
+
+Tomo:
+ She's fast.
+
+Osaka:
+ That's Kagura.
+
+Yomi:
+ All right!
+
+Tomo:
+ One more person!
+
+Osaka:
+ You'll be in the lead!
+
+Yukari:
+ Kagura! Hurry up and pass them, right now!
+
+Kagura:
+ Chiyo-chan!
+ Damn!
+
+Yomi:
+ Go for it, Chiyo-chan!
+
+Tomo:
+ Don't you lose!
+
+Osaka:
+ Come on!
+
+Chiyo:
+ I have to do my best!
+ I've run every night, practicing just for this day!
+ I want to at least... at least get it to Miss Sakaki without being passed!
+
+Girl:
+I feel like I'm doing something bad.
+
+Boy:
+Ahaha, what're you doing, walking?!
+Are you sure you wanna win?!
+Huh, Class 3?!
+There you go, hang in there!
+Don't cry!
+
+Chiyo:
+ Mi... Miss Sakaki...
+ I'm... I'm sorry!
+
+Sakaki:
+ Don't worry!
+
+Kagura:
+ You did great, Chiyo-chan!
+
+Chiyo:
+ But I got passed by so many people!
+
+Yomi:
+ Don't worry! Sakaki will win it back!
+ But... but.. but the other classes have boys and track and field people...
+
+Tomo:
+ Hang on, Chiyo, take a look at that!
+
+Chiyo:
+ Miss Sakaki! Go! Go! Go! Go for it!
+ You can keep it up!
+
+ Amazing! She passed everyone out there!
+
+Tomo:
+ Good job, Sakaki! First place!
+
+Yukari:
+ Now, Sakaki, you just leave the rest to me!
+
+Tomo:
+ Shoot! Our anchor is our homeroom teacher!
+ Go Yukari! Take it and run!
+
+Nyamo:
+ Not so fast!
+ I'm coming for you!
+
+Tomo:
+ Whoa, Nyamo's got speed!
+
+Chiyo:
+ Go for it!
+ Miss Yukari, go for it!
+ Miss Yukari!
+
+Everyone:
+Oh...
+
+
+Tomo:
+ Oh, man!
+ Yukari just had to go and ruin the whole thing.
+ And we didn't get any juice.
+
+Yomi:
+ Honestly now, do you really like juice that much, Tomo?
+
+Chiyo:
+ I think it was still a whole lot of fun though.
+
+Everyone:
+Huh?
+
+Chiyo:
+ What?
+ Is something the matter?
+
+Kagura:
+But we did come in last place.
+
+Tomo:
+ And we didn't get treated to juice either.
+
+Yomi:
+ Yeah, enough about the juice already.
+
+Chiyo:
+ But it really was a lot of fun!
+ Wasn't it, Miss Sakaki?
+
+Sakaki:
+ What? Oh, yeah, right.
+
+Chiyo:
+ See, it really was a lot of fun!
+
+Osaka:
+ Chiyo-chan, you shouldn't be talkin' sour grapes.
+
+Chiyo:
+ This isn't sour grapes!
+
+Kagura:
+ Oh, no, it's sour grapes, all right.
+
+Yomi:
+ After all, Chiyo-chan really hates to lose.
+
+Chiyo:
+ That's not it!
+ Please tell them, Miss Sakaki!
+
+Sakaki:
+ Oh, yeah.
+
+Tomo:
+ All right, we'll just say that we had fun and leave it at that!
+
+Chiyo:
+ I'm not lying!
+ It really and truly was a lot of fun!
+
+
+-- Preview --
+
+Chiyo:
+Meow, meow, meow, meow, meow!
+Miss Sakaki, you like cats, don't you?
+
+Sakaki:
+Yeah.
+
+Chiyo:
+But you can't keep cats at home, can you?
+
+Sakaki:
+If I live alone, maybe...
+
+Osaka:
+Hey, Sakaki, you're goin' to get a cat?
+One like pikanyaa?
+
+Chiyo:
+That's yamapikaryaa.
+We met one on Iriomote Island.
+
+Sakaki:
+Ma-Mayaa!
+
+Osaka:
+You can see the continuation next time.
+  

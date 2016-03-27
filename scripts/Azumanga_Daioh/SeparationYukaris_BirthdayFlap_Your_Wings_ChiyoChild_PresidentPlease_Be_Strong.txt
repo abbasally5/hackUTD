@@ -1,0 +1,1021 @@
+
+ ws:start:WikiTextHeadingRule:0:&lt;h1&gt; 
+ Osaka:
+I can't get it off...
+
+Chiyo:
+Hello, Miss Osaka, good... good morning.
+
+Osaka:
+Oh, Chiyo-chan, you just saved me.
+
+Chiyo:
+Today, we're finally third year students.
+Let's go do our best!
+
+Osaka:
+Oh, yeah!
+Our best for sure.
+
+Osaka:
+Uh...
+
+Chiyo:
+Huh?
+
+Osaka:
+Not good.
+Havin' to go to the third floor everyday, I'm gonna lose heart.
+
+Chiyo:
+Boy, that was quick.
+
+Chiyo:
+Good morning, everyone!
+
+Osaka:
+Mornin' y'all.
+
+Yomi:
+Hey, you two!
+
+Osaka:
+I guess we're all together again.
+
+Chiyo:
+Wait, where are Tomo and Kaorin?
+
+Yomi:
+Tomo's coming.
+Kaorin went to another class.
+
+Chiyo:
+Oh, I see then.
+That's too bad.
+
+Tome:
+Hey, hey, everyone, good Morning!
+
+Osaka:
+Oh!
+
+Chiyo:
+Tomo, you cut your hair?
+
+Tomo:
+Yup, Just yesterday,
+What?
+Are the spring fairies themselves bewailed by my graceful new charm?
+
+Chiyo:
+Uh...
+
+Tomo:
+After all, I've become a third year now.
+
+Chiyo:
+But it's like she's reverted to being a first year.
+
+Chiyo:
+Oh, did you get dumped by... uh...
+
+Yomi:
+Hahaha.
+No way, no way!
+
+Chiyo:
+I didn't think so.
+
+Chiyo:
+Why did you cut all of it off?
+
+Tomo:
+Something about this bugs me, but oh well.
+Last year, I was growing it out, kinda going for a sexy look, you know.
+Basically, I was aiming for the Fujiko look.
+
+Yomi:
+Huh?
+
+Chiyo:
+Fujiko?
+
+Kagura:
+Aim for her look?
+But you're not anything like her to begin with.
+
+Tomo:
+Well, except for my bust size, I came pretty damn close.
+
+Kagura:
+How so?
+
+Tomo:
+Lupin!
+
+Everyone:
+Ah....
+
+Tomo:
+Tha.. that's why I gave up trying to go the Fujiko route!
+
+Kagura:
+Yeah.
+
+Tomo:
+But at least I could try to shoot for Ayu.
+
+Chiyo;
+At least?
+
+Yomi:
+Chiyo-chan, it's okay to be angry with her.
+
+
+Yukari:
+I'm Yukari Tanizaki, Class 3 homeroom teacher.
+This year, all of you are now studying for entrance exams.
+I'm sure it'll be a rough stressful time for you.
+
+Tomo:
+Uh-huh, uh-huh.
+
+Yukari:
+But it's even rougher on people in the work force.
+Don't come looking for pity.
+
+
+
+Classmates:
+Sigh...
+
+
+
+Yukari:
+And don't you dare act like you're some tragic victims of the modern education system!
+
+Osaka:
+What's her to you?
+She seems a little riled up today.
+
+Chiyo:
+Really?
+
+Yukari:
+I mean, look, if you don't wanna study, then don't go to college.
+It's pretty freaking simple.
+Huh...
+
+Tomo:
+Hey, so did you go to college because you wanted to study?
+
+Yukari:
+Hah! You're right like hell.
+
+Osaka:
+I wonder if maybe she's got some deep psychological scar.
+
+Chiyo:
+Isn't she always like this, though?
+
+Yukari:
+Listen up.
+You guys have only your own entrance exams to worry about and that's it.
+I, on the other hand, have to think about the entrance exams of several dozen people!
+
+Osaka:
+I wonder if Yukari is really suited to be a teacher.
+
+Kagura:
+Say that and you've left her no hope.
+
+Yukari:
+Maybe I just won't think about them...
+
+Chiyo:
+Now what were we talking about at the beginning of class...?
+
+
+Kimura:
+I'm Kimura, and I'm the homeroom teacher of Class 4 for this year.
+ ws:start:WikiTextHeadingRule:2:&lt;h1&gt; 
+
+Boy:
+Congratulations!
+
+Yukari:
+Hm?
+
+Students:
+Happy birthday!
+
+Nyamo:
+What? Really?! Oh, thank you!
+
+Girl
+Please will you open it, ma'am.
+
+Nyamo:
+Sure.
+Uh.
+
+Yukari:
+Kurosawa!
+What did they get you?
+
+Nyamo:
+Handbag...
+
+Yukari:
+Wow...
+Yeah, well, I've got some handbags of my own!
+
+Nyamo:
+I'm sure.
+
+Yukari:
+You know, you're better off not having handbags anyway!
+
+Nyamo:
+Why is that?
+
+Yukari:
+She is a bad person!
+
+Nyamo:
+Huh?
+
+Yukari:
+I'm an adult, you hear me!
+There's nothing fun about birthdays!
+
+Yomi:
+Man, even through the wall...
+
+Chiyo:
+Now that I think of it, last year was the same.
+
+Yomi:
+We didn't get her a gift.
+
+Osaka:
+Nyamo, she got somethin' last year too.
+
+Yukari:
+What is it, Nyamo?
+You're all smiles.
+
+Nyamo:
+Huh?
+Hang on. See these?
+The kids in my class all fetched and gave them to me as a birthday present.
+Sometimes I worried that they feel like it's something they have to do.
+But it still makes me happy.
+What's wrong?
+
+Yukari:
+What the hell is with you?!
+Do you think you've become the teacher in some youth drama?!
+
+Nyamo:
+What are you so mad about?
+
+Osaka:
+Yukari's actin' kinda weird today, don't you think.
+
+Kagura:
+Yeah, she's never this quiet...
+
+Yukari:
+Oh, that's right.
+Miss Kurosawa, who teaches next door, apparently got a birthday present from the kids in her class.
+
+Chiyo:
+Miss Yukari, so, when is your birthday coming up,
+
+Yukari:
+It's already passed.
+
+Tomo:
+So, what now?
+Yukari's birthday always falls during spring break.
+
+Kagura:
+Well, let's get her something, even if it's late.
+
+Yukari:
+Who the hell needs presents anyway?!
+
+Everyone:
+We're sorry.
+
+
+Kimura:
+Happy birthday, huh?
+
+
+Yukari:
+Good morning.
+
+Chiyo:
+Excuse me, Miss Yukari.
+
+Yukari:
+Huh?
+
+Chiyo:
+We know it's late, but this is a birthday present from all of us in the class.
+
+Yukari:
+Huh?
+Are, are, are you...
+Are you telling me to go give this to Nyamo?!
+
+Chiyo:
+No! This is for you, Miss Yukari!
+
+Yukari:
+This is a present... for me?
+
+Chiyo:
+Mm-hm.
+
+Yukari:
+Happy, happy birthday, baby oh,
+Happy birthday to me!
+Happy, happy birthday, dear Yukari,
+Happy freaking birthday to me!
+
+Chiyo:
+She is happy, right?
+
+Yomi:
+Mm-hm.
+
+Chiyo:
+Huh?
+
+Yukari:
+Oh, so it's a handbag.
+I'm gonna go out for a bit!
+
+Kagura:
+She's gone to show it off to Class 2.
+
+Osaka:
+Well, you know, it's really great that she's happy 'bout it.
+
+
+Yukari:
+Hm!
+
+Kimura:
+It's a happy birthday.
+Happy happy birthday.
+Oh, happy birthday, Kimurin!
+
+Yukari:
+Kimurin?
+
+Kimura:
+You look really pretty today.
+
+Yukari:
+Okay?
+ ws:start:WikiTextHeadingRule:4:&lt;h1&gt; 
+
+Tomo:
+Ooh, what's that?
+Career paths?
+
+Chiyo:
+Yes. We are third years, after all.
+
+Kagura:
+Mm-hm.
+And that is why we're studying for entrance exams.
+/That's right, we're students studying for entrance exams now.
+
+Tomo:
+Exams?
+
+Kagura:
+Yeah, so what about it?
+
+Tomo:
+Oh, you're hoping for a sports scholarship?
+
+Kagura:
+Shut up!
+What are you gonna do for your career?!
+
+Tomo:
+Huh? Who me? The ICPO.
+
+Kagura:
+The ICPO?
+
+Tomo:
+Duh like Interpol!
+
+Kagura
+Whoa!
+
+Tomo:
+International police!
+
+Kagura:
+Whoa, that's crazy!
+Are you like a kid or something?!
+But does such a thing really exist?
+I always thought it was just a movie.
+
+Tomo:
+It's not real?!
+
+Chiyo:
+Actually, there is an ICPO.
+
+Tomo:
+See? It really does exist!
+
+Kagura:
+So, how do you go about joining them?
+
+Tomo:
+Dunno!
+
+Chiyo:
+I wonder though, do you become a police officer first and then you get chosen from there?
+
+Tomo:
+What?! Is that how it's supposed to work?!
+
+Chiyo:
+I don't know for certain.
+
+Kagura:
+For someone, who wants to be a part of it, you should have known much.
+
+Osaka:
+I see, Tomo's gonna be a police officer, huh.
+
+Tomo:
+Didn't you hear me?
+I said, ICPO.
+
+Osaka:
+Oh, yeah! Speakin' of police, there's somethin' I've been wonderin' about for long time.
+
+Tomo:
+Listen when I'm talking.
+
+Osaka:
+Just what do they have written in their police pocketbook?!
+
+Does it have an address book or memo notebook attached to the back or something?
+
+Tomo:
+Hey, now that you mention it...
+
+Osaka:
+I know it's got the suspect's address and phone number.
+
+Tomo:
+Wow, awesome!
+
+Kagura:
+Yeah, whatever, dream on!
+
+Tomo:
+Well, then...
+Maybe it's got a photo of the person they like in there?
+
+Osaka:
+A photo of the policewoman they like or print club stickers.
+
+Tomo:
+What? A policewoman?!
+
+Osaka:
+It'll be rough if a policeman ends up falling for ya.
+
+Tomo,Kagura,Chiyo:
+Huh?
+
+Osaka:
+You know, they tail people and stuff like that.
+
+Tomo:
+That wouldn't be good.
+
+Yomi:
+Hey, whatever happened to the ICPO?
+
+
+Kagura:
+Chiyo-chan, you've got a university you like?
+
+Osaka:
+Tokyo University?
+
+Chiyo:
+Well, actually, I was thinking about flying overseas somewhere.
+
+Kagura:
+What? Overseas?
+
+Chiyo:
+Yes, I hear that American schools are used to accepting children who have skipped some grades.
+
+Kagura:
+Awesome!
+You're gonna study abroad, huh?
+Sasaki, Ichiro, and next up batter is Chiyo-chan.
+
+Chiyo:
+I say that's a little bit different.
+
+Kagura:
+Chiyo-chan's studying abroad.
+Amazing?
+
+Tomo:
+Mm-hm, Amazing.
+
+Chiyo:
+No, really,
+
+Tomo:
+She's gonna die.
+
+Osaka:
+Hm.
+
+Chiyo:
+Ah!
+
+Osaka:
+You know, 'cause your family's rich and you're so tiny.
+And you're easy to catch.
+
+Kagura:
+When you put it that way...
+
+Chiyo:
+But if it ever comes to that, Mr. Tadakichi will protect me!
+
+Osaka:
+Bang!
+Mr. Tadakichi's been shot.
+
+Chiyo:
+Ah?!
+Then what am I supposed to do after that?
+
+Osaka:
+Oh, put your genius to good use like they would in the television drama, make one last futile stand, and then you get killed.
+
+Chiyo:
+What?!
+
+Sakaki:
+Don't worry.
+If it ever comes to that, you can count on your father.
+
+Chiyo:
+My father?
+
+Chiyo:
+Somebody save me!
+
+Chiyo Papa:
+Halt, I say!
+
+Sakaki:
+I know he'll fly to your rescue.
+
+Chiyo:
+You really think so?
+
+Osaka:
+Bang!
+
+Chiyo:
+What?! My father too?!
+
+Sakaki:
+Don't worry, he deflected the bullets!
+
+Osaka, Chiyo:
+What?!
+ ws:start:WikiTextHeadingRule:6:&lt;h1&gt; 
+ Yomi:
+But going to study abroad in America?
+Have you asked your parents if it's okay?
+
+Chiyo:
+Yes. They said it would be good for me to see more of the world.
+
+Osaka:
+Let your darlin' children go travel.
+
+Chiyo:
+Hm?
+
+Osaka:
+Chiyo-chan, you're darlin'.
+Travel's okay!
+
+Chiyo:
+Hahaha...
+
+Tomo:
+All right, since you're doing this, let's make you president!
+
+Chiyo:
+That's not possible.
+
+Tomo:
+We'll make America Chiyo-chan's country!
+When you are Pres. give me Hawaii.
+
+Chiyo:
+Like I said, it's not possible.
+
+Osaka:
+Chiyo-chan's own country, huh?
+I'd wanna visit some time.
+
+Yomi:
+I bet she's thinking something weird again.
+Uh?
+
+Osaka:
+Uh, so, this is America!
+
+Chiyo:
+Hello!
+Hello there! Hello there! Hello there! Hello there!
+Welcome to our country!
+Welcome!
+
+Osaka:
+I just can't believe how cute all the little bitty Chiyo-chans are.
+
+Chiyo:
+We'll carry your luggage!
+We will! We will!
+
+Osaka:
+Are you sure?
+Thanks a whole lot!
+
+Chiyo:
+Let's be on our way!
+Let's go! Let's go! Let's go!
+
+Osaka:
+That'd be nice...
+
+
+Chiyo:
+Oh, was it okay for us to let Miss Osaka go like that?
+
+Yomi:
+She probably won't be back for a while.
+
+Tomo:
+Mm-hm.
+
+Chiyo:
+Oh, their pork buns are supposed to be delicious!
+
+Yomi, Tomo:
+Huh?
+
+Yomi:
+Well, if anyone knows about good food.
+
+Tomo:
+What about pizza buns or gratin buns?
+
+Chiyo:
+They only sell pork buns!
+
+Tomo:
+Yes! I think I'll buy a snack for the trip home!
+Wow, that was fast!
+
+Tomo:
+Hey...
+
+Yomi:
+What do you want?
+
+Tomo:
+Oh, nothing, nothing.
+
+Yomi:
+They don't use sugar or stuff in pork buns, so it's okay.
+
+Tomo:
+Well, well, how convenient for you, huh.
+
+Oh, yummy!
+
+Chiyo:
+It sure is delicious!
+
+Tomo:
+It's gotta be 100% beef all the way!
+
+Yomi:
+Pork, dummy!
+
+Chiyo:
+That was really tasty.
+
+Yomi:
+You just can't beat a good pork bun.
+
+Tomo:
+Yeah, well, I couldn't live without octopus buns.
+
+Chiyo:
+I've never had that kind of bun.
+Do they actually have those?
+
+Tomo:
+These days, they have everything.
+So, what's your favourite food, Chiyo-chan? Shark fins?
+They have shark fin buns.
+
+Chiyo:
+Let's see...
+
+Oh, I like meatballs!
+
+Tomo:
+Uh-oh, we've got a kid here!
+
+Chiyo:
+I am not a kid!
+
+Tomo:
+You're a kid, you're a kid! You're a real little kid!
+
+Chiyo:
+Then, what kind of food do you like?!
+
+Tomo:
+Hm?
+Ah, bananas, I guess.
+
+Yomi:
+Whoa, there's a moron here!
+
+Tomo:
+Why... Why do you say that?!
+
+Miruchi, Yuka:
+Chiyo-chan!
+
+Chiyo:
+Huh?
+Miruchi! Yuka!
+
+Yomi:
+Who are they?
+
+Chiyo:
+My classmates from back in grade school.
+
+Miruchi, Yuka:
+Good afternoon.
+
+Yomi:
+Wow, so, you would be in middle school already.
+
+Chiyo:
+What are you saying?
+I'm a high school student.
+
+Miruchi:
+Guess what?
+Now, we've got our own sailor uniforms to wear.
+
+Chiyo:
+Wow! I never got to wear those.
+You're so lucky.
+
+Yuka:
+But I'll never get to wear the uniform you're wearing either because your school is tough to get in.
+
+Miruchi:
+You really must be very good at school.
+
+Tomo:
+Mm-hm.
+
+Yomi, Chiyo:
+Wha..?!
+
+Yomi:
+Our school allows for quite a bit of freedom, so we do get people who skip classes and fail out too.
+
+Yuka:
+Yeah?
+
+Tomo:
+Hey, don't look at me.
+
+Yomi:
+Some even get into Tokyo University, and another can't get in anywhere.
+
+Tomo:
+Hey, don't look at me.
+
+Chiyo:
+Hm...
+
+Miruchi
+Bye-bye!
+
+Yuka:
+See you later!
+
+Chiyo:
+Bye-bye!
+
+Thanks for waiting.
+
+Tomo:
+You weren't talking about...
+
+Yomi:
+I was.
+
+
+ ws:start:WikiTextHeadingRule:8:&lt;h1&gt; 
+ Kimura:
+Now, for this part...
+Um... you Kaorin,
+
+Kaorin:
+Would you please not call me that?
+
+Kimura:
+But that's what everyone calls you...
+
+Kaorin:
+Then why am I the only one in class being called by a nickname?!
+
+Kimura:
+Um... okay, from now on, you may call me Kimurin.
+How's that?
+
+Kaorin:
+That's not my point!
+
+Yomi:
+Just like that you became the class Rep?
+
+Kaorin:
+More like I was made to than really became...
+
+Yomi:
+What? Like bullying?
+
+Kaorin:
+No, I think... just the opposite.
+
+Yomi:
+Huh?
+
+Boy:
+Well, since we still don't have any candidates so far, we should go ahead make nominations.
+So, can anybody think of someone they'd like to nominate?
+
+Kimura:
+Me! I think Kaorin would do a great job!
+
+Any more nominees?
+
+Kaorin:
+You see, Kimura likes me!
+
+Yomi:
+It's worse than I thought!
+
+Kaorin:
+So, I'm stuck with him for the entire year...
+Huh?
+Miss Sakaki still is cool as ever!
+
+But why? Why am I the only one who's in a different class?!
+
+Sakaki:
+I got to see you again today.
+I'm so happy.
+
+Kaorin:
+Why? Why am I the only one who's in a different class?!
+Everybody...
+
+Kimura's wife:
+Excuse me...
+
+Kaorin:
+Huh? Ah!
+
+Kimura's wife:
+I'm sorry.
+Could you please give me directions to the faculty office?
+
+Kaorin:
+It's Kimura's wife.
+
+Kimura's wife:
+I apologise, see the thing is, my husband left his lunch at home again.
+I guess he's rather absentminded.
+
+Kaorin:
+The "love wife lunch"!
+
+Kimura's wife:
+I've come here before, but I always seem to forget no matter how hard I try.
+
+Kaorin:
+To get to the faculty office, go in there, go up the stairs, and it's at the back of the second floor.
+
+Kimura's wife:
+Thank you.
+
+Kaorin:
+Mm-hm.
+
+Kimura's wife:
+Aw!
+
+Kaorin:
+Such a good person.
+Yes, that's right.
+If he has a good person like her for a wife, then Mr. Kimura must have his good points too.
+
+Kaorin:
+I've got a whole year with him as my homeroom teacher, so I'm gonna find those good points!
+Huh?
+
+Kaorin:
+Tending a garden?
+He's never shown a side like that before.
+Hm?
+
+Kimura:
+Oh, hello there, Kaorin.
+
+Kaorin:
+Ah, hi!
+So, you like gardening, Mr. Kimura?
+What kind of flower...
+Ah!
+
+Kaorin:
+Good points...
+Good points...
+Like hell I'm gonna find any!
+
+
+-- Preview --
+
+Tomo:
+Next episode is the school trip to Okinawa!
+
+Osaka:
+Shiisaa.
+
+Chiyo:
+This will be my first time, so I'm really excited!
+
+Osaka:
+Saataa andajii.
+
+Kagura:
+I've got my sights set on scuba diving.
+
+Osaka:
+Bitter melon champloo.
+
+Sakaki:
+I might see an iriomote cat.
+
+Osaka:
+Yamapikayaa!
+
+Tomo:
+Okay, all together now...
+
+Everyone:
+Haisai!
+  

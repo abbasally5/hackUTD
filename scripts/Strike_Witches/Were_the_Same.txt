@@ -1,0 +1,928 @@
+
+  ----[OP]----
+
+Minna:
+Your displeasure is written all over your face.
+Calm yourself, Major.
+
+Mio:
+They call us all the way over there and then start telling us how the budget is totally fubar.
+Of course I'm pissed off. They owe us!
+
+Minna:
+They're just panicking.
+We're currently the only ones consistently getting results at this point.
+
+Mio:
+They're not going to see anything other than what they want until it's far too late.
+
+Minna:
+That's just how the warmongers behave.
+If the Neuroi had never shown up, they would have you, me, and everyone on this team split into sides and killing each other instead.
+
+Mio:
+Those damn bankers think they run the world.
+Sorry about that, Miyafuji.
+I really wanted to show you around Britannia so you could know how beautiful her people could be.
+
+Yoshika:
+It's okay. I was actually just thinking how everyone in the military is so different.
+Um... do you hear something?
+
+Mio:
+That's just Sanya singing.
+We're approaching the base. She came to escort us.
+
+Yoshika:
+Thank, Sanya!
+
+Yoshika:
+Is Sanya really shy? She just pulled away.
+
+Minna:
+She may be a little shy but she has a pretty voice. She is a good girl.
+Hold on.
+
+Mio:
+What is it, Sanya?
+
+Sanya:
+Someone is looking at us.
+
+Mio:
+Someone is what? Repeat that, please.
+I'm having trouble reading your transmission.
+
+Sanya:
+I'm sorry.
+There is an unknown bogey inbound from the direction of Sirius at high speed.
+(bogey: enemy aircraft)
+
+Minna:
+So is it a Neuroi?
+
+Sanya:
+Yes, I believe it's them.
+Its speed is too great to be a normal aircraft.
+
+Mio:
+I don't see anything, Sanya.
+
+Sanya:
+It's in the clouds.
+Target cannot be acquired visually.
+
+Mio:
+So that's how it is.
+
+Yoshika:
+Umm, Major, what are we supposed to do?
+
+Mio:
+Nothing we can do.
+
+Yoshika:
+We're trapped here?
+
+Minna:
+Without our Strikers Units we're just regular passengers on this plane.
+Do you think they planned it this way?
+
+Mio:
+The Neuroi aren't capable of such complicated strategies.
+
+Sanya:
+Target is still inbound, fast. Contact in 3 minutes.
+
+Minna:
+Sanya, try to buy us time until backup arrives.
+Avoid a direct engagement if possible.
+
+Sanya:
+Yes, ma'am.
+I'll draw their fire away from the transport.
+
+Minna:
+Don't do anything reckless.
+
+Mio:
+Watch closely, Miyafuji.
+
+Yoshika:
+Okay.
+Sanya can find Neuroi even you can't see?
+
+Mio:
+Yes. Her magical abilities allow her to see what lies beyond even the horizon.
+
+Yoshika:
+Wow...
+
+Minna:
+That' why we always have her assigned night patrol.
+It's where she makes sense.
+
+Mio:
+It's no different than your healing magic.
+You heard her song, right?
+That's one of her spells.
+She uses it to guide the transport.
+
+Sanya:
+No return fire.
+
+Minna:
+Just as I thought.
+She's able to battle them before they're even visible.
+
+Yoshika:
+I can't see any Neuroi at all.
+
+Mio:
+You can take Sanya's word for it.
+Sanya, that's enough. Return to base.
+
+Sanya:
+But it's not...
+
+Mio:
+Good work. You were able to protect us by yourself.
+
+
+
+Hartmann:
+It's raining so hard. I can't see a thing!
+
+Barkhorn:
+Wait, look over there!
+
+Eila:
+Sanya!
+
+
+Perrine:
+Hold on, Eila. You can't go alone!
+
+Barkhorn:
+No, she'll be fine. Looks like it's all over.
+
+
+
+Barkhorn:
+So, nobody actually saw the Neuroi except Sanya?
+
+Mio:
+It stayed hidden in the clouds and never showed its face.
+
+Hartmann:
+'kay. But I heard it didn't even bother trying to shoot back at her.
+When does a Neuroi do that?
+Are we even certain that it really was a Neuroi?
+
+Lynne:
+Maybe it was a shy Neuroi.
+... or maybe not.
+Sorry...
+
+Perrine:
+No, it's true. Maybe they were connecting on the same wavelength like sisters, perhaps.
+
+Minna:
+How a Neuroi thinks is not known.
+We need a clear picture of their intentions.
+Until we have that, there's no way to predict what they will do next.
+
+Mio:
+There is a high likelihood this Neuroi that failed would return over and over again till it succeeds.
+
+Minna:
+I agree.
+Because of that very reason, I'm going to set up a special units specifically for night missions.
+Sanya.
+
+Sanya:
+Ma'am?
+
+Minna:
+Miyafuji.
+
+Yoshika:
+Ah? Yeah?
+
+Minna:
+Starting immediately, the two of you will constitute the new night combat team.
+
+Yoshika:
+Are you really sure you want me?
+
+Mio:
+You're the only other one with experience with this Neuroi.
+
+Yoshika:
+But I only sat there and watched...
+
+Eila:
+I'd like to volunteer for night combat!
+
+Minna:
+That's great.
+So Eila makes three total for the night patrol.
+We'll have to rework the rotation schedule a bit to accommodate your shift.
+
+Sanya:
+Sorry. This is all because I let the Neuroi get away...
+
+Yoshika:
+No, nobody said that, Sanya!
+
+Sanya:
+Hmm.
+
+
+
+Perrine:
+Blueberries. Why do we have so many, huh?
+
+Lynne:
+My uncle ships them here all the way from our farm back home.
+Blueberries are supposed be really good for your eyesight.
+
+Hartmann:
+Let's eat!
+
+Barkhorn:
+Yes, it's true. In Britannia all the night pilots eat Blueberries.
+It's likely they discovered their benefits as well.
+
+Lucchini:
+Yoshika, Shirley! Stick out your tongues!
+
+Yoshika & Shirley:
+Hmm? Hmm...
+Ahahaha!
+
+Perrine:
+Typical!
+
+Eila:
+Perrine...
+
+Mio:
+Everything in moderation.
+
+Perrine:
+How could you do such a thing to me!
+
+Eila:
+I didn't do anything.
+
+Sanya:
+Delicious.
+
+
+
+Mio:
+You finished your breakfast. That's good.
+It's time for you three to go to sleep.
+Dismissed.
+
+
+Yoshika:
+Huh?
+
+Yoshika:
+But we just woke up.
+And did they really have to come and cover up all the windows, too?
+
+Eila:
+They probably want us to get used to the dark.
+
+Yoshika:
+Sorry, they turned your room into such a dark cave, Sanya.
+
+Sanya:
+They didn't. This is how I like my room.
+
+Yoshika:
+Oh, really?
+Hey! These are some type of talisman.
+
+Eila:
+Talisman?
+
+Yoshika:
+Some people think they're good luck charms that scare away ghosts.
+
+Sanya:
+People sometimes mistake me for a ghost.
+
+Yoshika:
+Yeah? Because you're always playing around at night?
+
+Sanya:
+Uh-uh.
+Happens a lot during the day.
+They say they can't tell if I'm really there or not.
+
+Eila:
+Don't pay attention to anything Miss Priss Four-Eyes says.
+If you're bored I've got tarot cards.
+
+Yoshika:
+Tarot cards?
+
+Eila:
+It's fortune telling.
+I can use my magic to see into the future.
+I can't see very far, though...
+Now, let's see.
+Well, this is good!
+You're going to see someone you've been longing to see!
+
+Yoshika:
+Is that true?
+It's not. That's not possible.
+
+Eila:
+Why not?
+
+Yoshika:
+Because that person isn't coming back.
+
+Eila:
+I see. Hmmmm, I don't know what to tell you, then!
+
+
+
+Lucchini:
+Time to wake up! It's night!
+
+
+
+Yoshika:
+It's dark in here.
+
+Lynne:
+Uh-huh. They said it's to help your eyes adjust to flying during night time missions.
+
+Yoshika:
+What's this?
+
+Perrine:
+It's a special merigold herbal tea!
+I've heard it can help your eyesight just as much as blueberries.
+
+Lynne:
+Oh really? I heard that that was just an old wives tale.
+
+Perrine:
+What? I've never met such an insolent brat in all my life!
+This secret recipe is my grandmother's!
+
+Lynne:
+I'm sorry.
+
+Yoshika:
+This smells like Sansho.
+
+Lynne:
+Sansho?
+
+Lucchini:
+Lynne and Yoshika, stick out your tongues!
+
+Eila:
+She's got a point.
+
+Perrine:
+This isn't a contest!
+I was just trying to be helpful!
+
+Eila:
+Yuck.
+
+
+
+Yoshika:
+My hands won't stop shaking.
+
+Eila:
+Why?
+
+Yoshika:
+I didn't think the sky would actually look this black at night.
+
+Eila:
+Is that's your first night time mission?
+
+Sanya:
+Do you wanna scrub it?
+
+Yoshika:
+Will you both hold my hands?
+I'm sure I could do it if you hold my hands, Sanya.
+
+Eila:
+Let's get going.
+
+Yoshika:
+Wait! I have to... ah... I'm not ready yet! No!
+Please don't let go my hands! Promise you'll hang on to me!
+
+Sanya:
+Wait just another minute.
+We're almost above the clouds.
+
+Yoshika:
+It's beautiful!
+I could've never made it up here on my own!
+Sanya, Eila, thank you!
+
+Sanya:
+It's okay. It's our job.
+
+--------[A part/B part]--------
+
+Perrine:
+What's this?
+
+Yoshika:
+Liver oil. From a Lamprey.
+It's good for eyesight and temperament.
+
+Hartmann:
+It smells kinda fishy.
+
+Barkhorn:
+It's fish oil. The nutritious benefits should more than outweigh the difficult flavor.
+
+Perrine:
+Are we back in the kindergarten, Yoshika?
+What an absurd choice?
+
+Mio:
+Is that so?
+I'm the one who brought it.
+
+Perrine:
+I love fish oil.
+
+Lucchini:
+Ewww. What's this?
+
+Shirley:
+Tastes pretty similar to engine lubricant.
+
+Mio:
+I was forced to drink this as a cadet and I couldn't stand it either.
+
+Perrine:
+I couldn't agree with you more.
+
+Minna:
+Another round?
+
+
+
+Yoshika:
+Um... Eila and Sanya, where are the two of you from before all this?
+
+Eila:
+I'm from Suomus.
+
+Sanya:
+Orussia.
+
+Yoshika:
+Oh, where were those again?
+
+Eila:
+Suomus is in the northern part of Europe.
+Orussia is in the east.
+
+Yoshika:
+All right. Wasn't most of Europe destroyed by the Neuroi in the first round of attacks?
+
+Sanya:
+Yes. The city I lived in fell a long time ago.
+
+Yoshika:
+What happened to your family?
+
+Sanya:
+When the Neuroi came they fled the city and took shelter further east.
+Much further east. Over the Ural Mountains.
+
+Yoshika:
+Thank goodness for that.
+
+Eila:
+What's so good about that? Don't you hear what she is telling you?
+
+Yoshika:
+Well, they may be far apart right now but at least they can get back together someday...
+
+Eila:
+Huh, Orussia is a huge place.
+"past the Ural" is dozens of times the size of Fuso.
+It's not so easy to find people once you've lost them.
+Besides, there's a Neuroi hive between here and there.
+
+Yoshika:
+I see what you mean.
+But I'm still little jealous.
+
+Eila:
+You're kinda stubborn, aren't you?
+
+Yoshika:
+You don't understand. What I mean is... you wanna see your family again, right, Sanya?
+
+Sanya:
+Yes.
+
+Yoshika:
+Well, I bet they wake up every morning just like you.
+Thinking and wondering about the day that you'll be reunited as a family.
+
+Sanya:
+Yes.
+
+Yoshika:
+If neither of you ever gives up, then someday you'll have to be together again.
+And it must be so wonderful to be able to think that way.
+
+
+
+Sanya:
+Hmm...
+
+Yoshika:
+I feel so yucky.
+
+Eila:
+Then why don't we go to the Sauna?
+
+Yoshika:
+Sauna?
+
+Eila:
+C'mon, you've never been to a sauna before?
+
+
+
+Yoshika:
+Um, Eila, this is getting really boring...
+
+Eila:
+In Suomus, we like saunas more than baths.
+
+Yoshika:
+Sany, your skin is so white.
+
+Sanya:
+Hmm?
+
+Eila:
+Hey, what are you looking at?
+
+Yoshika:
+Nothing. She just has really pretty skin.
+
+Eila:
+Stop looking at Sanya like that!
+
+
+
+Eila:
+It's right over here.
+
+Yoshika:
+You sure this is okay?
+
+Eila:
+Bathing after a sauna is a must.
+
+Yoshika:
+Water is nice and cold but...
+
+Eila:
+Calm down. It's just us girls out here.
+
+Yoshika:
+It's not that I...
+
+Sanya:
+(singing)
+
+Eila:
+When I hear her. Her song. It makes my heart ache.
+
+Yoshika:
+Yeah.
+
+Yoshika:
+I'm sorry!
+
+Sanya:
+What are you apologizing for?
+
+Yoshika:
+Well, we didn't mean to interrupt you...
+That song, it's so beautiful!
+
+Sanya:
+My father, he wrote that song for me a long time ago when I was a little girl.
+
+Yoshika:
+Your father?
+
+Sanya:
+One day many years ago, when I was little, I was stuck inside because of the rain.
+I was counting raindrops out of boredom.
+And my father turned it into a song for me.
+
+Eila:
+Sanya went on to study music in Vienna at her father's recommendation.
+
+Yoshika:
+Sounds like a wonderful man.
+
+Sanya:
+Your father was a wonderful man, too, Miyafuji.
+
+Yoshika:
+Huh? Why is that?
+
+Eila:
+That's easy. Because Dr. Miyafuji was the one who invented the Striker Unit that you wear.
+That's a special connection between you.
+
+Yoshika:
+That's true.
+But it's not really the typical present that father gets for his little girl.
+
+Eila:
+Don't be so picky.
+Those units are expensive.
+
+
+
+Yoshika:
+Hey, guess what? You'll never guess but today is my birthday!
+
+Eila:
+Why didn't tell us it was?
+
+Yoshika:
+I usually ignore it. Because it's also the day that my father died.
+It's a long story and I didn't wanna explain it to everyone.
+
+Eila:
+Well, that's just plain stupid.
+If it's your birthday, then we're obligated to have some fun, right?
+
+Yoshika:
+Are you sure about that?
+
+Eila:
+Of course.
+
+Sanya:
+Miyafuji, I want you to listen closely.
+
+Yoshika:
+Okay.
+
+Yoshika:
+Hey, I can hear something.
+
+Eila:
+It's the radio.
+
+Sanya:
+At night, the sky is quiet.
+So I can pick up radio waves from distant places over the horizon.
+
+Yoshika:
+That's amazing. I have no idea you could do that.
+
+Sanya:
+Yes. It keeps me company while I'm flying at night.
+
+Eila:
+I thought this was our little secret.
+
+Sanya:
+I'm sorry. But tonight is a special occasion.
+
+Eila:
+It's your magic. Do what you want.
+
+Yoshika:
+What's wrong?
+
+Sanya:
+You'll see.
+
+Eila:
+Tonight just also happens to be...
+
+Eila:
+What?
+What is it?
+
+Yoshika:
+It's a song.
+
+Eila:
+But how could...
+
+Minna:
+Is this the Neuroi's voice?
+
+Mio:
+It's mimicking Sanya's frequency.
+Where is she?
+
+Minna:
+According to the schedule, she's in the middle of the night training mission with Sergeant Miyafuji.
+
+Mio:
+Call them back now!
+
+Minna:
+We can't. The song is blocking our signal.
+
+Mio:
+Damn it! They're after Sanya!
+
+Sanya:
+Its sounds... like...
+
+Eila:
+Is it the Neuroi, Sanya?
+
+Yoshika:
+The Neuroi? Where?
+
+Sanya:
+You need to leave right now!
+
+Eila:
+Sanya!
+You, idiot! Why fight him alone?
+
+Sanya:
+The enemy is after me.
+I can feel it.
+You have to get away from me.
+If you're here...
+
+Eila:
+C'mon, what are you talking about?
+
+Yoshika:
+We can never do that!
+
+Sanya:
+Please go.
+
+Yoshika:
+You can't see it!
+
+Eila:
+Sanya is going to tell me where that Neuroi is hiding.
+After that, I'll be able to predict the enemy's movement short term with my magic so I'll be fine.
+You're not the same as that thing, Sanya.
+It may be alone. But you've got us. Together we can't be defeated.
+
+Sanya:
+Neuroi inbound, from the intersect line, 2 degrees off Vega and Altair.
+Distance to target, 3,200m.
+
+Eila:
+Here?
+
+Sanya:
+It's accelerating. A little more lead. That's good. Three seconds.
+
+Eila:
+Take this!
+
+Eila:
+Did I miss?
+
+Sanya:
+No, it's decelerating.
+It's sustained heavy damage.
+It's coming back!
+
+Eila:
+Oh no you don't!
+
+Yoshika:
+It dodged it!
+
+Eila:
+Damn it! Show yourself!
+It's there!
+
+Sanya:
+Eila, stop, get out of here!
+
+Eila:
+There's no time!
+Good thinking, Miyafuji!
+
+Yoshika:
+We've got this! We're not gonna lose to that thing!
+
+Eila:
+'cause we are a team!
+
+
+
+Eila:
+I can still hear it.
+
+Yoshika:
+Why? Didn't we destroy it?
+
+Sanya:
+No. That's my father's piano.
+
+Yoshika:
+I see. The radio.
+It's reaching to us from somewhere down there.
+Wherever he is. It's miracle!
+
+Eila:
+To be expected really.
+
+Yoshika:
+Huh?
+
+Eila:
+After all it is Sanya's birthday today, too.
+Technically yesterday, but, you know.
+
+Yoshika:
+It's the same day as mine?
+
+Eila:
+What better way for a father to celebrate his daughter's birthday and to play the song he wrote for her.
+That kind of love allows for moments like this.
+For those who are open to feel it, it's no miracle.
+
+Yoshika:
+Eila, you're so nice.
+
+Eila:
+No, I am not, idiot.
+
+Yoshika:
+Idiot?
+
+Sanya:
+Oh mother, oh father, your daughter is listening. I'm right here.
+
+Yoshika:
+A happy birthday, right, Sanya?
+
+Sanya:
+You, too.
+I hope you had a happy birthday. Miyafuji.
+
+Eila:
+Happy birthday.
+
+Yoshika:
+Thank you both.
+
+
+
+Mio:
+The Neuroi had its sights on Sanya this time.
+It even adapted to her actions, mimicking them.
+
+Minna:
+It's quite obvious that we're going to have to start re-thinking the way we approach combat with the Neuroi.
+
+Mio:
+Do you think command is aware of any of this?
+
+Minna:
+I don't know.
+It's possible they could know even more than we do.
+
+Mio:
+We can't let our guard down for a second.
+
+----[ED]----
+
+Yoshika's a little twerp who gets on your nerves.
+Shirley's a giant pumpkin [within] super carrots.
+Lynne's the super ace at least that's what I think.
+Barkhorn is the pretty one and I'm the one who stinks!
+  

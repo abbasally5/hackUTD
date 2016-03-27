@@ -1,0 +1,289 @@
+
+Refugee: Were you able to slip through the Coast Guard's security net as planned? Yeah. They opened up a hole for us and it went like clock work. 
+
+Boy: The real deal. With these we can mount a war! 
+
+Refugee: We didn't buy them for the purposes of fighting a war. These ought to give us enough power so that we won't have to fight. 
+
+Boy: Is that one of Comrade Kuze's teachings? 
+
+Refugee: That's right. 
+
+Boy: I haven't had the honor of meeting him in person yet, since I don't have net access, either, I wouldn't know. So is this man really a revolutionary? The rumors say that he's Japanese, too. 
+
+Refugee1: I have no idea if he's a revolutionary or not, but he has great aspirations, and he is a man of action who can do what must be done to achieve his objectives. Come on, let's this cargo loaded. 
+
+Man: If you stress the high-voltage lines in two locations in the Fukuoka power grid simultaneously, the whole network will temporarily cut out. Safety protocols are in place to automatically provide power via alternate lines in the event of something like this. However if the power sent down those lines resulted in a surge, it would trigger a chain reaction of overloads, blacking out the capital, Fukuoka, in a matter of minutes. Other cities are set up the same way. 
+
+Gouda: That's on par with what I'd expect from laborers brought in to relocate the capital. These refugees don't miss a trick, do they? 
+
+Man: This is his doing, teaching them how to cause blackouts. He is also leaking to the net that this is a method the refugees will possibly use in an act of terrorism. 
+
+Gouda: So I see... He's certainly the right man to lead the refugees. You got them to abandon suicide bombings, and are showing them how to achieve liberation through non-violent means. I don't understand what you did to win the refugees over in such a short time, but I know perfectly well what you're thinking. I'm going to provide you with my very best script. 
+
+Motoko: Sounds like Dejima's declared itself an autonomous region. 
+
+Batou: Do you figure Kuze is behind it? 
+
+Aramaki: So far there's been no evidence of Kuze himself, but it's a safe bet that it's him. He's cleverly making effective use of the net to divulge the refugees' intentions to the media. 
+
+Togusa: He is the Che Guevara of the Refugee Residential District. At least that's what the Nanyou Shinbun Press is calling him. 
+
+Batou: Great. Another intangible hero. The thing I don't get though, is Kuze started out as one of the Individual Eleven, correct? Why did the refugees welcome the guy with open arms? Does he really have some kind of special ability, like the investigations of Major and Ishikawa suggested? 
+
+Motoko: To get the answer, we just have to capture him and ask him in person. You also have to realize, it's only due to his involvement that we can even step in here like this. 
+
+Aramaki: That's right. The first order of business is to put the brakes on this situation by apprehending Kuze, the suspected leader of the refugees. We'll worry about getting the authority to challenge the CIS afterwards. 
+
+Togusa: Sure is a big crowd down there, isn't it? 
+
+Batou: It could well be that the refugees are showing a surge of solidarity as a reaction to the public sentiment toward them. 
+
+Ishikawa: In cases like this, it's always the one whose backs are up against the wall that pull together and take action the quickest. The actions of our own citizen are in opposition to the government agencies at this point. 
+
+Togusa: It's a mass trend toward individualism, no, it's more like a peace-at-any-price movement, growing within the population. Even though this is basically a declaration of war from the refugees... 
+
+Refugees: Come'on, Let us into Dejima! Let us cross the bridge! 
+
+Motoko: Batou, you and the others go on ahead and gather information on how extensively the refugees are armed. Ishikawa and I will dive the refugee's net then rendezvous with you after we've pinpointed Kuze's location. 
+
+Batou: - Roger! - Roger! 
+
+Batou: Section 9. Looks like things are starting to turn ugly here. 
+
+Commander: The top brass don't seem to think so. I admit, we're always hard up here in the field. More than a few of them are itching to pass operational command on over to the Self Defense Army. I'm guessing, you guys are here as part of that, right? 
+
+Batou: We just came as part of an independent op. 
+
+Commander: Huh. Must be nice to pick your jobs with no strings attached. 
+
+Batou: You think, but we gotta whole our own asses out of the fire. 
+
+Motoko: We'll hack a refugee's brain. Kuze's cyberbrain seems to be accessible to them at any given time. We won't require any backup until we get close to his Ghost Line. 
+
+Ishikawa: Understood. 
+
+Proto: A cursory investigation has turned up no connections, what-so-ever, such as a money trail between Chief Cabinet Secretary Takakura and Poseidon Industrial. 
+
+Aramaki: I see. We'll be on time to the meeting? 
+
+Proto: There aren't any traffic holdups at the moment. 
+
+AI: Chief, about that Foreign Affairs Ministry official that you were scheduled to meet today... 
+
+Aramaki: What is it? Has there been any news about him? 
+
+AI: Yes, sir. The Niihama police bureau just issued a statement through the Kyodo News saying he was hit by a train at the subway station. He was killed instantly. 
+
+Proto: What do you suppose this means, sir? 
+
+Aramaki: It would seem there are some huge ripples hidden behind the Security Treaty, too... Back to HQ. 
+
+Proto: Understood, sir. 
+
+Togusa: It's a lot livelier here than I'd heard. 
+
+Batou: The refugees have been building up this high-rise slum for over 20 years. That's why I don't find it strange that they refer to the places as their castle. We'll split into two groups here. I'll take Azuma and Yano with me. Your team will be Paz, Borma, Saito, and Togusa. How hard it'll be to nab Kuze depends on how many weapons they've stockpiled, whether there's a militia, and whether they've got an organized chain of command. 
+
+Paz: Understood. We'll check out the opium dens and see what we will turn up. If they've got a militia going, I'm sure there's gonna be a lot more people hitting the pipes. 
+
+Batou: Okay, we'll check with black-market dealers to track the flow of weapons. 
+
+Paz: Got it. 
+
+Motoko: Now, then... What would be the shortest route to Kuze? 
+
+Tachikoma: Major! I found a duty roster for a Dejima police station showing that a female officer no less with a full prosthetic body is on duty right now! 
+
+Motoko: All right, good work. Give me a visual. 
+
+Tachikoma: Here you go. 
+
+Motoko: Hum. They sure seem bored. 
+
+Tachikoma: Maybe they're on alert for terrorist attacks. 
+
+Motoko: Okay, we're going to borrow this woman's cyberbrain. 
+
+Tachikoma: - Roger! - Roger! 
+
+Policeman: I'm getting a kind of creeped out by that guy sitting out there like that... 
+
+Officer: Be careful, he can hear you. 
+
+Policeman: That reminds me. You get the control system reinitialized for your right arm? 
+
+Officer: Take it for me, never upgrade your control system. 
+
+HQ: HQ calling Patrol Zone 26. Respond! 
+
+Policeman: Hey... What's wrong? 
+
+Motoko: He'll do nicely. 
+
+Policeman: Hey? 
+
+Tachikoma: Found it! He appears to be linked with Kuze as we speak! 
+
+Motoko: Good. We'll follow this route and zero in on Kuze's location. 
+
+Tachikoma: Roger! 
+
+Policeman: I swear, these cyborgs are all nuts... 
+
+Motoko: A barrier maze? He's using zoning to only allow access to refugees? There is no way to pinpoint his location right now... 
+
+Tachikoma: This is the fixed route, judging by that I'd say he's somewhere in Dejima, ma'am. Hey! That must be you! Gosh, there sure are a lot of refugees accessing him... 
+
+Ishikawa: Yeah, but even so, I don't see any obvious defenses aside from the filtering. Orders, ma'am? 
+
+Motoko: Okay, we'll dive in before the enemy knows we're here. Prep a full sensorium mask. Our target is Kuze's field vision. We'll use that to determine his exact location. 
+
+Ishikawa: The Individual Eleven file, huh? 
+
+Motoko: I see it. But at the moment our priority is to establish Kuze's whereabouts. 
+
+Motoko: Ishikawa, I want you to run a trace back from Gate 5 on the net and try to find out what draws these people to him. 
+
+Ishikawa: I'm on it. 
+
+Motoko: Tachikoma! Inject mask array. I'll cross his Ghost Line using my Chroma file. What the...? What's with this oppressive memory matrix? 
+
+Tachikoma: Major! You have to hurry! Your full-sensorium mask is degrading rapidly! 
+
+Kuze: I wouldn't if I were you. If you link any deeper with me, you'll die. 
+
+Motoko: He can already see through my sensorium mask? Attack barriers won't work on me! 
+
+Kuze: No. I meant that if you link with my consciousness, it will make you miserable. 
+
+Motoko: That's it? 
+
+Ishikawa: Major? 
+
+Ishikawa: Tachikoma! Something's happened. Pull out of there now! 
+
+Tachikoma: Roger! 
+
+Ishikawa: Major, Come on! Shake it off! Tachikoma! Was it a defense barrier? 
+
+Tachikoma: I don't know, but I didn't detect any evidence of attack barriers or viruses ! None whatsoever. It obviously doesn't seem to have any effect on us A.I.s. Do you think it was a hallucinogen or stimulant or something like that? 
+
+Ishikawa: I don't see how anything of that nature would work on her ... Hey! Major? You okay? What was it? What did you see? 
+
+Motoko: Just a delusion... 
+
+Ishikawa: Hum? 
+
+Motoko: Ah ! That can wait. The important thing I need to do right now is use the data I took from him to find where he is. Go on! 
+
+Ishikawa: Mum, Understood. 
+
+Motoko: This guy is tough... He's on that ship right now... And... I know him, damn it! 
+
+Kuze: It's me. 
+
+Refugee: That you, Kuze? Something happen? 
+
+Kuze: I'm sorry, but there's a good chance that you'll be raided by the police or a military special ops soon. There's no need for you to fight them, though. Hide the weapons and avoid combat as much as possible. Don't throw your lives away. 
+
+Doctor: No offense, friend. But you ought to switch to these eyes here. 
+
+Batou: I can see why. You got some good stuff. 
+
+Doctor: Nice, huh? Bet you didn't think you'd be able to get quality organic parts in Dejima here? But the simple fact is, if you shell out enough money, you can get your hands on just about anything. 
+
+Azuma: Hey, you, can you spare a joint, buddy? 
+
+Yano: Cut it out, man. 
+
+Batou: Yeah, I see. So Kuze, did he get a body-swap from you, too? 
+
+Doctor: I didn't do a body-swap. His body is unique, I couldn't track another one down. I only replaced the skin. 
+
+Batou: How about the face? 
+
+Doctor: That was created by some kind of face artist or other. It was a one-off with a mouth that could hardly move, though... 
+
+Batou: He knew artists? 
+
+Doctor: Not surprising. People would gladly do anything for a man like him. Heck, if he came to me for a face, I'd make him one or whatever else he wanted. 
+
+Batou: Just what is it about Kuze that draws people to him? 
+
+Doctor: Beats me. Must be something that strikes a cord in all of us, though. Maybe it's a sheer scope of his ambitions. 
+
+Batou: The scope of his ambitions? 
+
+Motoko: Batou. 
+
+Batou: What's up? 
+
+Motoko: We have Kuze's location. It's a camouflaged harbor on the northeast edge of Dejima. There's a retrofitted fishing troll anchored there. He's probably aboard it. 
+
+Togusa: That's not like you, Major. You're not 100% sure? 
+
+Motoko: He spotted me at the last minute. We're currently circling above the harbor. He hasn't gone anywhere yet. We'll grab him before he escapes. Meet up with us at the harbor ASAP. 
+
+Ishikawa: Roger! 
+
+Batou: Let's move! 
+
+Kuze: The deal's been made. Tomorrow, at long last. We will have the hope we've waited for. 
+
+Refugees: You, seriously? / Hallelujah! I had faith, I knew you could do it. At least now we have a chance! It's a revolution! 
+
+Boy: A-Are you Kuze? 
+
+Kuze: That's right. 
+
+Boy: You are? Does that mean you were a member of the Individual Eleven? How can you call yourself one of us, then? Considering you're the group who caused Densetsu's death. 
+
+Refugee: Hey. 
+
+Kuze: That's correct. As you say, I'm one of the Individual Eleven. 
+
+Boy: Then why have all the refugees accepted you? 
+
+Refugee: Just listen, kid. He has... 
+
+Kuze: If you don't trust me, that's fine. People fundamentally can't understand one another. For now, it's enough that you realize that you can't understand me. I have a greater purpose to fulfill. My role in all this is to guide you to the same place I am now. But it can only be expressed in actions, not words. If after witnessing those actions you still aren't convinced, you have the option to back out which you may do of your own free will. 
+
+Batou: What the hell? Major, there's three of those ships in here! 
+
+Motoko: They've probably retrofitted them with identical exteriors to make it easier to slip through the Coast Guard's patrol net. Our target is one of those three. 
+
+Batou: One of them? 
+
+Ishikawa: I think she was attacked by something while she was hacking Kuze's eyes. 
+
+Batou: Whoa, are you okay? 
+
+Motoko: Yes. We'll check out each boat, a two-man cell each. Go in under optical camouflage. Batou and Togusa. Paz and Borma. Saito and me. Ishikawa, Azuma, and Yano, you're on backup. Tachikoma, keep watch from above. 
+
+Batou: No sign of him. 
+
+Paz: Nothing here. 
+
+Motoko: A transponder? 
+
+Tachikoma: Look out! 
+
+Batou: It's a damn ambush?! 
+
+Refugee: You came here... to capture Kuze? 
+
+Motoko: What the hell?! 
+
+Refugee: You are idiots... Kuze will never be caught by the likes of you. He's the real thing. He's a legend. 
+
+Kuze: Why did they engage them? I told them not to throw their lives away... 
+
+Batou: Major, what the hell is going on? You've never screwed up like this before ! Kuze's not here. And now we just lost one of our own damn rookies in an ambush by a handful of armed refugees! 
+
+Motoko: I know. Sorry. Because he was never even here to begin with. 
+
+Batou: Huh? What? 
+
+Motoko: Kuze's securing a deal with the Russian Mafia for plutonium. He's in Etorofu.
+  

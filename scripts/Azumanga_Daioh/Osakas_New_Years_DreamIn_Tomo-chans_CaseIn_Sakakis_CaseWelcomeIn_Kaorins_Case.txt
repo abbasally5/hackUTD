@@ -1,0 +1,685 @@
+
+ ws:start:WikiTextHeadingRule:0:&lt;h1&gt; 
+ Osaka:
+ Chiyo-chan...
+ Hey there, Chiyo-chan, why are you flyin'?
+
+Chiyo:
+ Ahahahaha...
+
+Osaka:
+ Oh...
+
+ Chiyo-chan!
+ Whatcha flyin' for?
+
+Chiyo:
+ I'm ten years old.
+
+ Would you like to fly, Miss Osaka?
+
+Osaka:
+ Say what? I can fly?
+
+Chiyo:
+ I'll lend them to you... for free.
+ Well, here you are.
+
+Osaka:
+ So, I can fly for free with these things?
+
+Pigtails:
+Yes, as far as you like.
+
+Osaka:
+ What?
+
+Chiyo:
+ Come on! I'm sure that'll look really good on you.
+
+Osaka:
+ Uh, well, I... that is to say...
+
+Chiyo:
+ What? You mean you don't want them?
+ But they're so popular...
+
+Pigtails:
+Yeah, what's her deal?
+
+Osaka:
+ What?
+
+ That's it.
+ Chiyo-chan, she is being controlled by those things!
+
+Pigtails:
+Right.
+Left.
+Turn.
+Attention!
+
+Osaka:
+ Oh...
+ Hang on Chiyo-chan, I'm coming to save you!
+
+ Ah!
+ Pipin' hot.
+ Sizzlin'.
+ Crispy.
+
+ I'm sorry, Chiyo-chan!
+ Her pigtails, I didn't take 'em off right.
+
+ It's no good!
+ I gotta take off and fly somewhere!
+
+
+ ws:start:WikiTextHeadingRule:2:&lt;h1&gt; 
+ Tomo:
+ La la la la.... lu lu lu.... la la la...
+ Lupin!
+
+Woman:
+Ahhhh, somebody help, they rob the bank!
+
+Tomo:
+ Oh, yeah, ha!
+
+Woman:
+And in other news, the heroic Miss Tomo Takino knocked off the bank robbers!
+
+Tomo:
+ Oh, no, it was nothing, really.
+
+Girl:
+Oh, no, my poor little mew-mew is gonna get run over!
+
+Tomo:
+ Here I come!
+
+Woman:
+A heartwarming tale in my very own town!
+The super high school girl, Miss Tomo Takino, saves a kitten!
+
+Tomo:
+ Oh, no, it was nothing, really.
+
+Woman:
+Ten years running!
+Miss Tomo Takino wins first place yet again in this year's beauty contest!
+
+Tomo:
+ Oh, no, it was nothing, really.
+
+Tomo:
+ Oh, no, it was nothing, nothing really.
+ Oh!
+ Oh, no.
+ Thank you, but it was nothing really.
+
+Yukari:
+ Time to pass back yesterday's exams.
+ And the top score goes to Miss Tomo Takino.
+
+Yukari:
+ There is nothing more that I can teach you, grasshopper.
+
+Tomo:
+ Thank you, Master Yukari.
+
+Chiyo:
+ Ahhh.
+
+Tomo:
+ Hey, what's wrong, Chiyo-chan?
+
+Chiyo:
+ I got a big fat zero.
+
+ Tomo:
+ Yeah, well, I got a hundred, but we can still say I lost, you know.
+
+Chiyo:
+ Thank you Tomo, you're so nice to me.
+
+Tomo:
+ Oh, I'm not that great.
+ Here, take a look for yourself.
+
+Chiyo:
+ Ah! A hundred within a hundred!
+ You're just too incredible!
+
+Tomo:
+ Oh, I'm not that great.
+
+Chiyo:
+ No, Tomo, you're wrong, I'm no match for you.
+ You're incredible.
+
+Tomo:
+ Don't be silly, I'm really not.
+
+Yukari:
+ Miss Mizuhara.
+ Is Miss Mizuhara absent today?
+ Come on, Mizuhara!
+
+Tomo, Chiyo:
+ Hm?
+
+Yukari:
+ You got a zero. Miss Mizuhara!
+
+Tomo:
+ Man, you're really hopeless, aren't you?
+ The teacher's calling for you, get up!
+
+Yomi:
+ I'm sorry, Tomo...
+
+Tomo:
+ Don't worry about it.
+ It's what's friends for.
+
+Yomi:
+ I want my mom.
+
+Tomo:
+ Why in the heck?
+ Why in the heck? Why in the heck? Why in the heck? Why in the heck?
+ Why in the heck? Why in the heck? Why in the heck? Why in the heck?
+ Why in the heck? Why in the heck? Why in the heck? Why in the heck?
+ Why in the heck? Why in the heck? Why in the heck? Why in the heck?
+ Why in the heck? Why in the heck? Why in the heck?
+ Why in the heck? Why in the heck? Why in the heck? Why in the heck?
+ Why in the heck? Why in the heck? Why in the heck? Why in the heck?
+ Why in the heck? Why in the heck?
+
+Yomi:
+ Grandma...
+
+Tomo:
+ Why in the heck?
+
+ ws:start:WikiTextHeadingRule:4:&lt;h1&gt; 
+ Chiyo:
+ Miss Sakaki, good morning, Miss Sakaki!
+
+Sakaki:
+ Huh?
+
+Chiyo:
+ Over here, over here!
+ Miss Sakaki, good morning to you!
+
+Sakaki:
+ Uh, good morning.
+
+Chiyo:
+ I have a cute little cat that I I'd like to give you, Miss Sakaki.
+
+Sakaki:
+ But my mother has terrible allergies, so I really couldn't.
+
+Chiyo:
+ Oh, please!
+ This cat was abandoned by his owner, so he is in a terrible situation right now.
+
+Sakaki:
+ Huh?
+
+Chiyo's Dad:
+Hello there.
+
+Sakaki:
+ Oh.
+
+
+Chiyo's Dad:
+Tell me; do you like cats?
+
+Sakaki:
+ Yes.
+
+Chiyo's Dad:
+Did you say that knowing that I am a cat?
+
+Sakaki:
+ Ah, Yes.
+
+
+Chiyo's Dad:
+Well then, this is goodbye.
+
+Sakaki:
+ What?! But why?!
+
+Chiyo's Dad:
+The truth is, in spite of my appearance, I am not a cat.
+I am Chiyo's father.
+Thank you for always being so good to my daughter.
+
+Sakaki:
+ Oh, no.
+ It was my pleasure.
+
+Chiyo's Dad:
+You must go in search of a real cat.
+But it will be impossible for you, the way you are now.
+
+Sakaki:
+ But wait, what should I do?
+
+
+Chiyo's Dad:
+You cannot ask me.
+Goodbye.
+
+Sakaki:
+ Please wait!
+
+ ws:start:WikiTextHeadingRule:6:&lt;h1&gt; 
+ Chiyo's Dad:
+Oh.
+
+Sakaki:
+ Oh, I see. Chiyo-chan's place.
+
+Chiyo:
+ Hi and welcome!
+ You come inside, won't you?
+ Please follow me.
+ I'm home!
+
+Sakaki:
+ Ah!
+ Um...hey, Chiyo-chan, there's a...
+
+Chiyo:
+ Oh, I forgot you haven't met our maid.
+
+Sakaki:
+ Your maid is a penguin?
+
+Chiyo:
+ Uh-huh, she does the cleaning and stuff for us.
+
+ But sometimes she has a brain freeze while she's working.
+ Come on, let's get going.
+
+Sakaki:
+ O...Okay.
+
+
+Sakaki:
+ Ah!
+
+Chiyo's Dad:
+Hello.
+
+Sakaki:
+ Okay, now what?
+
+Chiyo's Dad:
+A friend of yours?
+
+Chiyo:
+ Yes! Her name's Miss Sakaki!
+
+Chiyo's Dad:
+Welcome then, I am Chiyo's father.
+Thank you for always being so good to her.
+
+Sakaki:
+ Oh, not at all.
+
+Chiyo's Dad:
+I know, how about joining us for dinner?
+
+Sakaki:
+ No, I couldn't.
+
+Chiyo:
+ Oh, you don't have to be so polite.
+
+Chiyo's Dad:
+There will be some red things included, but please don't stand on ceremony.
+
+Sakaki:
+ Red things?
+
+Chiyo:
+ Oh!
+
+Chiyo's Dad:
+Tell me; what is popular at school these days?
+
+Chiyo:
+ Let me think. Jane Romeo, I guess.
+
+Chiyo's Dad:
+How is Jane?
+Is she still single?
+
+Chiyo:
+ Yeah, her boyfriend dumped the other day.
+
+Chiyo's Dad:
+Chiyo, eat your tomatoes.
+
+Chiyo:
+ Yes, I just love tomatoes!
+
+Chiyo's Dad:
+You love or hate isn't the issue.
+Eat your tomatoes, Chiyo.
+
+Chiyo:
+ Mm-hm.
+
+Chiyo's Dad:
+How is it? Is it good? Is the tomato good?
+
+Chiyo:
+ Mmm, it's delicious.
+
+Chiyo's Dad:
+They are so red and yet, Chiyo says that they are delicious.
+
+Sakaki:
+ Oh.
+
+Sakaki:
+ Excuse me, that thing we were talking about.
+ Where can I go to find a real cat?
+
+Chiyo's Dad:
+A real cat?
+
+Sakaki:
+Huh?
+
+Chiyo's Dad:
+Are you saying that that I am a fake cat?
+
+Sakaki:
+ I'm sorry, please forgive me.
+
+Chiyo's Dad:
+No, it is not that I am angry. I am not a fake, no.
+But do you mean to say that there are cats that are real and ones that are not?!
+
+Sakaki:
+ Are you sure you are not angry?
+
+Chiyo:
+ Father, guess what.
+ It's a visitor!
+
+Chiyo's Dad:
+Invite her in, if you would, please.
+
+Chiyo:
+ Okay.
+
+Osaka:
+ Hello again.
+
+Chiyo's Dad:
+Yes, Hello.
+
+Osaka:
+ Hello, Miss Sakaki.
+ I came here to wake you up.
+ Hawk!
+ Eggplant!
+ Arise, Miss Sakaki.
+
+Sakaki:
+ New Year's dream...
+
+Osaka:
+ Oh.
+
+ ws:start:WikiTextHeadingRule:8:&lt;h1&gt; 
+ Kaorin:
+What?
+
+Chiyo:
+ Hey, Sister, come keep us company for a bit!
+
+Kaorin:
+Wh... what is everyone doing, Chiyo-chan?
+
+Tomo:
+ Look, lady, don't you be talking back to our boss!
+
+Yomi:
+ If you don't do as we tell you...
+
+Osaka:
+ You're gonna get stunk.
+
+Chiyo:
+ Ooh, this is really gonna stink.
+
+Tomo:
+ Ooh, the smell, the smell!
+
+Everyone:
+The smell!
+
+Chiyo:
+ Huh?
+
+Tomo:
+ What the...
+
+Yomi:
+ Who's that?!
+
+Osaka:
+ A horse!
+
+Chiyo:
+ Oh, yeah!
+
+Tomo:
+ Who are you?!
+
+Osaka:
+ Don't let her through!
+
+Kaorin:
+Miss Sakaki!
+
+Sakaki:
+ Ha!
+
+Sakaki:
+ Are you all right?
+
+Kaorin:
+Uh, yes.
+
+Sakaki:
+ Oh, no, your knee is bleeding.
+
+Osaka:
+ A paper fan!
+
+Kaorin:
+What?
+
+Sakaki:
+ Let's hurry to the nurse's office.
+
+Kaorin:
+But it's more than enough that you've already rescued me...
+
+Sakaki:
+ I do anything for you, Kaorin.
+
+
+Kaorin:
+Um... Listen, Miss Sakaki, instead of using the name all my friend use, do you think maybe you can just call me "Kaori"?
+
+Sakaki:
+ Sure, I understand.
+
+Kaorin:
+Uh...
+
+Kaorin,s Mom:
+Kaori.
+Kaori.
+Kaori!
+
+Come on, wake up, Kaori!
+Aren't you going to the shrine with your friends for new years?
+How long would you play on staying in bed?
+And what's with that drooling?
+I have to wonder what kind of New Year's dream you had.
+
+Kaorin:
+Huh?
+Dream?
+
+Kaorin,s Mom:
+Come on!
+If you don't hurry it up, you're gonna end up being late.
+
+Kaorin:
+Continuation!
+
+Kaorin,s Mom:
+Just what are you doing?
+Come on, now get up!
+
+Kaorin:
+No! Continuation!
+
+Kaorin,s Mom:
+Don't be silly!
+What about your promise to your friends, huh?!
+
+Kaorin:
+No! No! Continuation!
+
+
+Kaorin:
+Uh... And I was so close too...
+
+Sakaki:
+ Happy New Year.
+
+Kaorin:
+Hm? Oh, right. Um, a very happy new year to you too!
+
+Uh, uh, uh, horse!
+
+Sakaki:
+ What?
+ It's the year of the rabbit.
+
+Kaorin:
+Oh, no, a white steed!
+
+Sakaki:
+Hm?
+
+Tomo:
+ Happy New Year!
+
+Chiyo:
+ Happy New Year to everybody.
+
+Osaka:
+ Hi, Happy New Year.
+
+Tomo:
+ Hey, hey, hey, what are you two talking about over year?
+
+Kaorin:
+What? Ah...
+New Year's dreams...
+
+Chiyo:
+ Oh, it's too bad, but I didn't get to have a New Year's dream this year.
+ I wished I had though.
+
+Tomo:
+ Hey, in speaking of dreams, you showed up in mine, Chiyo-chan.
+
+Osaka:
+ I had the same thing happen.
+
+Sakaki:
+ Me too.
+
+Kaorin:
+You were also in my dream.
+
+Chiyo:
+ Really?! That's amazing!
+ What was I like in your dreams, huh?
+ Come on, tell me!
+
+Tomo:
+ Hm...
+
+Osaka:
+ Um...
+
+Sakaki:
+ Hm...
+
+Kaorin:
+Uh...
+
+Chiyo:
+ Huh? What's the matter?
+
+Yomi:
+ Oh, they are over there.
+ Hm?
+
+Chiyo:
+ Please you have to tell me!
+ What was I like?
+ Please! Please, please! Please! Please!
+ Won't you please tell me!
+
+Kaorin:
+Oh!
+
+-- Preview --
+
+Tomo:
+Next time on Azumanga Daioh, it's a Miss Sakaki Special!
+
+Sakaki:
+Oh, not really...
+
+Kaorin:
+What?! Really?! I'll make sure to watch it!
+I'll have to record it for my collection!
+
+Sakaki:
+No, see...
+
+Chiyo:
+Then, a lot of cute things will be showing up too, won't they?
+Like kittens and stuffed animals?
+
+Sakaki:
+Yeah, that's right. And father too.
+
+Everyone:
+Father?!
+
+Sakaki:
+Please watch again next week.
+  

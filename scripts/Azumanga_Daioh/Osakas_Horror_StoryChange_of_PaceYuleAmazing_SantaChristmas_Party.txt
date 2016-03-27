@@ -1,0 +1,887 @@
+
+ ws:start:WikiTextHeadingRule:0:&lt;h1&gt; 
+Osaka:Let's go home, Chiyo-chan.
+Chiyo:Oh, would you mind if we made a stop at a bookstore on the way?
+Osaka:No, that's fine. Is there some interesting book that just came out?
+Chiyo:Yeah, today, there's supposed to be a really cute photo collection of pandas coming out!
+Osaka:Really.
+Chiyo:But apparently it's been talked about a lot in advance, so I hope it won't be sold out.
+Osaka:I had no idea.
+Girl:Huh?
+Nyamo:Hey! No running in the hallway! Really. What's got her in such a hurry?
+Osaka:Speakin' of that, Chiyo-chan...
+Chiyo:Yes?
+Osaka:Concerning pandas...
+Chiyo:Yeah?
+Osaka:So which parts are supposed to be white and which parts are black again?
+Chiyo:Okay... Um...
+Chiyo:I finished it.
+Osaka:Don't you think it looks a little off the mark?
+Chiyo:Um... I think you may be right.
+Osaka:I'm pretty sure the one I saw on TV was more like... hmm...
+Osaka:Okay. This creature is a... er...
+Chiyo:This isn't right. That looks nothing like a panda.
+Yomi:Hey, what's up?
+Tomo:Let's go! Let's go!
+Tomo:What are those?
+Yomi:Maybe animals?
+Chiyo:They're pandas.
+Osaka:Pandas.
+Tomo and yomi:Pandas?
+Osaka:Actually, to tell you the truth, I've never seen a panda in real life with my very own eyes yet.
+Tomo:Oh, well, I have seen one before. It was at the zoo, and it was totally cute.
+Osaka:Oh. Well then, tell me this...
+Tomo:Huh?
+Osaka:Was it black spots on white? Or was it white spots on a black background?
+Tomo:Well, er...
+Chiyo:Then we should go see pandas together some time!
+Yomi:Ooh, I agree.
+Osaka:Oh! Don't get me wrong, I do wanna see the pandas, but there's also somethin' else I wanna see while we're at it.
+Tomo:What's that?
+Osaka:Mmm. You know we knew... that thing that happens when you... like um...Oh, yeah... My life flashin'!
+Tomo:I'd advise against that.
+Osaka:Come to think of it, I had a terrifyin' experience only yesterday.
+Tomo:Ooh! Let's hear it. What happened? Spit it out, will you? Don't tell me woke up and started speaking normal like all of us do.
+Osaka:Ooh! That... That'd be scary too. Mmm... Hi! Hiya!
+Tomo:That's not how we talk. But never mind that. Get on with the story!
+Osaka:Some time last night, I was all alone in my room, when suddenly, outta nowhere the smell of a fart that wasn't mine wafted into my nose.
+Tomo:Uh... Spooky!
+Osaka:Isn't it?
+Yomi:Really?
+
+ ws:start:WikiTextHeadingRule:2:&lt;h1&gt; 
+ Yukari:
+Oh, shoot! Now I'm gonna be late again!
+
+Kimura:
+Miss Tanizaki.
+
+Yukari:
+Yeah, what?
+
+Kimura:
+Is it because it's almost Christmas?
+
+Yukari:
+Huh?
+
+Kimura:
+Yule be running to get my present, huh?
+That certainly is some sense of humor you got there, Miss Tanizaki!
+Hahahaha.
+
+Yukari:
+Yeah, um, I'm in a bit of a hurry.
+
+Tomo:
+Hey, hey, what was the old-fashioned name for the time around Christmas again?
+Uh, was it "Mule"?
+
+Yomi:
+Huh?
+
+Chiyo:
+Oh, I believe the word you're looking for is "Yule."
+
+Osaka:
+Ah!
+
+Tomo:
+Ah!
+
+Osaka, Tomo:
+Ah!
+
+Chiyo:
+What?
+
+Tomo:
+Thanks a lot, Chiyo-chan.
+Why are you gonna steal the punch line?
+
+Osaka:
+That's right, you just shouldn't do that.
+
+Chiyo:
+Um... I'm so sorry, I'm so sorry, I'm so sorry...
+
+Osaka:
+You shouldn't, Chiyo-chan. You shouldn't...
+
+Yomi:
+Don't take anything they say seriously, Chiyo-chan.
+
+Tomo:
+Ah, ahem.
+Now as I was saying...
+What was that old name for the time around Christmas again?
+
+Yomi:
+Don't do it over!
+
+Yukari:
+Okay, you can sit down!
+I am sick and tired of being just a language teacher!
+So, instead, I'll be teaching you kids math today.
+
+Yomi:
+Math, huh?
+
+Yukari:
+Argh!
+We're doing P.E.
+Everyone, get outside!
+
+Tomo:
+So cold!
+
+Yomi:
+Now how do we go straight from language to P.E.?
+
+Chiyo:
+I wonder what we'll be doing in Miss Yukari's P.E. class?
+
+Osaka:
+Think it'll be like an American P.E.?
+
+Kagura:
+Whether it's American or British, I won't be losing to you, Sakaki!
+
+Yukari:
+Yeah, let's play a little soccer!
+
+Tomo:
+Yukari, do you even know the rules?
+
+Yukari:
+Just leave it to me!
+I'm Mia Hamm!
+
+Tomo:
+Huh?
+
+Yukari:
+I'm Mia Hamm!
+
+Tomo:
+What does that mean?
+
+Yukari:
+Take that!
+
+Girl:
+Huh?
+
+Yukari:
+Goal!
+Goal, goal, goal, goal, goal, goal...
+
+Yomi:
+Miss Yukari, you do know that's our goal, right?
+
+Yukari:
+Actually, I was a spy for the other team!
+
+Yomi:
+You're not making any sense.
+
+Yukari:
+I'll get it in for sure this time!
+Move it, move it, move it, move...
+Huh? What the...?
+
+Yukari:
+Enough soccer!
+Let's play dodge ball!
+
+Nyamo:
+Hm?
+What's Yukari's class having P.E. for?
+
+Osaka:
+Oh, no. Oh, no. Oh, no. Oh, no...
+Ah!
+
+Chihiro:
+Take that!
+
+Kaorin:
+Go, Miss Sakaki!
+
+Chiyo:
+Uh... uh...
+
+Yukari:
+Ah!
+
+Chiyo:
+Uh... uh...
+
+Girl:
+I've been hit!
+
+Chiyo:
+Uh... uh...
+I'm... I'm the only one left on my side!
+
+Tomo:
+Prepare yourself to die!
+
+Take that!
+
+Yomi:
+Just hit her already.
+
+ ws:start:WikiTextHeadingRule:4:&lt;h1&gt; 
+ Yukari:
+Hm...
+
+Nyamo:
+Is there some reason you're looking all serious?
+What is that?
+
+Yukari:
+It's a gift catalogue.
+
+Nyamo:
+Wow, you're gonna send something?
+Who's it for?
+
+Yukari:
+Huh?
+What's the point in giving it to other people?
+
+Nyamo:
+Hm?
+
+Yukari:
+Although, looking at this stuff makes you feel like you're just rolling in money.
+
+Nyamo:
+It does?
+
+Yukari:
+Oh, yeah, this one.
+But this one too, in its own way.
+Oh! This one's hard to give up, too!
+
+Nyamo:
+Oh, that tableware set's pretty nice.
+
+Yukari:
+Hm!
+
+Nyamo:
+Aw!
+What was that?!
+
+Yukari:
+Are you some kind of idiot?!
+This is no time to be acting all cool.
+Look! It's snow crabs! Snow crabs!
+Really, to think you pick flatware over crabs.
+Hm? Hey, there, Miss Minamo?
+
+Nyamo:
+What?
+
+Yukari:
+Have you ever had Matsusaka beef before?
+
+Nyamo:
+No, I never have.
+
+Yukari:
+It's supposed to be delicious.
+
+Nyamo:
+So I've heard.
+
+Chiyo:
+Miss Yukari.
+
+Yukari:
+Hm?
+
+Chiyo:
+Here you are.
+I brought this for you.
+
+Yukari:
+Oh, thank you very much.
+By the way, Chiyo.
+
+Chiyo:
+Yes.
+
+Yukari:
+Tell me, have you ever eaten something called Matsusaka beef?
+
+Chiyo:
+Um, oh, yup, I had that!
+
+Ow! That hurt!
+
+Yukari:
+Then, if you could have anything in this catalog, what would you order?
+
+Chiyo:
+Oh! The ice cream set on this page looks really yummy!
+
+Yukari:
+Ice cream?
+Does that mean you're just a little kid?
+Or is it the complacency of the bourgeois?
+Matsusaka beef is more delicious, right?!
+
+
+Osaka:
+Merry Christmas, Chiyo-chan!
+
+Chiyo:
+Hello, Miss Osaka.
+What are you doing there?
+
+Osaka:
+Merry Christmas to you!
+
+Chiyo:
+Oh, it's almost Christmas time, isn't it?
+
+Osaka:
+That's right. Merry Merry Christmas!
+
+Chiyo:
+I'm so excited!
+I can't wait to see what presents I'll get this year!
+
+Osaka:
+Me, too.
+
+Chiyo:
+Yeah.
+
+Kagura:
+Say, does Chiyo-chan...
+You think she still believes in Santa?
+
+Tomo:
+Well, who knows?
+Why don't we just go and ask her?
+
+Chiyo-chan, are you one of those people who still believes in Santa?
+
+Kagura:
+Ah! Moron!
+
+What are you gonna do if she does believe?!
+You shouldn't go and destroy her dreams like that, you know!
+
+Tomo:
+Then, how are you gonna explain it to her?
+
+Kagura:
+Explain?
+
+Tomo:
+For example, what if she wants to know where the money comes from to pay for presents for all the kids in the country, huh?
+
+Kagura:
+Um, well...
+Government!
+It's the government who pays Santa.
+
+Tomo:
+And not everyone has the chimneys, so how does he get in then?
+
+Kagura:
+Don't underestimate him!
+See, Santa's got awesome lock picking skills!
+Pick and open anything!
+
+Tomo:
+Okay, so, how does he go to every house in the world in just one night?
+
+Kagura:
+He's fast!
+He's tremendously fast!
+Like at mach 100!
+
+Tomo:
+Yeah, right.
+No human could do all that.
+
+Kagura:
+Santa isn't human!
+
+Tomo:
+What?! Are you saying he's some kind of alien or something?!
+
+Kagura:
+No, I'm not saying he's from outer space, you idiot!
+
+Tomo:
+Then where?!
+Under the earth?!
+The ocean floor?!
+What is he?! An alien?!
+A subterranean?! From the depths of the sea?
+
+Chiyo:
+Um, don't worry, I already know.
+
+Kagura, Tomo:
+What?!
+
+Tomo:
+Is he really an alien?
+
+Kagura:
+Or a mole man?!
+
+Chiyo:
+Tha... that is...
+
+Chiyo:
+You see Mr. Santa is really your father.
+
+Kagura:
+My father?
+
+Tomo:
+Okay.
+
+Chiyo:
+Yes, that's right.
+
+Sakaki:
+Santa... is her father?
+
+Chiyo Papa:
+Merry...
+
+Osaka:
+What's the matter?
+
+
+ ws:start:WikiTextHeadingRule:6:&lt;h1&gt; 
+ Chiyo Papa:
+Chiyo.
+Merry Christmas.
+
+Chiyo:
+Oh, thank you so much!
+Yay! My father is Mr. Santa!
+
+Chiyo Papa:
+Yes, that's right.
+The government pays me to deliver presents to everyone.
+
+Chiyo:
+Amazing!
+
+Chiyo Papa:
+And I can fly at mach 100.
+
+Chiyo:
+Amazing! Amazing!
+
+Kaorin:
+Huh? Huh? Huh?
+
+
+Tomo:
+Say, Yomi?
+
+Yomi:
+Huh?
+
+Tomo:
+So, like, if you could ask for anything you wanted as a Christmas present, anything at all, what would you wanna get?
+
+Yomi:
+Anything...
+You really mean like anything at all?
+Even a hundred trillion yen?
+
+Tomo:
+Um... May be something a little more realistic.
+
+Yomi:
+A little more realistic?
+Then how much are we talking about?
+Is ten million low enough?
+
+Tomo:
+Well, I guess if you're gonna ask for a price...
+
+Chiyo:
+What are you two talking about?
+
+Tomo:
+Hey, Chiyo-chan, so what would you like as a Christmas present?
+
+Chiyo:
+Well... um...
+Oh, you know the big Christmas tree out in front of the train station?
+I'd really like that big star decorating the very tip-top.
+I've always wanted something like that.
+
+Tomo:
+Wow!
+This is what we call a pure and unadulterated soul, my dear Yomi.
+
+Yomi:
+Uh...
+
+Tomo:
+One hundred trillion yen, eh?
+There, there.
+What's wrong? What's wrong?
+
+Kagura:
+Hey.
+Might I ask you something?
+
+Tomo:
+What's with... being so formal?
+
+Kagura:
+Now I know Santa doesn't exist, but...
+
+Tomo:
+Mm-hm.
+
+Kagura:
+Reindeer do exist, don't they?
+
+Tomo:
+Hahahaha.
+This girl believes in reindeer!
+
+Chiyo, Yomi:
+What?!
+
+Tomo:
+Huh?
+
+Yomi:
+Reindeer do exist.
+
+Chiyo:
+Mm-hm.
+
+Tomo:
+You're lying!
+Flying deer do not exist, Yomi!
+You're trying to trick me!
+I'm not falling for it!
+Hahahaha.
+
+Yomi:
+Okay, she is confused.
+
+Tomo:
+Sakaki, reindeer don't exist in this world, do they?
+
+Sakaki:
+They do.
+
+Tomo:
+Huh?
+
+Tomo:
+Hey, Osaka, do reindeer really exist?
+
+Osaka:
+Yup, they sure do.
+
+Tomo:
+Huh?
+
+Sakaki:
+Reindeer really do exist.
+
+Chiyo:
+They can't fly, but they look like this style, right here?
+Deer and reindeer are really two different creatures.
+
+Tomo:
+What?! What the heck?!
+I'm not stupid! I'm not stupid, okay?!
+
+
+Osaka:
+I gotta start writting New Year's cards.
+
+Tomo:
+Huh?
+
+Osaka:
+Say, Tomo.
+What year of the Chinese zodiac is next year supposed to be?
+
+Tomo:
+Um...
+
+Tomo, Osaka:
+Rat, ox, tiger, rabbit, dragon, adder...
+
+Osaka:
+Okay, what's this year's Chinese zodiac?
+
+Tomo:
+No clue.
+
+Tomo, Osaka:
+Rat, ox, tiger, rabbit, dragon, adder...
+Rat, ox, tiger, rabbit, dragon, adder...
+
+Osaka:
+I don't know what comes after dragon and adder, though.
+
+Tomo:
+Me neither.
+
+Tomo, Osaka:
+Rat, ox, tiger, rabbit, dragon, adder...
+
+Tomo:
+Oh, I just remembered.
+This year is the dragon.
+Dragon.
+
+Osaka:
+Then next year will be the adder.
+The adder.
+
+Tomo:
+The adder.
+
+Osaka:
+Uh...
+
+Tomo:
+Adder...
+
+Osaka:
+Ain't that the hanging parts on a cow or something?
+
+
+ ws:start:WikiTextHeadingRule:8:&lt;h1&gt; 
+
+Yukari:
+Okay, time to hand out report cards!
+Well, let's start with Chiyo-chan.
+
+Chiyo:
+Yes!
+
+Yukari:
+Chiyo-chan, you're the top second year student.
+
+Chiyo:
+Aha!
+
+Yukari:
+Not that this kind of studying will be very useful to you once you're out in the real world.
+
+Chiyo:
+Uh...
+
+Yukari:
+Next, Tomo.
+
+Tomo:
+Hm?
+
+Yukari:
+You need to start working a little harder, Missy.
+
+Tomo:
+What?
+But it won't be useful once we're out in the real world, right?
+
+Yukari:
+You idiot!
+This is what scholastics are all about!
+If you want wisdom that's useful in life, go read grandma's fountain of wisdom or something.
+
+
+Chiyo:
+Sorry I'm late!
+Thanks for waiting for me!
+
+Tomo:
+All right! Merry Christmas!
+Let's party tonight!
+Here's the agenda!
+We'll hang out for a while, go sing karaoke, eat cake at Chiyo-chan's, and have a big-ass slumber party!
+Okay, let's go!
+
+Osaka:
+You know, I always think about this every year when Christmas comes around.
+
+Chiyo:
+Yeah?
+
+Osaka:
+They have that one story about the red nosed reindeer, right?
+I can't help thinking how terrible it is.
+
+Chiyo:
+Huh?
+
+Osaka:
+Sure his shiny nose may be really useful for dark roads at night...
+But that ain't no consolation.
+I mean if ya told a bald person that his head was useful on the road at night, you'd just get clobbered.
+Santa sure does say some mean things.
+
+Chiyo:
+Uh-huh?
+
+Osaka:
+But the reindeer's also got its own issues.
+
+Chiyo:
+Really?
+
+Osaka:
+What kinda nose does he have that lights up the road?
+And where did he get it from?
+It just might be that he's not a reindeer after all.
+I bet he's somethin' else...
+
+Chiyo:
+Hahaha...
+
+
+Osaka:
+And if you stay, time passes by.
+
+Everyone:
+Yay!
+
+Osaka:
+Hey, I got sixty-five.
+
+Yomi:
+I said that's pretty good, Osaka.
+
+Tomo:
+Yeah, way better than your last test score.
+
+Chiyo:
+Huh?
+Oh, right.
+
+Yomi, Tomo:
+Hm?
+
+Sakaki:
+There may be some day that I open up inside.
+Forget this parachute and see when my heart falls.
+While I was waiting in the park it came to me.
+If I was going home,
+A detour on our way,
+A side trip with my friends,
+Or shall we turn around,
+An ordinary day.
+
+Chiyo:
+Wow!
+
+Osaka:
+That was good!
+
+Chiyo:
+Miss Sakaki, that was amazing!
+
+Tomo:
+You're really good at this, you know!
+
+Yomi:
+Uh-huh.
+
+Osaka:
+Yeah, talk about a surprise.
+
+Yomi:
+Then, I guess I'll do one too.
+
+Tomo:
+What? You will?
+
+Yomi:
+Hop, hop, hop, hopping around, how are you? How are you?
+Ding-dong, ding-dong, the bells ring on that hill, on that hill...
+
+Tomo:
+Man, we sure sang whole a lot!
+But I have to say Miss Yomi's singing really was something else, huh!
+
+Osaka:
+That was another big surprise.
+
+Tomo:
+This girl's good at school and sports, but singing is the one thing she totally sucks at big time.
+
+Yomi:
+Who cares?!
+As long as she puts her heart into it!
+
+Tomo:
+Your heart, huh?
+
+Yomi, Tomo:
+Huh?
+
+Sakaki:
+It's snowing.
+
+Chiyo:
+Oh, wow, snow on Christmas!
+Isn't that so romantic?!
+
+Kimura:
+Yup.
+It's a white Christmas for sure.
+
+Everyone:
+Mr. Kimura!
+What the...?!
+
+
+-- Preview --
+
+Tomo:
+Hokkaido sure is nice, you know?
+The food there is good and you get to ski too.
+
+Yomi:
+I went there.
+
+Tomo:
+They've got bears and hot springs!
+It's like the entire city is the great out doors!
+
+Yomi:
+I went to Hokkaido.
+
+Tomo:
+What?! Behind my back?! When?!
+
+Yomi:
+I also got to eat crabs.
+
+Everyone:
+Crabs?!
+
+Yukari:
+Is it crabs next episode?!
+Will we get to eat crab?!
+
+Nyamo:
+You won't get to eat crabs, but don't miss it, okay?
+  

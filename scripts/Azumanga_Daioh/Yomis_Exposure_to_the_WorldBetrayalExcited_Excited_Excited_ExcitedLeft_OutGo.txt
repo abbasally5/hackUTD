@@ -1,0 +1,979 @@
+
+ ws:start:WikiTextHeadingRule:0:&lt;h1&gt; 
+ Tomo:
+Ahhhh!
+
+Chiyo:
+Wow, that's a strange dream.
+
+Osaka:
+Uh-huh.
+Even weirder than last year.
+You know what I mean?
+
+Yomi:
+Hello there, all my good friends.
+Happy New Year.
+
+Chiyo:
+Oh, Happy New Year to you.
+
+Osaka:
+Happy New Year.
+
+Sakaki:
+Happy New Year.
+
+Yomi:
+So, everyone, how was your break?
+
+Chiyo:
+I relaxed at the warm heated table.
+
+Osaka:
+Uh... I was just meltin'...
+
+Sakaki:
+Mine was good.
+Pretty quiet overall.
+
+Chiyo:
+What about you?
+
+Tomo:
+Hold on!
+
+Chiyo:
+Miss Yomi?
+
+Tomo:
+Wait, wait!
+No, don't ask her!
+
+Chiyo:
+How was your break, Miss Yomi?
+
+Yomi:
+Actually, I took a little trip to Hokkaido.
+
+Chiyo:
+Wow!
+
+Tomo:
+Ugh!
+
+Yomi:
+Oh, by the way, have any of you ever been on an airplane?
+
+Osaka:
+Oh, no I haven't.
+
+Sakaki:
+Me, neither. Never.
+
+Tomo:
+Um, No!
+
+Chiyo:
+I have though!
+
+Yomi:
+Hehehe.
+Chiyo-chan, let's go over here for a little chat?
+
+Tomo:
+It was still your first time, you know!
+
+Yomi:
+Here, a souvenir.
+
+Chiyo:
+Yay!
+
+Osaka:
+Thank you, Yomi.
+Hm?
+"White Friend, Black"?
+
+Osaka, Chiyo:
+Huh?
+
+Yomi:
+Sakaki.
+
+Sakaki:
+Huh?
+
+Yomi:
+Here.
+I heard you liked bears and things, so...
+It's made with bear.
+Cool, huh?
+
+Sakaki:
+Argh...
+
+Osaka:
+Wow, lucky you.
+Ain't that great, Miss Sakaki?
+
+Tomo:
+Oh! Yomi!
+
+Yomi:
+Huh?
+
+Tomo:
+Over... New Year's... did you... gain some weight?!
+Ahahaha.
+A bull's-eye?
+Did you loosen up in Hokkaido and eat too much?!
+Is that it, Yomi?
+Ahahaha.
+So, was it rice cakes or sweet bean soup?!
+
+Yomi:
+C-Crabs...
+
+Tomo:
+Huh? Say that again? Huh?
+
+Yomi:
+Crab... you dope...
+
+Tomo:
+Ah!
+
+Yomi:
+It was all you can eat, so...
+
+Tomo:
+Ah!
+All you can eat, crab?! Idiot!
+No fair!
+I'm gonna go tell Miss Yukari!
+
+Yukari:
+In Hokkaido?!
+Snow crab?!
+All you can eat?!
+
+Tomo:
+Yomi, it was all Yomi...
+
+Yomi:
+What?! You really got her!
+
+Yukari:
+Was it good? Was it good?! It was good, wasn't it?!
+
+Yomi:
+Yes...
+
+Yukari:
+You had more than just crabs, didn't you?
+What else did you eat?!
+
+Yomi:
+Genghis Khan, I guess.
+
+Yukari:
+Genghis Khan?!
+
+Yukari:
+What was Genghis Khan again?
+
+Tomo:
+I don't know, my lady.
+
+Yukari:
+We'll ask Chiyo-chan.
+
+Yukari, Tomo:
+Just you wait!
+
+Chiyo:
+It's a Hokkaido specialty.
+Genghis Khan is mutton that is cooked in a slightly different kind of pan than usual.
+
+Yukari:
+Oh...
+
+Tomo:
+So, is that good?
+
+Chiyo:
+Yes, it's delicious.
+
+Yukari:
+What else?!
+You had other kinds of fun too, didn't you?!
+Oh! You went to a hot spring, right?!
+
+Yomi:
+Well, an open-air bath...
+
+Tomo:
+Oh, my good!
+
+Yukari:
+What outdoors?! In the nude?!
+
+Tomo:
+Pervert!
+
+Yomi:
+What are you talking about, huh?!
+
+Yukari:
+So, which hot spring was it?
+
+Yomi:
+Noboribetsu.
+
+Yukari:
+Noboribetsu?
+Noboribetsu Karls!
+Oh, I know! It's that white bath salt!
+I've bathed in that before!
+Noboribetsu is great, isn't it?!
+After all, it's exceptional, you know?!
+Probably the best spring...
+
+Tomo:
+Wow!
+She thinks they have something in common just 'cause there's the bath salt?!
+
+Yukari:
+I hear the bears in the area all bathe there too!
+Hurray for hot springs! Hurray!
+Viva the hot springs!
+
+Yomi:
+I'm gonna quit bragging from now on.
+Especially to these guys.
+
+
+ ws:start:WikiTextHeadingRule:2:&lt;h1&gt; 
+ Tomo:
+So, which one should I get?
+Hm, this one!
+
+Tomo:
+Hm? Oh, the cup!
+My-My milk tea!
+Stop it! Stop it!
+
+Chiyo:
+Ah!
+
+Osaka:
+What a disaster!
+
+Tomo:
+Uh....
+
+Chiyo:
+Oh...
+
+Tomo:
+I... I trusted you...
+
+Chiyo:
+Um, would you like some?
+
+Tomo:
+I'm afraid I'll never be able to use this vending machine again.
+
+Osaka:
+Trust in you has just plummeted, my friend.
+
+Yomi:
+Hey, what are you doing?
+
+Osaka:
+Well, you see...
+
+Tomo:
+Oh, dear Koyomi, buy some juice, will you?
+
+Yomi:
+You don't need to tell me, that's what I came for.
+I'll take a milk tea.
+
+Yomi:
+Hey, it... came out with two cups.
+
+Tomo:
+Ahahaaan.
+
+Yomi:
+Huh?
+
+Tomo:
+It... It can't be!
+
+Yomi:
+What?
+What's wrong?
+Did I do something?
+
+Chiyo, Osaka:
+Huh...
+
+
+Yomi:
+So, I got to ski too.
+The snow was powdery, not packed at all.
+
+Chiyo:
+Was it really?
+Wow!
+
+Osaka:
+Wow, thick noodles with curry?
+I didn't think of that.
+
+Tomo:
+Curry noodles!
+
+Everyone:
+Huh?
+
+Tomo:
+Danger!
+Everyone run!
+This stuff's gonna splatter!
+
+Yomi:
+Don't you worry, I'll be careful.
+
+Tomo:
+Ah! Being careful is useless!
+It'll splatter no matter what!
+And in the end, you'll be covered in curry!
+Finally, Yomi has a miserable food experience too!
+Aaahhhh....
+
+Osaka:
+Wow, you're really good.
+You haven't splattered at all yet.
+You certainly are somethin' else.
+
+Chiyo:
+That's amazing.
+
+Yomi:
+Well, I have loved thick noodles ever since I was small.
+
+Tomo:
+That's... it... damn you!
+I am hated!
+
+Yomi:
+What on earth has gotten into you?!
+
+What is with you today?!
+
+Tomo:
+Come back, you, right on!
+
+Chiyo:
+Oh, Tomo!
+
+Yomi:
+Whoa, whoa, stay away from me!
+
+Tomo:
+Stop right there!
+
+Osaka:
+The town's in an uproar!
+
+Ow... that hurt!
+
+Yomi:
+Whoa...
+
+Tomo:
+Hahaha...
+
+Yomi:
+We can talk it over.
+
+Tomo:
+My grudge over the milk tea...
+No, that's not all.
+My grudge over the crab and the Genghis Khan too!
+I won't let you have all the fun, you hear me!
+
+Yomi:
+Why me?!
+
+Yomi:
+Huh?
+
+Yomi:
+It's all soggy now.
+ ws:start:WikiTextHeadingRule:4:&lt;h1&gt; 
+ Girl1:
+If you don't hurry, I'm leaving.
+
+Girl2:
+Wait for me!
+
+Chiyo:
+Miss Osaka, let's go home.
+
+Yomi:
+What are you reading?
+
+Osaka:
+Huh? Information pamphlets.
+Hearin' all about Yomi's stories of Hokkaido, well it, it made me feel like I wanted to get up and go somewhere too.
+And I found someplace that looks interestin'.
+
+Chiyo:
+Oh, that's Magical Land, isn't it?!
+
+Yomi:
+What's Magical Land?
+
+Chiyo:
+Oh, it's a theme park that opened just the other day.
+I've really been wanting to go there.
+
+Yomi:
+Wow.
+
+Chiyo:
+I know!
+Why don't we take a trip there... like maybe this coming weekend?
+
+Yomi:
+Oh.
+
+Osaka:
+Yeah.
+
+Tomo:
+I agree!
+If it's plans like that, let me in!
+I'm in! I want in! How could I not?! Yay! Yay! Yay!
+
+Chiyo:
+You're really energetic.
+
+Tomo:
+A theme park! A theme park!
+
+Yomi:
+Such a child.
+
+Tomo:
+What did you say?!
+Are you saying you aren't looking forward to it?!
+Is that it?
+
+Yomi:
+Not so much that I'd get as excited as you are.
+
+Tomo:
+Hah! Acting all mature!
+And thus, your eyes had lost the glimmer of childhood that sparked beautiful energy!
+
+Yomi:
+What's that even mean?
+
+Osaka:
+Yomi, Yomi, I've got some big news!
+
+Yomi:
+Huh?
+
+Osaka:
+The roller-coaster they got there is the best in Japan!
+
+Yomi:
+Wow.
+
+Tomo:
+"Best in Japan", huh?
+Cool!
+
+Chiyo:
+They say it's absolutely terrifying.
+
+Osaka:
+They seem to have a lot of people who start cryin' too.
+
+Chiyo:
+And this other attraction next to it looks like it'll be really fun too.
+
+Yomi:
+Huh.
+
+Tomo:
+See?
+Even stuffy old grown-up Miss Yomi is beginning to get excited.
+Oh, I can just see it. I can just see it!
+Yomi running around like a little kid, dancing in all the way.
+Oh, uh-oh, she tripped.
+Oh, don't cry.
+
+Yomi:
+Quit seeing weird things!
+
+Tomo:
+Huh?
+
+
+Chiyo:
+Oh, Miss Yomi!
+
+Yomi:
+Oh! Hi, Chiyo-chan!
+
+Chiyo:
+So, are you out shopping?
+
+Yomi:
+Well, yeah, kind of.
+
+Chiyo:
+Me too.
+I came put here so I could buy the guidebook for Magical Land.
+After all, it's tomorrow.
+I'm so excited!
+
+Yomi:
+Oh, are you?
+
+Chiyo:
+What did you end up buying, Miss Yomi?
+
+Yomi:
+Oh, well, I uh... I bought a reference book.
+That's all.
+Oh, my mom asked me to go do some shopping.
+I'll see you later, Chiyo-chan!
+
+Chiyo:
+Okay.
+
+Yomi:
+See you tomorrow!
+
+Chiyo:
+Bye!
+
+Yomi:
+Hehehe.
+
+Achoo!
+Oh, no...
+Achoo!
+Not good. Did I catch a chill?
+
+This one... maybe not...
+This too...
+Oh, we definitely have to check this one out.
+Huh? Oh! We have to try this ride, even if we have to wait almost an hour.
+What? It could be more than an hour?
+Huh, what should we do?
+We could...
+But Tomo wanna wait that long?
+Hmm... No way, these are linked! Then we gotta...
+
+
+ ws:start:WikiTextHeadingRule:6:&lt;h1&gt; 
+ Tomo:
+There we go!
+Uh-huh.
+Yup?
+Oh, what's up, Yomi?
+Huh? You can't?! But why?
+Fever?!
+
+Chiyo:
+Huh?
+Miss Yomi has a fever?!
+
+Tomo:
+She said she got it this morning.
+
+Kagura:
+Oh, man, that really sucks for Yomi.
+
+Chiyo:
+Then, we should cancel today's trip and go visit Miss Yomi.
+
+Tomo:
+Tsk, tsk, tsk, tsk.
+Chiyo-chan.
+
+Chiyo:
+Yes?
+
+Tomo:
+Chiyo-chan, you really are such a child.
+
+Chiyo:
+Huh?
+
+Tomo:
+Listen, if we did that, Yomi might feel all guilty.
+
+Chiyo:
+Uh...
+
+Tomo:
+Therefore, the right thing to do is leave Yomi alone and have all the fun we can!
+
+Chiyo:
+What? Uh, is... it... really?
+
+Tomo:
+All right, then I guess it's settled, off we go!
+
+Everyone:
+Yay!
+
+Chiyo:
+Running on stairs is dangerous, you guys!
+
+Being rowdy on the train platform is dangerous, too!
+
+Tomo:
+Let's go!
+
+
+Yomi:
+By now, everyone'll be...
+Oh, but maybe they'll come by and try to surprise me with their visit.
+
+Yomi's Mom:
+Koyomi, you have a phone call from Miss Takino.
+
+Yomi:
+Hello?
+
+Tomo:
+Hello? Oh, Yomi?
+We're getting on a roller-coaster now!
+I'm gonna broadcast it to you live!
+
+Yomi:
+Hm!
+
+Yomi:
+Okay.
+
+Yomi's Mom:
+Koyomi, you have a phone call from Chiyo-chan.
+
+Yomi:
+Yes?
+
+Chiyo:
+Oh, Miss Yomi, are you okay?
+Has your fever gone down?
+
+Yomi:
+Yeah, quite a bit.
+
+Chiyo:
+You really shouldn't get carried away and fall asleep naked.
+Bad girl!
+
+Yomi:
+Wha... Wait a sec!
+Who told you that?!
+Tomo?! Did Tomo say that?!
+
+Chiyo:
+What? Um...
+
+Yomi:
+Get her on the phone right now!
+
+Chiyo:
+All, all right, I'll hand her the phone, please wait one minute.
+
+Yomi:
+Sure.
+
+Tomo:
+Whoa!
+
+Chiyo:
+Um, Tomo...
+
+Tomo:
+Hahaha. Man, that was fun!
+
+Chiyo:
+Um...
+
+Osaka:
+Oh, what's that thing?
+
+Chiyo:
+The phone...
+Please wait!
+
+Kagura:
+What? That thing over there!
+
+Chiyo:
+Miss Yomi is on the phone!
+
+Kagura:
+Wow, awesome! Did you see that?
+
+Chiyo:
+Hello?
+
+Osaka:
+That'll kill ya. Just kill ya.
+
+Chiyo:
+Hello?
+
+Tomo:
+Let's go on that next! Go! Go!
+
+
+Yomi:
+Good morning!
+
+Girl:
+Morning, Yomi.
+
+Chiyo:
+Good morning.
+Miss Yomi, I guess you're better now.
+It's too bad about yesterday.
+
+Yomi:
+Hm... Well, thanks, Chiyo.
+So, did you guys have fun there?
+
+Chiyo:
+Ah! Should I tell her honestly that I had a good time? Or should I...
+
+Tomo:
+Man, it was the best!
+Every attraction they had there was just totally awesome!
+
+Kagura:
+Yeah! But there were so many people in line!
+
+Osaka:
+Oh, yeah, the crowd was so gigantic and we got tired just from that.
+
+Kagura:
+But no matter how much we had to wait, every ride we got on was worth it.
+
+Tomo:
+Really, Miss Kagura, ain't that the truth?
+
+Osaka:
+Hey, Tomo, where're ya from again?
+
+Come to think of it, Tomo sure was noisy on that one ride.
+
+Tomo:
+Oh, that?
+The guy in front has been really obnoxious.
+
+Kagura:
+Yeah, yeah, and on top of that...
+That thing came flying.
+
+Tomo:
+Yeah, it had me sweating in the middle of winter.
+
+Hey, It's no laughing... matter!
+
+Kagura:
+Now, now.
+If we didn't enjoy life as much as we do, you couldn't have laughed it off, even if you wanted to.
+
+Osaka:
+You're exactly right.
+
+Tomo:
+So, there you go.
+You were not coming, it was a really good thing
+Huh?
+
+Chiyo:
+Ah...
+
+Tomo:
+Aaah! Ah!
+Yomi's gone mad!
+
+ ws:start:WikiTextHeadingRule:8:&lt;h1&gt; 
+ Chiyo:
+Um, Miss Yomi.
+About, earlier...
+
+Yomi:
+Oh, you don't need to apologize, Chiyo-chan.
+
+Chiyo:
+Well, um...
+This here is the real souvenir.
+
+Yomi:
+Thank you, Chiyo.
+Wow.
+
+Chiyo:
+That creature inside, he is the official mascot of Magical Land.
+
+Yomi:
+Oh...
+Thank you so much, Chiyo-chan.
+
+Chiyo:
+Miss Yomi.
+Let's all go together next time.
+Okay?
+
+Yomi:
+Yeah.
+
+Osaka:
+Wow.
+No wonder it's so cold.
+
+Yomi:
+Snow?
+
+Chiyo:
+Wow, it is snowing!
+
+Osaka:
+Real pretty, isn't it?
+
+I hope it'll pile up.
+
+Yomi:
+Yeah.
+
+
+Tomo:
+Wow, so white!
+
+Kagura:
+It's awesome...
+
+Osaka:
+Huh.
+
+Chiyo:
+It's so pretty!
+
+Tomo:
+Let's do something! Let's do something! Let's do something!
+
+Kagura:
+Snowball fight!
+
+Kagura, Tomo:
+Yeah!
+
+Tomo:
+Great idea!
+
+Osaka, Chiyo:
+Yay! Ah!
+
+Osaka:
+Doesn't hurt, even if ya fall.
+Aw!
+
+Tomo:
+Don't you let your guard down!
+Aw!
+
+Kagura:
+Exactly!
+
+Tomo:
+Now you've done it!
+
+Osaka:
+Bombs away!
+
+Chiyo:
+It's cold!
+
+Osaka:
+I can't hit anyone at all.
+
+Tomo:
+Ha! Ha! Ha!
+
+Chiyo:
+Miss Sakaki, you're amazing!
+
+Sakaki:
+Not really...
+
+Tomo:
+Here goes!
+Hey!
+
+Yomi:
+Hahahaha...
+Did you forget?
+I've been to Hokkaido!
+
+Tomo:
+Oh, really?
+
+Osaka:
+Here goes! Hah!
+
+Kagura:
+Wow, that was cool!
+
+Chiyo:
+Tomo, that's not fair!
+
+Yomi:
+Achoo! Achoo!
+
+Chiyo:
+What?
+
+
+Yomi:
+Stupid...
+
+
+-- Preview --
+
+Chiyo:
+Miss Osaka, what do you wanna do when you grow up?
+
+Osaka:
+I haven't really given it much thought.
+I'm still living in my youth.
+But ya know how they call youth the blue spring?
+Are there such things as red springs or yellow springs?
+What will they be?
+
+Chiyo:
+I don't really know.
+
+Osaka:
+Green springs, purple springs, orange springs, light-blue springs...
+
+Chiyo:
+Please watch us again next episode!
+  

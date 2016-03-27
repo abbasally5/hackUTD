@@ -1,0 +1,308 @@
+
+REM: So when should I kill him?
+If you take me to where he is, I can kill him immediately.
+LIGHT: The sooner, the better. Maybe tomorrow.
+I should think this through before we do anything.
+I need tonight to decide how I'm going to kill L.
+I'll give you my answer tomorrow.
+REM: Very well.
+LIGHT: Also, no matter what, you can't kill him until I give the order.
+No matter what, understood?
+REM: All right. I promise you that, at least where L is concerned.
+
+LIGHT: Misa, I need you to give me your cell phone number.
+MISA: About time!
+What 　took you　so long? Give me yours, too, OK?
+LIGHT: No, Misa. I'm afraid I can't do that.
+MISA: Why not!?
+I'm your girlfriend. I should have your number!
+LIGHT: I already told you I'm under surveillance by the police.
+Keep in mind it's not difficult for them to bug even cellphones these days.
+MISA: Ohhh.. ok then what about this?
+I'll just give you one of my phones.
+I ended up with three of them. 'Cause I use them 　for different　things.
+LIGHT: Yeah, good idea.
+If [I/we] use yours, I think we'll be safe.
+MISA: That's great! I can hear your voice every day and 　text　you, too.
+LIGHT: No. I'll keep this one turned off.
+I'll be the only one making the calls and only when it's absolutely necessary.
+MISA: What? No way.
+Then when are you gonna call me?
+LIGHT: Probably tomorrow, [now,/that] would most likely be the day we execute L, but I call you either way.
+MISA: What? Tomorrow?
+It doesn't sound like a very romantic call, but I suppose we can always talk about us afterwards.
+LIGHT: Well, I think you should probably go home now, Misa.
+MISA: Huh? But why? It's only 7 o'clock.
+The time for lovers is just beginning, you know.
+We can go for a romantic dinner, then maybe moonlight stroll in the park and after that the main event...
+LIGHT: Misa...
+
+RYUK: Hahaha, wow!
+LIGHT: Listen. You have to go home now.
+MISA: OK.
+LIGHT: Also when you're talking to Rem outside, be careful that no one's around to listen.
+Just whisper.
+That's what I always do with Ryuk.
+MISA: OK.
+Bye bye. Have a good night.
+SAYU: Bye bye, Misa. Come again real soon!
+RYUK: Hahaha. That case came out of nowhere.
+LIGHT: Sure.
+It's very important that Misa stays infatuated with me.
+RYUK: Ah.
+LIGHT: More importantly I need to decide if L should die tomorrow.
+Since he hasn't gone public yet, if Ryuga dies, the other task force members will be suspicious of me.
+So I have to make sure I'm prepared.
+RYUK: I see.
+I thought perhaps you were hesitating, because he said he thinks of you as a friend.
+LIGHT: Haha, a friend?
+I just gave him what he wanted.
+From the start, I've said, if it's my friendship he wants, I give it to him as a way to win his trust.
+Ryuga and Light Yagami appear to be friends, but L is Kira's enemy.
+LIGHT: (reflection) That's right. Ryuga revealed that he is L.
+Therefore, he must die.
+If I have him die in an accident, chances are the less people will suspect I'm Kira.
+And even if they do, there'll be no proof.
+I can only speculate what'll happen after he dies.
+Tommorow will be L's, or at least Ryuga and Ryuzaki's last day alive.
+(task force)
+L: Hair.....snack crumbs.....hair...
+Mr. Yagami, if I die within the next few days, your son is Kira.
+Hm, another hair...
+AIZAWA: Huh?
+SOUICHIRO: What did you just say, Ryuzaki?
+MATSUDA: Exactly. What are you talking about anyway?
+L: If anything happens to me, I've asked Watari to make himself available to you, so I'm counting on the team.
+SOUICHIRO: Ryuzaki, you said he was almost cleared and now this?
+Honestly how much do you suspect my son?
+L: Hm, The truth is, I don't even know what to think anymore.
+I've never been in a situation like this.
+If Kira and the second Kira are working together right now, things are not working good for me.
+Given that, I may not be thinking as clearly as I normally do.
+So I could be wrong.
+Maybe I still consider him a suspect only because we don't have anyone else.
+But still...if I do happen to be killed soon, please assume that your son is Kira.
+(reflection) I have no choice but to make a sneak attack.
+This is [all I ] wager now.
+(university)
+LIGHT: I wouldn't say that. I just know how to get by.
+That's all.
+TAKADA: Hey, what's wrong?
+L: Hah. Hey, Light. How's it going?
+LIGHT: Kiyomi, could we continue this later?
+I need a moment alone with him.
+TAKADA: Ah, OK.
+
+L: I hope she's not upset.
+LIGHT: Never mind that.
+Is it OK to be here?
+Didn't you say you were afraid to appear in public?
+L: Yeah, I did.
+But then I realized that as long as you are not Kira, I should be safe.
+The fact is, you are the only one [in/on] the outside who knows me as L.
+In the unlikely event that I die in the next few days, I've instructed your father and everyone in the headquarters to assume that you are Kira.
+
+LIGHT: (reflection) Damn him!
+L: Besides, you told me yourself that you missed having me around at school, so I figured why not come back for a little change of pace.
+As long as [it] doesn't kill me, college is a lot of fun.
+LIGHT: I have to admit, without you around, intelligent conversation is hard to come by.
+L: Hm, I see. Luckily, Kiyomi is there to fill the void?
+LIGHT: Well, something like that.
+RYUK: Hahaha.
+LIGHT: (reflection) Now I don't know. Is it still OK to kill him today?
+No. As soon as I make the decision to kill him, [suddenly he] appears almost as if to distract me from my goal.
+I guess he's trying to guarantee his safety.
+And the way things are, I'm playing right into his hands.
+L: Hey, [aren't/eh, do] you [gonna/wanna] have some cake with me in the cafeteria?
+LIGHT: Sure. I have a break now, anyway.
+L: Hm, that's perfect.
+I'm kind of craving shortcake right now.
+LIGHT: Well, let's hope they have it.
+MISA: Light! There you are!
+I had a photo shoot near by so I thought I'd come by to see you.
+LIGHT: (reflection) Misa, you idiot!
+MISA: Oh, this must be a friend of yours.
+He looks so different. Unique.
+LIGHT: Wait...I've won! Misa would be able to see Ryuga's real name!
+MISA: Hi, there. I'm Light's girlfriend, Misa Amane.
+Nice to meet you.
+L: I'm Hideki Ryuga.
+MISA: Huh? Hideki Ryu...?
+LIGHT: Yeah. He has exact the same first and last name as the famous idol.
+Pretty bizarre, huh?
+MISA: (reflection) But it's different than the name I'm seeing.
+LIGHT: (reflection) Ryuga. Deciding to come here today was a mistake.
+L: (chuckles)
+LIGHT: Why the hell is he laughing?
+Could it mean he noticed something?
+Makes no sense.
+If he somehow guessed that she is the second Kira, there's no way he'd be laughing right now.
+
+L: Light, you are a lucky guy.
+LIGHT: Huh?
+L: I have been a huge fan of yours ever since the August issue of Eighteen.
+MISA: What? Really? That's so sweet of you!
+STUDENT: Hey, oh my god!
+Isn't that girl Misamisa?
+STUDENT: Yeah, right. It's her.
+STUDENT: Oh, she's so cute!
+MISA: Wow, I should have guessed that I'd be spotted with all of these kids around.
+STUDENT: I'm your biggest fan!
+STUDENT: Keep up the good work!
+MISA: Oh, thank you.
+Couldn't do without you.
+LIGHT: What is this?
+MISA: No way, somebody just touched my butt!
+L: This is an outrage! Taking advantage of this situation is unforgivable.
+I'll find whoever is responsible for this.
+MISA: Haha, oh Ryuga, you're so funny.
+STUDENT: I wanna touch her, too.
+LIGHT: (reflection) I [mean more/do want]] to ask Misa what L's real name is as soon as possible, but all these people are in the way.
+YOSHI: Misa, it's time, or [we'll plan to be late again/ are we planing to be late again?](its time for leave,planning to be late again)
+MISA: No, I-I'm sorry, Yoshi.
+YOSHI: Let's go.
+MISA: O-Okay.
+LIGHT: (reflection) Perfect. Now that Misa's away from the crowd, I just have to give her a call and ask for L's real name.
+MISA: Bye, Light!
+I'll see you after I'm done work.
+I miss you already!
+L: Now then, perhaps we should get going.
+LIGHT: Yeah. Actually, could you go on ahead?
+I need to go use the restroom.
+L: Oh, OK. Then I'll see you there.
+LIGHT:(reflection) It's over. It's been fun,L...
+I'm grateful that I was the one to discover your name so I could kill you myself.
+[　]は聞き取れなかったところ、イタリックは別サイト「デスノートで英会話学習」様を参考に修正したところです。
+どなたでもミスを見つけたら遠慮なく修正、あるいはコメント欄に書き込んでください。
+
+Death Note > Chapter 15 > Ch15-2 Removal page.32「移動」
+
+L: Yes? Hello?
+LIGHT: What do you mean "Hello"?
+L: Oh, is that you, Light?
+I guess somone must have dropped this phone in all of the commotion earlier on.
+LIGHT: (reflection) He took it! Bastard!
+L: Ah, hello?
+LIGHT: Yeah. That's...that's Misa's cell phone you have.
+I can give it back to her.
+L: Oh, I see. We're sure that makes sense.
+LIGHT: (reflection) Ryuga. He probably thinks he is pretty clever right now, but Misa has another phone he doesn't know about.
+[I'll] just call that one instead.
+L: Oh, understand. It's actually my cell phone.
+L: Ahem. Yes. Yes, I see. So it's done, then.
+I understand.
+
+L: I'm not exactly sure how you'll take this, but regarding Misa Amane there's something you should know.
+We've taken her into custody under suspicion of being the second Kira.
+
+LIGHT: (reflection) How long has he known about Misa?
+I never thought he would find her this quickly.
+
+L: We gathered physical evidence from the envelopes that were sent by the second Kira.
+In particular we recovered hairs and fibers from the masking tape used to seal them.
+They matched what we found in Misa's room.
+There would be publicuproarif it gets out that she's been apprehended as the second Kira, so officially we charged her manager with drug possession, and she's a voluntary witness.
+But I doubt any of this would get out.
+LIGHT: (reflection) I was careless. The videos!
+I should have destroyed all the evidence before the police had a chance to go through it.
+In the end Ryuga knew [this:] best defence was to stay close to me rather than trying to hide.
+He confronted things head-on.
+This wager was my....
+L: (reflection) was my...
+LIGHT:( reflection) was my... No!
+Not yet!
+The real battle is just beginning, L.
+(task force)
+L: Watari, has she said anything yet?
+WATARI: No. She hasn't spoken a word.
+L: Get me a visual of her, will you?
+WATARI: Are you sure?
+L: Yes. And quickly.
+MEN: Oh!
+MISA: Huh...
+SOUICHIRO: Ryuzaki! What's the meaning of this?
+L: I've apprehended her on suspicion of being the second Kira.
+I'm afraid this is necessary.
+SOUICHIRO: Chances are Amane is guilty.
+There seems to be enough evidence to convict it, but all the same...
+L: Yes. There can be no mistake.
+Now we need a confession out of her.
+We need to know how she kills, whether she knows Kira, and if so, who he really is.
+Watari, take the necessary precautions but beyond that,you're free to do whatever has to be done, OK?
+Just make her speak.
+WATARI: Very well.
+
+L: Oh, Mr. Yagami.
+SOUICHIRO: Huh?
+L: Light has now become a prime suspect.
+And I'm probably gonna bring him in for interrogation as well.
+Please be prepared for that.
+WATARI: Ryuzaki. Amane is talking.
+L: Quickly get me her visual and the audio.
+AIZAWA: Finally after three days of this, huh?
+MISA: I can't take it any more. Kill me.
+MEN: Huh?
+MISA: Kill me. Please just kill me.
+AIZAWA: I don't know.
+Maybe this was all too much for a young to take.
+MATSUDA: He's right.
+We've pushed too far.
+L: Misa Amane, can you hear me?
+MISA: I hear you. Please just kill me now.
+L: Does this mean you would admit to being the second Kira?
+Is this the reason you wish to die?
+MISA: No. I don't know anything about the second Kira.
+I really can't take this any more.
+I'd rather be dead.
+Now hurry up and kill me!
+If you wanted to, you could kill me right now, couldn't you?
+REM: Misa, do you mean...?
+MISA: Yes. Kill me.
+REM: Do you really mean that, Misa?
+MISA: Yes, I do.
+Oh, I can't take it any more. Kill me.
+REM: If I do this, then Light Yagami dies, too.
+This is all his fault.
+MISA: You can't. No, you can't. Please just kill me.
+REM: Why, Misa? Why do you want to die for him?
+MISA: Fine. If you won't kill me.
+L: Stop her. Watari, don't let her bite her tongue.
+MISA: Mmm.
+MEN: Hmmm.
+L: Is it possible that this behavior could be attributed to Kira controlling her actions before death?
+
+(Light's room)
+RYUK: Oh, what's the matter, Rem?
+REM: Light Yagami.
+Misa has refused my offer to help her escape.
+No doubt because she knows it would cause you trouble, since the police would then have proof of her powers.
+When her suffering became more than she could bear, she started begging me to kill her.
+All of this because she wants you to love her.
+I could not possibly let it go on like that.
+I couldn't bring myself to do it.
+There was only one way to save her from her suffering.
+LIGHT: Forfeitting the ownership of the death note.
+REM: Yes. If Misa forfeits ownership of the death node, all her memories related to it would disappear, all the murder she committed with it, the fact that you are Kira, all those memories would be gone.
+Your secret would be safe.
+Also Misa would no longer be able to see Ryuk or me, either.
+REM: Misa, when this is done, you'll forget everything about Shinigami and the death note.
+MISA: Mmmm.
+REM: It's OK. The human being who you love is Light Yagami.
+I promise those feelings will remain.
+So, Misa, forfeit ownership of the death note and leave everything to Light Yagami.
+MISA: Hmm.
+
+(Light's room)
+REM: And so, Misa is no longer the owner of the death note.
+LIGHT: You did the right thing, Rem.
+I was beginning to think that was the only way out of the situation.
+If her memories of the death note are gone, then chances are they have to release her eventually.
+REM: Light Yagami, I proposed this to Misa, knowing it was exactly what you wanted and that it would serve your purposes.
+But I did so on one condition.
+And that is, if you don't save Misa, I will kill you.
+RYUK: Hahaha.
+LIGHT: I understand, and I have a pretty good idea what L [will/would] do next.
+I have a plan.
+This is good bye, Ryuk.
+RYUK: Huh?
+  

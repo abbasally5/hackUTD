@@ -1,0 +1,607 @@
+
+ ws:start:WikiTextHeadingRule:0:&lt;h1&gt; 
+ Kagura:
+ Huh?
+ Hey, need any help with your luggage?
+ Hey!
+
+ Shoot! He's a foreigner!
+ Let's see...
+ <Spanish?> El helpo lifto... va moi baggo? <Spanish?>
+
+Foreigner:
+Eh?
+
+Kagura:
+ <Spanish?> Me word no comprende? <Spanish?>
+ <German?> Helfen? Das Help. <German?>
+ <Spanish?> Helpa mio! <Spanish?>
+
+Boy:
+And then, and then, and then...
+
+Foreigner:
+<Spanish> xxxxx, Muchas gracias <Spanish>
+
+Kagura:
+ Huh? Um... Yahoo!
+
+Foreigner:
+Uh...
+
+Kagura:
+ How embarrassing.
+
+Yukari:
+ I saw you.
+
+Kagura:
+ Ah!
+
+Yukari:
+ You did a great job there.
+ Yahoo! Yeah.
+
+Kagura:
+ I... I wasn't able to tell what language he spoke.
+
+Yukari:
+ Well, now, if you'd pay better attention in my class, you could identify and speak with people better.
+
+Kagura:
+ What would you have done?
+
+Yukari:
+ Well, ah, the perfect target.
+ Watch this!
+
+Kagura:
+ Oh, no way!
+
+Kagura:
+ Hey!
+
+Yukari:
+ It's no good! He's German!
+
+Kagura:
+ Huh?
+ So, you're just gonna run away?!
+
+Kagura:
+ So, that's basically what happened yesterday.
+ It was pretty rough.
+
+Tomo:
+ Hey, your story reminded me of something.
+
+Kagura:
+ Oh, yeah, what is that?
+
+Tomo:
+ Just how very stupid you are, Kagura.
+
+Kagura:
+ Excuse me!
+
+Sakaki:
+ Huh?
+
+Tomo:
+ I didn't know your conversation skill was so lame.
+ I guess your big chest gets in the way.
+
+Kagura:
+ My chest has nothing to do with it!
+ Bit, you could perform under pressure?
+
+Tomo:
+ Better than you did.
+
+Kagura:
+ Uh-huh,
+ Then, how about if I quiz you!
+
+Tomo:
+ Sure, ask me anything.
+
+Kagura:
+ What's "I.T." stand for?
+
+Kagura:
+ Don't look the other way!
+
+Tomo:
+ It's... it's that thingy.
+ It's... like e-mail and... homepages and stuff.
+
+Kagura:
+ Look, I get the general idea.
+ So, tell me what "I.T." stands for?!
+
+Tomo:
+ Don't worry about it.
+
+Kagura:
+ See?! You can't answer!
+
+Tomo:
+ So... so does that mean that you know the answer?
+
+Kagura:
+ I'm asking you because I don't know!
+
+Tomo:
+ Yomi! You tell her what it stands for!
+
+Yomi:
+ Eh...
+
+Yomi:
+ In... in...
+
+Kagura, Tomo:
+ In...?!
+
+Yomi:
+ Interne... um...
+ Internet technique...
+
+Kagura, Tomo:
+ Ooh, I'm convinced.
+
+Yomi:
+ Really?
+
+Chiyo:
+ "I.T." is actually short for "Information Technology".
+ In Japanese, that phrase would be translated as "jouhou gijutsu".
+ But, I don't know if asking about "IT" is such a good test for judging your communication skills.
+
+Kagura:
+ Um...
+
+Chiyo:
+ Yes?
+
+Kagura:
+ Where do you learn about things like that?
+
+Chiyo:
+ Huh? Um, well...
+ Where... what do you...
+
+ ws:start:WikiTextHeadingRule:2:&lt;h1&gt; 
+ Kagura:
+ Morning, Sakaki!
+
+Sakaki:
+ Mm.
+
+Kagura:
+ So, what I want most right now out of anything is a mountain bike, you know.
+ But I'm having a lot of trouble picking out what kind of color and all that stuff.
+ What is it?
+
+Sakaki:
+ It's blooming.
+
+Kagura:
+ Flowers?
+ Oh, it's a hibiscus.
+
+Sakaki:
+ Pomegranate.
+
+Kagura:
+ Man, I totally don't know anything about flowers.
+ Sunflowers, morning glories, and that's all.
+
+I know, lilies!
+
+Sakaki:
+ No, gardenias.
+
+Kagura:
+ Oh, violets!
+
+Sakaki:
+ Azaleas.
+
+Kagura:
+ Oh, well, who cares about flowers?
+ So, anyways, back to that mountain bike.
+ Huh?
+
+Sakaki:
+Hm?
+
+Kagura:
+ Just now, was that... a contest?!
+
+Sakaki:
+ What?
+
+Kagura:
+ A contest for guessing the names of flowers.
+
+Sakaki:
+ No.
+
+Kagura:
+ All right.
+
+Kagura:
+ So, there are a couple of colors I'm leaning toward right now...
+
+Sakaki:
+ Yeah?
+
+
+Kagura:
+ Hey, Sakaki! Let's compete!
+ Let's have a competition!
+ This time, the event would be speed-eating lunch.
+
+Sakaki:
+ Huh?
+
+Kagura:
+ Okay, ready, set and go!
+
+ Huh?
+ Come on, what're you eating so slow for?
+
+Sakaki:
+ You should chew your food thoroughly whenever you're eating, you know.
+
+Kagura:
+ Uh...
+
+
+Nyamo:
+ All right, everyone, please split up into teams!
+
+Everyone:
+Yes, ma'am!
+
+Kagura:
+ Okay, Sakaki
+ Time for us to compete in softball!
+
+Kaorin:
+ Go for it, Miss Sakaki!
+
+Osaka:
+ Hit it outta the park!
+ Home run all the way!
+
+ Um...
+ How many points is a home run?
+
+Yomi:
+ Huh?
+
+Kagura:
+ Here it comes, Sakaki!
+
+Kagura:
+ Fly ball to the right!
+
+Chiyo:
+ I got it! I got it!
+
+Kagura:
+ Ah!
+
+Chiyo:
+ Aw...
+
+Kagura:
+ Chiyo-chan!
+ Chiyo-chan!
+
+Sakaki:
+ You okay?
+
+Kagura:
+ Chiyo-chan, hang in there! Chiyo-chan!
+
+ ws:start:WikiTextHeadingRule:4:&lt;h1&gt; 
+ Tomo:
+ All right!
+ We're taking physical measurements today!
+ I'm going with spirit!
+
+Chihiro:
+I wonder why Tomo's always so energetic?
+
+Yomi:
+ Beats me.
+
+Tomo:
+ My boobs rock!
+ 3 more centimeters, uuuh... all right!
+
+Chihiro:
+I'm happy for you, but saying that in public.
+
+Tomo:
+ But, there's still Miss Sakaki out there to be!
+ I gotta work hard!
+
+Chihiro:
+H-Hey...
+
+Kagura:
+ Hm?
+
+Kimura:
+So, how'd it go?
+
+Kagura:
+ None... none of your business.
+
+Kimura:
+Well, I better be getting to my class now.
+
+Osaka:
+ Huh?
+
+Tomo:
+ Hey, it looks like your turn is coming up.
+ Doesn't it just make you nervous?
+ After all, what's the one thing you dread preparing for the very most.
+
+
+
+
+Yomi:
+
+I do not prepare for it.
+
+Tomo:
+ Hm...
+ A sign for skipping breakfast.
+ But that's a given.
+ Eh?
+
+Kagura:
+ Man, this one's really nice.
+ Oh, ooh, this one's nice too.
+
+Sakaki:
+ Ah...
+
+Kagura:
+ I saved up my New Year's allowance and I've done quite a few part time jobs, so I do have the money.
+ But it's just that... when it comes down to the buying, decisions are hard to make.
+ Like color and the shape of it.
+ The ones I think look nice are expensive.
+ But I couldn't see myself getting the cheap one.
+
+NecoKoneco:
+Meow.
+
+Sakaki:
+ Just what are you doing?
+
+Kagura:
+ What? Oh, this?
+
+ Hmm... nothing.
+ I just felt like it.
+ Although, doesn't it look pretty cool?
+ Oh, I know.
+ I'll make this part more like... this!
+
+
+Sakaki:
+ It's that cat.
+
+Sakaki:
+ Ahhhh!
+
+Kagura:
+ Hey you!
+ You shouldn't bite people!
+
+Kagura:
+ Hey, are you okay?
+
+Sakaki:
+ Huh?
+ Yeah...
+
+Kagura:
+ Really? Cats like that need to be disciplined.
+ You just gotta hit 'em and make 'em understand.
+
+Sakaki:
+ Yeah, but if...
+
+Kagura:
+ Huh?
+
+Sakaki:
+ They'll listen if you just talk.
+
+Kagura:
+ Yeah right, like hell they will.
+
+ ws:start:WikiTextHeadingRule:6:&lt;h1&gt; 
+ Chiyo:
+ Oh, Miss Sakaki!
+ Are you going somewhere?
+
+Sakaki:
+ Yes, I am.
+
+Chiyo:
+ Uh... Well, um...
+ See you later then.
+
+Sakaki:
+ See you later.
+
+
+Kagura:
+ Huh?
+ Awesome. She's got some crazy energy.
+
+
+Kagura:
+ Oh, you saw her too?
+ Yeah, Sakaki was going all out, she was putting all her energy into it that I've ever seen from her.
+ She was... oh,
+ Hey, Sakaki.
+
+Chiyo:
+ Huh?
+ Oh, Miss Sakaki, welcome back from your... Ah!
+
+Sakaki:
+ All at once.
+
+ ws:start:WikiTextHeadingRule:8:&lt;h1&gt; 
+ Sakaki:
+ Oh...
+
+Kagura:
+ What are you doing, Sakaki?
+
+ Sakaki:
+ Aw, aw, aw...
+
+Kagura:
+ Wow, so do you like get bitten by cats all the time, or just with me?
+ But you know, I wonder if your hand smells like fish or something?
+
+Sakaki:
+ Uh.
+
+Kagura:
+ Okay, I know!
+ I'll shoo away any cat dumb enough to come near you!
+
+Sakaki:
+ Uh!
+
+Kagura:
+ Hey, there's one!
+
+ Garrr! Garrr! Garrr!
+ Haha.
+
+ Garrr!
+ Garrr!
+ Garrr!
+ Garrr! Garrr! Garrr!
+
+Sakaki:
+ Hey, stop it...
+
+Kagura:
+ Garrr! Garrr!
+ Garrr! Garrr!
+
+ What?
+ Is something wrong?
+
+Sakaki:
+ Oh, well, I um... you see...
+
+Kagura:
+ Huh?
+
+Sakaki:
+ I can't just keep on... running away.
+
+Kagura:
+ Uh...
+
+Sakaki:
+ I have to face it, and then overcome it.
+
+Kagura:
+ Oh, Sakaki!
+ Those were great words!
+ You're so right! Mm-hm.
+
+ Oh, there!
+ Right, now go, Sakaki!
+
+Sakaki:
+ Aw!
+
+Kagura:
+ Ah...
+ Hiya, are you.... are you all right?
+
+ She's okay with that?
+
+
+Girl:
+Yeah, it was a real surprise for me.
+
+Kaorin:
+Huh?
+
+Girl:
+What's up?
+
+Kaorin:
+Over there.
+
+Miss Sakaki.
+Hey, do you like to play games and things too?
+
+Sakaki:
+ Ah, yeah.
+
+Kaorin:
+So, I guess you play a lot of those one-on-one combat tournament games and high speed racing games, huh?
+
+Sakaki:
+ Oh, well, sort of.
+
+Kaorin:
+Wow, you're amazing, Miss Sakaki.
+I'm totally no good at those.
+I'd love it if you'd maybe teach me sometime.
+
+Sakaki:
+ Sure.
+
+Kaorin:
+Well, until then.
+
+Sakaki:
+ Oh.
+
+-- Preview --
+
+Yomi:
+Next week is a biography of Chiyo-chan.
+Through various people's testimonies, we'll take a look at Chiyo-chan's life, full of ups and downs.
+
+Chiyo:
+I've still only lived for eleven years, though.
+
+Yomi:
+Eleven years is an epoch.
+In order to survive such a trying era, you have to face this society with...
+
+Chiyo:
+Um, next time, we'll look at a day in my life...
+
+Yomi:
+Rome was not built in one day.
+The current Japan is...
+
+Chiyo:
+Miss Yomi, what's gotten into you?
+
+Yomi:
+Please look forward to it!
+  

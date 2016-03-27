@@ -1,0 +1,3569 @@
+
+ ws:start:WikiTextTocRule:44:&lt;img id=&quot;wikitext@@toc@@normal&quot; class=&quot;WikiMedia WikiMediaToc&quot; title=&quot;Table of Contents&quot; src=&quot;/site/embedthumbnail/toc/normal?w=225&amp;h=100&quot;/&gt; 
+ ws:end:WikiTextTocRule:65  ws:start:WikiTextHeadingRule:4:&lt;h6&gt; 
+Narration:
+Welcome to the land of OZ.
+OZ is a virtual world where people from across the globe can come together online to enjoy themselves.
+Reaching the land of OZ is a snap! Your personal computer, television or even your cell phone can take you there.
+Now, it's time for you to experience OZ firsthand.
+First, take a moment to create your own unique avatar.
+It's the digital body you'll use as you explore OZ.
+It's totally customizable. From clothing to hairstyle, the sky is the limit.
+Aww, what a cute avatar!
+Your personal information is safe, thanks to the most advanced encryption system known to man.
+You're free to enjoy OZ without a care in the world.
+Make sure to visit our mall, where you can buy all sorts of music, movies and cuisine.
+You can even purchase cars or real estate or book a vacation.
+If it's for sale, you'll find it here.
+We also host a wide array of specialty shops.
+Many real high-end fashion houses are represented within OZ.
+Dress your avatar in the hottest new styles!
+However, our most prized function is ease of communication.
+In OZ, all speech is universally translated in real time so people from around the globe can talk to each other.
+At present there are four million communities.
+Like sports? Go break a virtual sweat in any event you can imagine.
+We also offer unparalleled business connectivity.
+Corporations throughout the world maintain branches in OZ.
+You can even set up an office and cyber-commute.
+Many administrative agencies and local governments have opened service kiosks here.
+Use your avatar to pay your taxes or file documents with the push of a button.
+Last but not least, say hello to John and Yoko, the guardian angels of OZ.
+We're all so pleased to meet you.
+A world of friendship and fun awaits you.
+Travel to OZ today!
+
+News announcer:
+And now the news at noon for Monday, July 26th.
+Early this morning the Arawashi asteroid probe abandoned its prior path around the Sun and took up orbit around the Earth.
+Although the Arawashi has been plagued with malfunctions over the course of its mission, it's slated to release the capsule of the Matokawa asteroid core samples as scheduled.
+Meanwhile, in other news...
+
+
+Kenji:
+I was so close to representing Japan.
+
+Takashi:
+You still depressed over that? Get over it.
+
+Boss:
+All right, less chatting, more working! Do you hear me?
+
+Takashi:
+Okay!
+
+Kenji:
+Right at the end, I choked.
+
+Takashi:
+Seriously, let it go.
+All this moping you're doing is driving me nuts!
+Hey, let's choose a theme for this summer. How 'bout girls? Perfect, huh?
+Watermelon, fireworks, and girls, that's summer!
+
+Kenji:
+I'll stick to watermelon and fireworks.
+Hey, it's been working for me so far.
+
+Natsuki:
+Hey, you want a job?
+
+Takashi:
+Well, that's kinda what we're doing.
+
+Natsuki:
+You are?
+
+Takashi:
+Yeah. We run maintenance checks on OZ.
+
+Natsuki:
+You work for OZ? Really? Awesome!
+
+Takashi:
+Nah, we're just part-time code monkeys. Pretty routine.
+
+Natsuki:
+Well, it was worth a try. Darn it!
+Well that's it then.
+I guess I'll just have to deal with it.
+
+Kenji:
+Hold on a second, Natsuki! Maybe I can help you.
+
+Natsuki:
+Really?
+
+Takashi:
+Hey, aren't you forgetting something?
+
+Kenji:
+I guess he's right. I'm sorry, Natsuki.
+
+Natsuki:
+That's too bad. It's not even a real job!
+All you'd have to do is go on a trip out to the country with me.
+
+Takashi:
+Wait! I'll do it!
+
+Kenji:
+Huh? You just said ...
+Well, then, then get us both in!
+
+Natsuki:
+Two might get complicated.
+
+Kenji and Takashi:
+Huh?
+
+Natsuki:
+All I need's one. So who's it gonna be?
+
+ ws:start:WikiTextHeadingRule:6:&lt;h6&gt; 
+Natsuki:
+Kenji! Hey, I'm over here!
+
+Kenji:
+Sorry I'm late.
+
+Natsuki:
+You're right on time. I bet you that Sakuma would have taken all morning.
+
+Kenji:
+Whatever needs doing, just say the word and I'm on it.
+
+Natsuki:
+Thanks a lot. For starters, how 'bout grabbing these?
+
+Kenji:
+Ueda City in Nagano?
+
+Natsuki:
+It's great-grandma's birthday party.
+Our relatives are coming in from all over Japan, so we could use a little extra help.
+
+Natsuki:
+So how are you going to represent Japan anyway?
+
+Kenji:
+Huh?
+
+Natsuki:
+Sakuma mentioned you came really close to representing Japan in something.
+Oh, come on! What's all the blushing about?
+
+Kenji:
+Well, I almost got to go to the Math Olympics this year.
+
+Natsuki:
+Wait, Olympics? For math?
+Hey, you must be pretty good then, huh?
+
+Kenji:
+Good thing, because I suck at everything else...
+
+Natsuki:
+Seriously? Then show me what you got!
+
+Kenji:
+All right. Tell me both the year and the day that you were born.
+
+Natsuki:
+Okay. It was on July 19th, 1992.
+
+Kenji:
+On a Sunday. That's what day of the week July 19th, 1992 was.
+It was a Sunday.
+
+Natsuki:
+You're saying you memorized all the dates?
+
+Kenji:
+No, I used modular arithmetic. So... did I get it right?
+
+Natsuki:
+Uh, I don't even know what day it was.
+
+Announce:
+Ueda! Next stop, Ueda!
+
+Natsuki:
+My great-grandma's turning 90 in a couple of days.
+Crazy, huh?
+
+Kenji:
+She was born in 1920? Talk about a full life!
+
+Kid:
+Hey, Mom! Can I have some ice cream later?
+
+Noriko:
+Natsuki? Natsuki, it is you! My God!
+
+Natsuki:
+Aunt Noriko! It's been forever!
+
+Natsuki, Noriko:
+I've missed you!
+
+Noriko:
+We Jinnouchis go back 16 generations.
+
+Kenji:
+Wait, seriously?
+
+Noriko:
+We have graves as far back as the Muromachi days.
+We made a quite a bundle in the silk industry during the Meiji era. [ make a bundle :大儲けする]
+We were rolling in the cash! Then old Grandpa, rest his soul, managed to fritter all of it away!
+[roll in the cash : 金がありあまる]
+
+Natsuki:
+Hey, Aunt Yumi!
+
+Yumi:
+Natsuki!
+
+Kid, we used to kick butt! These days we got nothing. No factories, no mines, not even a measly wholesale store!
+I still can't hardly believe it when I see Granny's New Year's cards pouring in.
+Big politicians and CEOs! Man, it's nuts!
+
+Nana:
+Welcome home!
+
+Natsuki:
+Thanks, Nana!
+
+Nana:
+Yeah, maybe that's why Granny says such terrifying things sometimes, even now at the ripe old age of 90.
+
+Noriko:
+It's that warrior blood, I'm telling ya.
+
+Yumi:
+Oh, she's gonna have fun with you!
+
+Kenji:
+Whoa... they live here?
+
+Mariko:
+You kids must be tired, coming all that way! Now, who wants some watermelon?
+
+Kids:
+Watermelon, yay!
+
+Kenji:
+Uh, excuse me, ma'am. I just wanted to wish you the very best.
+Happy 90th birthday.
+
+Mariko:
+Uh... that's very sweet, but it's my mom's birthday.
+
+Kenji:
+Wow...
+
+Natsuki:
+Kenji, come on!
+
+Kenji:
+Right!
+
+Natsuki:
+I know I should have mentioned this before, but when you meet my great-grandma, just go along with whatever I say.
+
+Kenji:
+Okay...
+What are you gonna say?
+
+
+ ws:start:WikiTextHeadingRule:8:&lt;h6&gt; 
+Mariko:
+Mother.
+
+Sakae:
+What is it?
+
+Natsuki:
+I'm home, Granny!
+
+Sakae:
+Oh! You came.
+
+Natsuki:
+I missed you so much. Have you been feeling okay?
+
+Sakae:
+Never better, dear.
+
+Natsuki:
+I was worried. They told me you'd been sick.
+
+Sakae:
+Summer heat. That's all. Stayed out too long in the sun.
+
+Natsuki:
+That's a relief.
+
+Sakae:
+Huh?
+
+Kenji:
+Um, hello.
+
+Natsuki:
+Remember what I promised?
+
+Sakae:
+Th-that's the boy?
+
+Natsuki:
+Yep, Kenji Koiso.
+
+Kenji:
+Er, pleased to meet you.
+Natsuki and I are both in the physics club at school, so when she asked me …
+
+Natsuki:
+Yeah, so, we're going out.
+
+Kenji:
+Huh?
+
+Sakae:
+Going out?
+
+Kenji:
+What ar …
+
+Natsuki:
+Yeah. Kenji's my fiancé actually.
+
+Kenji:
+What?
+
+Sakae:
+Fiancé?
+
+Natsuki:
+Yep, fiancé.
+
+Sakae:
+Well then …
+
+Natsuki:
+So, I brought him home like I said I would.
+
+Kenji:
+Um, Natsuki? What the heck is going on?
+
+Sakae:
+Kenji.
+
+Kenji:
+Uh-huh?
+
+Sakae:
+This great-granddaughter of mine is no pushover.
+Are you man enough to make my Natsuki happy?
+
+Kenji.
+Huh? Oh! Er, maybe, um, well …
+
+Sakae:
+I'm asking you if you're man enough.
+
+Kenji:
+Er, yeah.
+
+Sakae:
+Are you sure?
+
+Kenji:
+Yeah, I… guess.
+
+Sakae:
+Man enough to die for her?
+
+Kenji:
+I… yes.
+
+Sakae:
+Lucky girl!
+Here, Natsuki.
+
+Natsuki:
+What is it?
+
+Sakae:
+Congrats.
+
+Natsuki:
+Ah, the morning glory yukata!
+Oh, thank you.
+
+Sakae:
+Kenji, please enjoy your stay. I am very honored to meet you.
+
+Kenji:
+No, the honor's all mine! Thank you for your hospitality.
+
+Natsuki:
+I'm sorry.
+
+Kenji:
+I can't do it.
+
+Natsuki:
+Come on! It's the easiest part-time job in the world.
+
+Kenji:
+I can't do it!
+
+Natsuki:
+Just pretend you're my boyfriend, okay?
+Granny and the rest of the family have to think we're a couple.
+
+Kenji:
+N-n-n-n-n-n-n-n-no, absolutely not!
+Natsuki, I've never even taken a girl out on a date.
+
+Natsuki:
+I don't wanna let Granny down.
+I'm not trying to trick everyone, but they said she was really sick, so I told her she couldn't die before she met my awesome boyfriend, AKA you.
+So you'll help me, right?
+
+Kenji:
+Yeah. I guess I can help out.
+
+Natsuki:
+Oh, you're the greatest!
+Okay. Then from now on you should act really lovey-dovey around me.
+
+Kenji:
+Huh?
+
+Natsuki:
+And I've got your backstory.
+
+Kenji:
+Wait … what?
+
+Natsuki:
+Your family is old, you're going to Tokyo U, and you just spent a year in America.
+Pretty much sums it up.
+
+Kenji:
+Old family, Tokyo U, studying abroad...
+But, but that's the exact opposite of me!
+
+Natsuki:
+So we're good?
+
+Kenji:
+No, we're not good!
+
+Natsuki:
+Uh-uh？
+
+Kenji:
+No!
+
+Natsuki:
+What happened to "whatever needs doing..."?
+It's only four days. As soon as we are gone, I'll tell 'em we broke up.
+Pretty please!
+
+
+Mansaku:
+I guess we are both getting older.
+Hey!
+
+Mansuke:
+Hey! How are you?
+
+Rika:
+Thanks for the lift, Bro.
+
+Riichi:
+Sis, your helmet.
+
+Announcer:
+Strike three! And that's the game! Pitcher Jinnouchi is thrilled (?and with enough reason.)
+
+Kids:
+Yee-haaa.
+
+Rika:
+What happened? Did he win?
+
+Announcer:
+Ueda high school wins seven to six and advances to the quarter final!
+
+Kids:
+Let's go tell everybody! Yeah, let's go!
+
+Commentator:
+I didn't see this coming.
+
+Announcer:
+I thought they were done for but they certainly proved they weren't today.
+
+Yumi:
+"I thought they were done for"? What do you know?
+
+Kids:
+Hey, Ryohei won!
+
+Tasuke:
+Yeah? Oh, good for him.
+
+Naomi:
+Oh, go tell Granny the good news.
+
+Kids:
+Okay! Granny!
+
+Shota：
+Natsuki, had you lost your mind?
+
+Tasuke
+Quiet, Shota. No need to yell like that.
+
+Shota:
+Your fiancé? Cousin Shota objects!
+Damn! I was too slow!
+
+Kids:
+Hey, Granny, Ryohei won!
+
+Women:
+That's great!
+
+Mansuke:
+Brought something for the victory party.
+
+Woman;
+What is there to see?
+
+Mansuke:
+Jackpot!
+
+Shingo:
+It's squid!
+
+Mansuke:
+And then...!
+
+Yuhei:
+It's more squid.
+
+Mansuke:
+And for dessert...!
+
+Mao:
+How come it's all squid?
+
+
+Natsuki:
+Okay! Introduction time.
+First off we have Aunt Mariko and her children, Rika and Riichi.
+Next Uncle Mansuke with his kids, Tasuke and Naomi.
+Kiyomi and Tasuke's son, Shota.
+Then we have uncle Mansaku.
+
+Mansaku:
+Hello.
+
+Natsuki:
+He has three sons and each son has a family.
+There's Yorihiko and his wife Noriko, Kunihiko and his wife Nana and Katsuhiko and his wife Yumi and their sons Yuhei and Kyohei.
+Oh, and this is Nana's daughter Kana and Noriko's kids, Shingo and Mao.
+You get all that?
+
+Kenji:
+Uum, yeah, more or less.
+
+Naomi
+Well, you get the idea.
+
+Jinnouchis:
+Please to meet you!
+
+Kenji:
+Thank you for having me.
+
+Kiyomi:
+Wow, I'm amazed the Granny gave Natsuki's boyfriend the okay.
+
+Naomi
+No kidding. Every time I brought a boy home, she was so mean he'd run back to the bus stop!
+Tokyo U., studied abroad, old family. Of course you like some. Quite the renaissance man.
+
+Rika:
+Almost sounds too good to be true.
+
+Mansuke:
+Maybe this spinster club should take some notes. [spinster:オールドミス]
+
+Rika:
+Uncle Mansuke, I can bring myself a husband anytime I want to do it
+
+Naomi
+(?Be xx, Dad. ex-husband. You know it!)
+
+Mansaku:
+Hey, let me ask you. When's the due date?
+
+Kenji:
+Huh?
+
+Mansaku:
+You know, for the baby.
+
+Noriko:
+Stop being a perv. What is wrong with you?
+
+Mariko:
+He only came to say hello.
+
+Mansaku:
+Huh? But I thought he came to say hello, because he got her in a family way. [in a family way：妊娠中]
+You've done it, right?
+What am I saying? You are a collage man. Of course you've done it.
+
+Mariko:
+Just drink your beer.
+
+Mansuke:
+Oh, let him ask!
+Our Kenji is gonna be family soon enough!
+
+Shota:
+Like hell is he gonna be family soon enough? I object!
+
+Tasuke:
+Give it a rest, Shota.
+
+Shota:
+You give it a damn rest!
+
+Tasuke:
+How can you talk to your dad like that?
+
+Shota:
+Hey! I've been watching out for Natsuki ever since she was this little!
+
+Yumi:
+One centimeter, huh?
+
+Shota:
+And how come she didn't run this by her second cousin first? [run ~ by : ~を相談する]
+
+Kiyomi:
+How dare she? 　(?Over nerve.)
+
+Shota:
+Laugh [it up/enough]!
+
+Mariko:
+Mother's permission is all the approval that she will need.
+You know how things work in this family.
+
+Shota:
+Come on, Granny. Really gonna let her do this?
+
+Sakae:
+Of course.
+Kenji will make a wonderful addition to the family.
+These eyes of mine have never deceived me.
+The Jinnouchi clan has no need of mediocre man.
+Not while his family and town to protect.
+
+Mansuke:
+You tell him, mom.
+We Jinnouchi men all need to be toughest males.
+This clan played an essential role of the invincible Takeda army! See?
+
+Naomi:
+Here he goes again.
+
+Mansuke:
+But when Takeda died, there was nothing to hold it together.
+The clan scattered to the winds.
+The reputation we built up didn't count for squat.
+We came here to Ueda and set down roots.
+Fought more times than I could count to defend it.
+Wasn't an exactly prime real estate but it was ours.
+On the second of August, fifteen eighty five, a mere two thousand of our ancestors faced all against seven thousand of Tokugawa's combat elite.
+
+Mansaku:
+Thus began the first Ueda war!
+
+Mansuke:
+We have a winner!
+The Tokugawa fought their way to castle.
+Only one wall stood between us and their feet but we held strong and we knew the land.
+We pushed them all the way back…
+
+
+
+ ws:start:WikiTextHeadingRule:10:&lt;h6&gt; 
+Kid #1:
+I'm gonna shoot you!
+
+Kid #2:
+Nuh-uh!
+
+Kid #1:
+Take that!
+
+Natsuki:
+Now your back. Okay?
+
+Sakuma:
+Stupid rock-paper-scissors. I shoulda cheated.
+You get to be her boyfriend, man! I am terminally jealous.
+
+Kenji:
+There's nothing to be jealous of. It's a job.
+
+Sakuma:
+But still! You having fun at least?
+
+Kenji:
+Uh... I don't do well around strangers.
+
+Sakuma:
+Stop being all emo, seriously.
+You're getting to sleep in the same room as the most popular girl at our school!
+Hey, you're playing her boyfriend, right?
+You two should get nice and cuddly.
+
+Kenji:
+Wh-What! Cuddly?
+What are you talking about?
+
+Sakuma:
+Aha! Good luck, man! Later.
+
+Kenji:
+Uh... where am I now?
+Man, this house is big.
+
+Kazuma:
+Need something?
+
+Kenji:
+Um, I'm kind of lost.
+
+Kazuma:
+The bathroom's back there, to the right.
+
+Kenji:
+Oh! Well, thanks then.
+How come... you're hanging out all the way over here?
+
+
+Kanna:
+Mommy!
+
+Natsuki:
+Kana, get back here. You're all wet, silly buns!
+
+Kenji:
+I didn't see anything! I swear!
+
+Natsuki:
+Uh... I'm done with the tub. It's all yours.
+
+Kenji:
+No. I'm good. I'm, you know, clean … still. Yeah.
+Natsuki just soaked in this very water.
+
+Wabisuke:
+Come here, Hayate. It's me. Don’t you remember me?
+
+Mansuke:
+Why are you here?
+
+Wabisuke:
+It's my house. How's that for a reason?
+
+Mariko:
+Like hell it is, you thief!
+
+Wabisuke:
+You're still as unpleasant as ever, Aunt Mariko.
+You haven't changed a bit.
+
+Mansaku:
+Oh, you're a fine one to talk. 　 [You are a fine one to talk: 人のことが言えるか]
+
+Sneaking back in here ten years later. What's the matter with you?
+
+Wabisuke:
+The gang's all here. Why?
+
+Tasuke:
+We're throwing a birthday party on Sunday.
+
+Wabisuke:
+For who?
+
+Sakae:
+Wabisuke.
+
+Kenji:
+Wabisuke?
+
+Wabisuke:
+Hey, the hag. I figured you'd be dead.
+
+Sakae:
+Same for you. I assumed you'd died in some gutter years ago.
+
+Wabisuke:
+You'll hit a hundred easy before you croak.  [to croak: ((俗))〈人が〉死ぬ，くたばる]
+
+Sakae:
+Maybe so. Have you … eaten yet?
+
+Wabisuke:
+I don't need any of your food.
+As places go, Japan stinks. It's always humid and sticky. The streets are all narrow and there's too damn many of us.
+But the beer's good at least.
+
+Natsuki:
+Uncle? Uncle Wabisuke!
+
+Wabisuke:
+Natsuki? Is that you?
+
+Natsuki:
+Oh, my god. You came back!
+
+Wabisuke:
+Thanks!
+
+Mariko:
+Natsuki, you get away from him!
+
+Natsuki:
+Huh? How come? It's Uncle Wabisuke!
+
+ ws:start:WikiTextHeadingRule:12:&lt;h6&gt; 
+Noriko:
+Has it really been ten years?
+
+Yumi:
+Time sure does fly.
+
+Nana:
+Um, so who is Wabisuke?
+
+Noriko:
+Oh, that’s right. You never would've met him, would you?
+
+Yumi:
+Trust me, it's a long story.
+
+Mariko:
+Why beat around the bush? My mother adopted him.
+
+Naomi:
+Yeah, 'cause he's Great-Grandpa's illegitimate son.
+
+Nana:
+Huh?
+
+Mariko:
+That kind of thing happened a lot back then.
+
+Rika:
+That ungrateful punk had the nerve to sell what little property Granny had left and go traipsing off to America with the money!
+America! Can you believe it?
+Geez, who does that?
+
+
+Natsuki:
+Really? You haven't got married yet? Then, do you have a girlfriend?
+
+Wabisuke:
+Lay off the dumb questions.
+
+Natsuki:
+That's great! I wanna visit America.
+Hey, take me to the Disney resorts!
+First the one in California, then the one in Florida!
+And in between I can just crash at your place.
+So how do I get in touch with you?
+
+Wabisuke:
+Win and I'll tell.
+
+Natsuki:
+Aww, no fair! [No fair!：フェアじゃないぞ]
+
+Wabisuke:
+Betting's what makes it fun.
+
+Natsuki:
+Here goes nothing!　　 [here goes nothing.:駄目もとでやってみるか]
+Dry 3 Bright! Read 'em and weep!
+
+Wabisuke:
+Are you taking the points?
+
+Natsuki:
+Hmm... not yet. Koi Koi, Uncle!
+
+Wabisuke:
+Alright, my turn then. Bam!
+Trying for a Dry 4 Bright?
+
+Natsuki:
+Huh? 'Course not.
+
+Natsuki:
+Oh, that's a shame.
+
+Wabisuke:
+Three junk cards.
+
+Natsuki:
+Huh? Koi Koi, right?
+
+Wabisuke:
+'Fraid not.
+
+Natsuki:
+How'd you do that?
+
+Wabisuke:
+What can I say?
+Well, think I'm gonna call it a night.
+
+Natsuki:
+Come on! One more game.
+
+Wabisuke:
+I believe in quitting while you're ahead.
+Your turn.
+
+Kenji:
+Uh, I'm still learning the rules...
+
+Natsuki:
+Hey, how long are you here for?
+
+Wabisuke:
+Dunno.
+
+Natsuki:
+You could just stay.
+Yeah, what do you think?
+
+Wabisuke:
+Hmm.
+
+
+Kenji:
+What am I doing here?
+Huh? What is this?
+Aha, I solved it!
+Aah! What the heck...?
+
+Mansaku:
+Let's give those numbers a look.　
+
+Shingo and Yuhei:
+Get up! Out of bed, criminal! Get up!
+Let's go! C'mon! Move it, guy! C'mon!
+
+
+Announcer:
+The damage seems to be spreading. Wouldn't you agree?
+
+Kenji:
+I just wanna sleep!
+
+Yuhei:
+Quiet! You see?
+Is too his face!
+
+Shingo:
+No doubt about it. This is him.
+
+Commentator:
+Immediate decisive action needs to be taken.
+
+Announcer:
+Now, let's take another look at the photo our staff obtained of the reported mastermind behind this attack.
+
+Commentator:
+Hmm, looks young, doesn't he? A college student perhaps? Maybe even high school.
+
+Kenji:
+That picture! It's me!
+
+Announcer:
+Hard to believe this baby-faced boy hacked into the land of OZ's maintenance server.
+He turned the whole place on its head in the course of just one night.
+Experts are saying that system repairs will take quite some time.
+
+Commentator:
+Probably just a prank.
+Inconvenient not being able to check my email though.
+But OZ is ubiquitous now.
+Its usage is as common as that of cell phones, right?
+Indeed.
+Japanese society depends on OZ access for everything from shopping and online chat to vital business operations.
+Maybe it is just a prank, but they're gonna throw the book at this kid nonetheless.　[throw the book：厳罰を与える]
+
+Announcer:
+I couldn't've put it better myself. Also, this work means…
+
+Shingo:
+Throw the book at him?
+
+Yuhei:
+Means he's busted!
+
+Noriko:
+Okay, breakfast is ready!
+What's so funny?
+
+Shingo:
+Huh? Give me that! There.
+
+Kenji:
+No, wait!
+
+Shingo:
+No you don't!
+
+Kenji:
+Come on! Give that back! Please!
+No, no, no, no! I didn't do it!
+Just stop running already!
+Nobody look!
+
+Woman:
+Hey! Breakfast!
+
+Kenji:
+Huh? What the...?
+Where was that kid? Oh, man!
+There you are!
+
+Kazuma:
+Did you do this?
+
+Kenji:
+Hey, let me use your computer!
+
+Kazuma:
+That was really rude.
+So this time, how 'bout you try asking me nicely?
+
+Kenji:
+'Kay... I hate to impose, but might I trouble you for the use of your computer, sir?
+Thanks a lot!
+No way...
+
+Kazuma:
+Why are you freaking out?
+
+Kenji:
+Someone used my account to hack into OZ! That's why!
+
+Kazuma:
+Gotcha. You're the fall guy. [fall guy：罪をかぶる者，身代わり(scapegoat)]
+
+Kenji:
+What am I supposed to...?
+
+Kazuma:
+Try calling customer service.
+
+Kenji:
+Oh yeah!
+Hi, tech support? Somebody ha--
+
+Prerecorded message:
+Sorry, but we cannot authenticate the OZ number for your phone, please hang up and try your call later.
+
+Kenji:
+I can't connect! I can't connect! What do I do?
+
+Kazuma:
+Calm down, dude.
+
+Kiyomi:
+Kenji?
+
+Kazuma:
+Stop being a spaz.
+
+Kiyomi:
+You have a phone call. Sakuma from Tokyo.
+
+ ws:start:WikiTextHeadingRule:14:&lt;h6&gt; 
+Sakuma:
+Please tell me you didn't break the Internet.
+
+Kenji:
+Of course not!
+
+Sakuma:
+Didn't think so. It's way too gutsy to be you.
+
+Kenji;
+Whatever! If you know it wasn't me, then help me out!
+
+Sakuma:
+Can't.
+None of our admin passwords work anymore; we've been exiled.
+
+Kenji:
+Wasn't their security like the best in the world?
+
+Sakuma:
+Last night this weird email popped up all over OZ.
+
+Kenji:
+What did it say?
+
+Sakuma:
+OZ's 2,056-digit security algorithm.
+It's supposed to be impossible to decrypt, but somebody punched through it in a single night!
+
+Kenji:
+Wait a minute! Two thousand fifty-six?
+What was the first number?
+
+Sakuma:
+Eight.
+
+Kenji:
+I did it; it was me after all.
+
+Sakuma:
+Excuse me?
+
+Kenji:
+I just assumed that it was some random math problem.
+
+Sakuma:
+So you went and solved it? Idiot!
+
+Kenji:
+I'm sorry.
+
+Kazuma:
+No way!
+
+Sakuma:
+Anyhow, I got you a guest avatar on that phone number.
+No privileges, but it's better than nothing.
+Use it to figure out what's going on. Okay?
+
+Kenji:
+I'm… a squirrel?
+
+OZ announcement:
+Greetings, citizens of OZ. Due to unforeseen circumstances, many of our services are currently offline.
+We apologize for the inconvenience.
+Greetings, citizens of OZ. Due to unforeseen circumstances, many of our services are currently offline.
+We apologize for the inconvenience.
+
+Kenji:
+Um, hey, pardon me. C-could you please stop using my avatar to cause trouble?
+This guy stole my OZ account! He's the one that ruined everything.
+I'm a victim of identity fraud!
+Who is this freak impostor anyway?
+You can't just go around doing whatever you like 'cause you're online.
+There're rules, you know.
+
+Sakuma:
+Battle mode? But this is a no-fighting area!
+You've got trouble. Collision detector parameters have been reset for all the avatar sprites.
+
+Kenji:
+Tell me that again like a normal person.
+
+Sakuma:
+OZ just turned into one giant cage match.
+That normal enough for you. Kenji? Now, run!
+
+Kenji:
+Hold on! We can talk this over. Let's talk it over!
+
+Kazuma:
+Block, dummy! He's turning you into a punching bag. Get out of the way!
+
+Kenji:
+I think that's--　
+
+Sakuma:
+King Kazuma!
+
+Kenji:
+Whoa! So you're…
+
+Kazuma:
+Stop talking to me. I'm trying to concentrate.
+
+Kenji:
+You got him now!
+
+Kazuma:
+This guy is nothing!
+
+Singo;
+Aha! Sir, the criminal's been found!
+
+Yuhei;
+Good work. Let's get him!
+
+Singo, Yuhei;
+You're going to jail!
+You're under arrest!
+
+Kazuma:
+Cut it out!
+
+Yuhei:
+That guy...
+
+Singo:
+...Got big.
+
+Kazuma:
+Damn it! Damn it! Damn it!
+
+Kazuma:
+Who are you?
+
+Yuhei;
+Hey, cool game!
+
+Singo;
+Yeah. I wanna play it.
+
+Kazuma:
+Don't touch anything!
+
+Singo:
+I'm telling!
+
+OZ announcement:
+KO! Challenger wins!
+
+Kenji:
+That was close.
+It probably would have eaten your avatar too.
+
+ ws:start:WikiTextHeadingRule:16:&lt;h6&gt; 
+Natsuki:
+One, two.
+Happy birthday to you, happy birthday to you. happy birthday, dear …
+Uncle Wabisuke, come and sing!
+
+Wabisuke:
+I'll pass.
+
+Naomi:
+Oh! Forget about him.
+
+Mao:
+Uncle?
+
+Wabisuke:
+Huh?
+
+Mao:
+What're you looking at?
+
+Wabisuke:
+Ladies with big boobs.
+
+Mao:
+What was your job in America?
+
+Wabisuke:
+Ninja.
+
+Mao:
+Yeah. Really?
+
+Sakuma:
+I think I figured out who's behind all this.
+
+Kenji:
+I, it isn't human? But that's not possible. What is it then?
+
+Sakuma:
+AI, you know. Artificial intelligence?
+Apparently someone was programming an AI designed for hacking at a robotic school in Pittsburg and somehow it got out.
+
+Kenji:
+It got out?
+
+Sakuma:
+Best part, it's called "Love Machine".
+
+Kenji:
+Love Machine?
+
+
+Announcer:
+Jeez, I wish this kid would give us a break already.
+
+Announcer:
+You can say that again. I paid too much for this cell phone for not to work.
+Fix it someone…
+
+Announcer:
+Seriously if …
+
+Yumi:
+If the Ryohei's team makes it to the national xxx all go to the hot springs. My treat, ladies!
+
+Women:
+Sounds good to me!
+
+Yumi:
+Huh, where have I seen him before?
+
+Rika:
+Natsuki, your boyfriend is a con artist!
+
+Shota:
+(?Leave) that guy this instant!
+
+Rika:
+Kenji is not from an old family. In fact his dad is just some random office worker!
+I checked him in OZ registry. Oh, and all that stuff about Tokyo U was a lie. According to the registry he is younger than you are!
+
+Shota:
+We got a fax sent to the police station. Look!
+
+Rika:
+And he never studied abroad. He probably can't even find the US on a map!
+
+Natsuki:
+I thought … Granny.
+
+
+Announcer:
+…prank or not, it's a very serious situation.
+And now for our next news story.
+
+The Arawashi asteroid probe failed to release its capsule as planed, confounding its designers.
+
+Kenji:
+Wow, these forum posts are brutal.
+But don't worry about it. It's just a game.
+
+Kazuma:
+It's not game. It's a sport.
+
+Kenji:
+Huh?
+
+Kazuma:
+Game's for people who don't care enough. In sports you compete to win.
+
+Kenji:
+Oh, I see.
+
+Kazuma:
+But it's different. It enjoys games; I could feel it. It likes to play.
+
+Kenji:
+Likes to play, huh? Which means he …
+
+
+Shota:
+Aha! Gotcha!
+
+Natsuki:
+Cat's out of the bag!
+
+Ryouhei:
+Yeah, the team at Sakuchosei high is no pushover, you know.
+But I honestly think when the dust clears, we'll be the champs.
+Ueda high school! Yeah!
+
+Mariko:
+Why on earth would you lie to us? And what are you thinking?
+Granny likes being lied to?
+
+Rika:
+I had my doubts about this trick through the moment he walked through the door.
+
+Naomi:
+Although we do have a Tokyo U grad from an old family who studied in America.
+If that's what you're looking for.
+
+Mariko:
+Wabisuke has all of those qualities.
+
+Rika:
+You're right, but why'd Natsuki …
+
+Naomi:
+Hold on. Didn't Natsuki used to be in love with …
+
+Mariko:
+Right! She always was especially fond of Wabisuke.
+
+Naomi:
+And she had a love-fortune told when she was in kindergarten
+
+Rika:
+She even wrote that essay for school. Remember? "My uncle and I."
+
+Rika, Naomi:
+Yeah!
+
+Natsuki:
+Nooo! Just stop it already! I'm begging you!
+
+Rika:
+At least we've got all that figured out.
+
+Shota:
+No focus, women!
+What's important is this guy is a wanted cyber criminal. Remember?
+
+Rika:
+He is right.
+
+Mariko:
+He can't stay here after what he's done.
+
+Naomi:
+Are you a cop, aren't you?
+Just arrest him. Problem solved.
+
+Shota:
+Huh? Oh, yeah. Checkmate!
+
+Yuhei:
+Wow!
+
+Shingo:
+Take him to jail!
+
+Yumi:
+Hey! Don't be rude!
+
+Shota:
+The time is twelve thirty. The cause of arrest, 'cause you … are … cyber…
+
+Sakae:
+Tell me Kenji. Is that you on TV?
+I don't know what sort of mischief they were talking about on the news just now.
+But was that really you in the photograph?
+
+Kenji:
+I didn't do it!
+
+Shota:
+Yeah, sure you didn't! Now come on! Son of a gun!
+
+Kenji:
+Er, hold on. Before he drags me out of here, I, I want to thank you for such a good time.
+
+Sakae:
+Be quiet!
+
+Kenji:
+You see, my father had to relocate for his job and Mom's job keeps her busy too.
+Most days I'm the only one home.
+Eating dinner with you all like a real family I never had a chance to do anything like that before.
+I liked it.
+Anyway thank you for having me.
+Well, everyone, glad to have met you.
+
+Jinnouchis:
+Likewise, Take care, kid.
+
+Kenji:
+Natsuki, Natsuki, I'm sorry.
+
+
+ ws:start:WikiTextHeadingRule:18:&lt;h6&gt; 
+Announcer:
+We're at the top of the fourth inning approaching. Jinnouchi of Ueda High School is...
+
+Yumi:
+Attaboy, Ryohei!
+Keep it up, baby. Give Mom a no-hitter!
+(?The other bunch) got nothing!
+What the...
+
+Announcer:
+We now interrupt your scheduled programming to bring this breaking news report.
+Communication with the Arawashi probe has been lost just moments ago during scheduled...
+Aerospace exploration agency, JAXA is looking into the malfunction.
+The latest problem in a series of...
+
+
+Yumi:
+Man! Enough with the stupid probe already!
+
+Mariko:
+Yumi dear.
+
+Yumi:
+Yeah!
+
+Mariko:
+We are going to have lots of relatives today.
+Come and help your mother. Baseball can wait.
+
+Yumi:
+Okay.
+
+Kenji:
+Too bad you don't have a siren on this thing.
+
+Shota:
+Shut up!
+
+Kenji:
+Yes sir.
+
+Shota:
+Hey!
+
+Kenji:
+Yes?
+
+Shota:
+It's green, right? Why are we just sitting here?
+
+Kenji:
+I'm sorry.
+
+Mariko:
+Huh? You won't be here? Why?
+
+Yukiko:
+Because my GPS is broken. I'm somewhere in Saitama, but this screen insists I'm in Hokkaido.
+And it's wall-to-wall traffic so I really can't even give you an ETA.
+
+Mariko:
+Her birthday is the day after tomorrow. This is no time to be vague!
+
+Yukiko:
+Mom, don't freak out.
+My husband will take the bullet train into Ueda tonight. Just let Natsuki know.
+
+
+Announcer:
+A solid hit into the infield and he's rushing to the first and he's safe!
+
+Kazuo:
+Sorry, but I, I don't think that I'll be able to leave Tokyo today.
+
+Mariko:
+Ah, you too! Why not?
+
+Kazuo:
+Apparently someone's been messing with the pressure in the water mains. [mess with:干渉する]
+If we don't get through this harsh time quick, the underground gas and power lines will be in danger too.
+I swear I'll be in the first bullet train tomorrow morning.
+Be sure to let Natsuki know for me, okay?
+
+Mariko:
+You'd better be. We've been planning this for ages. This is no time to let work interfere.
+
+
+Ambulance:
+Move away folks, ambulance coming through!
+
+
+Noriko:
+You can't come home? What's up?
+
+Yorihiko:
+All the old folks in town are clutching their emergency alert buttons like they're playing pachinko with them.
+But when we check it out, they're all fine.
+
+Nana:
+What? Suwa too?
+
+Kunihiko:
+We responded to an alarm, but when we got here just now, we couldn't find anything on fire.
+It's been like that all morning long!
+
+Yumi:
+Wait! Weren't you on the night-shift?
+
+Katsuhiko:
+Yeah, but the calls are coming in nonstop.
+Haven't had a chance to clock out yet. [clock out:退勤時間を記録する]
+Though I'm sure that this one's as bogus as the rest of 'em.
+
+Mansuke:
+You are telling me my boat docked in a wrong port?
+
+Kiyomi:
+So Nagoya's nuts too? Can't you make it somehow?
+Kazuma's waiting for you.
+
+Mansaku:
+Turned back home?
+Only got to Sendai? Nature called? Oh, say no more then, say no more!
+Don't you worry about me.
+
+Naomi:
+Yeah, okay. I'll go tell Aunt Mariko.
+Hey, Uncle Katsutoshi in Matsuyama is …
+
+Mariko:
+Dreadful! Why can't anybody make it here?
+What is going on?
+
+Announcer:
+Another four ball! It's bases loaded, no out.
+It's three to three.
+Pitcher Jinnouchi is in a tough spot now.
+
+Shota:
+Damn it! This is bullshit! My lunch break's about to be over.
+Huh?
+
+Natsuki:
+Turn around! It's jammed for 60 kilometers.
+
+Shota:
+The only reason I'm doing this is 'cause Natsuki asked me to. Okay?
+
+Natsuki:
+Why is this all happening?
+
+Riichi:
+It might be terrorism.
+
+Natsuki:
+Huh?
+
+Wireless:
+"We're still trying to gauge the full scope of this threat …"
+
+Naomi:
+Welcome back!
+Wait a minute! What are you doing back here?
+
+Kenji:
+Traffic was really bad.
+
+Noriko:
+Did you forget something?
+
+Kenji:
+No. I just… he he …
+
+Mansuke:
+Listen! Unplug the boat's GPS system and tell the other fishers.
+
+Mariko:
+What about the ladder performance Yorihiko was going to do?
+
+Mansuke:
+I think you'll have to take a rain check.
+
+Mariko:
+I ordered just the right number of red and white steamed buns for everyone.
+
+Mansaku:
+Probably won't even get here, problem solved
+
+Mariko:
+Bite your tongue! Some of us have been working hard all day getting ready, while others laze about and read the paper.
+
+
+ ws:start:WikiTextHeadingRule:20:&lt;h6&gt; 
+Sakuma:
+Love Machine is totally behind all of this.
+With that password, it can take over as many accounts as it wants.
+
+Natsuki:
+Huh? Accounts?
+
+Kazuma:
+People's online accounts, in OZ.
+
+Sakuma:
+They do everything via OZ these days, so accounts have the same powers as their real-world users.
+Steal an account from the water department manager and the pipes are yours to control.
+Steal a JR employee's account and you can mess with the train schedules.
+There are over a billion registered users. Institutions around the world rely on OZ to get things done.
+
+Kazuma:
+People put all their privileges online, 'cause they thought that it'd be safe.
+
+Sakuma:
+Exactly! Maybe it even grabs the President's account and fires a couple of nukes.
+
+Kenji:
+What?
+This is all my fault. I did this!
+
+Shota:
+Then... I'm so re-arresting you!
+
+
+Announcer:
+The widespread traffic across the nation is hindering the progress of emergency vehicles.
+All drivers are asked to clear a path for them, whenever the situation they clear a route to .. Again…
+
+
+Sakae:
+Oh, what a mess!
+This isn't just some computer problem, it's more like a war!
+
+Kana:
+What's a war?
+
+Sakae:
+People are going to die if we just sit around on our hands!
+
+Yorihiko:
+Ambulance Five. Huh? Granny? But... how'd you get this number?
+
+Sakae:
+Yorihiko, get out there and check on as many senior citizens as you can. Got it?
+Don't lose heart, Kunihiko! Show the world the Jinnouchi spirt!  [lose heart:へこたれる]
+This is a war, Katsuhiko! And you'd better believe your granny's gonna do her part!
+
+Katsuhiko:
+This is a what?
+
+Sakae:
+Hey, Kan, it's Sakae. Don't think we've talked since Nori's funeral.
+Since both our families served the Takeda clan back in the day, I thought I'd ask how the Ministry is responding to this mess.
+Come again!? You mean you haven't done anything yet?
+Then get off your ass!
+
+Sone. Even retired people will be a help!
+Now be a dear and call up as many medical professionals as you can to assist the fire department.
+That non-profit your idiot son set up has a tax shelter that actually'll help people for once!
+
+Iitomi, the most important thing is that people keep the lines of communication open, like they did back in the day!
+You of all people understand how important that can be.  [you of all people(すべての人の中で)特にあなたは]
+
+Well, Sen, of course it's your decision to make.
+We'll need a lot of help, and help is expensive, but people's lives can't be replaced.
+
+Oh heavens no, I wouldn't call it that. Consider it an old woman's humble request.
+Naki, please! That's all water under the bridge by now, right?  [that's all water under the bridge: もう済んだことだ]
+I mean it's been over 50 years since I punched you!
+
+Look, thousands of people need your help. If you're not going to rise to the occasion now, when will you?
+Don't you ever give up! If you remember nothing else, remember that.
+I'm asking because this is something only you can do.
+I'm sure you'll do just fine. You betcha you can!
+Yes, that's the spirit! Now…
+
+Shota:
+That guy on the phone, Obata, he's my police commissioner!
+
+Natsuki:
+Whoa!
+
+Kenji:
+I get it. Your granny is motivating everybody.
+
+Sakae:
+No, I am not hard of hearing!
+If you bothered to put in your dentures and enunciate I would have heard you first time!
+"Feeble old woman"? Look who's talking!
+
+Sakuma:
+All the OZ engineers are on duty, but we still can't make our way into the admin building.
+Type in some nonsense password. A caution screen should pop up, followed by a code.
+
+Natuski:
+So all that... is a code?
+
+Sakae:
+I know you can do it! Of course you can!
+
+Shota:
+Who is this guy, Natsuki?
+
+Natuski:
+Our national rep at the Math Olympics.
+
+Kenji:
+Well, first runner-up at least. [runner-up: 次点(者）、補欠]
+I got it!
+
+Natuski:
+Yeah! We're in!
+
+Sakuma:
+Good news, Kenji!
+
+Kenji:
+Huh?
+
+Sakuma:
+I checked out the security log. You see these of the fifty-five folks around the world who broke the code last night.
+Turns out that a certain Kenji Koiso isn't on the list!  [certain:とかいう人]
+
+Kenji:
+But why not?
+
+Sakuma:
+Ah! 'Cause somebody got the last letter wrong.　Aww, boo-boo!
+
+Shota:
+That sucks! So you're not a criminal?
+
+Sakuma:
+Everyone who replied had their avatar jacked, right answer or not.
+Jeez! Give me a smile already. At least you got it right this time around.
+
+
+Reporters:
+A very chaotic day for Japan to be sure and we're still receiving reports from the various prefectures.
+
+Similar problems are reported throughout the world; all caused by the spontaneous generation of accounts and the subsequent system errors that would occur.
+However, some technology experts remain adamant that the unauthorized use of OZ accounts is technologically impossible.
+We're pressed to provide anther explanation for OZ's current trouble.
+
+It's day 10 of this year's Nagano High School Baseball Tournament.
+A week and a half into the action and we've already seen some players...
+
+Yumi:
+Quiet! We're gonna find out!
+
+Announcers:
+After an absolute slugfest between Ueda High and Saku Chousei for a slot in tomorrow's finals, a winner finally emerged.
+Congratulations go out to Ueda High!
+
+Yorihiko:
+He allows thirty hits and they win? Amazing!
+
+Katsuhiko
+You know, when he thinks he's gonna lose, it's written all over his face.
+
+Kunihiko
+Like father, like son.
+
+Yorihiko:
+Natsuki, when are your parents getting here?
+
+Natuski:
+Well Dad's pulling an all-nighter fixing the water pipes and Mom's still in Saitama.
+She ended up crashing at a business hotel.
+
+Yorihiko:
+Gotcha. I'm glad they're okay.
+
+Kunihiko
+Y'know, if Granny hadn't called everybody up and raised a little hell, things would've been a lot crazier out there today.
+Ain't that right, Granny?
+
+Sakae:
+Raised a little hell? I don't know what you mean.
+
+Katsuhiko:
+Suuure!
+
+Kunihiko
+No other grandma's that awesome.
+
+Katsuhiko:
+Best one in Japan!
+
+Sakae:
+Silly boy.
+Kenji, I hear tell you worked especially hard today. 　　　[hear tell:話によれば]
+
+Kenji:
+Huh? Not really, no!
+
+Jinnouchi:
+Natsuki's boyfriend helped out?
+
+Shota:
+He's not her boyfriend!
+
+Jinnouchis:
+Apparently he fixed the problem with OZ.
+Whoa, not that for a high school kid!
+Yeah. He's a math wiz.
+Way to Go, boyfriend!
+
+Shota:
+Are you deaf? He's not her boyfriend!
+
+Jinnouchi:
+Neither are you, Shota, so chill out.
+
+Announcer:
+And more on the xxx　concerning the issue plagued OZ.
+Although OZ is up and running again, the inconvenience continues for at least two million users across Japan whose online accounts have been rendered unusable.
+The Ministry of Internal Affairs and Communications is advising against OZ use until the source of this problem has been found and dealt with.  [advise against OZ use :オズを使わないよう勧める]
+
+Mariko:
+What's going on?
+
+Rika:
+OZ xxx ...
+
+Kenji:
+It's because we …
+
+Kazuma:
+It's because we haven't beaten Love Machine yet.
+
+Kenji:
+Exactly.
+
+Natsuki:
+Love Machine?
+
+Tasuke:
+Like the song, or what?
+
+Kazuma:
+It's an account-stealing AI.
+
+Jinnouchis:
+That's one mean-looking avatar.
+No question that one's a bad apple.
+This thing caused all that trouble today?
+
+Mansuke:
+The news shows aren't mentioning him.
+
+Kazuma:
+It's only a matter of time, Sensei.
+The online world is huge, and people who've seen him are starting to band together.
+If we can work as a team and pool our info, we should be able to beat him.
+
+Wabisuke:
+That's very kumbaya, but it's not gonna work.
+
+Kazuma:
+Oh yeah!? How do you know?
+
+Wabisuke:
+Fair question.
+Well because... Love Machine was programmed by me.
+
+Kazuma:
+You created Love Machine?
+
+Wabisuke:
+Yeah, I developed an AI, tailor-made for hacking.
+
+ ws:start:WikiTextHeadingRule:22:&lt;h6&gt; 
+Wabisuke:
+Really what I did was very simple.
+I infused a program with the desire to learn. [infuse ~ with : ~にーを注ぎこむ]
+It has a major jones for knowledge.
+Then the military brass dropped in and offered to buy it for some serious coin, provided I let them give it a test run. [serious coin：大金]
+I never figured they'd use OZ as their Petri dish.
+The results are pretty damn amazing.
+It's operating on encoded instinct, gathering information and user privileges around the globe.
+Love Machine's as strong as a million-man army now.
+See? that's why you can't defeat it.
+
+Katsuhiko:
+Do you know how many people were affected by this?
+Or how much damage you've done to our society?
+
+Wabisuke:
+I'm innocent.
+If you're mad, go yell at Love Machine.
+
+Katsuhiko:
+It's your creation and it's putting people's lives in danger!
+
+Wabisuke:
+It's like I'm talking to a wall.
+Look, the AI…
+
+Katsuhiko:
+Yeah, keep trying to talk your way out of this!
+
+Jinnouchi:
+Stop it!
+
+Katsuhiko:
+Don't you dare pretend that all this garbage isn't your fault!
+
+Jinnouchi:
+Hey! Calm down!
+
+Wabisuke:
+Look you idiot, listen to me! How many times do I have to say it!?
+I only developed the damn thing, it isn't like I told it what to do!
+
+Katsuhiko:
+That's bull--! [Katsuhiko was going to shout "That's bullshit!", but he gets cut off.]
+
+Jinnouchi:
+Both of you, stop fighting in front of Granny!
+
+Sakae:
+Wabisuke.
+
+Women:
+What's going on?
+Hey, what's all the noise about?
+Shh!
+
+Wabisuke:
+Granny, you understand, don't you?
+Sorry for all the trouble, honest.
+These last couple of years I've been working hard, because I wanted to come back home and have you be proud.
+Read it. See, Granny? The US Army decided to buy Love Machine.
+We'll have money again, like when Gramps was alive, but even more.
+And I never could have done it without you.
+After all, that money you gave me funded my project every step of the way.
+
+Mariko:
+Mother!
+
+Natsuki:
+Look out!
+
+Sakae:
+On your feet, and die like a man!
+
+Wabisuke:
+I never should have come back here.
+
+Natsuki:
+Uncle!
+
+Sakae:
+Natsuki!
+All right, everybody.
+Our family tends to its own messes and this one is no different.
+
+
+Kenji:
+Natsuki?　Natsuki, wait!
+
+Natsuki:
+Leave me alone!
+I have enough to deal with.
+
+
+Sakae:
+These legs of mine used to be a lot more cooperative back in the day.
+
+Kenji:
+Uh, maybe you overdid it a little bit.
+
+Sakae:
+Oh, thank you, son.
+
+Kenji:
+Well, I should get back to the cleaning, okay?
+
+Sakae:
+Tell me. Have you ever played Hanafuda?
+In years pasｔ, we always used to play as a family.
+But now everyone's so spread out and busy with their own lives.
+You can go first.
+
+Kenji:
+Okay.
+
+Sakae:
+And I'm sorry you had to endure a little family drama earlier.
+
+Kenji:
+It's fine.
+
+Sakae:
+And Natsuki's foolishness, honestly.
+
+Kenji:
+Koi Koi, ma'am.
+
+Sakae:
+Very good.
+
+Kenji:
+Thank you very much.
+
+Sakae:
+So if I should win, what do I get for my troubles?
+
+Kenji:
+Huh?
+
+Sakae:
+Doesn't pack much of punch, if you don't make a wager.
+Oh, look! Koi Koi! Here it is.
+If I beat you at Hanafuda, you swear to take good care of Natsuki.
+She's the kind of silly goose who'd rope some nice boy into being her pretend fiancé.
+But if you could look beyond that, I'll ask you again.
+Please, Kenji, take good care of Natsuki.
+
+Kenji:
+I don't... really believe in myself: you should change your bet.
+
+Sakae:
+I know you can do it, Kenji.
+
+Kenji:
+...I'll try, ma'am. That's the best I can do.
+
+Sakae:
+Looks like I've still got it.
+
+
+ ws:start:WikiTextHeadingRule:24:&lt;h6&gt; 
+Mariko:
+Mansaku, hurry!
+
+Mansaku:
+I'm coming!
+
+Mariko:
+Hurry, please!
+You have to help her!
+
+Natsuki:
+Granny, Granny, wake up!
+
+Mariko:
+Mother!
+
+Natsuki:
+Granny, no!
+Please help her!
+
+Jinnouchi:
+Let me try.
+
+Mansaku:
+That's enough.
+
+Mariko:
+No, Katsuhiko, don’t you stop!
+
+Mansaku:
+Mariko.
+
+Natsuki:
+Keep trying!
+
+Mansaku:
+Looks like everyone's here.
+Five twenty-one AM.
+Mom had angina.
+She took nitrates for it.
+I use this to keep track of all her vitals, heart beat, BP, temperature.
+The minute that anything went wrong, this alarm should have notified me.
+But it stopped receiving the data late last night.
+
+Jinnouchi:
+Because of OZ being down.
+
+Kenji:
+Someone who works for that health alarm company must have had their accounts stolen.
+
+Mansuke:
+Wait! If OZ had been working, she'd be okay?
+
+Mansaku:
+Maybe it was just her time.
+
+Mansuke:
+She had plenty of time left here, damn it!
+Where's Wabisuke!?　I'm gonna wring his worthless neck!
+
+Jinnouchi:
+Who can tell? He sped out last night in Shota's car.
+We don't even have a phone number; I mean he was gone for ten whole years.
+
+Mansuke:
+Damn it!
+
+Yumi:
+Sorry, sorry.
+
+Natsuki:
+Make them stop. My tears. Hold me right here. Please, Kenji.
+
+
+Announcer:
+And now for our top story.
+Ten million users worldwide are unable to access their OZ accounts as the result of the system-wide errors that brought the Internet to a halt yesterday.
+
+Katsuhiko:
+Have you called Ryohei yet to tell him?
+
+Yumi:
+I will, after his championship game today.
+
+Katsuhiko:
+That makes sense.
+
+Mariko:
+We're going to be very busy today. Noriko, Yumi, Nana, my dear, you three will be in charge of the kitchen.
+Hope we have enough sake to get us through the wake.
+Mansaku, go make arrangements with the temple.
+Yorihiko and the others, you contact the neighborhood and commerce associations.
+Choose a family liaison. Everyone got that?
+
+Mansuke:
+There's something we gotta do before all that other crap!
+
+Rika:
+Mom! The red - white party buns, of course.
+
+Mariko:
+Aha! I need to change that order to funeral buns.
+
+Mansuke:
+I ain't talking about the damn buns! I'm talking revenge!
+We're gonna destroy that AI thing!　Well, aren't we?
+
+Mariko:
+Oh! Honestly…
+
+Mansuke:
+What'd you say?
+
+Mariko:
+It's true what they say about the youngest child in a family.
+
+Mansuke:
+That's got nothing to do with it!
+The Jinnouchi family's never run from a fight, and we ain't startin' now!
+
+Naomi:
+Dad, you have to calm down. Don't declare war right before Granny's funeral.
+
+Mansuke:
+You kidding me? Come on, we can dedicate our victory to her memory.
+
+Kenji:
+Um... I agree with him.
+I never would have guessed the problem inside OZ could cost someone their life, but that's exactly what happened.
+That thing's dangerous. What's to stop it from doing the same thing to someone else's family tomorrow, or maybe the next day?
+That's why we need to stop it. Alone if we have to.
+
+Naomi:
+What? Kid, you've got a lot of nerve!
+
+Kenji:
+Look! All I'm saying is we need to make sure this isn't going to happen some …
+
+Naomi:
+How dare you spout such nonsense in the middle of our home!
+
+Kenji:
+Huh? N, no! I …
+
+Naomi:
+You want us to worry about other people right now?
+We've got our own troubles, thank you very much!
+
+Kenji:
+I just thought that …
+
+Mariko:
+All right. Let's go!
+
+
+Mansuke:
+Cowards! The lot of them! And they call themselves members of the Jinnouchi clan?
+
+Tasuke:
+I understand how you feel, Dad.
+But you gotta act your age once in a while.
+
+Mansuke:
+Oh, you're a fine one to talk.
+
+Kenji:
+I'm sorry. It wasn't my place to butt in. [butt in：出しゃばる]
+
+Riichi:
+No, that needed to be said. You have to protect others in order to protect yourself.
+
+Tasuke:
+That the Self Defense Force motto?
+
+Riichi:
+Not exactly. I just lifted it from Seven Samurai.
+
+Kazuma:
+Uncle Tasuke.
+
+Tasuke:
+Hm?
+
+Kazuma:
+Your store sells computers, right?
+
+Tasuke:
+Of course.
+
+Kazuma:
+You have anything better than this?
+
+Tasuke:
+Yeah, you bet I do.
+
+Kenji:
+Kazuma?
+
+Kazuma:
+I want to know how to take out Love Machine.
+It's time for a rematch.
+
+
+Mariko:
+I can't believe that Mansuke! Xxx when there's so much to do!
+
+Naomi:
+Ah, this is tougher than I thought.
+
+Rika:
+Hold on. How about this one?
+
+Mariko:
+Oh! From when the governor gave her that medal.
+
+Naomi:
+It's perfect!
+
+Mansuke:
+In the year sixteen hundred, Tokugawa Hidetada invaded Ueda-chiisagata with the thirty-eight thousand man army.
+We only had two thousand men of which defended them off but we carried the day sure as I'm sitting here.  [carry the day:勝利する]
+
+How we do it? We baited the enemy, lured them in almost to the heart of the castle with the false retreat then closed the gates behind them.
+It was like shooting fish in a barrel.
+Outsmarted and entrapped by the crafty Jinnouchi, the Tokugawa army sued for peace.
+That's how the family survived the Second Ueda War.
+That help any?
+
+Kenji:
+If it works then it can work now.
+
+Tasuke:
+Right. Then that's the plan.
+
+Kenji:
+Sakuma, it's me.
+
+Sakuma:
+Dude, what do you want? I'm sleeping.
+
+Kenji:
+Time for a battle!
+
+Rika:
+We can put this next to her pillow. What do you think?
+
+Mariko:
+Yeah, that'll be nice.
+She died looking peaceful. I didn't notice that at first.
+
+Rika:
+Definitely.
+
+Tasuke:
+Oh, men. So how is this gonna fit?
+
+Kenji:
+Whoa! Do you even sell supercomputers?
+
+Tasuke:
+That xxx shop is just something I run on the side.
+Most of my orders come in from government agencies and large schools.
+This particular beau's going to university.
+
+Kenji:
+Are you sure it's okay to use it like this?
+
+Tasuke:
+Hey, don’t worry about it. Consider this a test drive.
+
+Kenji:
+So why are helping me?
+
+Tasuke:
+I don’t know. Maybe I liked the way you stood up to Mariko and the others.
+While the rest of us just sat there and I think you really impressed Kazuma.
+Our family's full of take-charge women. The men have gotten a little passive.
+Now, where's that outlet?
+
+Mansuke:
+Coming through, people!
+Glamour ship isn't she?
+Drove it in from Nigata at two hours flat. Good for up to three hundred kilowatts easy.
+Oh, almost forgot! It needs water to cool it.
+
+Tasuke:
+Okay…
+
+Kenji:
+What's that on the back?
+
+Riichi:
+Ah, just a millimeter-band antenna module.
+Courtesy of the military base in Matsumoto.
+
+Kenji:
+Riichi, what exactly do you do in the self-defense force?
+
+Kenji:
+Sorry, that's classified.
+
+Rika:
+All the men in our family are idiots. All of them!
+
+Mariko:
+Xxx voice!
+Let's play the quiet game. Okay?
+
+Kids:
+Okay…
+
+ ws:start:WikiTextHeadingRule:26:&lt;h6&gt; 
+Jinnouchi:
+Is it all right? It's just sitting around.
+
+Mansaku:
+We are in mourning. Try to be patient.
+
+Jinnouchis:
+Three days is too long.
+Yeah, I feel guilty. I can't stop thinking about work.
+
+Mansaku:
+Just forget about work for a little while.
+
+Jinnouchis:
+Can't do it.
+Granny always said helping out the people was the best way to spend your time.
+Uh-huh.
+
+Kenji:
+Listen, something important is going down at the house.
+
+Naomi:
+Oh, this is tasty!
+
+Nana:
+You know, this would go a lot faster, if all three of us were working.
+
+Naomi:
+No can do. Too delicious to stop!
+
+Yumi:
+Ah! What time is it? It's starting!
+
+Nana:
+Wait, Yumi!
+
+Kiyomi:
+Kazuma, clean clothes!
+
+Kazuma:
+Later, Mom!
+
+Kenji:
+It's like I'm watching King Kazuma in real life.
+
+Kiyomi:
+He used to get bullied pretty badly, when he was younger.
+His grandpa, Mansuke wanted to try to help him out so they got together in OZ and he taught him Shaolin kung fu.
+
+Kenji:
+That explains the Sensei thing.
+
+Riichi:
+Hey, hands off! Those things are not for playing with!
+
+Shingo:
+We aren't playing with these.
+
+Yuhei:
+We are just looking.
+
+Tasuke:
+My big concern is overheating. This house isn't set up with AC.
+
+Mansuke:
+Well, there's plenty of ice on the boat; follow me.
+
+Kazuma:
+LCDs have too much delay. You got any high-def CRT monitors?
+
+Tasuke:
+Coming right up!
+
+Sakuma:
+What kind of house do you guys have?
+
+Kazuma:
+A regular one. Why?
+
+Sakuma:
+That's a 200 TFLOPS (two hundred tera flops) supercomputer with 100G (one hundred giga), millimeter band connection.
+That is not the kind of breed you just buy off the shelf, you know.
+
+Kenji:
+We want to issue a challenge.
+
+Sakuma:
+What? To the AI?
+
+Kenji:
+Post "Hey, Love Machine, guess who's back. Now you have to deal with King Kazuma, two point o"
+
+Sakuma:
+Why are you saying something like that?
+
+Kazuma:
+I am, because I'm King Kazuma.
+
+Sakuma:
+Funny, kid. Wait!
+
+Kazuma:
+Sensei.
+
+Mansuke:
+Yeah?
+
+Kazuma:
+Can I beat it?
+
+Mansuke:
+Not my place to say; you decide that for yourself.
+You're a man now.
+
+Kazuma:
+Even though I'm in junior-high?
+
+Mansuke:
+You are going to be a big brother soon.
+
+Kazuma:
+Not like I had a say in it; I didn’t ask for a little sister.  [have a say in ~: ~に口出しできる]
+
+Mansuke:
+Siblings aren't as bad as all that.
+Sure you'll only get half the snacks; you'll fight like cats and dogs and they'll always drive you nuts but aside from those, hey, …
+
+Kazuma:
+What?
+
+Sakuma:
+T-minus one minute! [T-minus 時間: 主にNASA、米軍等で使用されるカウントダウン表記]
+
+Riichi:
+Ready here. Tasuke?
+
+Tasuke:
+I was born ready.
+
+Kenji:
+You win this time!
+
+Mansuke:
+Give it your all!
+
+Kazuma:
+Let's do this!
+
+ ws:start:WikiTextHeadingRule:28:&lt;h6&gt; 
+Announcer:
+After a long struggle this year to the regional championship game, Ueda High faces the indomitable Matsusho Academy.
+They're one win away from making it to their first national tourney in twenty-four years.
+
+Commentator:
+That said, Matsusho isn't going to just hand it to them; they're tough team to beat.
+Both schools had better give this one their all.
+[xxx]
+Enough talk! It's time to get this game underway!
+
+Yumi:
+Oh, Granny, please watch over Ryohei!
+
+Sakuma:
+He's showed up!
+
+Kenji:
+Watch out! Go! Get him!
+
+Sakuma:
+Oh, men! That kid is fast!
+
+Kazuma:
+Focus!
+
+Sakuma:
+Don't lose him!
+
+Kenji:
+Stick to the plan, Kazma!
+
+Kazuma:
+I can take him. Just you watch!
+
+Tasuke:
+Oh, no! He's controlling stolen avatars!
+
+Riichi:
+Love Machine can do that?
+
+Kenji:
+Kazuma, get out of there now! Run away!
+
+Kazuma:
+Sensei!
+
+Mansuke:
+Run while I get him occupied!
+
+Kazuma:
+Sensei!
+
+Mansuke:
+Don't worry about me. Just lure him into the spot!
+
+Riichi:
+He took the bait.
+
+Kenji:
+Sakuma!
+
+Sakuma:
+We got you now!
+
+Mansuke:
+We did it, Granny! And all thanks to Kazuma!
+
+Kenji:
+Now, Yorihiko! Go for it!
+
+Jinnouchis:
+Yeah! Just leave it to us.
+Those thirty years of video games are gonna come in handy!　　[come in handy:役に立つ]
+I haven't been playing much lately, but I'm gonna burst out some slick moves for old times' sake!
+
+Tasuke:
+Yeah!
+
+Riichi:
+Right on!
+
+Yuhei:
+Wow! Is that Daddy's avatar?
+
+Mansuku:
+Yep!
+
+Shingo:
+I want that avatar too.
+
+Mao:
+Daddy's cool, isn't he?
+
+Kana:
+Duuddy!
+
+Announcer:
+… three runners are on base to take the lead!
+
+Nana:
+Yumi, please.
+
+Sakuma:
+Got trapped like a rat. 　Scurry all you want. It's over.
+Huh? What's going on?
+
+Kenji:
+What? The trap's coming apart!
+
+Tasuke:
+No! That shouldn't be possible!
+
+Sakuma:
+Tasuke, behind you!
+
+Kenji:
+What?
+
+Tasuke:
+What is it?
+The mother-board's frying!
+
+Kenji:
+It's what?
+
+Tasuke:
+What happened to all the ice?
+It was a freezer in here before!
+
+Mao:
+Cousin Shota carried it away.
+
+Men:
+What?
+
+Shota:
+Here we go! Nice and cool for you, Granny.
+Saying this is the hottest day we've had all year.
+
+Announcer:
+Bottom of the ninth, two outs and Ueda's pitcher Jinnouchi is having a meltdown on the mound!
+
+Commentator:
+I do not envy this kid right now.
+
+Announcer:
+Matsusho Academy's line-up is …
+
+Yumi:
+Ryohei!
+
+Mariko:
+Natsuki dear, help me write up this list of guests for the funeral. Natsuki?
+
+Natsuki:
+Okay.
+
+Sakuma:
+Wow, those're all the accounts Love Machine stole! Over four hundred million!
+
+Kenji:
+Come on, Kazuma, get out of there! Go!
+
+Shota:
+Weren't you, good-for-nothings sitting around, playing a game?
+I'm keeping poor Granny cool, no thanks to you!
+
+Kazuma:
+This is your fault.
+
+Shota:
+Huh? why not spit it out?
+
+Kazuma:
+This is your fault!
+You idiot!
+
+Kenji:
+Kazuma, stop it!
+
+Shota:
+What the hell, Kazuma?
+
+Kenji:
+Shota, are you okay?
+
+Shota:
+Ever since you got here, everything sucks!
+Natsuki acts like an idiot.
+Granny dies because of OZ.
+Now, Kazuma xx up and hits me!
+
+Kenji:
+Shota, I …
+
+Sakuma:
+What's it doing? The World Clocks!
+
+Kenji:
+They're getting wrong!
+But what happens at zero?
+Wait! Aren't those nuclear reactors?
+
+Riichi:
+We have a problem.
+According to the chatter on the US intel frequencies, the Arawashi asteroid probe has veered off its old obit.
+It's headed straight toward the Earth.
+
+Jinnouchis:
+Earth?
+
+Riichi:
+With its onboard GPS system that probe could target any location on the planet.
+If the Arawashi is under Love Machine's control…
+
+Kenji:
+Then, That's the time until …
+
+Riichi:
+Until the Arawashi hits one of the more than 500 nuclear facilities throughout the world.
+
+ ws:start:WikiTextHeadingRule:30:&lt;h6&gt; 
+Announcer:
+The score is tied, folks! Going into extra innings. The heat is on. They don't call this sudden-death for nothing.
+
+Commentator:
+Whoever wins this is going to the national tournament. That Ueda pitcher has to be feeling the pressure.
+
+Announcer:
+If you remember, it's not like he came into this game well rested!
+
+Commentator:
+Very true!
+This is on top of the fifteen innings he pitched in yesterday's game.
+Jinnouchi is a great pitcher definitely but he is only human.
+How much can this groggy young man from Ueda high possibly have left to give?
+
+Yumi:
+Oh, Ryohei!
+
+Announcer:
+Somebody's gonna make a mistake and that'll be game over.
+
+Jinnouchis:
+Yeah, that one. This ..
+That's …
+A letter from Granny!
+Natsuki! Where are you going?
+Where are you rushing off to? Natsuki!
+What's going on?
+Come back!
+
+Natsuki:
+Everyone!
+
+Kazuma:
+A game? You calling the end of mankind a game?
+No, you… you're kidding.
+
+Riichi:
+From Love Machine's perspective, it might as well be.
+He is not doing this out of the sense of hatred or malice.
+Sounds like the US army isn't any better prepared for this.
+They never imagined letting that AI jinni out of the bottle could come back to bite them so catastrophically.
+It's one meter in diameter, traveling at seven kilometers a second.
+It'll strike with the force of a ballistic missile.
+If it does hit a nuclear reactor, the fallout will cover a huge area.
+The loss of life will be unfathomable.
+
+Kazuma:
+What'll we do?
+
+Riichi:
+Thirty-eight percent of all OZ accounts worldwide have been stolen so far.　That's four hundred and twelve million.
+We need to take back whoever's account controls the probe's GPS system.
+We have two hours.
+
+Kazuma:
+Take back four hundred and twelve million accounts in two hours?
+Are you crazy?
+
+Riichi:
+Maybe, but there's no other way.
+
+Kiyomi:
+Kazuma, honey, what's happening?
+I mean this isn't real, right? It's just a game, isn't it?
+
+ ws:start:WikiTextHeadingRule:32:&lt;h6&gt; 
+Sakuma:
+Kazuma, no! You don’t' stand a chance! [not stand a chance:勝ち目が無い]
+
+Kazuma:
+Shut up!
+
+Jinnouchis:
+I'm sorry. Granny, I couldn't protect Mom…nor my sister.
+
+Jinnouchis:
+There's a …another person who could help us, maybe.
+Yes, Wabisuke but I …
+There's no reason to think he will come back.
+
+Kenji:
+It's not over yet.
+
+Natsuki:
+Kenji, what are you …
+
+Kazuma:
+He beat us.
+
+Kenji:
+Not yet, he hasn't.
+
+Kazuma:
+Love Machine beat us!
+
+Kenji:
+Not unless we sit here and let him.
+There's gotta be something we can do; just think!
+
+Shota:
+Give it up, math nerd! This isn't a long division.
+
+Kenji:
+What's the difference?
+Quitting won't do you any good; you gotta work for an answer!
+
+Shota:
+We …
+
+Mariko:
+Natsuki!
+
+ ws:start:WikiTextHeadingRule:34:&lt;h6&gt; 
+Wabisuke:
+Clever girl, Natuki. So how'd you find me?
+
+Natsuki:
+Where are you?
+
+Wabisuke:
+Does it matter?
+How'd you figure out my phone's pass code anyway?
+
+Natsuki:
+You need to come home.
+
+Wabisuke:
+Granny put you up to calling, didn't she?　 [put ~ up to: ~ に示唆して…させる]
+
+Natsuki:
+Wait.
+
+Wabisuke:
+I'm not going back, Natsuki.
+As long as she's living there, that house doesn't exist to me.
+
+Natsuki:
+Just listen, okay?
+
+Wabisuke:
+If I had known it was her birthday, I wouldn't have come back in the first place.
+
+Natsuki:
+Uncle, she …
+
+Wabisuke:
+Look, you tell her that I …
+
+Natsuki:
+Can you shut up and listen for once in your life?
+
+Wabisuke:
+What's going on?
+
+Natsuki:
+Granny is dead, Wabisuke.
+She had a weak heart. Uncle Mansaku had her on a monitor, but with OZ on messed up, it didn't work.
+
+Wabisuke:
+You telling me that Granny is dead?
+
+Natsuki:
+You lied last night; you didn't forget her birthday.
+It's your pass code, o-one-o-eight, August first.
+You came home to see Granny.
+I know you did.
+So please, come home again to say goodbye.
+
+"Sakae":
+To my family.
+First, take yourselves a deep breath.
+Crying and carrying on doesn't help anything.
+Make my funeral arrangement a simple affair, just our close friends.
+And then go back to your day-to-day lives.
+I don't have anything to leave you in the way of an inheritance.
+That said I'm sure my old acquaintances will keep an eye on the Jinnouchi family.  [that said: とは言っても]
+No need to worry, my dears.
+You've always been hard workers and I know you'll keep it up.
+And grant me this; if Wabisuke should ever make his way back home, he's been gone ten years and counting now. [and counting: 以上も]
+So who's to say if that day will ever come?
+But if he does, I'm sure he'll be hungry.
+He never took proper care of himself, then probably won't have been eating right so let him have as many vegetable from the field as he wants and the grapes and peaches too. He always loved those the best.
+I remember the day we first met.
+Even now it's clear as a bell.  [clear as a bell：はっきりした]
+His little ears looked just like my husband's: definitely his father's son.
+We walked through the field of morning glories and I told him he would be our child from that day forward.
+He didn't say a single word but his hand wrapped all the tighter around my finger.
+I was so happy to be giving him the family he needed.
+I liked to think he could feel the happiness radiating off of me.
+Never turn your back on family even when they hurt you.
+Never let life get the better of you and if you remember nothing else, remember to find time to eat together as a family.
+Even when times are rough, especially when times are rough.
+There's no lack of painful things in this world but hunger and loneliness must surely be two of the worst.
+Thanks to you, my precious family I didn't know a moment of either of those the last ninety years.
+Love you all, good bye.
+
+Natsuki:
+Uncle's home!
+
+Wabisuke:
+Granny, I need to see you!
+
+Mariko:
+That's enough, Wabisuke.
+Go and pay your respects to Granny properly.
+Then we can all sit down and have ourselves a meal.
+
+ ws:start:WikiTextHeadingRule:36:&lt;h6&gt; 
+Yumi:
+Let's go Ryohei!
+Lunch time?
+
+Nana:
+Have you guessed. Come on.
+
+Yumi:
+Um, just a minute! The game went into extra innings!
+
+Wabisuke:
+Hey, Granny, I'm home.
+
+Yumi:
+It wants to cause a nuclear explosion? Oh, my God!
+
+Jinnouchi:
+Things ain't looking too good.
+
+Yumi:
+Is this a good time to eat?
+
+Mansuke:
+Granny was pretty clear.
+
+Yumi:
+This program is powerful, right?
+
+Jinnouchi:
+Back in the summer of sixteen-fifteen we stood tall against Tokugawa's army of a hundred and fifty thousand. [stand tall: 断固とした態度をとる]
+
+Yumi:
+But didn't we lose that war?
+
+Mansaku:
+There's more to valor than fighting only when think you'll win or sitting it out every time you think you'll lose.
+The Jinnouchis have fought losing battles through out history.
+
+Rika:
+Idiots! All of them!
+
+Mariko:
+Sure, but that's our heritage.
+
+Naomi:
+In my case, the apple didn't fall far from the tree.
+
+Yumi:
+(?The fruit's great) ,Naomi. You guys have a plan, don't you?
+
+Wabisuke:
+Yeah, I'm gonna hack into his code and take him apart. There might not be enough time to pull it off, so ….
+
+Kenji:
+Everything's happening because Love Machine stole those accounts, so what's going to be the most efficient way to steal them all back.
+
+Kazuma:
+The most efficient way?
+
+Kenji:
+You said he likes games, didn't you?
+
+Kazuma:
+Huh?
+
+Kenji:
+How about …
+
+Sakuma:
+One hour!
+
+OZ announcer:
+Welcome to the OZ casino stage!
+
+Natsuki:
+Hey, you! You really want accounts that badly? Fine, then help yourself to mine!
+Take it! If you can beat me at a game of my choosing!
+
+OZ announcer:
+Japanese Hanafuda selected.
+Player one, please make your wager.
+
+Natsuki:
+My wager's going to be my whole family. I bet the Jinnouchi clan, all of us!
+Alright! Is everybody ready? Our accounts are all in my hands.
+
+Naomi:
+Please, Granny, watch over Natsuki.
+
+Wabisuke:
+Of course this family would bet its lives on Hanahuda.
+
+Kenji:
+Come on, focus. You need to be looking for ways to dismantle him.
+
+Tasuke:
+We don't even know if he's gonna accept the bet.
+With Sakuma there's only twenty of us. He might not care about a prize as paltry as that.
+
+Mansuke:
+Hey, watch your mouth! Paltry or not, those are our own lives you're talking about.
+
+Shotoa:
+Take the bet! Come on!
+
+Wabisuke:
+It'll accept. I know it.
+
+Kazuma:
+Definitely.
+
+OZ announcer:
+A challenger has appeared.
+
+Natsuki:
+Here we go!
+
+Mansuke:
+The fate of the world is in your hands, Natsuki!
+Show this thing what you're made of!
+
+OZ announcer:
+Casino rules are in full effect in this area.
+The pot is doubled each time Koi-Koi is declared.
+The last player able to score gains all points from that hand.
+Determining order of playing.
+Natsuki has drawn the better card and will go first.
+Now, let the game begin.
+
+Natsuki:
+Everybody, shut up!
+
+OZ announcer:
+Will you declare Koi-Koi?
+
+Jinnouchis:
+Koi-Koi!
+
+Natsuki:
+Koi-Koi!
+
+OZ announcer:
+Natsuki declares Koi-Koi.
+Dry three bright. Will you Koi-Koi? Tanzaku. Will you Koi-Koi?
+Natsuki has won the hand.
+
+Mansaku:
+This thing is an amateur. Maybe we will survive.
+
+Rika:
+Granny taught us to play this when we were kids. You can't score Jinnouchi style!
+
+OZ announcer:
+Transferring twenty-six accounts to Natsuki.
+
+Wabisuke:
+Twenty-six down, four hundred twelve mil to go.
+
+Natsuki:
+Again!
+
+OZ announcer:
+Establish your bet, Natsuki. You will begin play.
+Dry three bright. Viewing the cherry blossoms. Dry four bright. Rainy four bright. Five tens. Boar, deer, butterfly.
+Natsuki has won the hand.
+Natsuki has increased the game's ante.
+
+Natsuki:
+Koi-Koi!　 Koi-Koi!　 Koi-Koi!
+
+Sakuma:
+Un…be… lievable!
+You, guys, she's already won back over tree hundred thousand avatars!
+But he still has whichever one's controlling the probe's GPS!
+
+Kenji:
+Wabisuke, hurry!
+
+OZ announcer:
+Viewing the cherry blossoms.
+
+Natsuki:
+Oh, no!
+
+OZ announcer:
+Unknown does not declare Koi-Koi. Natsuki has lost the hand.
+
+Jinnouchis:
+No!
+
+OZ announcer:
+Transferring the accounts to unknown.
+Natsuki currently holds seventy-four accounts.
+
+Sakuma:
+Thirty minutes to go. Do something!
+
+OZ announcer:
+Insufficient funds. You cannot place the minimum bet. Do you choose to quit the game?
+Insufficient funds. You cannot place the minimum bet. Do you choose to quit the game?
+Insufficient funds. You cannot place the minimum bet. Do you choose to quit the game?
+
+
+
+ ws:start:WikiTextHeadingRule:38:&lt;h6&gt; 
+Jinnouchis
+It's from a boy in Germany.
+But why?
+Is he one of your fans, Kazuma?
+
+Kazuma:
+I don't know him.
+
+Sakuma:
+No way!
+It's thirteen point eight three seven percent of all OZ accounts worldwide!
+We're looking at one hundred and fifty million avatars right now!
+
+Naomi:
+Why'd they all come?
+
+Mansaku:
+Natsuki being pretty certainly doesn't hurt.
+
+Mansaku:
+What just happened here?
+
+Riichi:
+OZ's guardian angels granted Natsuki an auspicious rare item.
+
+Mansaku:
+I have no idea what that means, but thank you!
+
+OZ announcer:
+Unknown has increased the game's ante.
+Each point is now worth ten million avatars.
+
+Naomi:
+Ten million?
+
+Shota:
+He's making this the last hand.
+
+OZ announcer:
+Now let the game begin.
+Dry three bright.　Boar, deer, butterfly.
+
+People:
+Koi!
+
+OZ announcer:
+Red tanzaku.
+
+People:
+Koi!
+
+OZ announcer:
+Rainy four bright.
+
+People:
+Koi! Koi! Koi! Koi!
+
+Jinnouchis:
+Yeah! Take him down! Natsuki, Finish him!
+
+Kenji:
+Natsuki, end it!
+
+Wabisuke:
+Hit him hard!
+
+OZ announcer:
+Dry five bright.
+Natsuki has won the hand.
+Transferring the accounts to winner.
+
+
+ ws:start:WikiTextHeadingRule:40:&lt;h6&gt; 
+Natsuki:
+Look!
+
+Kenji:
+It's stopped!
+Natsuki!
+
+Natsuki:
+Kenji, I won. I beat him. He's gone. We won!
+
+Kenji:
+Natsuki, whoa! Ah!
+
+Tasuke:
+Hold on! Something is wrong.
+Timer's still counting down!
+
+Jinnouchis:
+What?
+
+Sakuma:
+The clocks have stopped everywhere else in the world. I …I don't understand!
+
+Kenji:
+It's only here?
+
+Jinnouchis::
+Dropping the probe on our house?
+There's nothing else like it possibly means.
+Damn it! That bastard!
+
+Naomi:
+Why haven't you taken it apart yet?
+
+Wabisuke:
+Working on it!
+
+Sakuma:
+Ten minutes left!
+
+Riichi:
+The angle of descent is locked in.
+
+Jinnouchis:
+Listen! We need to evacuate! Tell the neighbors to get as far away as they can!
+The destruction could be immense! Let's go!
+Honey, is our house being blown up?
+Honey, that's the best case scenario.
+Mom, what do we do with Granny?
+We carry her out of xx.
+What?
+Mom, get your bankbook!
+
+Shota:
+Natsuki, we gotta hurry. Natsuki!
+
+Kenji:
+Is he still in the admin building's user logs?
+
+Sakuma:
+What? Um, let me check them.
+
+Kazuma:
+What are you trying to pull off?
+That probe's course can't be changed. Remember?
+
+Kenji:
+Riichi. You said the Arawashi uses GPS for navigation. Isn't that right?
+
+Riichi:
+Yeah! Why?
+
+Kenji:
+If we can upload binary junk into its atomic clock like Love Machine did yesterday.
+
+Sakuma:
+I found his trail. It wasn't subtle.
+
+Riichi:
+We can create an error in its flight data.
+
+Kazuma:
+Right. Maybe that will turn its course a little.
+
+Kenji:
+Yeah but there's no guarantee it'll work, so you'll still need to evacuate.
+
+Natsuki:
+Kenji…
+
+Mariko:
+Hurry up! We have to leave! Come on!
+
+Natsuki:
+We haven't lost yet!
+
+Kenji:
+Password prompt, where are you hiding?
+Aha! There you are!
+The… what the …
+
+Sakuma:
+The password's been changed.
+Looks like Love Machine just did it!
+
+Kenji:
+You…you're kidding me.
+
+Shota:
+It's like math. Remember! You can do this.
+
+Mansaku:
+You're the only one who can break through the code.
+
+Wabisuke:
+Solve it!
+
+Kenji:
+Right!
+
+Natsuki:
+You can do it!
+
+Kenji:
+Yeah!
+
+Sakuma:
+It's open!
+
+Kazuma:
+Aha, you'r good!
+
+Sakuma:
+He kicked you back out!
+
+Kenji:
+Damn!
+Fine! I'll do it again!
+
+Wabisuke:
+Kazuma, I set this defenseless. He is open!
+Demolish that bastard.
+
+Mansuke:
+Get him, boy!
+
+Kazuma:
+Sensei!
+
+Sakuma:
+T minus two minutes!
+
+Jinnouchis:
+He's in again!
+
+Mansuke:
+Are you kidding!
+
+Tasuke:
+In his head?
+
+Sakuma:
+One minute left!
+
+Kazuma:
+That's enough!
+
+Kenji:
+Please just let this woooork!
+
+Kids:
+Look at that!
+Hot spring!
+The spaceship made a hot spring.
+
+Announcer:
+They did it, folks!
+They took it out when the chips were down and pulled off a miraculous come-from-behind victory! [when the chips are down: いざというときに]
+After fifteen exhausting innings Ueda High School is heading to the nationals for the first time in twenty-four years
+Watching these young men celebrating on the field, you can see just how related they are to meet this challenge.
+
+
+ ws:start:WikiTextHeadingRule:42:&lt;h6&gt; 
+Jinnouchis:
+Happy birthday to you, happy birthday to you.
+Happy birthday, dear Granny Sakae, happy birthday to you.
+
+Mariko:
+Ah ha, thank you so much for coming.
+
+Kiyomi:
+Natsuki!
+
+Natsuki:
+Mom!
+
+Yumi:
+Don’t cry, Ryohei. Here, have some squid.
+
+Kazuma:
+Ah! It moved! Gross!
+
+Kiyomi:
+She's thanking you for being brave.
+
+Kazuma:
+Huh? Dad!
+
+Dad:
+Good job, Son!
+
+Sakuma:
+I'm watching the news piece on Wabisuke.
+Yes, he faced up to it.
+
+News announcer:
+Professor Jinnouchi designed Love Machine, the disruptive AI in question.
+It was United States Department of Defense, so it was responsible for implementing the program.
+Unleashing it on an unsuspecting OZ.
+Luckily, no reports of death have resulted from this incident, but the US military still faces pressure from the global community.
+Many people around world were inconvenient by Love Machine's …
+
+Sakuma:
+Oh, and tell Kenji not to hurry back; I bet you he needs some downtime.
+
+Natsuki:
+Sakuma says that you can stay for a bit.
+
+Kenji:
+Thanks, but I have to go.
+
+Naomi:
+I think the two of you should get married for real.
+
+Rika:
+No, you need to date for real first.
+Let's get cracking!
+
+Shota:
+Say you like her and you are dead!
+
+Naomi:
+Oh! You don't like Natsuki?
+
+Shota:
+You're dead for not liking her!
+
+Kenji:
+No! I …I do like her!
+
+Shota:
+Make up your mind, math nerd!
+
+Natsuki:
+Maybe I like you a lot too.
+
+Jinnochis;
+Kiss her already! Go for it. Kiss!
+
+Shota:
+No! I'll arrest you. you ass …
+
+Kenji:
+My nose …
+
+Kids:
+Oh! A chicken!
+  

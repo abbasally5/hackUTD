@@ -1,0 +1,936 @@
+
+
+Hakuoro:
+That's a pretty flower.
+ What is it called?
+
+ かわいい花だ。
+ 何ていう花だい？
+
+Eluluu:
+It's Eluluu.
+
+ エルルゥ。
+
+Hakuoro:
+Eluluu? You were named after that flower?
+
+ エルルゥ？じゃあエルルゥの名前は…
+
+Eluluu:
+Mm-hm.
+ There's a legend behind the flower.
+ It's a story about a girl, who long long ago was sacrificed to the forest and became one with it.
+
+ 言い伝えがあるんです。
+ ずっとずっと昔に森に捧げられ、森と一つになった女の子の話が。
+
+
+Hakuoro:
+Oh, and that was her name...
+
+ その人の名も…
+
+Eluluu:
+Eluluu.
+
+ That's Aruruu.
+ They bloom alongside Eluluus, so... they're sort of the sisters.
+ The Aruruu represents the little sister, who waited forever and ever for her big sister to return.
+
+ エルルゥ。
+
+ アルルゥです。
+ エルルゥのそばに咲くから姉妹草って呼ばれています。
+ お姉さんの帰りをいつまでもいつまでも待っていた妹の花。
+
+[OP]Utawarerumono/OP 夢想歌
+
+Teoro:
+Like this?
+
+Hakuoro:
+Exactly. But thin, even spread should be perfect.
+
+Teoro:
+Wow, you sure know a lot about incantations, don't you?
+
+Hakuoro:
+No, it's not an incantation.
+It's more like... medical nourishment to revive this balanced soil.
+
+Sopoku:
+From the looks of him, maybe Hakuoro is a scholar in some other country.
+
+Teoro:
+And now this mystery man is a member of our village.
+
+Villager:
+Hakuoro! Pops!
+
+Tuskuru:
+I see... So you had to free from battle.
+
+Villager:
+I hear that some another regions are [xxx] by unending war.
+
+Eluluu:
+Here you go. And we made enough food for everyone.
+
+Teoro:
+So they [xxx] all away? So many of you?
+
+VIllagers:
+Do you actually intend to provide refuge to all these people?
+
+There's no way we could accept such a large number of them.
+
+Tuskuru:
+I will not see them turned away.
+
+Villager:
+We couldn't possibly support so many.
+
+Tuskuru:
+Really? Then are you saying you would forsake all of those poor people?
+
+Villager:
+No, you're right.
+
+Tuskuru:
+It is our duty to help one another.
+Otherwise, none of us would stand the chance of surviving in this impoverished land, now, would we?
+
+Eluluu:
+Hakuoro! Hakuoro!
+
+Hakuoro:
+What, Eluluu?
+
+Eluluu:
+It's... grandmother.
+
+Hakuoro:
+Did something happen?
+
+Eluluu:
+Grandmother... was taken away by somebody!
+
+Hakuoro:
+What did you say?
+
+Eluluu:
+Wait! I'm going with you.
+
+Hakuoro:
+No, you stay here, Eluluu.
+I don't think it would be safe to leave Aruruu by herself.
+All right, they're heading in this direction.
+What is this?!
+
+Oboro:
+Quiet! If you wanna be spared, turn and walk away now!
+
+Hakuoro:
+Sorry, but I'm afraid I have other plan!
+
+Oboro:
+Bastard...
+Now you will die!
+
+Tuskuru:
+That's enough!
+Oboro, a common murderer?
+
+Oboro:
+Come on! I-I was just...
+
+Tuskuru:
+And don't you talk back to me, boy?
+
+Oboro:
+Well, ah... Here's the thing.
+If I'd really intended to kill him, it would have been over by now.
+
+Tuskuru:
+Oh, you think so?
+
+Oboro:
+Oh... Ah... Well... I...
+
+Tuskuru:
+So, Eluluu'd sent you after me? I'm sorry for the trouble.
+
+Hakuoro:
+No need to apologize. But what brings you here?
+
+Tuskuru:
+Well, you see, there's a child I know who is rather ill.
+And I visit her every so often to make sure she's doing well.
+
+Hakuoro:
+Is there some reason you hide this from Eluluu and Aruruu?
+
+Tuskuru:
+More than one, but I can't get into that at the moment.
+Well then, Hakuoro, perhaps you should join us.
+
+Hakuoro:
+Are you certain?
+
+Oboro:
+But Tuskuru! How can you invite a total stranger who tried to attack me?
+
+Tuskuru:
+He's a friend of mine, who's done nothing to you.
+Do you question my judgement?
+
+Oboro:
+No, ma'am. I apologize.
+
+Tuskuru:
+So, shall we be going then?
+
+Hakuoro:
+Yes.
+
+Oboro:
+I'm Oboro. So, who are you? Tell me your name!
+Just what are you hiding? Other than your face that is.
+
+Hakuoro:
+You can call me... Hakuoro.
+
+Oboro:
+Hakuoro? Oh really?! You think you're funny?!
+
+Hakuoro:
+No, that's my name.
+
+Tuskuru:
+He is telling the truth over all.
+Because I gave him that name myself.
+
+Oboro:
+So you're given that name?
+
+Hakuoro:
+I've never expected to find a fortress way out here.
+
+Tuskuru:
+You mustn't speak of this to others in the village.
+It would only cause unwanted complication.
+
+Hakuoro:
+Yes, ma'am.
+
+Oboro:
+Sorry, stranger. You have to wait outta here.
+
+Tuskuru:
+Hakuoro, don't you mind to him. Come with me.
+
+Oboro:
+But Tuskuru!
+
+Tuskuru:
+Why do you refuse to listen, boy?
+
+Oboro:
+I do listen.
+
+Tuskuru:
+Well, it doen't look that way.
+Why must you be so overprotective?
+
+Yuzuha:
+Big brother? I'm glad you're here.
+
+ お兄様。お帰りなさい。
+
+Oboro:
+Yuzuha, so you're already awake?
+
+ ユズハ、起きていたのか。
+
+Yuzuha:
+I was. I'm feeling pretty good today.
+
+ はい。今日はとっても気分がいいから。
+
+Oboro:
+That's good news.
+
+ Hey, I brought you a present.
+ A little bell I bought in the capital.
+
+ そうか
+
+ ほら、お土産だ
+ 都で買ってきた鈴だ
+
+Yuzuha:
+Ohh...
+ What a pretty sound...
+ Thank you so much, big brother.
+
+ 奇麗な音
+ お兄様ありがとう
+
+Oboro:
+Of course.
+
+ ああ
+
+Yuzuha:
+Tuskuru's here too?
+ I was hoping you were coming.
+
+ トゥスクル様、来てくださったんですか
+
+
+Tuskuru:
+Well then, I should have known better than the thing I could surprise you with a visit.
+
+もう分かったのかい
+今日は私の勝ちだと思ったんだがね
+
+Yuzuha:
+The warm scent of herbs always follows you wherever you go.
+ But who... is that behind you?
+ Someone... who carries with him the fragrances of far-away lands.
+
+ はい、暖かな薬草の香りがしましたから
+ でも、後ろの方は？
+ 大きな…とっても大きな土の香り
+
+Tuskuru:
+Well.
+
+Hakuoro:
+My name is Hakuoro.
+ Lady Tuskuru asked me to come with her today.
+
+ 自分はハクオロ
+ 今日はトゥスクルさんのお供で来たんだ
+
+Yuzuha:
+Please forgive my appearance.
+ I'm not much of a hostess, am I?
+
+ お客様、こんな姿のままごめんなさい
+
+
+Oboro:
+Don't get up. You should be resting.
+
+ だめだ。寝ていなくては。
+
+
+Yuzuha:
+Anyway, my name's Yuzuha.
+ And I'm please to make your acquaintance.
+
+ 私、ユズハといいます
+ どうぞ宜しくお願いします
+
+Hakuoro:
+Thank you.
+ And I'm very please to meet you as well.
+
+ ああ
+ こちらこそ、よろしくたのむよ
+
+Yuzuha:
+A brand-new visitor from a foreign land...
+
+ お客様が来るなんて初めて
+
+
+Oboro:
+Can we please stop chatting and see how she's doing?
+
+ トゥスクル様、はやくユズハを
+
+
+Tuskuru:
+Oh, yes, let's have a look.
+Hmm... I don't know... your hothead brother seems to be agitated...
+... but it looks like you're doing pretty well today.
+
+ああ、そうだったね
+うーむ、少し火神（ヒムカミ）がむずがっておるようじゃが
+ああ、なかなかええ調子じゃな
+
+Oboro:
+Sounds like you're doing better than I am.
+
+ よかったな、ユズハ
+
+
+Yuzuha:
+Yeah.
+
+ はい
+
+Tuskuru:
+Well now, I need to have a word with Oboro.
+In the meantime, would you mind keeping Yuzuha's company until we return, dear?
+
+さて、わしはオボロと話がある
+席を外すがその間ユズハの話し相手をしておいておくれ
+
+Oboro:
+Now you're just trying to wind me up!
+
+Tuskuru:
+Stop your complaining and do as I say!
+
+Oboro:
+Aw, Okay!
+ Wait a minute, will you?!
+
+ いて、いて、いて
+ ちょっと、トゥスクルさまー
+
+
+Yuzuha:
+Excuse me, Mr.Hakuoro?
+
+ あの、ハクオロ様？
+
+Hakuoro:
+Oh, pardon me.
+ I guess I'm not used to being referred to as mister.
+
+ え
+ 「様」なんていうから誰のことかと思ったよ
+
+Yuzuha:
+So Mr. Hakuoro, why don't you tell me all about yourself?
+
+ ハクオロ様のことを教えていただけませんか
+
+Hakuoro:
+About myself?
+
+ 自分のことを？
+
+Yuzuha:
+Mm-hm? You don't mind, do you?
+
+ はい。ご迷惑ですか？
+
+Hakuoro:
+No, it's just that I can't recall any memories of my past.
+ So there's really not much to say.
+
+ いや、自分は昔の記憶が無くて
+ あまり話せることが無いんだ
+
+
+Yuzuha:
+No memories?
+
+ 記憶が？
+
+Hakuoro:
+That's right.
+ I was found unconscious and severely wounded.
+ I was brought to Tuskuru and she saved my life.
+ However I couldn't remember anything when I finally came to.
+
+ ああ。
+ どこかで大怪我をしていたらしくてね
+ で、トゥスクルさんに助けられた
+ 気付いたときには何も思い出せなくてね
+
+Yuzuha:
+I'm so sorry. Are you sad?
+
+ ごめんなさい。わたし・・・
+
+Hakuoro:
+No, please don't worry about me.
+ However that really is all I know.
+ How about you, Miss Yuzuha?
+
+ 気にしなくていい
+ 本当にそんなことしか話せることがないんだ
+ ユズハさんは？
+
+Yuzuha:
+Mr.Hakuoro?
+
+Hakuoro:
+Yes?
+
+Yuzuha:
+ Please just call me Yuzuha, all right?
+ That's what my brother calls me too.
+
+ どうかユズハとお呼びください
+ お兄様にもそう呼ばれていますから
+
+Hakuoro:
+Okay then, Yuzuha?
+それじゃあ、ユズハ
+
+Yuzuha:
+Yes?
+
+Hakuoro:
+ Why is it that you haven't been feeling very well lately?
+
+
+ ユズハはどこか具合が悪いのかい
+
+Yuzuha:
+Actually I don't really know.
+よくわからないです
+
+Hakuoro:
+Why is that?
+Yuzuha:
+ I've always been like this.
+
+ ずっとこうだから
+
+
+Hakuoro:
+Have you? I'm sorry.
+
+ ずっと？すまない
+
+Yuzuha:
+Why do you say you're sorry?
+ It isn't your fault, so don't apologize.
+
+ どうしてあやまるのですか
+ ハクオロ様のせいではありませんのに
+
+Hakuoro:
+Yes, I know that, but...
+
+ そうなのだが
+
+Yuzuha:
+All we've done is apologize to each other.
+Kind of silly, isn't it?
+
+ ２人で同じ様に謝って
+ なんだかおかしい
+
+Hakuoro:
+I guess it is.
+
+ そうだな
+
+
+
+Oboro:
+She's not supposed to overexert herself, you know?
+ Yuzuha, you need to get your rest now, okay? Here.
+
+あまり妹に無理をさせないでくれ
+ ユズハ、さあもう休む時間だ
+Yuzuha:
+Big Brother...
+
+Oboro:
+ And you were just about to leave, weren't you?
+あんたももう用はないだろう
+
+Hakuoro:
+Sure.
+
+ ああ
+
+Yuzuha:
+Mr.Hakuoro?
+ Will you... come visit again?
+
+ ハクオロ様？
+ また来てくれますか？
+
+
+Hakuoro:
+Yes, of course I will.
+
+ ああ、そうだな
+
+Oboro:
+You sure you don't need me to escort you back?
+
+ 本当にお送りしなくても？
+
+Tuskuru:
+Hakuoro's here, so I'll be fine.
+Take care now.
+
+おお、ハクオロがおるでな
+それでは
+
+Oboro:
+Don't come back, stranger!
+ I'm serious!
+ You stay away from here!
+
+ あんたはもう来るな！
+ 来るなといったら来るな！
+
+Eluluu:
+Grandmother, where did you go?!
+
+ お婆ちゃん、どこへ行ってたの
+
+Tuskuru:
+I went to check on a girl who is quite ill.
+The poor girl is so weak that she's not even able to leave her home.
+Which means that I must go to her instead.
+
+ある方の容態を見に行っとったんじゃよ
+その方は外へ出られないほど体が弱くてのう
+こちらから出向いたというわけじゃ
+
+Eluluu:
+Well, please don't go out again without telling me, okay?
+ I was worried to death about you.
+
+ でも、もう黙っていったりしないでね
+ 本当に心配したんだから
+
+Tuskuru:
+Okay, I promise, Eluluu.
+Goodness!
+It looks like I woke up Aruruu too, didn't I?
+
+ああ、約束するよ
+おや
+アルルゥまで起きてきてしまったのかい
+
+Eluluu:
+Um, Mr.Hakuoro.
+ I'm sorry about all this.
+
+ あの、ハクオロさん
+ いろいろとごめんなさい
+
+Hakuoro:
+No, please don't concern yourself.
+ I'm actually glad that I went to find her.
+
+ いや、気にしないでくれ
+ 自分も行ってよかったと思っている
+
+Eluluu:
+Uh, well then, can I get you a couple of tea?
+
+ あの、お茶でも入れましょうか
+
+
+Hakuoro:
+Yes, that would be nice.
+ Actually I was getting a bit thirsty.
+
+ 助かるよ
+ そういえば喉がからからだ
+
+Hakuoro:
+What is this?
+
+ これは？
+
+Teoro:
+When we came out this morning, someone had just left it to you.
+
+いつのまにか置いてあったんだが
+
+Villager:
+This is the stuff that was stolen from the village.
+
+こりゃあ、わし等んとこから持っていかれたもんだに
+
+Hakuoro:
+Who might've brought it back?
+
+ 一体誰が
+
+Tuskuru:
+Perhaps they realized how poor we are and they felt so sorry for us that they brought it back.
+I don't know who it was, but we owe them our gratitude.
+
+きっと貧しいわし等を哀れんで誰かが取り戻してくれたんじゃろう
+誰かは知らんがありがたい話じゃって
+
+Eluluu:
+You really don't know?
+
+ 誰かって
+
+Tuskuru:
+What makes you think I would know?
+Stop standing around and put these things away!
+
+わしが知るもんかね
+さあ、ぼさっとしてないで運ばんかい
+
+Teoro:
+Oh, right!
+
+Dori:
+Tuskuru!
+
+Tuskuru:
+Why all the commotion, dear?
+
+Dori:
+Man, Yuzuha's being in trouble!
+
+Oboro:
+Yuzuha! Yuzuha!
+
+Hakuoro:
+Is she all right?
+
+Gura:
+We can't get her temperature to stop rising.
+
+Oboro:
+Tuskuru! Please don't let my sister die like this!
+
+Tuskuru:
+You need to stay calm.
+
+Hakuoro:
+So what do you think?
+
+Oboro:
+Tuskuru! You are our only hope!
+I'm begging you! Please save her! Please!
+Please! I'll beg you!
+
+Tuskuru:
+Get a head up from the floor!
+A proud man would never present himself in such a lowly way.
+
+Oboro:
+Please. Understand.
+
+Tuskuru:
+I won't fail her.
+Even if I have to give my own life to spare hers, then that is what I'll do.
+Let's move! Quickly!
+
+Dori&Gura:
+Yes, ma'am!
+
+Tuskuru:
+This fine powder is ground [xxx] herb called Muikouha.
+So get it into a cloth. And have a drink a little by little.
+
+Oboro:
+Okay. Here, Yuzuha.
+
+Dori&Gura:
+Lady Yuzuha...
+
+Tuskuru:
+She's probably over the worst of it.
+
+Oboro:
+Did you hear that, Yuzuha? You're gonna be just fine.
+
+Tuskuru:
+It's not over yet. Now listen carefully.
+She is very ill. She would likely suffer relapses until she finally dies.
+
+Oboro:
+But this medicine works, doesn't it?
+
+Tuskuru:
+Muikouha is very rare and expensive.
+We'll need much more than we can afford.
+She'll need many more [xxx] to survive, but I have enough for only a few.
+
+Oboro:
+Yuzuha shouldn't have to go through whole this.
+What could she have done to deserve this?!
+
+Yuzuha:
+Big Brother...?
+
+Oboro:
+Yuzuha? Are you feeling any better?
+
+Yuzuha:
+I guess... Did something happen to me?
+
+Oboro:
+No, fine. Everything's fine.
+
+Yuzuha:
+It's Lady Tuskuru. And it's Hakuoro.
+
+Hakuoro:
+I'm sorry. We must have woken you up.
+I guess we're being a bit too loud.
+
+Tuskuru:
+Are you feeling all right?
+
+Yuzuha:
+Yes. I feel even better than usual. I'm glad that you are all here.
+
+Oboro:
+Good for you. And I hear that you'll be fine in no time.
+
+Yuzuha:
+I hope so.
+
+Tuskuru:
+Yes, you'll be fine, my dear.
+
+Yuzuha:
+You think so, Big Brother?
+
+Oboro:
+Of course I do. I know it. Before long, I promise...
+
+Yuzuha:
+Why are you crying? What's the matter, Big Brother?
+
+Oboro:
+Oh, nothing. It's just that I'm so happy to see you feeling better, Yuzuha.
+I can't bare to see you suffer anymore. And now I... I'm glad that... you're okay.
+
+Yuzuha:
+I'm glad that I made you happy.
+
+Oboro:
+Yeah, me too.
+
+Soldier:
+Ah! Theif! Hold him down! Hold him down!
+
+Oboro:
+Damn it. So close I almost had it! I'm almost too clear.
+
+Benawi:
+Sorry, but this is as far as you go.
+Drop your weapons and surrender peacefully.
+
+Oboro:
+Sorry, but I have lots of plans.
+And do you really think you stand a chance to get me on your own?
+
+Benawi:
+Yes, I can manage you on my own.
+
+Oboro:
+Really?
+
+Benawi:
+You're probably not a bad warrior at all.
+You seem to have good balance and sharp senses...
+But perhaps you've never really experienced defeat before.
+
+Oboro:
+Is there a point to all of this?
+
+Benawi:
+Pride and overconfidence... are two things that will kill proven decisions.
+So that one can't determine the abilities [to his] opponent.
+
+Oboro:
+But I do to the [xxx xxx] people specific weakness!
+
+Benawi:
+Nice swordsmanship. Very straightforward, but that makes you predictable.
+
+Oboro:
+Bastard... Finish me! I won't leave with the humiliation of defeat!
+Hold it! Where do you think you're going?
+
+Benawi:
+If you're lucky, you'll still be able to get away.
+
+Oboro:
+How dare you show me your pity?!
+
+Benawi:
+There would be no value for me on killing you. Goodbye.
+
+Oboro:
+Wait! My name is Oboro! At least tell me your name!
+
+Benawi:
+I'm Benawi.
+
+Oboro:
+You're Benawi?! You mean Inkara's Samurai General?!
+It can't be... It can't be... I'm...
+
+Aruruu:
+Here honey honey! Here honey honey! Here!
+
+Hakuoro:
+All right, Aruruu. How much farther...?
+
+Aruruu:
+Look, Father.
+
+Hakuoro:
+Hm? Oboro...?
+
+Oboro:
+Hakuoro, was it you who helped me?
+
+Aruruu:
+And Aruruu helped, too.
+
+Hakuoro:
+Stay still. Let me get some help for you.
+
+Oboro:
+No, don't, I'll be fine.
+
+Hakuoro:
+But you're too injured.
+
+Oboro:
+Just leave me. I'm already too in debt to you as it is.
+
+Hakuoro:
+No, I wish we could think about that way.
+
+Oboro:
+I'm being pursued right now.
+And I'd rather not put you two in danger. So please go.
+
+Hakuoro:
+Oboro, you should at least let us treat you.
+
+Aruruu:
+Sorry, I can't do it as good as Eluluu.
+
+Oboro:
+You did very well. I'm in your debt.
+
+Hakuoro:
+No, it's fine.
+
+Oboro:
+I'll repay you.
+
+Hakuoro:
+I told you it was fine. Just be sure you'll return safely so Yuzuha doesn't worry about you.
+
+Aruruu:
+Father...
+
+Hakuoro:
+We have to trust that he's going to be all right.
+
+- - - - - ED - - - - -
+  

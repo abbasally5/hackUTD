@@ -1,0 +1,765 @@
+
+ ws:start:WikiTextHeadingRule:0:&lt;h1&gt; 
+ Chiyo:
+ During today's homeroom hour, I would like to decide what we should do for the culture fest.
+ Does anybody have any ideas they'd like to share with us?
+
+Student:
+How about a haunted house?
+
+Chiyo:
+ Okay.
+
+Tomo:
+ Okay.
+ That's one haunted house.
+ Got it.
+
+Chiyo:
+ So any other ideas?
+
+Chihiro:
+I know.
+How about a cafe?
+
+Chiyo:
+ Okay.
+
+Tomo:
+ All right, cafe.
+
+Chiyo:
+ Well, does anyone else have an idea?
+ Any more ideas besides a haunted house or a cafe?
+ The vote's still open.
+
+Tomo:
+ Ugh...
+
+Chiyo:
+ Hm?
+
+Tomo:
+ Horizontal or vertical...
+ I... I... I don't know?
+ What's the first stroke?
+
+Chiyo:
+ Oh.
+ Like this.
+
+Chiyo:
+ If no one has any more ideas, we will take a vote now, okay?
+ You can vote for either the cafe or the haunted...
+
+Yukari:
+ No, no.
+ Going with the standard and orthodox is the death of intellect, Chiyo.
+ Why not try something out of the ordinary?
+ For example, you could... Uh... Um...
+ A cafe is a great idea.
+
+Osaka:
+ A comment box...
+
+Yomi:
+I'm hoping that maybe we'll get some different project ideas by putting the box up.
+
+Osaka:
+ Different project ideas...
+ How about just our class setting things up for our very own personal sports fest?
+
+Yomi:
+ Did you hear what you just said?
+
+Tomo:
+ Ah, looky here!
+ The comment box is hungry!
+
+Yomi:
+ Why don't you stop admiring it and put something in?
+
+Tomo:
+ Um...
+
+Yomi:
+ Huh?
+ Hold on!
+ What did you just put in there?
+
+Tomo:
+Five yen.
+
+Yomi:
+ You're supposed to put in project ideas.
+
+Tomo:
+ According to the legend of this comment box...
+
+Yomi:
+ It doesn't have a legend!
+
+Chiyo:
+ All right then, now, I would like to discuss our project for the culture fest one more time.
+ First, we take a look inside the comment box.
+
+Chiyo:
+ Oh...
+ Is nothing else in here?
+ Ah! A piece of paper.
+
+Tomo:
+ Hm?
+
+Chiyo:
+ Let's see...
+ Oh, this idea might be a really good one.
+ It says, "A Stuffed Animal Exhibit."
+ "We can put on an exhibit by collecting all the stuffed animals that everyone has and bringing them to school."
+ "I think this would make the stuffed animals happy as well because they will get to make lots of new friends."
+ And now you have it.
+ How does that sound?
+
+Students:
+That sounds like a great idea.
+That's so cute.
+That would be wonderful, wouldn't it?
+I can bring ones I won at arcades.
+
+Kaorin:
+Hey, hey, who's the one who came up with the idea?
+
+Chiyo:
+ Let's see...
+ The person wishes to remain anonymous.
+
+Osaka:
+ Hey, I know, how 'bout we make some fanciful uniforms and wear 'em at the culture fest?
+
+Kimura:
+As a matter of fact, I have a suggestion concerning the very issue.
+The key here is the fluffy...
+
+Tomo:
+ No, thank you!
+
+Chiyo:
+ We should make a class mascot as well.
+
+Yomi:
+ How about one big enough to wear?
+
+Tomo:
+ Good! Good idea!
+ Let's get together at Chiyo-chan's place and make it!
+
+Kimura:
+Oh, also, as you can see, there is this foamy part.
+What, that's not the least of it. Furthermore...
+
+Yukari:
+ Okay, Mr. Kimura, you can leave now!
+
+Kimura:
+Wait, please, wait a minute!
+Just! Just listen to me for one minute! And I think... Ah!
+ ws:start:WikiTextHeadingRule:2:&lt;h1&gt; 
+ Kaorin:
+Okay, all set.
+
+Osaka:
+ You sure my size will fit everybody?
+
+Yomi:
+ Trust me, it'll be fine.
+
+Chiyo:
+ I'm going to the store because we're out of juice, okay?
+
+Kaorin:
+Sorry for the trouble.
+
+Yomi:
+ Thank you, Chiyo-chan.
+
+Chiyo:
+ Come on, Mr. Tadakichi, it's time to go.
+
+Chiyo:
+ Miss Sakaki.
+
+Sakaki:
+ Ah, oh...
+
+Chiyo:
+ Everyone's been waiting a while for you.
+
+Sakaki:
+ Oh, sorry I was late, Chiyo.
+ I picked this up.
+
+Chiyo:
+ Oh, did you bring us juice?
+ I was just on my way to get some from the store.
+ Thank you so much, Miss Sakaki.
+
+Sakaki:
+ Hm.
+
+Chiyo:
+ Huh?
+ Oh!
+ My friend here is Mr. Tadakichi.
+
+Sakaki:
+ Mr. Tadakichi?
+
+Chiyo:
+ Uh-huh, he's our family's pet dog.
+
+Sakaki:
+ Is... is it okay for me to pet him?
+
+Chiyo:
+ Of course!
+ Mr. Tadakichi is a man of character, so he never gets angry.
+
+Sakaki:
+ But he's so big, if he did bite it, it'd be no laughing matter.
+
+Chiyo:
+ Oh, he's perfectly safe.
+
+ It's all right, you can go ahead.
+
+ Maybe... we should head back.
+
+Sakaki:
+Oh, right.
+
+Sakaki:
+ Although, with him being so big, you could almost ride him.
+
+Chiyo:
+ Oh, well, actually I can!
+ See?
+
+Sakaki:
+ Ah, oh...
+
+Chiyo:
+ Come on, everyone's waiting, so let's get back.
+
+Sakaki:
+ O...okay.
+ So lucky...
+ Mr. Tadakichi...
+ So lucky...
+
+ ws:start:WikiTextHeadingRule:4:&lt;h1&gt; 
+ Nyamo:
+ Well, culture fest season has come once again.
+ Been a while since ours, but it sure brings back memories, huh?
+
+Yukari:
+ Hm... Hahaha.
+
+Nyamo:
+ You don't remember?
+ At all?
+
+Chiyo:
+ We had a good turnout.
+
+Chihiro:
+Okay, everyone, I need you to put these on.
+
+Kaorin:
+Miss Sakaki, you look wonderful.
+
+Sakaki:
+ You... you think so?
+
+Chiyo:
+ Uh-huh.
+ It suits you quite nicely.
+
+Osaka:
+ Hey, how do I look?
+
+Chihiro:
+Wow, it's really cute!
+
+Chiyo:
+ It's incredible!
+
+Tomo:
+ I don't know!
+ Well, it's not like it's bad or anything...
+ But I just don't think you're wearing it that well.
+
+Osaka:
+ Wearin' it well?
+
+Tomo:
+ C'mon, let's switch.
+
+Osaka:
+ Here you go, Tomo.
+
+Tomo:
+ Got it.
+
+Tomo:
+ All right, now here I go!
+ Off, off, off and away 
+Whee!
+
+Student:
+What the?!
+
+Nyamo:
+ Good morning.
+ Huh?
+
+ What?
+ What was that?
+
+Yomi:
+ Hm?
+ What the...?
+ Is that...? What tha...? What the...? Is that...? What? What? What?!
+
+Tomo:
+ Hey, I'm back.
+ Hah...
+ I'm so tired.
+
+Chiyo:
+ Where did you go, Tomo?
+
+Tomo:
+ Advertising.
+ I was sprinkling cuteness all over school.
+
+Yomi:
+ Tough to top of the nice heavy dash of scary.
+
+Tomo:
+ Ehe.
+
+Student:
+Come see the swim team!
+We have all kinds of drinks for sale!
+You know you're thirsty.
+
+Nyamo:
+ All right, good work.
+
+Student:
+Oh, Miss Kurosawa.
+
+Nyamo:
+ Tell me, how's it holding up?
+
+Student:
+Um, well, the thing is...
+
+Nyamo:
+ Huh?
+
+Kimura:
+What is going on here?
+
+Kagura:
+ Going on?
+ What do you mean?
+
+Kimura:
+This is inexcusable!
+
+Nyamo:
+ Something wrong?
+
+Kagura:
+ Yeah, this guy...
+
+Kimura:
+Oh, Miss Kurosawa, I'm so glad you are here.
+
+Nyamo:
+ Okay.
+
+Kimura:
+Please talk to your girls, Miss Kurosawa.
+I mean, don't you find it rather odd?
+This is a swim team's booth and no one's in a swimsuit!
+
+Kagura, Nyamo:
+ Um...
+
+Kimura:
+Okay, I'll let the swimsuits go.
+
+Nyamo:
+ Yes, sir.
+
+Kimura:
+I think I would like a glass of pool water.
+
+Kagura:
+ Sir?
+
+Kimura:
+Pool water!
+As the water from the pool that you girls were swimming in!
+
+Kagura:
+ What?
+ We don't have any of that!
+
+Kimura:
+Uh...
+
+Nyamo:
+ Uh...
+
+
+ ws:start:WikiTextHeadingRule:6:&lt;h1&gt; 
+ The Mascot
+
+
+Osaka:
+ Welcome to fairyland!
+ Come over and take a look!
+
+Osaka:
+ Welcome to fairyland!
+
+Woman:
+Wow, they're adorable!
+Huh?
+Um, excuse me, but what are these things?
+
+Sakaki:
+ That one there is a dog and that one's a cat.
+ Or is it the other way around?
+
+Woman:
+Um... so then, this would be...
+
+Osaka:
+ That would be Tsutenkaku tower.
+
+Woman:
+Tsutenkaku...
+
+Osaka:
+ That's right.
+
+Woman:
+Then what's the small one in the corner?
+
+Osaka:
+ Oh, that's Hanshin.
+
+Woman:
+Uh... Hanshin?
+
+Osaka:
+ That's right.
+
+Woman:
+Uh...
+
+Osaka:
+ Hanshin.
+
+
+Kaorin:
+Welcome!
+It's the Fairyland Class!
+Welcome!
+
+Chiyo:
+ Sorry for making you wait.
+ It's time for the next person's turn.
+
+Kaorin:
+Okay.
+Hm, oh...
+It really is hot inside this thing.
+
+Yomi:
+ Good job, Kaorin.
+
+Kaorin:
+Oh, thank you.
+
+Yomi:
+ Well, then, I guess it's my turn.
+
+Chiyo:
+ Oh, may I try wearing the costume too?
+
+Kaorin:
+All right, you and me trade.
+
+Chiyo:
+ Okay!
+
+Chiyo:
+ Uh.. uh... uh..
+
+Kaorin:
+It's... it's kinda scary.
+
+Yomi:
+ Oh, Chiyo-chan?
+
+Chiyo:
+ What is it?
+
+Yomi, Kaorin:
+ Ah!
+
+Chiyo:
+ Did someone call me?
+
+Yomi, Kaorin:
+ Ahhh!
+
+Chiyo:
+ Uh.. uh... uh..
+
+Yomi, Kaorin:
+ Ahhhhhh!
+
+Student:
+Oh, wow, it's cute and weird at the same time
+
+Student2:
+You're right about the weird part.
+
+Student:
+Excuse me, I'd like this one.
+
+Sakaki:
+ Okay.
+ Huh?
+
+Sakaki:
+ You... you wanna buy it?
+
+Student:
+Uh-huh.
+
+Sakaki:
+ You want just the one?
+
+Student:
+Yeah, this one.
+
+Sakaki:
+Won't you take the cat with you as well?
+
+Student:
+Huh?
+
+Sakaki:
+ No way... the dog?
+
+Sakaki:
+ I wish you happiness.
+
+Chiyo:
+ Oh, hi, Miss Sakaki.
+ I'm sorry, but would you please take a quick picture for me?
+
+Sakaki:
+ Okay, sure thing.
+
+Chiyo:
+ Okay, thank you.
+
+Sakaki:
+ Mm-hm.
+ Okay, Chiyo, say cheese.
+
+Chiyo:
+ Thank you very much, Miss Sakaki.
+
+Sakaki:
+ Oh, since we're...
+
+Chiyo:
+ Huh?
+
+Sakaki:
+ Since we're here, could I also...
+
+Chiyo:
+ Oh, yeah, of course you can!
+ Is everybody ready then? Okay, say cheese.
+
+Chiyo:
+ Okay, I got a photo.
+
+Sakaki:
+ Thank you, Chiyo.
+
+Chiyo:
+ Come to think of it, do you have any idea who's in the costume right now?
+
+Sakaki:
+ Hm?
+
+Kimura:
+Hello.
+
+Sakaki:
+ It's not true!
+
+Chiyo:
+ Ah, Miss Sakaki!
+
+
+
+ ws:start:WikiTextHeadingRule:8:&lt;h1&gt; 
+ Osaka:
+ Welcome to fairyland!
+ Welcome to fairyland!
+Nyamo:
+ Now that I think of it, that culture fest we had back when we were in high school, didn't we...
+
+Nyamo:
+ Have you finally remembered?
+
+Yukari:
+ <French> Au de cafe <French>.
+
+Nyamo:
+ You see that, you do remember.
+
+Yukari:
+ Uh, I got it right.
+
+Nyamo:
+ Dummy, it's not like this is some kind of quiz.
+
+Yukari:
+ I don't remember what my students did last year, let alone what I did way back then.
+
+Nyamo:
+ Don't brag about it.
+ It's depressing.
+
+Yukari:
+ Do not be a slave to your past!
+ You must live in here, the now, this moment!
+
+Nyamo:
+ Don't go getting drunk on orange juice.
+
+Yukari:
+ Drunk on youth!
+
+Nyamo:
+ Yeah, whatever.
+
+
+Sakaki:
+ Ah!
+ Hey, you know what?
+ I made that kitty myself.
+
+Child:
+Huh?
+
+Sakaki:
+ If you want, you can have it.
+
+Child:
+Um...
+I don't want it.
+
+
+Chiyo:
+ All right, everyone, let's have a toast with juice to celebrate the successful completion of the culture fest!
+
+Tomo:
+ Here, here!
+
+Everyone:
+Here, here!
+
+Yukari:
+ Good job, people!
+ Yes, great work, everyone!
+ Now... let's take... these stuffed animals... and burn them all!
+
+Everyone:
+Huh?
+
+Yukari:
+What?
+You're not gonna burn the animals as a memorial?
+
+Yomi:
+ Memorial for what?
+
+Tomo:
+ It looks like we had quite a few visitors.
+
+Chiyo:
+ Uh-huh, we got a lot of surveys back too.
+ Plus we sold a bunch of stuffed animals.
+
+Osaka:
+ No doubt about it.
+ The stuffed animal exhibit was a huge hit.
+
+Tomo:
+ Something wrong?
+ What's up with that sigh there ,Yomi?
+
+Chiyo:
+ Are you really tired?
+
+Yomi:
+ Oh, no, it's the end of the day.
+ Um, well, I sorta felt a twinge of sadness, you know.
+
+Osaka:
+ I know what you mean.
+ I wish tomorrow was a culture fest.
+
+Yomi:
+ I somehow don't think that would be possible, though.
+
+Tomo:
+ All right, let's have a victory parade!
+
+Osaka:
+ Yeah!
+
+Chiyo:
+ Uh...
+
+Yomi:
+ What's the victory?
+
+
+Chiyo:
+ Uh... Mr. Tadakichi...
+
+
+-- Preview --
+
+Chiyo:
+The next Azumanga Daioh is all about New Year's dreams.
+I wonder what kind of dreams everyone is having?
+I like dreams where there's hopping and jumping for joy.
+I hope I'll get to have a happy dream.
+What? Something red?
+  

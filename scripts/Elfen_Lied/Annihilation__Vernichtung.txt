@@ -1,0 +1,966 @@
+
+ ws:start:WikiTextHeadingRule:0:&lt;h2&gt; 
+
+
+ ws:start:WikiTextHeadingRule:2:&lt;h3&gt; 
+
+
+
+
+
+
+Chief: Listen up! Our target has an unidentified weapon with a two-meter effective lethal range. ( SUB : Our target has an unidentified weapon with a two meter radius. )
+
+
+
+( Bando is sarcastic in his questioning )
+
+
+
+Bando: Right. ( SUB : Man... )
+
+Chief: The police have already scrambled. They're searching the city now. Once we receive her location, we'll immediately head to the site. ( SUB : The police are already working on searching the city. Once we receive the information, we'll immediately head to the site. )
+
+
+
+Chief: Bando!
+
+Bando: Later, Chief! ( SUB : That's stupid. )
+
+
+
+Chief: What are you doing? ( SUB : What're you doing? )
+
+Bando: If this target is so dangerous we can shoot without warning, well then, looks like it's hunt or be hunted. I know how it goes! Drop me off already. ( SUB : This target is someone we can shoot without warning, right? Then it's hunt or be hunted : It's one or the other! Hurry up and drop me off! )
+
+
+
+TITLE AND INTRO SEQUENCE
+
+ ws:start:WikiTextHeadingRule:4:&lt;h3&gt; 
+
+
+
+
+
+
+
+
+
+( SUB : Since you looked sad she might have thought the seashell was bad. )
+
+( Rising, he stares at the Grandfather Clock ; he is in his slippers, but prepares to join Yuka in the search for Nyu. )
+
+
+
+( Kouta hears a knock at the door ; He assumes it is someone he knows, perhaps Yuka )
+
+
+( SUB : What're you doing? It's not locked. )
+( Outside are two dour-looking men in overcoats ; One of them immediately pokes his head in. )
+
+
+
+( SUB : I thought this was a vacant house. )
+
+
+
+( SUB : I moved in here today. Excuse me, but... )
+
+( The shorter and older of the two flashes a badge ; The larger and younger one speaks first. )
+
+
+
+Detective A : If you'll cooperate for a minute, we need your help with our investigation.
+
+( SUB : We'd like you to take a moment to cooperate with our investigation. )
+
+( There is an element of good/bad cop already evident in their demeanor ; they are practiced partners, and to them most of this is utterly routine ; the youth of the larger one counters this somewhat )
+
+
+
+( SUB : Did something happen? )
+
+( Kouta seems a bit surprised by all this ; the look of an already-draining eventful day is showing on his face. )
+
+Detective A : You seen a girl around? She looks like this.
+
+( SUB : Have you seen a girl like this? ) 
+
+( Kouta sees a picture of Nyu, though this is obviously Lucy from her looks and demeanor ; The origin and setting of the photo is uncertain ; it looks recent ; If Kouta notes how different she looks, he shows no sign of this beyond recognition of her face ; the police for their part do not seem to catch this recognition. )
+
+
+
+( SUB : Did she do something? )
+
+( Kouta's question receives a pushback response ; The larger younger detective gets agitated ; whether this is part of their routine is uncertain. )
+
+Detective B: Hey! Why don't you leave the questioning to us? So have you seen her? Or haven't you?
+
+( SUB : Hey! We're the ones asking the questions! Have you seen her or not? )
+
+( The older detective waves his partner off, perhaps sincerely, perhaps routinely. )
+
+Detective A: It's all right! She's just a missing person, after all.
+
+( SUB : Cool it. She's just a missing person. )
+
+( Kouta now feigns indifference/confusion ; whether it fools the police is uncertain. )
+
+
+
+( SUB : Missing? I don't know her. )
+
+( Whatever their thoughts on Kouta's veracity, the older lead detective seems to accept this calmly. )
+
+Detective A: I see. If you happen to run into her, would you please contact the police? Thanks for your help. Let's go.
+
+( SUB : I see. If you see her, could you contact the police? Thanks. Let's go. )
+
+Detective B: Right.
+
+( SUB : Okay. )
+
+
+
+
+
+( SUB : Oh. I didn't lock the door. )
+
+( What he chooses on this is not shown. )
+ ws:start:WikiTextHeadingRule:6:&lt;h3&gt; 
+ ws:start:WikiTextHeadingRule:8:&lt;h3&gt; 
+
+
+
+
+
+( SUB : This is Satou from Bando Group. We've arrived Yuighama. We'll continue the search. (To Bando) We're only authorized to search the coastlines. Please don't go to where people are around. )
+
+( Trash is strewn about the beach, almost as much a feature as the driftwood. The soldiers are seen as in profile against the waves, the concrete wall between the boardwalk above and the beach always visible )
+
+
+
+Satou: They said that she uses some kind of special weapon, but what do you think it is? How am I supposed to defend myself, if it's a weapon we don't know anything about?
+
+( SUB : They said that our enemy carries a special weapon, but what do you think it is? I don't know how to handle it if it's a weapon we don't know anything about. )
+
+( Bando turns on Satou with a fury )
+
+Bando: Shut up! Would it kill you to shut your damn mouth? If you don't quit whining, you'll be the first casualty.
+
+( SUB : Shut up! Can't you keep your mouth shut for awhile? If you keep whining, I'll take you out first. )
+
+( Nervous, and his chatter instantly stopped, Satou notes something ahead of them )
+
+Satou: Uh, Bando?
+
+( SUB : Leader! )
+
+( He gestures behind Bando )
+
+Bando: Huh?
+
+( Bando sees and then licks his chops at the sight of Nyu digging through the surf on all fours )
+
+Bando: Bin-go.
+
+( SUB : Bingo! )
+
+( Nyu finds something in the surf and is pleased by it, a small smile forming )
+
+
+
+( Nyu hears something and turns around )
+
+Nyu: Nyu?
+
+
+
+
+
+( SUB : Excuse me...There's someone who's lost, and... )
+
+( They only take partial notice of her entrance and keep talking till they slowly realize this may be part of their search for Lucy )
+
+( Back at the beachfront, the one who walked up on Nyu is revealed to be Kouta, at first seen standing over her near the water; he kneels down and covers them both with his umbrella )
+
+
+
+( SUB : What're you doing in a place like this? )
+
+( His anger is gone, his face all concern for Nyu; he sees her trembling, and falling forward almost as though to pray )
+
+Kouta: Oh, you're shivering. We can't fix things here. Let's go.
+
+( SUB : Geez...You're shivering. What'll I do with you? Here. )
+
+( We see she is holding something in one of her hands ; Kouta does not )
+
+Nyu: Nyu?
+
+Kouta: Come on, get up.
+
+( SUB : Now stand up. Can you get up? )
+
+( Nyu is almost crying ; Kouta holds her hand tp help her up; but as he gets up, he is struck in the back of his head with the butt of a rifle )
+
+Nyu: Nyu! Nyu! Nyu!
+
+( We see a uniformed lower torso as Nyu checks on Kouta, who is painfully clutching the back of his head while lying in the sand ; He is Nyu's only concern )
+
+
+
+( Bando grabs at Nyu's head and both soldiers are plainly stunned by what he finds )
+
+Bando: Whoa. Horns, just like they said! She's got 'em growing out of her skull.
+
+( SUB : Oh, yeah, they're sticking out. The horns are sticking out from her head. )
+
+( Satou shows fear, even through his face cover )
+
+Satou: You probably shouldn't get too close.
+
+( Bando is dismissive, bordering on contempt, not even looking at him this time )
+
+Bando: I told you already to shut up!
+
+( SUB : Shut up! Keep quiet! )
+
+( Kouta wakes, and looks with anger at his attackers )
+
+Kouta: What? Hey! Who are you guys?
+
+( SUB : What're you guys? )
+
+( Satou draws his weapon as Kouta sits up partway, looking confused ; Bando looks back to Satou )
+
+Bando: Let's see. They gave us the green light to kill any witnesses. Right, Satou?
+
+( SUB : Let's see now. It was okay to kill witnesses too, right, Satou? )
+
+( Satou's eyes show this isn't the case )
+
+Satou: Uh, no… those weren't the orders. We'd have to call HQ.
+
+( SUB : No, we don't have any orders like that. We should contact Headquarters first. )
+
+Kouta: What, "kill"? What do you mean, "kill"?
+
+( SUB : What do you mean, kill? )
+
+
+
+Bando: Isn't it obvious, dumbass? The word "kill" means I pull the trigger. The gun goes off and your brains splatter all over the sand. The beach gets bloody and you get dead.
+
+( SUB : You don't understand, dumbass? Kill means I pull the trigger like this. And then, your brains splatter all over and you'll die. )
+
+( Quickly, Kouta rises, seizing a confused Nyu's hand as they dash off )
+
+Kouta: Nyu! Run!
+
+( SUB : Nyu, run! )
+
+( As Satou seems to be trying to contact HQ, Bando calmly squeezes his trigger, firing near the feet of the fleeing pair; Satou looks up from his call. )
+
+
+
+( They stop suddenly, both looking very much afraid. The pair turn back to look at Bando, with Nyu looking to Kouta for guidance. A first-person POV sees Bando walking towards and bearing down on Kouta and Nyu; A stair-well/ramp up to the boardwalk is only inches behind them, but it may as well not be there. )
+
+Bando: I'm on a hunt, and your girlfriend's my prey.
+
+( SUB : She's my prey. )
+
+( Kouta is plainly fearful and Nyu even more so; Bando aims his gun point-blank at Kouta )
+
+Bando: Now get out of my way!
+
+( SUB : Stay outta my way! )
+
+( Bando kicks Kouta, who goes down hard )
+
+Nyu: Nyu! Nyu!
+
+( Nyu mewls and begins to weep over Kouta )
+
+Bando: Well, well. This has been a little too easy. Let's make it fun. How 'bout it?
+
+( SUB : Well, you're gonna let me have some fun, right? )
+
+( Bando puts his gun in Nyu's face; she is confused and afraid but uncomprehending of anything beyond this )
+
+( Back at the train station's police substation, Yuka is speaking to the uniformed officer. )
+
+Police officer: Missing? How old is she?
+
+( SUB : A missing person? Around what age? )
+
+( The two detectives are on the phone and only partly notice her; the conversation is about their search )
+
+Yuka: Um, well…
+
+( SUB : Well... )
+
+( Yuka begins to remember Nyu breaking the shell )
+
+Detective B: Yes. Right. Understood.
+
+( SUB : Yes. Yes. Understood. )
+
+( Just as they finish, Yuka makes her realization. )
+
+Yuka: Oh yeah. Never mind.
+
+( SUB : Oh, yeah. )
+
+( Between the two detectives and Yuka, the uniformed officer has divided attention )
+
+Police officer: Hmm?
+
+( Leaving just prior to giving a description of Nyu, Yuka's inquiry never really catches the full attention of the detectives )
+
+Yuka: I think I just figured out where she is. Sorry for bothering you!
+
+( SUB : Oh, well. I just remembered someplace where she's likely to be. Sorry for bothering you. )
+
+( The uniformed officer turns back to the detectives )
+
+Police officer: Sorry, you were telling me something before I stepped out?
+
+( SUB : Sorry that I had to step out during the conversation. )
+
+
+
+Detective A: Oh, that's all right. We're just having a little trouble with a missing person.
+
+( SUB : No, that's all right. Our missing person seems to be pretty troublesome, though. )
+
+( Detective B leans in and whispers to Detective A )
+
+Detective B: The Special Assault Teams are searching the coastline without our approval. Those SAT jerks! What in the hell could they be thinking?
+
+( SUB : I was told the SAT's searching the coastlines without asking us. Geez, I don't get what they're thinking. )
+
+
+
+( SUB : I don't want them to act too conspicuously. (To Uniformed Officer) Well, then, I'm counting on you. )
+
+( The police officer bows as his visitors finally leave )
+
+Police officer: Yes, sir!
+
+( Police Officer looks over at the desk ) 
+
+Police officer: A vicious murderer. And she looks like that?
+
+( SUB : A vicious murderer. A girl like this, huh? )
+
+( By the phone/fax, the picture of Nyu/Lucy sits on the desk, with Yuka never having glimpsed nor seen it. )
+
+( Yuka walks in the rain, her eyes closing and then looking around as she dashes down a colorful tiled path running parallel to the beach area; Seeing something, she dashes down the ramp/stairwell, running to the fallen Kouta, tossing aside her umbrella. )
+
+
+
+( SUB : Kouta! Kouta! Come on, Kouta! )
+
+( Deeply concerned, she gets down on her knees as she looks him over. )
+
+Yuka: Kouta, what happened? I'll go call an ambulance!
+
+( SUB : What? What happened? Oh, I'll call an ambulance right away! )
+
+( Kouta rouses briefly, still in obvious pain. ) 
+
+Kouta: Nyu! Where's Nyu?
+
+( Yuka goes off to call an ambulance; Kouta rouses once again ; Yuka scans the empty beach as though to ascertain what happened; As he falls away again, she once more goes to his side ) 
+
+Yuka: Kouta! You'll be OK! Kouta!
+
+( SUB : Kouta! Hang in there! Kouta! )
+
+( Cut to a view of her umbrella in the sand ; Red flashes and sirens are heard and seen as far away as the makeshift shelter the young girl and her dog were in. ) 
+ ws:start:WikiTextHeadingRule:10:&lt;h3&gt; 
+ ws:start:WikiTextHeadingRule:12:&lt;h3&gt; 
+
+( The soldiers are moving; Bando is dragging a crying Nyu by one of her feet while she is on her back ; she is holding onto Kouta's umbrella for dear life ; Satou looks down at her, and then at Bando. )
+
+
+
+( SUB : It may be the wrong person. She seems too different from the person in the report. Leader! )
+
+( Never turning around, Bando looks annoyed to even acknowledge, let alone answer him. )
+
+
+
+( SUB : Have you seen any Human with horns sticking out besides her? ) . )
+
+Satou: Sure, but…
+
+( SUB : But... )
+
+( Keeping a pace behind, Satou picks up and uses his call equipment )
+
+Satou: This is Bando Team, over. We've apprehended a female matching the suspect's description. We're located at Yuigahama.
+
+( SUB : This is Satou at Bando Group. We captured someone who appears to be Lucy. We're at Yuighama... )
+
+( Bando turns, rears up his gun-butt, strikes Satou and then crushes his walkie-talkie. )
+
+Bando: Don't try to undermine me! I'm just having a little fun here.
+
+( SUB : Don't do anything without my orders! Now, the fun begins. )
+
+( They are seen through the beach netting on a nearby fence ; Bando holds Nyu, who is still uncomprehending, up by her hair while shoving his gun-barrel into her face, then shoves her forward; Kouta's umbrella falls out of her hand and opens in the wind, landing away from them. )
+
+Bando: I hear you're a big-time badass, right? Show me what you got. Let's rock and roll!
+
+( SUB : You've killed so many up until now, right? Let's have a duel. A duel! )
+
+
+
+Bando: What the hell is wrong with you? So are you a killer or not? Put up a fight! Come on!
+
+( SUB : What the hell's wrong with you? You're a bloodthirsty killer, aren't you? Give me a beating, come on! )
+
+
+
+Bando: Hey, wait a second. What're you trying to hide? Show it to me!
+
+( SUB : Hey, wait a second. Show it to me! Hey! )
+
+( Satou waves ) 
+
+Satou: Hold on! What if it's her secret weapon?
+
+( SUB : Could it be the lethal weapon? )
+
+( Nyu holds and hides whatever this thing is, as though pleading with him not to take it. )
+
+Bando: (To Satou) You really are completely stupid! (To Nyu) If you have a secret weapon, you'd better use it. Now!
+
+( SUB : Don't be stupid! If you have the so-called weapon, bring it on! Now! )
+
+( Through the netting we see the three of them and the rowboat's insides; Nyu flees and slips inside the rowboat. )
+Bando: Man, what a letdown.
+
+( SUB : I don't care anymore. )
+
+
+
+Satou: What? Oh, well… Bando!
+
+( SUB : Well, Leader! )
+
+( Bando turns and walks away, taking off his mask and helmet .)
+
+Bando: Satou, go ahead and shoot her.
+
+( SUB : Satou, you can go ahead and kill her. )
+
+( Bando begins to try and light a cigarette )
+
+Satou: What?
+
+( The lighter sputters in the rain as Bando has his back turned to Satou )
+
+Bando: I said kill her. That's the mission, right?
+
+( SUB : I said kill her. It's our job, right? )
+
+Satou: But…sir!
+
+( SUB : But... )
+
+Bando: Shoot her already! It's an order.
+
+( SUB : Never mind, just shoot. It's an order. )
+
+( Satou walks over and lowers his gun to aim at it Nyu inside the rowboat )
+
+Satou: Yes, sir…I'm sorry Miss, but I'm just carrying out my orders.
+
+( SUB : Roger. Sorry. This is my job. )
+
+( What we can see of his shows not eagerness but resignation; focus shifts to Nyu caught in the netting inside the rowboat, her clothes somewhat askew. ) 
+
+Bando: Ugh, damn it!
+
+( SUB : Shit! )
+
+( Satou cocks his gun as the focus shifts to Bando, frustrated by his attempts to light the lighter; he covers it from the rain as the report of Satou's rifle is heard, and it lights; a spray of blood is seen on Bando, and on the fencing/netting as well. )
+
+Bando: Huh? What?
+
+( SUB : What the...? )
+
+
+
+( Back by the soldiers, we see a spray of blood on the pole, like a coat of paint, while shredded pieces of netting fly and float everywhere ; It is Satou's blood, a hole punched clear through his torso; He is still alive, so suddenly did this happen, and his gun is still firmly in his hand. )
+
+
+
+( SUB : Leader... )
+
+( Satou's warning is cut off as is his right arm as he turns around, pain and fear quite apparent on his face ; Gun and arm fall to the ground before a stunned Bando ; Satou can only stare in shock at his mortal wounds; His head falls off, bringing a geyser of blood from his neck-stump; The body falls away as Nyu rises slowly from behind the rowboat. ) 
+
+
+
+( Bando cannot know that this is Lucy, not Nyu anymore, rising as though she had been napping. )
+
+Bando: There's no way—
+
+( SUB : Is this for real? )
+
+
+
+Bando: Huh?
+
+( Bando drops his cigarette and quickly opens fire; at point blank range his bullets are simply turned away, with Lucy not even looking up or at him; His discarded helmet is quickly crushed by an unseen force with a visible imprint. ) 
+
+
+
+
+
+Bando: Ha-ha! You're just throwing blind until you hit me.…Throwing?
+
+( SUB : You're just trying to throw stuff at me till you hit! Throwing? )
+
+
+
+SAT Chief (voiceover): Listen up! Our target has an unidentified weapon with a two-meter effective lethal range.
+
+( SUB : Our target has a weapon that causes certain death within a two meter radius. )
+
+( He briefly raises his head, then ducks again while taking projectile fire. )
+
+Bando: So that's it. Two-meter-long invisible hands. Quite a weapon!
+
+( SUB : So that's it. Two-meter invisible hands. Those are your... )
+
+( Behind the barrels and ducked down, Bando smiles despite or because of the danger he is in, and the challenge it presents; he has found the foe he was promised, and is in his glory; Lucy hurls Satou's body, where it hits a corrugated metal wall; it begins to seem like this was for range-finding and possibly a distraction. Lucy throws another rowboat, hitting Bando's position. The barrels bounce as the rowboat strikes, their contents igniting as Bando rolls away; Lucy then ups the ante by raising up a mid-sized motorboat, which Bando fires an explosive shell into before she can hurl it; again he is smiling. )
+
+Bando: You know, this is kind of fun!
+
+( SUB : This is fun! )
+
+
+
+
+
+( SUB : What is it? )
+
+( Bando chances another glimpse at his distant attacker, slowly drawing closer )
+
+Bando: Wow. This is just too cool, huh?
+
+( SUB : Geez. This is too cool, huh? )
+
+( Again finding cover, Bando sees the still-advancing Lucy, but he also spots a grenade on Satou's body, very near to where Lucy is headed; Lucy almost sees him before he ducks back down, smiling like a hungry man who has just spotted a large meal; His look is one that is very nearly ecstatic; Ducked down, his eyes close as he takes in the noise from Lucy's footfalls, gauging her position, until her splash in a puddle of blood and water tells him she is in position for him to shoot and explode the grenade he spotted ) 
+
+Bando: OK, you freak of nature! Time to die!
+
+( SUB : Die! You occult bitch! )
+
+
+
+Bando: Hey…that's not fair. You're cheating!
+
+( SUB : That's not fair, is it? )
+
+( In the distance, the girl again turns her head at the sound of gunfire. )
+
+Mayu: Huh?
+
+( Bando begins to show slight signs of shock, fear and even panic as he lowers his weapon slightly; Lucy begins to fire on him; Bando is hit, and falls back, his flak jacket taking most but by no means all of the impact; Suddenly he finds himself sprawled with Lucy standing over him, looking down on him with complete and utter disdain. )
+
+
+
+( SUB : Are you enjoying this? )
+
+( Determined to regain his dignity and edge, Bando makes an effort to reach for his pistol. )
+
+Bando: Bitch!
+
+( SUB : You damn bitch! )
+
+( Bando's attempt to raise and fire his weapon is met with the severing of his right arm; He yells in agony. Lucy seems to be unmoved either way, neither empathetic nor joyful at his pain. )
+
+Bando: You bitch! You bitch! How dare you… cut my arm off?
+
+( SUB : You bitch! How dare you...How dare you cut my arm off? You bitch! )
+
+( As he tries to strike at her with his left arm, it is quickly bent back and broken, and Bando yells once again. )
+
+Bando: Just wait! Wait and see! See what happens! I won't forget you! I'll come find you!
+
+( SUB : Just wait and see. I'll never forget your face! )
+
+
+
+Bando: I'll kill you! I'll kill you! Damn you!
+
+( SUB : I'll kill you! I'll kill you, damn it! I'll kill you! )
+
+( Arms emerge from Lucy's head; She is prepared to finish Bando off. )
+
+Lucy: Fun's over.
+
+( SUB : This isn't fun anymore. )
+
+( The arms begin to strangle Bando as he continues to thrash about; At this moment, Lucy notices she still has whatever Nyu found on the beach and was holding onto, and takes a look at it; She seizes, cries out and grabs at her head. Lucy falls to the sand, but when she looks up, a reversion has occurred. )
+
+Nyu: Nyu?
+
+( The sight of Bando's wounds and massive blood loss badly scares Nyu; Bando still thrashes and twists in pain and rage as she begins to cry. )
+
+
+
+( SUB : Hey, where'd the hell you go? Come back! )
+
+( Nyu's look is one of purest confusion; in the makeshift shelter, the girl and the dog ascertain where the noise is coming from; they see Nyu run by them in a blind panic. The dog mewls after she is gone. )
+
+Bando: Hey! Where the hell are you? Where the hell did ya go?
+
+( SUB : Hey, where the hell are you? Where'd the hell you go? )
+
+( The girl sees Kouta's umbrella, lost earlier, and goes to pick it up; using it, she heads over to Bando as the dog lightly barks after her. The umbrella says 'Kaede House' on the handle; The girl looks and sees the mutilated Bando still flailing wildly. )
+
+
+
+( SUB : Excuse me. What happened? )
+
+( She shows obvious and logical concern that his movement is only making the bleeding worse. A helpless Bando keeps right on thrashing like an eel in a bucket. )
+
+Bando: I'll fucking kill you! I swear I'll kill you! I'll kill you! I'll kill you!
+
+( SUB : I'll fuckin' kill you! I'll kill you! )
+
+Mayu: Excuse me, sir?
+
+( SUB : Mayu : Excuse me. )
+
+( Fearful but realizing his peril, the girl gathers her courage, closes her eyes and cries out, loud enough to overcome his screaming. )
+
+Mayu: Stop moving around!
+
+( SUB : Don't move! )
+
+( The girl ties off his arm stump with a rope tourniquet as Bando becomes somewhat calmer. )
+
+Bando: Who are you?
+
+
+
+Mayu: All right. I'm gonna go get an ambulance. Please don't move if you don't have to.
+
+( SUB : I'll go get an ambulance now, so please don't move so recklessly! )
+
+
+
+Bando: Shit.
+
+___
+ ws:start:WikiTextHeadingRule:14:&lt;h3&gt; 
+ ws:start:WikiTextHeadingRule:16:&lt;h3&gt; 
+
+( Outside a hospital, trees sway in the wind and rain; the small building is of an older design; sirens are heard in the distance; inside it, Yuka sits by Kouta's side, a concerned look on her face. An IV drip is attached to his right arm at the wrist; The walls are faded; this structure shows its age in many visible cues, from the walls to the equipment; Kouta's forehead is bandaged; He begins at last to rouse as Yuka calls out to him. )
+
+
+
+( His eyes open and he looks around confusedly. )
+
+
+
+( SUB : Oh, Yuka. Where am I? )
+
+( Yuka sits up from her chair, actually a green stool. )
+
+Yuka: What's going on? What happened? Are you okay?
+
+
+
+Detective A: Please, excuse us. Well, well! Looks like we meet again.
+
+( SUB : Please, excuse us. So we meet again. )
+
+Detective B: We'll need a moment alone.
+
+( SUB : Give us a moment alone . )
+
+( Outside the room, Yuka's worry is evident; she waits on a green couch, opposite windows being pounded by rain; next to her is what once might have been a laundry chute, now appearing to be sealed off by the position of the couch itself; a stairwell foyer with stairs leading both ways is in the distance; the hospital room door window is stylized, again confirming the hospital's age; inside the room, Kouta is sitting up in bed. )
+
+Detective A: A soldier with a machine gun, you say? Seems more likely you had a run-in with some bikers carrying Saturday night specials, don't you think?
+
+( SUB : A soldier with a machine gun, huh? In short, you're saying that you were attacked by some guys like motorcycle gangsters with model guns. )
+
+( Kouta is openly annoyed at this outright dismissal of his account. )
+
+Kouta: No, I don't! They were soldiers!
+
+( SUB : No, I'm not. It was definitely... )
+
+( The older detective folds his arms. )
+
+Detective A: The girl who was with you earlier said she didn't see any soldiers. If only we had another witness…
+
+( SUB : The girl who was here earlier said she didn't see anyone like that. If only there were another witness. )
+
+( Kouta starts openly. )
+
+Kouta: Witness? Nyu! There was a girl! There was a girl with me at the beach! Is she safe?
+
+( SUB : Witness?...Nyu...There was a girl at the beach. Is she safe? )
+
+Detective A: Hmm?
+
+( The younger detective leans into Kouta's face, seeming a bit frantic. )
+
+Detective B: This girl witness, who was she?
+
+( SUB : Who was she? )
+
+( Kouta realizes he must now fudge his story, his face showing worry over saying too much and selling the lie he must now tell. )
+
+Kouta: Yeah…I don't know. I just happened to see her.
+
+( SUB : I don't know. I just happened to see her. )
+
+( The detectives now shift to a neutral stance to aid their interrogation. )
+
+Detective B: Anything strange about her?
+
+( SUB : What were some of her distinguishing characteristics? )
+
+Kouta: I can't think of anything strange.
+
+( SUB : Characteristics. I can't think of anything in particular. )
+
+( From neutral to slightly more aggressive, the younger detective presses. )
+
+Detective B: Hairstyle, clothing, strange behavior! Did you see or notice anything unusual on her head?
+
+( SUB : Things like hairstyle, age or something like that! Especially if you saw something on her head! )
+
+
+
+Detective A: It's all right! Just think and tell us whatever it is you do remember.
+
+( SUB : Could you just tell us whatever you remember? )
+
+( Kouta fakes a moment of realization, hoping that it is believed. )
+
+
+
+( SUB : I said it was a girl but she was about the age of a college student. She had short hair and was a little overweight. )
+
+( The older detective stands up, seeming satisfied, his younger partner looking decidedly less so. ) 
+
+Detective A: Great! That's plenty. Sorry to have bothered you when you were injured. I woulda left you alone, but the doctor said you were healthy. I'd still take it easy for a day or two.
+
+( SUB : Okay, that's enough. Sorry to bother you when you're injured. I was told by the doctor earlier that your injury isn't that bad. Go home carefully. )
+
+( They begin to leave the room, with this perhaps being a ploy to trip Kouta up. )
+
+Kouta: Hold on! I swear one guy had a machine gun!
+
+( SUB : But it really was someone with a machine gun! )
+
+Detective A: Yeah, well, there are a bunch of biker gangs around here. We'll make sure that your incident gets reported. It'd be smart to forget all about it.
+
+( SUB : There are many motorcycle gangsters around here. We'll duly take care of your crime report. You should forget about it, for your own good. )
+
+( Kouta shows his suspicion at the urging to forget it all. )
+
+
+
+( The interior of a taxi-cab; seen is the back of the driver's head and the reflection of his eyes; A traffic light is seen through the windshield; A plaque with information is shown, but it is not rendered precisely enough to be legible, on the cab's partition between the passenger and the driver; Kouta and Yuka sit together, with Kouta's head still bandaged. His mind is elsewhere. )
+
+
+
+( SUB : I hope she hasn't been killed. )
+
+( Yuka is startled and confused at this. )
+
+
+
+( SUB : What? What did you say? )
+
+( Kouta looks away from her, out his side's passenger's window )
+
+Kouta: Nothing.
+
+
+
+Yuka: Well, I'll stop by again tomorrow. Are you sure you're OK?
+
+( SUB : Then, I'll stop by again tomorrow. Are you sure you're okay? )
+
+Kouta: I'm fine, I'm fine! I'll…see you later.
+
+( SUB : I'm fine, I'm fine. See you then. )
+
+( The cab pulls away and we see Kouta from Yuka's POV, with him receding in the distance, a view she is perhaps familiar with; As she sits down, we see that the cab's seats are a blue material. )
+
+
+
+Kouta: Ah!
+
+
+
+Nyu: Nyu.
+
+( Kouta kneels down and embraces her, dropping his umbrella as he does; Nyu opens and closes her eyes. )
+
+Kouta: I'm sorry.
+
+( Her face shows her confusion. )
+
+Nyu: Nyu?
+
+Kouta: Thank you.
+
+( Now, it shows her delight. )
+
+Nyu: Nyu!
+
+
+
+Child Yuka: Kouta! Come back next year, OK? Don't forget about me!
+
+( SUB : Kouta! Please come again next year! Don't forget about me! )
+
+( We see a close-up of Kouta's smiling face. )
+
+Child Kouta: Yeah! Of course I'll come back next year. After all, I like you!
+
+( SUB : Yeah! I'll come next year again, Yuka, since I like you. )
+
+( In the present, she closes her eyes sadly; she opens them as she seems to make a connection. ) 
+
+Yuka: That was eight years ago, wasn't it?
+
+( SUB : It's been eight years since then, hasn't it? ) . )
+
+
+
+( SUB : Yes? )
+
+( Yuka smiles as she speaks to the driver. )
+
+Yuka: Oh! No…nothing.
+
+( SUB : No, nothing. )
+
+( A jingling sound makes her realize something. )
+
+Yuka: Ah! The key! Oh, please go back!
+
+( SUB : The key. Sir! )
+
+( Nyu is red-cheeked and sneezing; Her shirt is soaked through and clinging noticeably and awkwardly; Kouta searches through a bag of his clothes, trying and somewhat failing not to look at the shape of her breasts through the shirt; They are before the dining table as Nyu watches Kouta. )
+
+Kouta: OK, who are you, anyway? Those two guys, those two soldiers, the police… you've got everybody acting strange.
+
+( SUB : Hey, who are you? Those guys...those soldiers and the police are definitely acting strange. )
+
+( Nyu reacts as a toddler might. )
+
+
+
+( Kouta's face betrays how foolish he feels as he realizes who he's talking to. )
+
+
+
+( SUB : Even if I say something, I guess you won't understand it. But I've decided that I'll never let them take you. All right, change into this. )
+
+( Again, Nyu's infantile mentality is clear as she stares at the shirt. )
+
+Nyu: Nyu?
+
+( Kouta gains a resigned look. His eyes go wide as he gains a determined look. He again struggles and fails not to look at Nyu's chest; the soaked shirt is now transparent. ) 
+
+Kouta: Hmm…OK, that's all right. I guess I'm going to have to change your clothes myself.
+
+( SUB : Oh, well. I guess I've got no choice but to change your clothes myself. )
+
+( His eyes closed, Kouta feels around for the fresh shirt as a topless Nyu sits and waits; her wet shirt is now drying on the table )
+
+Kouta: Uh…
+
+( He continues to feel around, while Nyu's body is a reminder that while her mind is that of a child, the rest of her is not. )
+
+Kouta: Um… shirt, shirt, shirt… Here we go! OK, Nyu. Arms in the air! Like this.
+
+( SUB : Um....shirt, shirt, shirt...There it is. Okay, raise your arms like this. )
+
+( Finding the shirt, he raises his own arms and Nyu follows suit without question. )
+
+Nyu: Nyu!
+
+( Kouta tries to position the shirt on her arms and push it onto her. )
+
+Kouta: Don't worry. I'm keeping my eyes closed. Let me see…
+
+( SUB : Don't worry, I'm keeping my eyes closed, so...Let me see... )
+
+( His hands lightly brush her breasts on the way down, causing Nyu to react. )
+
+Nyu: Nyu!
+
+( He pulls back suddenly. ) 
+
+Kouta: Sorry! Sorry!
+
+( SUB : Sorry! )
+
+( Nyu begins to touch and squeeze her breast, evidently enjoying the sensation. As the view switches, Kouta's eyes are once more closed tightly; He has her in a position with her head and back on the floor, with her legs raised. Her shirt is still not covering her chest; Kouta's intent is innocent, but the situation cannot help but take on sexual connotations for him, though not the confused Nyu. )
+
+Kouta: Underwear's next. This is the big one… um, so, listen! Tr-try not to move, OK?
+
+( SUB : Next is underwear. This is the big one. Listen, don't move, okay? )
+
+
+
+
+
+___
+ ws:start:WikiTextHeadingRule:18:&lt;h3&gt; 
+ ws:start:WikiTextHeadingRule:20:&lt;h3&gt; 
+
+
+
+
+
+( SUB : So it was a failure. )
+
+
+
+( SUB : Yes. From the damage done to the SAT members, we could confirm that Lucy came ashore, but we still haven't tracked her down. )
+
+Kurama: As gifted as she is at killing, I imagine she'll find it difficult to keep a low profile for long.
+
+( SUB : I can't imagine that bloodthirsty killer will continue to hide quietly. )
+
+( Shirakawa, an attractive woman with glasses, looks to be all business but her voice in comparison to her appearance shows that her emotions are at least partially in play; her hair is in a bun; her mind at least is a bit less focused. )
+
+Shirakawa: Regardless, I hope we won't have to use Number Seven.
+
+( SUB : That maybe so, but I don't think you need to even use # 7. )
+
+( They stand outside a room marked with a large Red '7' on each side of the automatic door halves; A lab tech is seen; the English dub is missing his dialogue, but it is revealed in subtitles. )
+
+Kurama: What's her condition?
+
+( SUB : Assistant (Isobe?) Subtitled only : Since we've been performing pretty severe experiments continuously, I don't know if we can use her or not. )
+
+
+
+
+
+( SUB : Papa . )
+
+Next Episode Announcer : ( A bloodied but perked up Nana, still chained, speaks to Kurama who watches impassively ) What she felt was a sad imitation. ( A carving game breaks apart; Young Kouta smirks just a bit; Yuka in the present washes her face amidst tears in a green-shaded tiled porcelain sink with a single older-style faucet and water puddling inside it ) Created in a world ruled by eternal pain and despair, that synthetic emotion could only serve a single goal. ( Nyu snuggles with Kouta; Wanta is leashed outside of Maple House; Shirakawa looks at Isobe; Nana's eyes open; Mayu first enters Maple House; Bando, his eyes covered, thrashes about; Nyu's face darkened, she turns around to reveal Lucy, who sends vectors at Kouta; Kurama shows X-Rays of a Diclonius; Nyu smiles; X-Ray of a Diclonius skull. )
+
+( SUB : It was already too cruel to describe it with the word love. It was a sad imitation, created in a world where only eternal pain and despair rule, only to achieve a single goal. Next Elfen Lied, Episode Three : Deep Feelings. )
+ ws:start:WikiTextRemoteImageRule:22:&lt;img src=&quot;http://animetranscripts.wikispaces.com/site/embedthumbnail/placeholder?w=NaN&amp;h=NaN&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;  ws:end:WikiTextRemoteImageRule:22 

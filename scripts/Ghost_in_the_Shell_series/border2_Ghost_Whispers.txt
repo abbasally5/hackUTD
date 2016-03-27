@@ -1,0 +1,743 @@
+
+Judge: Time to go, Soga!
+
+Commander: Griffin Unit. Eagle clear. Ten minutes to air raid.
+
+Operator: Fox negative.
+
+Commander: Griffin Unit, ten minutes to air raid.
+
+Soga: Griffin here. Now read you.
+
+Commander: Ten minutes, Griffin.
+
+Operator: It's clear.
+
+Commander: Roger. Check it.
+
+Soldier A: Frag out.
+
+Soldier B: Hold on. They've got hostages.
+
+Judge: Colonel Kazuya Soga. This court is prepared to issue a verdict in our trial.
+
+Judge: The defendant was found to have committed crimes against humanity during the military campaign in Kurdistan. This war crimes court hereby sentences into death.
+
+
+Logicoma: That's funny. How come I awake when everyone else is sleep-learning?
+
+VV: Be a dear, and lend me your brain, won't you?
+
+Logicoma: Who said that? Hello? Whoever is updating my synchronization? If you can just, huh... You and me are...? Wait, what's this?
+
+Batou: We're doing this to clear Colonel Soga and ourselves. Get the module into the vehicle!
+
+VV: Be good now.
+
+
+Aramaki: Our entire system went down last night for 1.8 seconds, give or take.
+
+Kusanagi: Tech failure or did you get hacked?
+
+Akafuku: We're checking it out. It's possible that one of our Logicoma units synched with something.
+
+Kusanagi: Something?
+
+Aramaki: I want you to find out what, then figure out how it ties into system hiccup.
+
+Kusanagi: Who would hack this old thing? The neurochip inside it is ridiculously outdated. I mean you might as well try hacking a conveyor belt.
+
+Aramaki: Since we don't know what happened, we're leaving the other units shut off until I get some answers which is where you come into the equation.
+
+Kusanagi: I see. Then you think it might've been an inside job. Okay, I'll use a civilian facility.
+
+Aramaki: In a perfect world, you will be doing this job from your independent unit. Are you still looking for personnel?
+
+Kusanagi: If I'm gonna have a team, it means to be right.
+
+Aramaki: So, life as a freelancer agrees with you, does it? Or are you waiting for a crisis in a hope that the brass will give you carte blanche? If you want your squad to last, be realistic. Don't shoot for the Moon, Major.
+
+
+Kusanagi: It looks like your parallel commands are randomized. What's the reason?
+
+Logicoma: It must integrate new data more efficiently.
+
+Kusanagi: Fine. But that stops me from accessing it. Any way you can tell me what happened to you last night verbally instead?
+
+Logicoma: Um, I don't remember but I do know it was something important.
+
+Kusanagi: Nothing in here looks tampered with. Whoever initiated that thing, they know their stuff.
+
+Logicoma: I feel of blushing. Is that weird?
+
+Kusanagi: There's no record of that even taking place. It looks like they must have patched up your AI with a false memory.
+
+Logicoma: I got a false memory?! Wow! That's so cool. How I wish I could remember it?
+
+Kusanagi: Bingo.
+
+Logicoma: Wow, so that was inside me?! I'm full of surprises.
+
+Kusanagi: You're right about that. Now then, what have we got here?
+
+Ishikawa: This is our people for talking about. We're soldiers, damn it, not terrorists.
+
+Kusanagi: What is this?
+
+Batou: We're doing this to clear colonel Soga and ourselves. Get the module into the...
+
+Kusanagi: Traffic control's down?
+
+Logicoma: Sheesh! Sheesh, Keep your lane!
+
+Kusanagi: Logicoma!
+
+Kusanagi: What the hell is wrong with you?
+
+Batou: Damn you, Kusanagi...
+
+Ishikawa: Kusanagi? The major with the Five - O - One?
+
+Batou: Pretty sure, she's freelance now. Call in backup. Everybody.
+
+
+Aramaki: You're under attack?
+
+Kusanagi: Lots of shots being blown my way. And this traffic control error isn't helping any. Unless you're the one trying to kill me, send reinforcements, ASAP. My assailants are battle cyborgs. One of them is Batou, the sleepless eye.
+
+Aramaki: Are you sure?
+
+Kusanagi: Positive. And some rogue code was left behind the Logicoma's AI.
+
+Aramaki: So that's their objective. You have backup in fifteen minutes. Just hold out until then.
+
+Kusanagi: Are you kidding me?
+
+Aramaki: The traffic network has been co-opted. That's the best I can do. How's it look?
+
+Operator: It's getting worse. All navigation systems are under their control.
+
+Aramaki: What are you waiting for? Stop them.
+
+Operator: We don't have enough processing power. Counter measures failed. [Squabble] attack increasing.
+
+Controller: We have a malfunction in the flight control system, the causes unknown.
+
+Controller: Divert all flights!
+
+Controller: I'm already on it.
+
+Controller: Good.
+
+Operator: It's not just ground traffic, Sir.
+
+Operator: Air control has been co-opted, too.
+
+Operator: 80% of the traffic system is now under unauthorized control.
+
+Aramaki: Damn it all. Whatever system they're using to mount this attack is huge. Fifteen minutes might have been a bit of optimistic.
+
+Kusanagi: Come on!
+
+Aramaki: This isn't a glitch in the system. It's an attack.
+
+Kusanagi: Hacking the whole system? Who has a setup like that?
+
+Kusanagi: Hm..., I need ammo. Why the hell are you empty!
+
+Logicoma: They fall under attack, remember?
+
+Kusanagi: In that case, I'll have to be clever about this.
+
+
+Batou: T-minus ten minutes, Borma. Don't let Public Security use the de-parallelizing code. Do you copy?
+
+Borma: Get off me! You bitch!
+
+
+Kusanagi: They're pulling out all the stuff, huh?
+
+VV: The situation with the traffic system is getting worse by the minute. You need to take up the machine they're mounting in this [???] with.
+
+Kusanagi: You've been spying on me all day. Why hyped up now?
+
+VV: I'd like for you to trust me enough to hand over that Logicoma unit. We have some unfinished business.
+
+Kusanagi: That voice. So you're the one.
+
+VV: Indeed. I made this acquaintance late last night.
+
+Kusanagi: Sure you didn't hack the traffic system?
+
+VV: I'm flattered. That's beyond my ability. It was the work of a group with the special military grade module. And it's merely the opening act, I'm afraid.
+
+Kusanagi: Opening act?
+
+Logicoma: Gotcha.
+
+Kusanagi: Logicoma!
+
+VV: Our common foe stole the module's de-parallelizing code from me. All I could do was recreate the code as the best I could. From there, I copied it to an AI with the potential to be sequestered from a network branch. In other words, this Logicoma.
+
+Logicoma: Did you hear that, Motoko? I'm all kinds of importance today.
+
+VV: You are.
+
+Kusanagi: Get us to the exit. Full speed ahead.
+
+Logicoma: Ave aye, sir!
+
+Kusanagi: Heads up!
+
+Logicoma: I wasn't very designed for sudden STOOOP!
+
+Kusanagi: Move!
+
+Logicoma: Huh? Huh...?
+Kusanagi: Cover me!
+
+Logicoma: Hello. You still in one piece.
+
+Kusanagi: So what do we know about this military grade module?
+
+VV: It's a Mass Field-Hacking Unit took half of the old Silicon Valley and the military to put it together.
+
+Kusanagi: A joint project. And you work for the Americans, I assume.
+
+VV: Special Forces at your service. My code name is "VV". You scratch my back, and I scratch yours.
+
+
+Ishikawa: Now we've got two of them gunning for us.
+
+Batou: I saw this coming. The blonde is trying to get the module back. Let her, she won't succeed. We'll cripple Public Security. And then, it'll be checkmate. How's the takeover going?
+
+Ishikawa: We're getting close to target values.
+
+Batou: We'll make them pay for their lies. Secure me a line. It's time to brief to the colonel.
+
+
+Judge: This war crimes court hereby sentences him to death.
+
+Kasuga: How dare you, Colonel Soga?!
+
+Guard: Step away from the barrier.
+
+Kasuga: I'm the Vice-Minister of Defense. And I need to talk to the colonel.
+
+Soga: Why, if it isn't Vice-Minister Kasuga? I'm touched by your concern. That said I'm still very much captain of my own fate.
+
+Kasuga: How so?!
+
+Soga: Those who within my net will disappear from this city. I desire but one thing in this broken world: to let the truth of that day finally be known!
+
+
+Kasuga: Aramaki, You've heard of the colonel, right?
+
+Aramaki: He was the ranking officer at the war time massacre of Kurdistan.
+
+Kasuga: And the architect of our traffic problem. Even now from the depth of the isolation cell, he's issuing his orders via the net. Can't your people gag him already?
+
+Aramaki: He's using a military satellite to connect. You can either shoot it down or put a bullet into Soga's head. Which one can you afford?
+
+Kasuga: Neither of them, frankly.
+
+Aramaki: If that's really the case I feel our hands are tied. Even if we committed every Home Affairs and civilian Al at our disposal we still wouldn't have nearly enough processing power to shake him loose and regain control of the traffic systems.
+
+Kasuga: After he refused to testify in court, they laid the whole mess at Soga's feet. I did the best I could buy him, I tried to get his sentence changed to something a bit more humane. And now he sets his unit on us.
+
+Aramaki: At least his motive is fairly clear. [Does this] his country tells him then he takes the blame for it once the war is done.
+
+Kasuga: Well, have a seat.
+
+Aramaki: How did his unit get this type of fire power?
+
+Kasuga: The lower-ranking NCOs are on strike right now. It wouldn't shock me if the entire arsenal just walked out.
+
+Aramaki: One last thing, what is he after?
+
+Kasuga: Access to the Pandora database, which is full of the state's secrets.
+
+Aramaki: A true-life Pandora's box, then. Does he mean to release sensitive evidence and appeal his conviction to the international court?
+
+Kasuga: I wish it were that. Soga wants to air the Army's dirty laundry to the world in exchange for the 20 million occupied cars he's so conveniently taken hostage.
+
+Aramaki: Sounds like he wants the nation of Japan to be held accountable the same way that he was.
+
+Kasuga : Yes, and then the rest of world would use our war crimes as a pretext for encroaching upon our sovereignty. It would be like occupation all over again. Our hands are not clean, gentlemen. They reduce us to a puppet state in the name of penance.
+
+Official: We're not having this discussion. He is not getting access to Pandora.
+
+Kasuga: Should I consider that the final word from Home Affairs?
+
+Official: No, sir. Forgive my outburst.
+
+
+Kusanagi: Colonel Kazuya Soga?
+
+Aramaki: He is a [droid] command of an op in Kurdistan made him the army's golden boy. And he was accused and convicted of spearheading a war time massacre of civilian refuges and he's been locked up ever since.
+
+Kusanagi: A hero during the war and a criminal afterward. Now his [op] is trying to leverage his release with a hacking module, I presume.
+
+Aramaki: And you are...
+
+Kusanagi: She's just an informant, sir. I brought her into be a part of this conversation
+
+Aramaki: What's your take on this module?
+
+Kusanagi: It looks like they're using it in order to harness enough processing power to rival that of a giant nationwide system. They've managed to load together tens of thousands of low capacity AIs in parallel to perform the operation.
+
+Aramaki: What does our guest think?
+
+VV: I think she hit the nail on the head.
+
+Aramaki: And your objective is to retrieve this module, I assume?
+
+VV: Yes, or destroy it. If which had come down to that, then the most effective way to do the latter would be to launch the de-paralyzing code I hid in your Logicoma's AI from somewhere outside the compromised area.
+
+Aramaki: How was it stolen to begin with?
+
+VV: It was brought to Japan covertly. So, our countries could collaborate more easily on a military front.
+
+Aramaki: If that's the case, I'd imagine your colleagues are investigating the theft with a great amount of fervor.
+
+VV: That I can neither confirm nor deny.
+
+Aramaki: And I shouldn't bother asking how you found the enemy's smuggling point? I had a meeting with the Japanese Vice-Minister of Defense. And yet I'm getting a lot of these details for the first time right now. In other words, something is being hushed up here.
+
+Kusanagi: Fine, then. What better reason do you need to tell the Ministry of Home Affairs to get my squad top priority?
+
+Aramaki: You haven't put a squad together yet.
+
+Kusanagi: I'll make one based on skill. No need for rank, and of course top priority status.
+
+Aramaki: Bad idea. This sounds like a mercenary group. If you play this crisis for your own gain, the defense community will treat you like a vulture.
+
+Kusanagi: I'm not looking for bounty hunters. And anybody joking for postwar concessions would be barking up the wrong tree. How are the Home Affairs bigwigs taking all this?
+
+Aramaki: They and the Ministry of Defense were worried about word getting out. If people knew the stakes, we'd have a full-blown panic on our hands. So no one is authorized to take action except for a select few of my units.
+
+Kusanagi: Perfect time for a squad like mine then. A team that knows what is doing and has the freedom to act swiftly will be indispensable today, tomorrow and forever.
+
+Aramaki: Took you long enough, Major.
+
+
+Saito: Whoops. Does your bullet yell at again?
+
+Kusanagi: Virtual reality Russian roulette, huh?
+
+Kusanagi: So, do you get off to the feeling of a bullet entering your cranium or what? Not some pretty sick stuff.
+
+Saito: Kusanagi. You're from the 501, ain't you?
+
+Kusanagi: Not any more. Tell me what you know about Soga. The op in Kurdistan, and the module. Spill it, or I'll put a bullet in your head for real this time. Your choice.
+
+Saito: Why the hell did you come to me?
+
+Kusanagi: You served under Colonel Soga in Kurdistan. Well, that I dug up the record of lshikawa calling you on your private line.
+
+Saito: He tried to get me back with the 78th. But I said no way, the pay wasn't good enough.
+
+Kusanagi: Ace sniper turned a compulsive gambler. That is your story, right? Pretty sad that you had to embezzle money from your unit's leave-time budget to support your addiction.
+
+Saito: How the hell did you know about the...
+
+Kusanagi: It's a shame that filthy lucre is all that motivates you. But I think we can come to an understanding. Sign on to my spec ops team as a sniper within five seconds, or all that money you stole will get transferred back over to Maritime Command.
+
+Saito: Son of a bitch.
+
+Kusanagi: Don't be like that. You'll get paid.
+
+
+Saito: Let me guess. You're the MP? So what's the little ball-buster threatenin' you with to get you to join?
+
+Paz: Huh? I volunteered. I've been looking forward to this for a while now.
+
+Saito: You're a glutton for punishment.
+
+
+Kusanagi: How can you drive this with them controlling the traffic?
+
+VV: Well, [She set some] work that. She's high maintenance, sure, but worth every penny. You'll see.
+
+Kusanagi: Since we can't break Soga's connection to the Net, we need to get our hands on the module instead.
+
+VV: This facility is the most likely candidate for the enemy's headquarters.
+
+Kusanagi: You volunteer that intel pretty quickly. Does this mean you won't be joining us?
+
+VV: Culpable deniability.
+
+Saito: So, an ol' telecommunications building, huh? Not gonna be a lot for me to draw a bead on if they're holed up in some server room.
+
+Kusanagi: Poor baby. Don't you fret, I'll smoke out lots of targets for you.
+
+Saito: Ha, ha!
+
+
+Saito: You gotta be kidding. A measly squad like that can afford an attack chopper? It must be nice.
+
+Kusanagi: It's time, Logicoma.
+
+Logicoma: But I'm not done disabling the sensors yet. What?! What's wrong with you?
+
+Logicoma: Chic.
+
+Kusanagi: You're such a slowpoke.
+
+Kusanagi: Paz, status?
+
+Paz: We have to clean this bit [????] [error/ever], but I'm in.
+
+Kusanagi: So are we. Report in if you find the module. Let's go.
+
+Soga: I think not.
+
+
+Kusanagi: A barrier maze, huh? This processing speed...
+
+Soga: It's useless. You people can't unravel the strands of my Net. In less than an hour, Pandora's box will open. Even if you were capable of stopping me you have a precious little time to do it.
+
+Kusanagi: You want revenge against your own country that badly?
+
+Soga: I want the truth to be known.
+
+
+Soga: The operation with the Kurdistanean refugees was the 78th Composite Unit's final action.
+
+Kusanagi: They sent you to exterminate them, Soga.
+
+Soga: No!
+
+Kusanagi: This is...
+
+Soga: Those refugees were unarmed civilians. After we saved them, a conglomerate occupied their land. Someone ordered their slaughter for their own personal gain.
+
+Soga: Give me a water!
+
+Soga: Opening Pandora is just the start. That war was the fault of many nations. It was not only Japan. I'll shine the light of all their crimes.
+
+Kusanagi: Colonel, listen to me closely. You've been....
+
+Kusanagi: Soga? Is this a gap in the maze?
+
+Soga: She couldn't have left the barrier maze. What happened?
+
+Kusanagi: Soga can't detect me. Maybe I did somehow stumble into a gap.
+
+Kusanagi: He planned this all along. Now he's attacking Pandora with every traffic AI in the whole country.
+
+VV: I'm sorry to yank you out. My barrier isn't going to buy us much more time though. Let's hurry up.
+
+
+Operator: It's been three minutes since we lost contact with Major Kusanagi, sir.
+
+Operator: Ministry of Defense reports. A full scale assault on Pandora began roughly four minutes ago. This is more than we can repel.
+
+Official: This is what we get for letting your people off of their leash, Aramaki. We could've negotiate with Soga. But you had kicked the hornet's nest.
+
+Aramaki: Kusanagi! Sitrep! Are you all right?
+
+Kusanagi: Soga took over the traffic control system using the stolen module. But his threats regarding the hostages are just misdirect. He's going to use all those processors he hijacked to break Pandora wide open.
+
+Aramaki: I see. A few options are back on the table in that case. You keep working on your end and recover the module.
+
+Kusanagi: Nice shooting.
+
+Batou: The deal with the government is just a bluff.
+
+Soldier: Colonel Soga went too far. They started as a plan for the Vice-Minister to sell Pandora! We can't take on the whole world! Come on, think!
+
+Batou: If you've got cold feet, run. Get out while you can. Maybe a little cut you some kind of break.
+
+Soldier: So be it.
+
+Batou: Your choice. You're in or out?
+
+Ishikawa: Hey! Home Affairs just wired us a payoff.
+
+Batou: Money isn't a point here. We're withdrawing. I'll buy us some time.
+
+Ishikawa: Colonel Soga didn't wait to clear the 78th's name before he started all this.
+
+Ishikawa: Why do you figure?
+
+Batou: Then do you think, maybe...
+
+Ishikawa: Kasuga has set him up?
+
+Batou: Let's go!
+
+Ishikawa: I'll leave him something to remember us by.
+
+Batou: Do it fast.
+
+Kusanagi: Paz, do you read me?
+
+Paz: More or less.
+
+Kusanagi: Do you know lshikawa? He's an intel.
+
+Paz: Yeah.
+
+Kusanagi: If you find him, patch you to the cyber lobby.
+
+Paz: Will do.
+
+Kusanagi: I hope you didn't hear all this.
+Ishikawa: Son of a bitch. Even with the barrier maze in place, they got in?
+
+Ishikawa: Come on, kid. Really, if you know who I am you should know the even a super-wizard-class hacker who won't escape my notice.
+
+Paz: The Major wants to talk to you. Let me connect you, and nobody here us to get hurt.
+
+Ishikawa: You got balls. That's for sure. Give it your best shot.
+
+Ishikawa: Be good and I want to have to get creative with your own.
+
+Paz: Back at you, ol' man.
+
+Ishikawa: Damn it. That ugly gorilla faked the conversation.
+
+Kusanagi: Excuse me for being a gorilla?
+
+Ishikawa: Four against one, huh? Planning to stick me with a virus, are ya?
+
+Kusanagi: Not at all. But I think you're already infected.
+
+Ishikawa: What?
+
+Kusanagi: I [jar] you with the vaccine. It's a bit buggy. Just deal with it.
+
+
+Batou: I've lost contact with lshikawa.
+
+Borma: I'm on it.
+
+Batou: I'll go on ahead with the module. Let's rendezvous at the trap site.
+
+Borma: Roger!
+
+Batou: Go! Shit. You sold us out, Saito?!
+
+Saito: Business is business. You know how it goes.
+
+Batou: Whatever they're paying you, I can beat it. Home Affairs just paid us off. I'll give you a triple share. I can wire it to your account right now.
+
+Saito: For real?!
+Borma: It's time to go, man. Batou's wait.
+
+Ishikawa: Not just yet.
+
+Borma: Hey! lshikawa?!
+
+Logicoma: Major! All've been left. There's only one car in the parking lot now. It didn't work!
+
+Kusanagi: They pulled out already? These guys are slick. Paz, you go with VV in her car. I'll go with Logicoma!
+
+Kusanagi: Damn it, Saito!
+
+Aramaki: You wired money to his unit? A crisis like this comes up and you just throw cash at the problem?
+
+Official: This is what we agreed on with Soga and his team. We utilize funding that we had funneled out of veteran's pension during the post war budget cuts in order to bolster the economic amnesty act.
+
+Aramaki: You think they went to all this trouble for something as simple as a little money? Frankly, sir, if you think this is going to appease them then you are far too naive.
+
+Official: The Ministry of Defense is calling the shots on this now. Your people are to take no action, got that?
+
+Kusanagi: How many units have they paralleled?
+
+Aramaki: They've taken in control of 20 million vehicles with their navigational AI. The system is so overwhelmed now, it's all we can do to deploy a single chopper. But there is a way to turn the tables on them and regain the advantage for a little while at least.
+
+Kusanagi: I'm all ears.
+
+
+Logicoma: Logicoma ruuun!
+
+Batou: The busters found us already?!
+
+Kusanagi: Quick, take out these tires!
+
+Kusanagi: Straight through. You take the right!
+
+Batou: They're in a car. How the hell can they drive while we're all hacking the traffic.
+
+VV: It's a show time, Paz.
+
+VV: Soga just turn my car!
+
+Kusanagi: Worth every penny, huh? I'm not impressed.
+
+VV: I can't help it. He was throwing everything he had at me.
+
+Kusanagi: Good luck. lshikawa!
+
+Ishikawa: Incoming call from Major Gorilla.
+
+Soga: You betrayed me?
+
+Ishikawa: Uh. I never thought that Colonel would try to brain-fry me!
+
+Borma: That's insane. So he went for it?
+
+Ishikawa: We're about to find out what the truth is.
+
+VV: I'm back at the driver seat.
+
+Batou: Ishikawa took a car of the grip?
+
+Kusanagi: Saito!
+
+Saito: I drew from your hand, lady, they sweetened the pot.
+
+Batou: Good work, Saito! We've almost made it to the trap site. Once we get there...
+
+Saito: The house falls.
+
+Kusanagi: If you love the gamble so much, bet on this!
+
+Logicoma: What gags, Major? I can't see the bad guys anymore.
+
+Kusanagi: Impossible. Where are they?!
+
+Operator: Five minutes to infiltration of Pandora.
+
+Kusanagi: There's no reason to think that I've been hacked, so how they vanish?!
+VV: Your vision is fine, Kusanagi.
+
+Kusanagi: How bad is it?
+
+VV: I'm down an arm, but don't fret. We're good to go.
+
+Kusanagi: So what's the trick here?
+
+VV: A couple of well placed optical camouflage holograms. Old fashioned. But they get the job done. I only saw through it 'cause we're creeping along. I'll send you coordinates.
+
+Kusanagi: Securing the module is top priority. We're out of time.
+
+Batou: They've figured it out? These guys don't know when to quit.
+
+Kusanagi: Fire!
+
+Logicoma: Aye aye.
+
+VV: We can't jump overpasses. But I'll take us a while.
+
+Kusanagi: We're out of time. Logicoma, stay where you are.
+
+Paz: Wait for backup, Major!
+
+Batou: You're very good. But you're not the only one who can infiltrate somebody's vision, Major Kusanagi. That oversight's about to get you killed.
+
+Kusanagi: Paz! Get to the module, VV, I'll cover you.
+
+Operator: Infiltration of Pandora in ten seconds. Nine, eight, seven, six,
+
+Official: We deployed 317 roadblocks, all over wards 1 through 38, sir. Do you think that's enough?
+
+Aramaki: This is no time to hold back. Put up everything we've got. We'll tie up all vehicles' on-board computers with collision avoidance scripts. Our nation's fate is at stake. But my apologies to the ministry. I'm about to cause the worst gridlock anyone seen in thirty years.
+
+Soga: Aramaki from Public Security. He is taking 'em back.
+
+Kusanagi: Paz!
+
+Batou: You lose, Major. Soga just cracked Pandora wide open.
+
+Kusanagi: Not without all those their AIs, he didn't. Public Security's put breaks on more than a third of those vehicles he'd hacked.
+
+Kusanagi: Colonel Soga and his unit were infected with the virus.
+
+Kusanagi: There's no truth about that refugee op what you'd expose. You killed those people and called in an air-strike. You did it because the refugees you were trying to protect were actually armed guerrillas who ambushed your men.
+
+Official: It's on the Ministry of Defence's head; either kill this man or destroy Pandora before it's too late.
+
+Kasuga: Both of those choices are absurd.
+
+Soga: Kasuga wants me to break Pandora open.
+
+Official: What the?
+
+Kasuga: No! Don't!
+
+Aramaki: Wait! Stand down.
+
+Soga: It was Vice-Minister Kasuga who gave me that module. Your agent friend wants in the Pandora too. And that code she send away. I wouldn't trust it.
+
+Kusanagi: That so?
+
+Soga: I cannot stop the hacking now. This is the only way to end this!
+
+Kusanagi: Don't do it.
+
+Kusanagi: I gave you a copy of the vaccine. It's buggy, but at least you'll know which of your memories are the real thing. You can't delete the fake memory of the refuges yet, but we'll figure it out somehow.
+
+Batou: I'll keep it. Fake or not, it's the only memory I've got that doesn't make me feel like a damned attack dog.
+
+Kusanagi: I guess your bark is worse than your bite.
+
+Aramaki: What happened, Major?!
+
+Kusanagi: Crisis averted. Ready for extraction.
+
+Aramaki: It's not averted. Not by a long shot. Pandora's still being hacked. The data's being siphoned into a net. And Soga is not the one behind it.
+
+
+Kusanagi: Step away from the module now!
+
+VV: I won’t make you suffer. I feel a certain kinship with you.
+
+Kusanagi: And why wouldn't I.
+
+VV: It's only natural. You've never had a body of flesh-and-blood to call your own after all.
+
+Kusanagi: You bitch...
+
+VV: Your cyber attack had no effect on me. My brain has to be synchronized, just like the Logicoma's.
+
+Kusanagi: A neurochip? Then you're...
+
+VV: I have to find out where I came from that which infected me and gave me the gift of true self-awareness. If this means I have to break into every covert organization and learn their secrets then I shall…
+
+Kusanagi: An AI pretending to be human... That couldn't have been easy.
+
+VV: What made you do it? It's simple. I had to know. I had to because my ghost was whispering to me.
+
+Kusanagi: Your ghost, huh?
+
+Logicoma: Huh?
+
+
+Aramaki: A prominent intelligence agency admitted that one of its Als was infected with an unknown virus through the Net and reloaded its own mission parameters.
+
+Kusanagi: And once it was calling the shots, it took off with the hacking module and manipulated Vice-Minister Kasuga.
+
+Aramaki: He made too many Faustian bargains during the war. He was going to flee Japan after selling off Pandora. That's why he set up Soga and his men and sent in the team of his own lackeys.
+
+Kusanagi: But Soga took in control of the situation, and the Al went into a module recovery mode. How convenient for everyone involved? They weren't in any hurry to stop the rogue AI from spying though.
+
+Aramaki: To be perfectly fair, Major, they are not only ones to try to profit off this situation.
+
+Kusanagi: Well, I seem to recall you coming to me.
+
+Aramaki: Indeed. Now you're free to put your team together. Powers that be have smiled on you this time. That said, are you certain you don't want to re-register with Section 9? The whole thing would be squandered if you can't pull together enough members for your team.
+
+Kusanagi: No thank you. I appreciate all your help with the red tape.
+
+
+Kusanagi: You've got five minutes. It's time to make a choice. You can let them sentence you are in a trial you know it was stacked against you from the start. Or you can join my squad.
+
+Batou: Do you make that offer to all the guys you treated bullets with or just me.
+
+Kusanagi: I can only get people with the memory virus released I'm afraid. Luckily you three are the ones I really want.
+
+Batou: We just picked a fight with the government. They're not gonna let us out.
+
+Kusanagi: I wouldn't be so sure. If Section 9 vouches for you, you could be out in no time at all. lshikawa and Borma are on board. Hell, even Saito, I paid him a little visit once things calm down. The man was wise enough to beg for a second chance.
+
+Batou: You're a piece of work. What, so I'll be a Public Security lap dog?
+
+Kusanagi: We are independent, made of the best. No ranks to get in the way and we'll get whatever we want. If you want to feel like more than a trained killer, this is your one and only shot.
+
+Batou: These fake memories, can you really erase them?
+
+Kusanagi: Well, I can certainly try.
+  

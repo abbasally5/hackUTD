@@ -1,0 +1,283 @@
+
+Fem: This city is haunted by a spectre. The spectre of capitalism.
+
+
+SA: Automated Capitalism; ¥€$:
+
+
+Motoko: Standing by for trash collection. How 'bout you?
+
+Batou: Yep, ready when you are. You worry too much, Major. Our comms won't get tapped even if we don't use encryption.
+
+Togusa: If you're not more careful, Batou, you'll end up flat on your face or worse.
+
+Batou: Hm. Even if intel's wrong, we're only talking about a loose group of smalltime thugs. I can't see how we'd get taken out.
+
+Motoko: Tachikoma, Your status?
+
+Tachikoma: Street blockading now complete.
+
+Tachikoma: Major, somebody threw away an old guy. What should we do with him?
+
+Motoko: The local authorities will handle him. What's your status?
+
+Tachikoma: I finished loosening the spark plugs on every suspicious car in the immediate area. Do you want me to yank the plug from that one too?
+
+Motoko: Let's get started.
+
+Li: That's a Japanese model for you. It's highly responsive. Huh?
+
+Motoko: Sanitation department. Somebody here ordered an extra pick up. If it's a mistake then I'll need your signature on this. All right. Be good boys and stay put!The authorities were tipped off by reliable source that you're planning to rob a financial institution. Don't try anything stupid.
+
+Man: Augh!
+
+Batou: Didn't you hear the lady? Don't do anything stupid.
+
+Motoko: They're all yours. Take 'em.
+
+Man: Ugh...
+
+Batou: Seems our intel was right on the money. They reported that this old popgun was their most threatening weapon.
+
+Motoko: You've gotta handle cases like this quickly yet very cautiously.
+
+Togusa: Ah...! Major!
+
+Motoko: Aaugh!
+
+Togusa: Major!
+
+Batou: Ughrrr!Are you all right?
+
+Motoko: Mm... Uh...
+
+Batou: Only your pride was injured.
+
+Motoko: I do not find this funny.
+
+Batou: Hu-hum.
+
+Motoko: Go and bring the damn car, Togusa.
+
+Batou: Good luck, guy.
+
+SWAT: Yes sir. There was one "Pioneer" model with them.
+
+Aramaki: And?
+
+Motoko: The ringleader is a gangster from South China Province. He was apparently planning revenge against the Interstar Company for losses he incurred when they sold their own stock.
+
+Aramaki: Hmm. By the way, that's some get-up. Are you trying to attract my attention with your wardrobe?
+
+Motoko: Of course I'm not. I just...don't have a choice.
+
+Aramaki: Was the Public Security Bureau's intel from South China useful?
+
+Motoko: There are two things about it that bother me. First, there was nothing in their report about that gang having an android. However, it didn't become a serious issue.
+
+Batou: You don't say?
+
+Motoko: Second, even though the group's intended objective was to be a hit on a financial institution, they had a data file on a personal investor with them.
+
+Aramaki: Hmm. Who is he?
+
+Batou: Kanemoto Yokose. Former mathematician, now one of the world's richest men. He's a personal investor whose name is always associated with major stock trades. In other words, he's a new breed of corporate extortionist.
+
+Aramaki: I've heard his name before this came up.
+
+Motoko: When he finally grew dissatisfied with the numbers game, he gave the stock market a whirl. Seems he had a gift for that, too.
+
+Togusa: But to him, e-money and trades manipulation are simply a pastime. People say that his real obsession is collecting gold, and that he's stockpiled a huge amount of it. Yet the man hates anything ostentatious and rarely shows himself behind the scenes, that's why they call him "Crow Tengu" like a myth. The guy must have a few enemies I would think.
+
+Batou: A wealthy weirdo...You surprised me. How do you know so much about him? Do you play the market?
+
+Togusa: No, once I was watching some TV show "Mansions of the World" and he happened to be on.
+
+Batou: Huh? Man, you family guys...
+
+Operator: Chief, you have a call from Mr. Wang of the South China Public Security.
+
+Aramaki: Hm. Double our security measures and put him through.
+
+Operator: Understood, sir.
+
+Wang: Been a long time, Mr. Aramaki. Since the Asian Security Conference, yes?
+
+Wang: We've put you to a great deal of trouble over this matter now. We're quite mortified. Our apologies.
+
+Aramaki: No, no. Thanks to your help, we were able to stop them in time.
+
+Aramaki: So, what can I do for you?
+
+Wang: You see when we were investigating the bank accounts of the people who smuggled weapons to those gangsters, we uncovered one expenditure that was unmarked.
+
+Wang: Past experience leads me to believe that this may be evidence that an underworld hitman was hired, I thought I should let you know, just in case.
+
+Aramaki: Thank you for going to all your effort. We'll proceed with due caution, rest assured.
+
+Wang: I'm at your service as always.
+
+Aramaki: Put round-the-clock security on Yokose, just to be safe.
+
+Motoko: Batou, meet Ishikawa at the heliport with a Tachikoma in a Type-D3 loadout. Togusa, I want you to question those people again. And do whatever it takes.
+
+Bank Clerk: From A-SIA to ¥€$? Certainly. However, current rate of exchange is more favorable for the yen.
+
+Fem: I know.
+
+Bank Clerk: Right. One moment, please.
+
+Tachikoma: Mr. Ishikawa, let me have a turn playing that, too.
+
+Ishikawa: Mm... Major, I'm not having luck reaching Mr. Yokose.
+
+Motoko: You never fail. Lure his staff of lawyers out by filing a lawsuit. That ought to reel out fish in. Big banks often assigned someone to personally handle their clients.
+
+Ishikawa: No, I tried that trick I'm afraid, but it didn't get me anywhere. This guy defines mysterious. He's not cyberized, so I can't dig up any contact info on him. Not even on his head manager's portable terminal or main computer.
+
+Motoko: Well, what about the producer of that "mansions" show Togusa watched? He must have some way of reaching the man.
+
+Ishikawa: Yeah, I tried that, too. I found out that Yokose contacted them when they did the interview segments of the show.
+
+Batou: Then, all we know about him is where he lives?
+
+Ishikawa: Hmm...
+
+Motoko: Camouflage yourself and follow me.
+
+Tachikoma: Aye-aye, Major!
+
+Motoko: Aye-aye? What's up with that?
+
+Motoko: Batou, Status.
+
+Batou: Bugs in my skivvies and in position behind the mansion.
+
+Togusa: Major, I struck pay dirt. Just what we suspected, they hired a hitman. Codename, Fem. A combat cyborg affiliated with the South Seas Mafia, also wanted internationally. I dug through the bank records and got confirmation there, too. Looks like the guys at the Chinese restaurant were only there to decoy the investigators.
+
+Motoko: Okay, I'll read the rest in your report. Hop in a chopper and get over here, too.
+
+Togusa: Roger.
+
+Togusa: Phew... I guess I made the right call...
+
+Ishikawa: Major, I came across an appointment he made with Kouhoku Maintenance. I doctored the time and ID, so you should be able to stroll right in through the front door.
+
+Motoko: Good work. Stay put and keep monitoring the systems inside the mansion.
+
+Batou: Oh, what a crying shame. All these beauties caged up in here when they ought to be running free in the wild.I just might need a ride home. Ah... Close one. Damn it. This really sucks.
+
+Motoko: Here we go.
+
+Motoko: Bankers... Really bad timing. Tachikoma, check out that van.
+
+Maid Android: Who might you be, ma'am?
+
+Tachikoma: Major. I see two people within, looks like they've already been killed.
+
+Motoko: She's one step ahead of us.
+
+Maid Android: If you do not have an appointment, I will have to ask you to leave.
+
+Motoko: Kouhoku Maintenance, miss. Time for your regular inspection.
+
+Maid Android: Of course. Please proceed.
+
+Motoko: Isn't there anybody here besides Ghostless dolls?Batou, I disabled the security. Get in here and take Yokose into protective custody.Fem's probably inside the building already.
+
+Batou: Uhh, it might take me a while.
+
+Motoko: Hurry it up. Tachikoma, come with me.
+
+Maid Android: And who might you be?
+
+Tachikoma: Me? I'm Tachikoma.
+
+Batou: What a problem. It doesn't look like they can jump up here, but picking 'em off just doesn't seem right... So that's the worst they got. Hm? I guess I'll have to make a break for it.
+
+Motoko: Hm!?
+
+Maid Android: You exhibit suspicious behavior, ma'am.
+
+Motoko: Huh, damn it. What's going on here? Tachikoma, why weren't you watching my back?
+
+Tachikoma: Major, none of the androids in this place have barriers in their brains. At this moment, the assassin is...
+
+Motoko: Have you forgotten that your job here is to be my shield?
+
+Tachikoma: I don't think of myself that way.
+
+Maid Android: I'm sorry, Mr. Yokose is resting at this time, please be so kind as to wait until he wakes up.
+
+Fem: I won't wake him.
+
+Togusa: Hey, boss. What are you doing?
+
+Batou: I finally learned how the mind of a dog works. Pay attention now. OK, sit! Good dogs. Let's move!
+
+Togusa: Hm? What the hell?
+
+Fem: You sleep in contentment surrounded by gold that you fleeced from the needy. Kanemoto Yokose, die with your beloved gold!
+
+Motoko: Stop right there, Fem. Police. What do you make it easy on yourself. Give up, and come along peacefully.
+
+Fem: Damn it! Aah! Aaugh!
+
+Motoko: A smarter hitman would've shot first. Nice of you to join me. What took you so long? Stay focused.
+
+Batou: Uh, I was way late. This place is incredible. What a feast for the eyes.
+
+Motoko: Too much of a feast if you ask me. I'm amazed all this racket didn't wake him, he sleeps like a dead man. Ah...
+
+Togusa: That's 'cause he is. Looks like he's been dead for about 3 or 4 months.
+
+Batou: Found some records here. It appears that the man planned way ahead by making certain arrangements in the event of his death.
+
+Motoko: So, since this Moneymaker Program kept running and he was a well known recluse, nobody knew that the elusive Kanemoto Yokose had died.
+
+Batou: It looks that way. What do we do?
+
+Motoko: We notify his legal advisors or his surviving kin. Someone has to break the news to them.
+
+Togusa: He doesn't have any next of kin. I'm sure that he mentioned it during the "mansions" interview.
+
+Batou: That's right, you seem to be the resident expert on the departed.We'll leave the whole cleanup to you.
+
+Motoko: Sounds good.
+
+Togusa: Wha...?
+
+Batou: If no heirs turn up, I suppose that gold bullion would just go to the state.
+
+Motoko: It hardly seems fair.
+
+Tachikoma: But isn't it less fair for one person to hoard all this?
+
+Motoko: What do you have in your claw?
+
+Togusa: Too bad you can't take it with you. Ah...Wait a minute. Pay this to the ferryman for your passage across the river.
+
+Batou: As far as the amount of cash generated by the Moneymaker Program is concerned, it's so vast that it'll be pain and bad to make a detailed report until we can extract the AI.
+
+Aramaki: Dig through it as fast as you can. By the way, where's the Major?
+
+Batou: Having a chat with Ishikawa about our own troublesome AI.
+
+Aramaki: Mm?
+
+Motoko: Yes, I understand that, but can't we install the perception of a warning or even a punishment?
+
+Ishikawa: Not sure. When you get right down to it, the Tachikomas don't comprehend the concept of labor.
+
+Tachikoma: Ah, er, utch...
+
+Togusa: Honey, I'm home.
+
+Togusa's Wife: Oh, hi, sweetie. Come here, look. I made 100,000 yen off of our Meditech stock today.
+
+Togusa: I totally forgot about that. You actually bought those?
+
+Togusa's Wife: Of course. E-trading is how the best housewives pass the time. Dinner's ready. You're hungry?
+
+Togusa: Hm-hm.
+  

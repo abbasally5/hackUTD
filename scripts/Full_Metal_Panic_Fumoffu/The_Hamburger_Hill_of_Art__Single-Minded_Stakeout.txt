@@ -1,0 +1,773 @@
+
+ ws:start:WikiTextHeadingRule:0:&lt;h1&gt; 
+(ぶどうぐみ ちどりかなぬ)
+Miss Kagurazaka:
+ Yes! Good morning, class!
+Students:
+ Good morning, Miss Kagurazaka...
+Miss Kagurazaka:
+ Today we're holding a sketching event.
+ As this is an activity outside school grounds, I ask that all of you act in an appropriate manner.
+Students:
+ Yes, ma'am.
+Miss Kagurazaka:
+ Especially, Sagara! Is that understood?
+Sousuke:
+ Yes! I will put my skills to good use and defend the safety of our cherished school.
+ It's a privilege, ma'am!
+Miss Kagurazaka:
+ I mean, do you understand the word "appropriate"?
+Sousuke:
+ Yes! I'll be sure to use the appropriate weapons.
+Miss Kagurazaka:
+ NO!!
+Kyoko:
+ Aw...
+Kaname:
+ Oh...
+Miss Kagurazaka:
+ Um... ahem.
+ And now, we'll hear a few words from Mr. Mizuhoshi, the art teacher.
+Mr. Mizuhoshi:
+ Our theme is "Humans and Nature."
+ It's been quite some time since the cry went out over environmental issues,
+ so capturing the relationship between humans and nature with your youthful sensibilities and
+ within the boundaries of a frame is an activity fraught with all kinds of meaning!
+ If we assume that the word "frame" could hold negative value in view of our reckless courage,
+ and daring to refer to superficial philosophical problems and cognitive theory,
+ this would truly be "a ladder meant to be thrown away."
+ The limitations of the so-called structuralistic approach have been highlighted for some time now.
+ At the Alpbach Symposium, Koestler admirably...
+Miss Kagurazaka:
+ Um... excuse me, Mr. Mizuhoshi?
+Mr. Mizuhoshi:
+ Aw... Yes, what? Miss Kagurazaka?
+Miss Kagurazaka:
+ Aha... since we don't have time, please summarize.
+Mr. Mizuhoshi:
+ All right, I forgot.
+Students:
+ Ah...
+Mr. Mizuhoshi:
+ Put simply, our theme is "Humans and Nature."
+ It's been quite some time since the cry went out over environmental issues,
+ so capturing the relationship between humans and na...
+Students:
+ Ugh...
+
+*[語　　句]
+
+(モデルという人身御供)
+Kaname:
+ In short, we just draw a person and the scenery together.
+ And we have to choose a model from one of us here.
+Female student:
+ That's it? what was the lecture for?
+Male student:
+ What can you say? He is an idiot.
+Kaname:
+ So, do we have any candidates for the model?
+Students:
+ No, not me.
+ You have to stand the whole time, it's boring. Yes, very.
+Kyoko:
+ Well, how about Sousuke then?
+ He looks like he'd be good at standing still.
+Sousuke:
+ Since you consider me good enough then I'll volunteer.
+Students:
+ Wow.
+Kaname:
+ Okay, let's decide on a pose.
+
+*[語　　句]
+
+(混ぜるな危険)
+Mr. Mizuhoshi:
+ Huh? And now for Class Four...
+Kaname:
+ Look you, guys!
+ Making him stand on his head all day would be unreasonable!
+Shinji:
+ No more unreasonable than doing a reverse bridge like you said...
+Male student:
+ He can do it if he tries.
+Kyoko:
+ No he can't.
+Shinji:
+ It'd be cool if he aimed his gun.
+Mr. Mizuhoshi:
+ You're Class Four, aren't you?
+ Have you selected a model?
+Kaname:
+ Only you military otaku
+
+Female student:
+ How about a batting stance like Sammy Sosa?
+Sousuke:
+ Yes, it's me.
+Male student:
+ Talking baseball, I like Sadaharu Oh.
+Mr. Mizuhoshi:
+ Your name?
+Sousuke:
+ Sousuke Sagara.
+Kyoko:
+ But Sousuke's left handed.
+Mr. Mizuhoshi:
+ Then Class Four is Sagara.
+Male student:
+ He can bat right.
+Sousuke:
+ Sir, this is my first time serving in this capacity.
+ In order to carry out my mission, I wish to receive your instruction on what a model must do.
+Mr. Mizuhoshi:
+ Huh, that is a great question!
+ Questioning the very essence of such a thing is not something your average student could do.
+Sousuke:
+ I'm honored, sir.
+Mr. Mizuhoshi:
+ Oh... ahem. The role of the model is very important!
+Sousuke:
+ And by that you mean...?
+Mr. Mizuhoshi:
+ You... ought to become one with nature!
+ Blending with the plants, you cause the accepted ideas to break down.
+ You mask them and ensnare them.
+ To express this process plainly, by switching from an Aristotelian perspective to a "blind force of nature"
+ which is depicted by analysis of basic phenomena and deterministic law,
+ I believe we can explain this by the system problem in which the correlativity of the hierarchical order
+ can be explained as a "tree" in topology.
+ In other words, dendritization and reticulization are complementarity principles in the structure of nature.
+ This is paradoxical symmetry. [What you will deal with is truly this chimerical venture, and the deepest layer of matter...]
+Sousuke:
+ I will do my best to apply this.
+Male student:
+ No, he bats right!
+Kaname:
+ I said NO!
+ O-Okay, we'll just go ahead and have the model sit underneath that tree.
+Kyoko:
+ That's so boring...
+Kaname:
+ Huh... Sousuke, come sit down by... Aw...
+ Huh? Where is he? Am... Does anyone know?
+Shinji:
+ Now that you mention it...
+Ono-D:
+ He's probably off to the bathroom.
+Sousuke:
+ Sagara here.
+Kaname:
+ Sousuke, you come back here right now!
+Sousuke:
+ I cannot do that.
+Kaname:
+ What?
+Sousuke:
+ I'm a model. For the sake of art, I must blend in with nature.
+ become one with it and mask or something.
+Kaname:
+ I don't know what you're talking about, but unless you're here, we can't draw.
+Sousuke:
+ I'm the paradoxical symmetry... or the anti-tank missile...
+ or the electric jamming pod or... I'm not sure but I think it's something like that.
+Kaname:
+ You are the model! That's it! You hear me?!
+Sousuke:
+ Anyway draw your pictures. I'll be watching you secretly from here.
+Kaname:
+ Wait... a sec... Man...
+Kyoko:
+ Well...
+Kaname:
+ Once again he got the wrong idea.
+ We'll pick another model.
+
+*[語　　句]
+
+(水星先生、もう早回し勘弁してください)
+Mr. Mizuhoshi:
+ No way! No way! No way!
+ You shall not change your model!
+Kaname:
+ But our model's gone missing! We can't find him!
+Mr. Mizuhoshi:
+ That excuse is not acceptable!
+ To remove that model who openly accepted my enthusiasm...
+ What exactly are you up to?! It's always the same...
+ By uncritically class simulation and curtailing the transparent sublimation of things as they are,
+ The masses fail to see the reality on the verge of despair.
+Kaname:
+ Huh...
+
+*[語　　句]
+
+(サバイバル鬼ごっこ)
+Students:
+ What?!
+Shinji:
+ You're saying he won't take anyone other than Sousuke?
+Kaname:
+ We have no choice.
+ So let's all go start looking for him.
+Sousuke:
+ So you came after all...
+ to interfere with my modelling...
+ Your information and movements are uncoordinated. A march of raw recruits...
+ Just give it your best shot...
+Male student:
+ Wow!
+Male student:
+ What's the...
+Male student:
+ There's a hole!
+ Ugh... Is... is this glue?
+Male student:
+ Did Sagara do that? ...Ugh!
+Male student:
+ T-This path's not safe... U-Ugh!
+ Someone help us!
+Male student:
+ We can't move!
+Male student:
+ Who in the right mind would do this?
+Kaname:
+ Huh?! What's that?! I can't hear you!
+Male student:
+ I said Sagara's been laying traps for us all over the place.
+Kaname:
+ Fine. Then just get back here.
+ Damn that idiot. He seriously IS trying to lose us.
+Kyoko:
+ Kaname, Shinji's Bravo Team's been wiped out too!
+Kaname:
+ Grr... Sousuke, you...!
+Ono-D:
+ Miss Chidori, we found Sagara!
+Kaname:
+ Way to go, Ono-D! Now grab him!
+Ono-D:
+ Leave it to us! Four against one can... AAUGHhh...
+Kaname:
+ Huh? A-Ah...
+ Ono-D, you alive?! Answer me!
+Ono-D:
+A land mine. He got us...
+Kaname:
+ Ah...
+Ono-D:
+ Say, Kaname?
+ Remember a while back I told you I liked you, and you turned me down?
+ Well, I still feel the same way right now. Ah... cough cough...
+Kaname:
+ No! Don't die!
+Ono-D:
+ If... if I make it out of this alive,
+ would you reconsider?
+Kaname:
+ No, not on your life.
+Ono-D:
+ You're so mean! Arrr...!
+Kaname:
+ Sousuke! You I will never forgive!
+
+*[語　　句]
+
+(山狩りじゃー！)
+Kaname:
+ If it takes any longer for us to catch Sousuke, it'll definitely be the end of us. But, We WILL capture Sousuke!
+ For the sake of our lost comrades. For the sake of our own human dignity.
+ And above all... for the sake of everybody's grades!
+Students:
+ Yeah!
+Kaname:
+ We're now engaged in a tough battle.
+ If you see a man, kill the man! If you see a god, kill the god!
+ No questions asked! No mercy shown! Never mind the casualties, just move forward!
+ NOW, FOLLOW ME!
+Students:
+ YEAH!
+Female Student:
+ Ahhh!
+Kaname:
+ Don't let it faze you! Go!
+Male Student:
+ Ugh!
+Kaname:
+ C'mon, keep charging!
+Female Students:
+ Ahhh!
+Kaname:
+ That was nothing!
+Male Students:
+ Ugh! Agh!
+Kaname:
+ I won't lose to you!
+ (pant-pant) Almost there... Agh!
+Sousuke:
+ So it's over. Art is such a cruel thing... Huh?!
+Kaname:
+ Sousuke!
+ You know, you've given us a lot of trouble today...
+Sousuke:
+ No, wait!
+Male Student:
+ So, we've finally found you...
+Female Student:
+ Ready to say your prayer, Sousuke?
+Sousuke:
+ Um...
+Mizukoshi's mother:
+ WAIT! COME BACK HERE!
+
+*[語　　句]
+
+(すごいよ宗助さん)
+Mizuhoshi's mother:
+ Here you are.
+Miss Kagurazaka:
+ Thank you very much. It's so peaceful here.
+ I have to say I'm honestly quite surprised your house is located this close to the venue, Mr. Mizuhoshi.
+Mr. Mizuhoshi:
+ Yes. I've always found in the atmosphere of this garden an active silence and a flickering image of...
+Kaname:
+ HEY! WAIT!
+Mr. Mizuhoshi and others:
+ Huh?
+Miss Kagurazaka:
+ Wow! S-Sagara?! Miss Chidori?!
+Mr. Mizuhoshi:
+ Now, you wait just one minute, guys... Ugh!
+Kaname:
+ Sousuke!
+Mr. Mizuhoshi:
+ Ugh! Agh!
+Mizuhoshi's mother:
+ Aw... U-Agh...!
+Sousuke:
+ Don't move!
+ If you value this woman's life then you'll do as... Ugh!
+Students:
+ Ahhh...! Tie him up!
+Sousuke:
+ Ugh!
+Kaname:
+ Well, well, we've finally caught up with you, Sousuke!
+Sousuke:
+ K-Kill me...
+Kaname:
+ Huh,ha,ha,ha! Oh, we still have a use for you.
+ We'll kill you after that!
+Miss Kagurazaka:
+ Say, Um, Miss Chidori?
+Kaname:
+ Now take him away! And get your sketch pads!
+Male students:
+ Um! Agh...
+Miss Kagurazaka:
+ Huh? Now wait a minute?
+
+*[語　　句]
+
+(馬鹿の末路)
+Principal:
+ Brilliant works of art!
+ The sensitivities of adolescence! Their youthful vitality! Each one has such fresh brushwork!
+
+Mr. Mizuhoshi:
+ Thank you, Principal.
+Principal:
+ Like these, Class... Four Eleventh Grade... Aw...
+ They're so... Aw... They're... What ARE they?
+Mr. Mizuhoshi:
+ Uh. The students here... appear to have taken a very avant-garde approach.
+ You can see the influences of T. Oursler.
+ One could say that [you'll all be] emptiness a human feels when one's stripped of power.
+ Upon further examination.
+
+*[語　　句]
+
+ ws:start:WikiTextHeadingRule:2:&lt;h1&gt; 
+(恭子、もう疲れたよ。。。)
+Kaname:
+ For crying out loud, is that war-nut ever going to adjust, SERIOUSLY?
+Kyoko:
+Well, it's not like he means any harm.
+Kaname:
+ That doesn't make it okay
+ for him to let a hand grenade off in class!
+Kyoko:
+ But Kaname, when you're with Sousuke, it always looks like you're having fun.
+Kaname:
+ I don't know how you see that, lately now, I've just been tired.
+Kyoko:
+ Huh?
+Kaname:
+ See, he just doesn't get the strain I'm under.
+ I think it's best to put some distance between us.
+Kyoko:
+ Aw...
+Kaname:
+ Oh...!
+Fuwa:
+ Kaname?
+Kaname:
+ Senior... Fuwa?
+
+*[語　　句]
+
+(おや？千鳥のようすが。。。)
+Ono-D:
+That's a lot of stuff you got. Hey, Sagara, what's this?
+Sousuke:
+ It's a smoke grenade.
+Ono-D:
+ Oh, huh? Ugh, cough! cough!
+ Why didn't you tell me the thing was loaded?
+Sousuke:
+ I figured you knew better.
+Ono-D:
+ Kaname. Hey, listen to this!
+ Sagara brought another weird thing to... Kaname?
+Kaname:
+ Well, all things in moderation.
+Sousuke & Ono-D:
+ Huh?
+Engligh teacher:
+ All right, class, today we will learn about the subjunctive.
+ Open your books to page twenty-four.
+ Please take a look at the first example sentence.
+Kaname:
+ Hah...
+Engligh teacher:
+ "If I could fly, I would fly to you."
+ The subjunctive mood is used to indicate that the speaker is making hypothetical assertion...
+Kaname:
+ Heh... Hah...
+Sousuke:
+ Miss Chidori.
+Kaname:
+ Ugh... What?! A-HA-HA-HA-HA...
+Sousuke:
+ Something is wrong.
+Kyoko:
+ Aw... Like what?
+Sousuke:
+ Chidori... Is a student of faculty member threatening her or something?
+ Or do you think it might be drug abuse?
+Kyoko:
+ Hard to say...
+Kaname:
+ Good job guys.
+ I've got plans today so I'm gonna be leaving early. Bye.
+Kyoko:
+ O...kay.
+Sousuke:
+ Chidori.
+Kaname:
+ Yeah, what?
+Sousuke:
+ Well... Is there anything that's been bothering you lately?
+ If you're in some sort of trouble, I could be of assistance.
+Kaname:
+ It's nothing. I'm all right, really. So don't worry. See ya!
+Sousuke:
+ This is bugging me. I am worried.
+Kyoko:
+ Say, Sousuke, Would you be free Sunday?
+Sousuke:
+ I could leave that day open...
+Kyoko:
+ So, do you wanna go somewhere?
+
+*[語　　句]
+
+(不毛不毛ランド)
+Fuwa:
+ It's been three years, brings back memories...
+Kaname:
+ You sure it's Okay? 'Cause you've got entrance exams.
+Fuwa:
+ Hey, I need to relax too. Besides... I couldn't pass up a date with you.
+Kaname:
+ Oh...
+Fuwa:
+ Anyway let's just have fun today.
+Kaname:
+ O-Okay!
+Kyoko:
+ And that's the situation.
+Sousuke:
+ Hm.
+Kyoko:
+ That guy used to be Kaname's senior in middle school. They were close friends.
+Sousuke:
+ He must be an older at another school.
+ If we assume he's gotten close to Chidori in order to steal our school's secrets, that would explain things.
+Kyoko:
+ Hey, don't be ridiculous!
+Sousuke:
+ I guess we'll have to put the screws to him.
+Kyoko:
+ No, Sousuke, we can't.
+ If you [were indeed] something like that, Kaname would hate you for sure.
+ Watch them first, and then think it over! Okay?
+Sousuke:
+ If you feel that strongly, I'll leave him for now...
+People on the roller coaster:
+ Woow!
+
+*[語　　句]
+
+(ジャパニーズ トラディショナル ヤ・ク・ザ)
+Kyoko:
+ Now what?
+Sousuke:
+ Well, so far he doesn't seem to be a spy or a threat of any kind.
+ The two of them are... I believe... having a good time.
+Kyoko:
+ Are you okay?
+Sousuke:
+ Yes, now I understand the relieved. I feel very situation.
+Kyoko:
+ Your words are all mixed-up.
+Sousuke:
+ No problem. Our recon here is over.
+ Secure an escape route and thoroughly cover your tracks. Leave your explosives and rations here.
+ Our rendezvous is Point Alpha. Tokiwa, reconfirm the chopper's ETA.
+Kyoko:
+ You know, you look rather flustered, Sousuke.
+Sousuke:
+ Ah... Anyway we're going home.
+Kyoko:
+ What.
+Sousuke:
+ Huh?!
+Kyoko:
+ Huh?!
+Mobster:
+ Hey you! It's a middle of the day you two love birds! Good students should be at home hitting their books!
+Kaname:
+ I don't need an advice from a person who starts drinking at noon. Would you leave us alone?
+Fuwa:
+ Kaname...
+Mobsters:
+ What did you say, brat?
+ Hic.
+Kyoko:
+ Professional yakuza! Not good!
+Sousuke:
+ No problem. I'm a professional soldier.
+ It really doesn't make any difference who she's become friends with.
+ I WILL protect her.
+Kyoko:
+ Sousuke, I'm so impressed!
+ Oh, but if you jump out like that, they'll find out we followed them here.
+Bonta-Kun:
+ Fumo?
+
+*[語　　句]
+
+(中の人などいない！)
+Mobster:
+ You think you go messin' with adults, kids!
+Kaname:
+Buzz off!
+ Your stupidity's catching!
+Mobster:
+ What did you say...!
+Bonta-Kun:
+ Fumoffu!
+Everyone:
+ Huh?
+Mobster:
+ Huh?
+Kaname:
+ It's Bonta-kun?
+Bonta-Kun:
+ Fumoffu! Fumoffu! Fumoffu!
+Mobster:
+ Shut up!
+Bonta-Kun:
+ Fumo... Fumoffu!
+Mobster:
+ Ow! What the hell was that!
+Bonta-Kun:
+ Fumoffu.
+Mobster:
+ Get down here now!
+Bonta-Kun:
+ Fumo...
+Mobster:
+ A-Ahhh...
+Bonta-Kun:
+ Fumoffu!
+Mobster:
+ Wow!
+Bonta-Kun:
+ Fumoffu!
+Mobsters:
+ Bro!
+ Here, take THIS!
+ Yeah!
+ AAhhh! huh?
+Bonta-Kun:
+ Fumomomomomo...
+Mobster:
+ How the hell could a brushy...
+Bonta-Kun:
+ Fumoffu!
+Mobster:
+ Ugh... Agh...
+Bonta-Kun:
+ Fumoffu.
+Mobster:
+ Why, you!
+Bonta-Kun:
+ Fumoffu! Fumoffu!
+Mobster:
+ Ugh!
+Bonta-Kun:
+ Fumo! fumo, fumo, fumo..
+Mobster:
+ Ugh! Stop! Stop! Stop!
+Mobster:
+ Ugh... Um...
+Fuwa:
+ Kana... Ugh!
+Kaname:
+ Huh?!
+Mobster:
+ Stay where you are! Or else... Gu... Ugh!
+Kaname:
+ Huh...
+Bonta-Kun:
+ Fumoffu...
+Kaname:
+ Huh?
+Bonta-Kun:
+ Fu... Fumo!
+Kaname:
+ Uh, hey, Bonta-kun?
+Security guards:
+ What happened?
+Former Bonta-Kun:
+ That's him! He is the one who took my costume by force!
+Bonta-Kun:
+ Fu... Fumoffu!
+Security guards:
+ This way. Follow him!
+ Hey, you, wait!
+Fuwa:
+ What the heck was that anyway?
+ I mean there's no way it could be an attraction...
+Kaname:
+ A ha ha...
+Fuwa:
+ But, you know, your outbursts were also pretty out there...
+Kaname:
+ Oh... yeah, I'm sorry.
+ I guess I put you in a dangerous position there, didn't I?
+Fuwa:
+ It's fine.
+ I... I even like that about you actually.
+Kaname:
+ Huh?
+Fuwa:
+ Ah... Kaname, look.
+ Will you go out with me? See, to be honest, I... I really like you.
+ So... Kaname...
+Kaname:
+ Senior... huh... Ah...
+ That idiot...
+ I'm sorry.
+Fuwa:
+ I see...
+ So there's someone else that you like?
+Kaname:
+ Huh?
+Fuwa:
+ It's just that sometimes you'd get this look on your face as if you were thinking about somebody.
+Kaname:
+ Oh, well, well I, uh...
+Fuwa:
+ Well, knowing your tastes, he's gotta be an extremely mature, reliable person, huh?
+Kaname:
+ Uh, No, he is not. He isn't like that at all!
+Fuwa:
+ Huh?
+Kaname:
+ Oh! I, uh... I mean...
+Bonta-Kun:
+ Fumo, Fumo, Fumo, Fumo... Fumo?
+Kaname:
+ Go hide in there. Quickly!
+Security guards:
+ C'mon!
+Kaname:
+ Ah...!
+Security guards:
+ Young lady! Did you happen to see a Bonta-kun carrying a gun?
+Kaname:
+ Aw... He went that way!
+Security guards:
+ Okay, let's go!
+Kaname:
+ You can rest easy, Bonta-kun.
+Bonta-Kun:
+ Fumoffu.
+Kaname:
+ Thank you for your help.
+ Now, I know you've already helped me but could you spare a minute to hear my story?
+Bonta-Kun:
+ Fumo?
+Kaname:
+ Today... I went on a date with a guy I used to kinda like.
+Bonta-Kun:
+ Fumo...
+Kaname:
+ He was my senior when my days back in middle school. And he really was a good guy.
+ Then, just the other day, I ran into him taking a train home from school.
+ A minute ago, he asked me to go out with him, but I said no.
+ You know, why I told him... No?
+Bonta-Kun:
+ Fumo?
+Kaname:
+ I don't really know either. Huh.
+ Although, while all this was bugging me, there was someone worried about me.
+ Even though he usually doesn't have a clue, for once he asked me,
+ "Is there anything that's bothering you?"
+
+Bonta-Kun:
+ Huh?
+Kaname:
+ That... made me happy... Hu...
+ Well, that's it! Tomorrow I'll be right back to my usual self, so just rest easy, Bonta-kun!
+ See ya!
+Security guards:
+ There he is! This way!
+Bonta-Kun:
+ Huh? Fumo!
+Security guards:
+ You give us back that costume, right now!
+ Come back here!
+Bonta-Kun:
+ Fumoffu. Fumoffu!
+
+*[語　　句]
+
+(次回予告)
+Sousuke:
+ At last, some fierce fighting. An unknown enemy suddenly appears.
+ Undertaking a special mission from the Student Council, I'm attacked by a violent storm.
+ At the end of this desperate struggle do we find tears, love or broken dreams.
+Kaname:
+ I couldn't care less. Just clean up after yourselves.
+ The student body president will chew me out too if you don't.
+ Tune in next time for "The Pure Yet Impure Grappler" and "Trespassing on Good Faith"
+Sousuke:
+ The school janitor may be my strongest opponent yet.
+
+*[語　　句]
+  

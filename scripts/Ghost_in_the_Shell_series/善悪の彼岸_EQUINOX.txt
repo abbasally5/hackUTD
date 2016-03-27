@@ -1,0 +1,269 @@
+
+Detective: Well, they beefed up the patrols there, huh?
+
+
+C: The Other Side of Good and Evil; EQUINOX
+
+
+Motoko: Ishikawa, have any luck drawn new testimony out of the remaining Narc Squad members?
+
+Ishikawa: We weren't able to get much useful intel out of them. As you know their boss was director Nimi who just tried to commit cyberbrain suicide, so that lead turned into a dead end.
+
+Paz: And we haven't been able to find the Laughing Man, either.
+
+Motoko: That's true. Now we have instructions from the Chief. We're going after this guy.
+
+Batou: That's...
+
+Motoko: Right, assemblyman Kaoru Yakushima standing Secretary General of the ruling coalition.
+
+Ishikawa: Yakushima, huh? He's the most powerful man now in his party right now. He was the minister of Health at the time of the Laughing Man incident.
+
+Borma: He's a diehard MHLW man who built his current position by switching jurisdiction of cyberbrain technology from MITI to the Ministry of Health.
+
+Motoko: And it's not widely known that he's got a secret connection to the JMSDF.
+
+Batou: So, we know where the Armed Suit was provided from.
+
+Motoko: Yeah, that's what the Chief suspects apparently. When Yakushima was Chief of Staff for the JMSDF he laid a fat pipeline between it and the political world. He bankrolled this with a huge sum of state money while he set up shop as a politician. But questions were raised about his financial source and the JMSDF's head of accountant accused him of embezzling hidden funds. Then the lead prosecutor on the case was found run over next to a railroad track. And the investigation came to a halt. Yakushima was never charged. So the suspicions about him are still unresolved.
+
+Aramaki: There's more. Retired superintendent Daido was Yakushima's junior at the National Defense Academy, word has it that the late Imakurusu had been a golf buddy of Yakushima's ever since the day he served as an army medic.
+
+Motoko: Should you be up and around?
+
+Aramaki: I can't be the only one here lying down on the job.
+
+Ishikawa: Wat’cha saying that, chief, is as far as this chain of events is concerned, our guy here has more than enough clout to be the one pulling the strings behind it all?
+
+Aramaki: That's my theory. But we have no evidence at this point.
+
+Motoko: So, how do you plan to go after the serving secretary general?
+
+Aramaki: We're going to tug on the last thread we've got left that connects Yakushima to the Laughing Man incident.
+
+Motoko: Serano-genomics.
+
+Aramaki: That's right. The suppression of the Murai vaccine, which we believe to be the origin of the Laughing Man affair and Serano's micromachine therapy which was approved at the same time. Ernest Serano seems up to his neck in both. If we take him into custody and question him immediately, the link between the two will likely become clear. In the six years right after the incident up to now, Serano has been under house arrest under the pretext of police protection. Use whatever means, take him into custody no matter what.
+
+Motoko: Wow, the Laughing Man is probably thinking the same thing. Suppose we run into him? What then?
+
+Aramaki: You arrest him. He's not only a prime factor in this case, but in a way he's also the key witness.
+
+Batou: Aren't you worried that Serano might get bumped off, once we get into action like what happened before?
+
+Aramaki: It's a possibility. That's why I don't care how you get him.
+
+Detective A: Mr. Serano, you have a call from the Holland branch. What would you like me to do, sir?
+
+Serano: Tell them that I will return their call as soon as I get back to the office.
+
+Detective A: Understood.
+
+Serano: I feel pretty rotten about having you play secretary all the time for me. Although I have to admit that out of the entire assortment of the detectives they've assigned to me, you are far and away the most competent. So then, what would you say about becoming my assistant for real? I'll make it worth your while.
+
+Detective A: I appreciate the offer but...oh, it looks like your car just arrived sir.
+
+Serano: I see. Thank you.
+
+Detective A: I'll be right up to accompany you. Please wait there a moment.
+
+Serano: I'm feeling a bit on edge over all the heighten security measures being taken.
+
+Detective A: It's nothing to worry about.
+
+Serano: Hm.
+
+Serano: Come in, it's open.Ever since I saw the news about the Sunflower Society and Imakurusu, I resigned myself to the fact that you'd probably come here next.
+
+Laughing Man: I'm here to see to it that you make good on the promise you made six years ago, will you come with me?
+
+Detective B: The subject has left his room.
+
+Detective B: He's heading for the entry hall.
+
+Detective A: 'Morning Mr. Serano.
+
+Serano: Good morning.
+
+Detective C: Now opening entry hall door.
+
+Detective D: You take care sir.
+
+Serano: Thank you.
+
+Detective C: Subject is through the entry hall.
+
+Detective E: Roger that. We have visual.
+
+Serano: It's just like last time, isn't it?
+
+Laughing man: You're right. The only difference now is that detectives were in the hall instead of your family. There wasn't a car following us either.
+
+Serano: So, what will you do about them?
+
+Laughing man: Well, let's see. Driver, turn left at the next intersection would you please?
+
+Detective E: Something is not right.
+
+Detective F: Just don't lose him.
+
+Laughing man: It'll take that unmarked police car about an hour to reach Serano Genomics' head office now. In the meantime, I want you to tell me why you haven't kept your word and why you've stayed silent these past six years. I have to decide on my next course of action.
+
+Serano: You're awfully audacious.
+
+Police man A: Hey!
+
+Detective: Huh?
+
+Police man A: Hold it, put your hands on the hood of the car, now!
+
+Batou: Take it easy, boys.
+
+Aramaki: We contacted you earlier. We're public security section 9. I was told that Mr. Serano had already gone. Is that true?
+
+Police man B: Yes, his usual ride to the office already left, same as always. What about it?
+
+Batou: Look at your watch. Is that the usual time he leaves?.....Gee wiz, your boss sure is one hell of a hard worker, ain't he? Here's a bulletin. Every last one of you brain-dead bozos had your eyes hacked by him.
+
+Detective A: Mr. Serano was alone when I called his room too.
+
+Batou: Hum, well it looks to me like the AI of the surveillance camera was hacked.
+
+Detective A: Medusa?
+
+Batou: You got ID?
+
+Detective: Huh?
+
+Batou: Now... Of all the stupid, you guys are such easy marks. You see this?
+
+Police: What's that?
+
+Batou: Interceptors, fat head. I can't believe you're still being infested with these. These things use the comm devices inside the subject's cyberbrain whenever they're uploading data. Didn't you happen to notice a load spike every so often?
+
+Detective: Huh? What's going on here?
+
+Batou: Although your brains were recording Serano walking by himself right passed every single one of you, he showed up crystal clear on the interceptors. This is what really happened in that kidnapping six years ago.
+
+Aramaki: Major, dive into all IR systems within a three-kilometer radius of the Serano estate and look for Mr. Serano's company car, the Laughing Man has abducted Serano again. Find them, use any means necessary.
+
+Motoko: Understood, but there's no guarantee that the car will show up on the IR system. Ishikawa?
+
+Ishikawa: I heard, initiating full scale search.
+
+Motoko: Keep in mind the possibility of an AI overwrite.
+
+Ishikawa: Rodger.
+
+Serano: Circle around the area for half an hour or so. I have some personal business to attend to.
+
+Laughing man: Let's go.
+
+Laughing man: My, the view from here has really changed a lot, hasn't it? And I noticed your hair has gone white, Mr. Serano.
+
+Serano: It's been a rough six years. The official story is that the police are around to protect me against threats from you, but they're really here to keep an eye on me, make sure I don't blab anything about the truth behind the infamous incident. For all intents and purposes I'm under house arrest. Compared to back then you've changed too, you've lost your naivete.
+
+Laughing Man: I guess I have managed to mature a little. I'll confess that in those days I wanted so bad to give all the phonies in the world a solid, swift kick in the ass. By the same token, you were something of a wild guy at the time yourself. For two days you hung out with a student, an anonymous nobody, you did that in spite of the fact that he hacked into you and you were being brain dived by him.
+
+Serano: I still had enough unjaded passion left in me to want to debate a student who sanctimoniously spouted his unworldly crap.
+
+Serano: I understand what you're trying to say, but I'm a micromachine developer not a member of the drug evaluation council, you know that? I have nothing to do with the Murai vaccine rejection.
+
+Laughing man: I realize that but the drug evaluation council is a bunch of crooks and phonies, I'll be forced to confront them someday. First however, I want you to publicly disclose the data showing that your company's micromachines have practically no effect on cyberbrain sclerosis.
+
+Serano: But that's something I can't do and I've told you that time after time. I do admit that some of what you wrote in your blackmail letters three years ago was valid, no one could argue that micromachine therapy was anything more than a theory at that stage in its development but that's precisely how the patent process works, it's not a crime to be the first to register a technology that certain to have future practical application.
+
+Laughing man: Oh please that's what damn lawyers always say, son of a bitch.
+
+Serano: Okay I was well aware that our approval request was premature. You see it was actually meant in part to serve as a bluff to our competitors. But I think the reason we gotta approval from the drug evaluation council in only three month, quicker than any one expected was because they realized our theory was superior. You've no comprehension of how much damage would be caused by a loss of faith in the use of medical micromachines right now, this is cutting edge technology that has immeasurable potential...
+
+Laughing man: You're not listening, what I'm trying to say is that it's a matter of life or death for those people who are suffering from cyberbrain sclerosis, at the very least can't you concede the effectiveness of the Murai vaccine until the micromachine therapy finally turns out some clear results?
+
+Serano: I have absolutely nothing whatsoever to say regarding Murai.
+
+Laughing man: Can you honestly say that? If that sick humored son of a bitch god gave you cyberbrain sclerosis for sheer kicks, would you choose micromachine treatment hands down without giving it a second thought?
+
+Serano: Yes of course, I have faith and pride in every product that's manufactured by my firm.
+
+Laughing man: So you'd even choose it for your children if they came down with CS?
+
+Serano: Er, yes I suppose I would, listen let's get off this hypothetical track.
+
+Laughing man: Pride and sentiment are two different things aren't they? That's not fair Mr. Serano. If you are really so proud of micromachine therapy you should exploit your position and influence to do the right thing, the best that Imakurusu could come up with was to reject the vaccine that had Dr. Murai's name attached to it. The damn drug evaluation council had the only one job to merely rubber stamp any new medicine that pass through the ministry of health and Imakurusu, a man who had a stamp specially made to reject the Murai vaccine which read "Approval Denied," chaired that council, and hey, what do you know? Your own micromachines were used in that dirty deal, you can't be totally oblivious to the circumstances surrounding the situation, Mr. Serano. It didn't matter a rat's ass to them if it was your technology or not, any damn micromachine that happened to be up for approval back then would've filled the bill. If you know how corrupt the shitty medical industry is, then can you honestly tell me that none of it has anything to do with you?
+
+Serano: Hm, all right, I propose a compromise, for now let me go so I can act on my own once I've done that I'll make necessary preparations. I'll organize a press conference and disclose the current state of micromachine therapy.
+
+Laughing man: What, are you serious? There's no advantage for you in that promise.
+
+Serano: Contrary to what you believe, I am not so petty, perhaps not as grand as you as but my sense of social justice is alive and well and equal to that of anyone else.
+
+Laughing man: I wonder.
+
+Serano: I promise you. Huh?
+
+Serano: At the time I was exhausted from your brain dive and I fervently made that promised to you in the hopes of escaping, I thought that if I could just get you in front of a TV camera, the eyes of a view in public, you wouldn't do anything crazy.
+
+Laughing man: That's right but unfortunately for that plan I was packing an S&W Chief Special in my pocket.
+
+Serano: Well, are you going to disengage this brain dive, you're breaking the law by doing this. An informed individual like you oughta know that if you wanna keep your anonymity and hide your face then it wouldn't be a great idea to be shown on TV. Ah, I've actually enjoyed our figureless debates, but as a man who has to protect his enterprises I'm afraid I might not be able to honor my word. Society isn't as cut and dried as you seem to imagine. I have no intention of trying to uncover who you really are, either. Let's go our separate ways from here.
+
+Laughing man: No, it's not fair!Look straight into that camera I demand you tell the world the truth.
+
+Serano: Listen, stop. You won't shoot me.
+
+Laughing man: Are you sure?
+
+Serano: Afterwards when I was taken into protective police custody, I learned from a company director who came to visit me that the two days I had spend with you developed into a major kidnapping event that shook our whole society. I also found out something else interesting as soon as you and I left together from my house, a demand for a huge ransom was delivered to my company, but then I simply couldn't believe that you were the one who made the demand something about that didn't fit. Being an ingenious hacker failed to change the fact you were a criminal yet it seems to me that you were only using those abilities to battle the injustices of the world out of youthful idealism and a strong conviction that what you were doing was right, but the police thought otherwise. They were convinced that you had abducted me for the ransom money, they interrogated me over and over asking if I knew anything that could help them, so the director and I decided to stick to our story that neither one of us could think of a single thing, we couldn't afford to cause situation which will lead to suspicions that our companies micromachines were defective, just like you said we were taught that we had a guilty conscience. It all boiled down to one unvarnished truth, the secret of our micromachines was been held hostage and a ransom was demanded for it.
+
+Laughing man: Then along came the micromachine killer virus that was introduced into your production plant.
+
+Serano: That's right. At the same time that I was angry at myself for feeling overjoyed by our micromachine treatment receiving approval, I was cursing you from the bottom of my heart, I thought, "it was just corporate terrorism, plain and simple." But I was wrong, that wasn't you, was it? A word of wisdom for you, the evil that lurks in this world exists on a level that's far greater than we could ever envision. I assume you are aware that we blackmailed companies that were granted an infusing of the public funds because we were teetering on the brink of bankruptcy thanks to the infection by the killer virus. Let me tell you what happened afterwards. Right when our stock prices were gradually beginning to clime back up after their collapse, we were paid a visit by a man who introduced himself as a member of the private support association of a certain assemblyman, he said that he was acquainted with someone who could put an end to the corporate blackmail and then the event that this person solved a little problem he asked if we are willing to make a political contribution to this assemblyman. The amount he suggested was equivalent to the public funds plus the demanded black mail money. This obviously meant that Seranogenomics had been targeted for a shake down all along just because we were the late comer among the other manufactures.
+
+Laughing man: They must have considered my stunt to be a performance that couldn't have been staged at a better time.
+
+Serano: I suppose they did, at that. And by continuing to imitate the event you triggered they created a fake persona called the Laughing Man, they manipulated stock prices by invoking the name of nonexistent criminal stealing money from companies other than us. The greedy busters did this even though they'd probably been making a tidy sum before that off of short selling the stocks.
+
+Laughing man: Was this assemblyman Secretary General Yakushima?
+
+Serano: Then you knew it, did you?
+
+Laughing man: A basic rule of thumb about hackers is that we live to peek at things that others have hidden, it's our nature, but the depth of darkness in the hot bed of corruption that I had tried to challenge defeated me, and all I could do was become a deaf mute and avert my eyes from it at all, just as you've done these past six years. The Laughing Man, that was a catchy name they came up with. And here I've been thinking that if I was unsuccessful in persuading you I'd simply follow Holden's quote and disappear. They went with a Salinger angle, too. Good grief. Say, Mr. Serano, if that's what they're up to I have to become the original Laughing Man and drag that phony Yakushima into the light of day.
+
+Serano: It was when you revealed yourself to me that I made up my mind as well, there isn't much evidence so it's going to be a difficult job to accuse him, but I'll become your copy cat cause I wanna bring him down too.
+
+Laughing man: Just try not to die before you take the witness stand okay?
+
+Serano: Okay.
+
+Police: Squad two ready.
+
+Police: Squad three ready.
+
+Police: Squad four ready.
+
+Police: All squads are in position.
+
+Police: Building's security system now under our control.
+
+Aramaki: Batou?
+
+Batou: No change in subjects.
+
+Aramaki: Storm the place.
+
+Police: Every one, freeze!
+
+Police: Hold it right there!
+
+Police: Subject B is secured. He's alone. No sign of subject A.
+
+Aramaki: Hold position there.
+
+Batou: That was one hell of an acting job. With chops like that you could fool anybody, no trouble at all.
+
+Motoko: Gee, and I was never in a single school play either.
+
+Batou: So did you manage to confirm the connection between Yakushima and Serano?
+
+Motoko: Yeah, and to his credit all the information the Laughing Man gave me was true, this should lit a fire on Mr. Serano as well. It might work.
+  

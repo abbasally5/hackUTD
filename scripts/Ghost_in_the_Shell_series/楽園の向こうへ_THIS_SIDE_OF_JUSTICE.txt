@@ -1,0 +1,289 @@
+
+Kuze: Go ahead! Stop it! 
+
+Batou: They are using a B formation. 
+
+Batou: All right. We'll stick to ground-level corridors. We need to rattle 'em. Try to slow 'em down. 
+
+Saito: Got it. 
+
+Section 4: Hold on. We've got a glitch. The ECM isn't working. Something must've gone wrong. Flip your comms on. Use A formation. 
+
+Aramaki: Proto, can you lock the door? 
+
+Proto: Yes. I'm very sorry to put you to all this trouble... 
+
+Aramaki: It's all right. There are more import issues now. Have you gotten any updates from the Tachikomas? 
+
+Proto: Yes. There's no activity so far in the nuclear sub. Also, it looks like the sentry plane that was over Dejima has crashed. 
+
+Aramaki: You mean the refugees shot it down? 
+
+Proto: I don't have the details, but it seems very likely. 
+
+Aramaki: That changes everything. We can get through to Dejima now, right? 
+
+Togusa: That's it. 
+
+SP: Hold it! 
+
+Togusa: Don't mind me. I'm here on orders from the Chief Cabinet Secretary. Sorry, guys, national emergency. Sweet dreams. 
+
+Togusa: Prime Minister, I'm here to take you back. Chief Aramaki sent me. He needs your assistance with this crisis. Please come with me. 
+
+Kayabuki: I understand. I'll follow you. 
+
+Man: Sir, it appears the MSDA's sentry plane has been shot down. 
+
+Gouda: Oh, the refugees are isolated so he's trying to reunite them, of course. I suppose it's time for the finishing touches. Draw them out. Get the Defense Agency to run some air strikes from their ships. 
+
+Man: Understood. 
+
+Gouda: Is anyone here? 
+
+Man: Yes, sir. 
+
+Gouda: I'd like you to mail a letter for me. 
+
+Man: A letter, sir? 
+
+Gouda: Yes. Send it express. 
+
+Motoko: Tachikoma! Can you hear me? 
+
+Tachikoma: Affirmative, Major! 
+
+Tachikoma: We have a lock on the Major's position! So Mr. Batou's okay! 
+
+Motoko: What's the status of Batou's team? 
+
+Tachikoma: They're safe. They seem to be inside of the buildings, so there's no visual confirm. 
+
+Motoko: I've found Kuze. Report my position to Batou and the others. 
+
+Tachikoma: Right. We have some other news. And it isn't good. 
+
+Motoko: What is it? 
+
+Tachikoma: Apparently, an American nuclear sub is holding position off the coast of Okinawa. It looks like it's planning to launch a nuclear strike to Dejima. 
+
+Motoko: You sure? Give me a visual feed! 
+
+Tachikoma: You got it! 
+
+Batou: What the hell?! 
+
+Batou: Then why do we even bother to bring this thing here?! Son of a bitch! What about the arrival of the inspection team, Major? 
+
+Motoko: Batou, I want to get the plutonium to the bridge right away, understand? They're planning to launch the missile before the inspection team arrives! The SDA forces are guarding the bridge. Get the plutonium to them and then brief them on the situation! 
+
+Batou: Not until you get out here, Major. We've got extreme heat on our tail at the moment. We'll move as fast as we can, but things could get a little hairy here. 
+
+Motoko: Who's after you? 
+
+Batou: I'm guessing it's the Rangers from Section 4. 
+
+Motoko: You're not sure? 
+
+Batou: Sure enough. Looks like they followed us to get the plutonium back. 
+
+Motoko: Get rid of them whatever it takes. I'll catch up with you soon. 
+
+Batou: We'll give it our best shot. Let's move! 
+
+Kuze: How many times we've met? Is this the third time or the fourth? Why are you following me? 
+
+Motoko: We went to a lot of trouble to get here. We brought the plutonium, as promised. Come with me. If you don't, there'll be mass of casualties, refugees included. And they'll put the blame on your shoulders. 
+
+Kuze: What's going down? 
+
+Motoko: A nuke. And they'll say it was a suicide attack by the refugees. 
+
+Kuze: What?! Who are you? 
+
+Tachikoma: Hey, look at this! They are opening a hatch on the sub! That's really bad... They can launch any minute now! This type of missile goes all the way up into the stratosphere! Which means they don't wanna it tracked back to them. Uh, even if they can clean up the radiation, initial blast will take out all the SDA troops in Nagasaki and Dejima! They are crazy... Is there anything any of us can do to stop it? What if we send the visual feed all over the world? There's no point. Pictures don't prove anything anymore. An image from an unknown source showing up at very convenient time. No one would take it seriously. But, if we don't do something... Hey, everyone, it looks like the Aegis cruisers are preparing missiles strikes before the nuclear attack. 
+
+Batou: They caught up to us, huh? 
+
+Saito: Looks that way. 
+
+Batou: They've switched to a different formation. Activate optical camouflage. Tachikoma, see if you can decrypt their signals and run a back-hack? 
+
+Tachikoma: We'll try, but you should be careful. There will be a missile strike from the Aegis cruisers soon. They probably want target residential areas, but once they start the attack anything can happen. 
+
+Batou: What about the nuke? 
+
+Tachikoma: They haven't launched it yet. 
+
+Borma: They sure didn't waste any time getting started... 
+
+Section 4: Movement here, too. 
+
+Motoko: Damn, they've started. There's no time. We'll surrender to the SDA together. I'll drag you there myself if I have to. What'll it be? 
+
+Kuze: All right. I'm explaining the situation to the refugees. The ones I'm working with directly. I'll leave the final decision to them, but for now, let's head for the bridge. 
+
+Motoko: Tachikoma, show me the trajectory of... 
+
+Announcer: In response to the missile strike from Dejima, the Self Defense Army has started major counterattack. According to official statements by the official... 
+
+Ishikawa: So, it's started. 
+
+Announcer: This is a necessary measure..to take... UN..... Once again, according to official statements.... 
+
+Ishikawa: Tachikoma, are the Major and the others okay? 
+
+Tachikoma: We've lost communication with the Major. Mr. Batou and his team are alright. 
+
+Ishikawa: And it's Section 4 that's tracking them? 
+
+Tachikoma: Yes. 
+
+Tachikoma: Sorry to keep you waiting! The reports coming out of Dejima have got me so upset! 
+
+Ishikawa: Getting all worked up about this isn't gonna help. We need to focus on what we can do right here and right now. 
+
+Tachikoma: Roger! 
+
+Motoko: You all right? 
+
+Kuze: Yeah. It's quieted down. For now... 
+
+Motoko: Tachikoma, status report. 
+
+Tachikoma: Oh! Major! You're okay! 
+
+Motoko: Yeah, still in one piece. 
+
+Tachikoma: We are expecting the nuclear strike. It could come any minute now. You should get out of the area immediately! 
+
+Motoko: Has the government released any official statements? 
+
+Tachikoma: They announced there would be more air strikes as needed in order to secure the area for the inspection team. 
+
+Kuze: It's no use. It looks like we are sealed in. 
+
+Motoko: I see. 
+
+Tachikoma: Major, don't tell me you're.. 
+
+Motoko: Yes. I'm trapped under a pile of rubble. Looks like I'll have to leave this in Batou's hands. 
+
+Tachikoma: Oh, no! Isn't there anything you can do to get out? 
+
+Motoko: I'll do what I can. You stay focused on Batou's team. Give them as much support as possible. 
+
+Tachikoma: Roger. 
+
+Motoko: So you and refugees linked up? 
+
+Kuze: Yes. A great many of them have returned. It looks like most of them are in a panic thanks to that air strike. You spoke about a nuclear attack. How did you find out about it? What group do you work for? 
+
+Motoko: I'm a police officer, believe it or not. In the course of investigating the Individual Eleven crime, we uncovered a project within the government to physically drive out all of the refugees. We've been trailing you in order to expose it. 
+
+Kuze: If that's true, why did you bring the plutonium here? 
+
+Motoko: We knew you hadn't been given any plutonium, so we stole the nuclear bomb. It was the bomb they used in Fukuoka. The idea was to use that as evidence so that we can bring resolution to this situation if possible. But the enemy's plan unfolded faster than we anticipated. We never expected them to cut a deal with the American Empire for a nuclear attack. 
+
+Kuze: What happened to the plutonium? 
+
+Motoko: My team has it. They are trying to get it to the Self Defense Army. But they've been ambushed by a squad that was tailing them, so it's going to be difficult. 
+
+Kuze: I see. So, have you given up on the idea of making me turn myself in? 
+
+Motoko: Well, not exactly, but... 
+
+Kuze: I turned off the zoning and filtering on my hub cyberbrain a while ago. Anyone who wants can connect and see everything that is happening here. We can try to get out, but if we do, I intend to carry out my revolution. I made up my mind when you told me there would be a nuclear strike. 
+
+Motoko: You did? What's sort of revolution? 
+
+Batou: Tachikoma, did you run the back-hack on their communications? 
+
+Tachikoma: I'm working on it. They seem to be changing their encryption at random based on prime numbers. 
+
+Batou: Get down! We're moving out. 
+
+Saito: Got it. 
+
+Batou: We're going outside. Tachikoma, how's the back-hack coming? 
+
+Tachikoma: Almost done. 
+
+Motoko: Kuze, what made you become the leader of the refugees? And how were you able to break free of the virus' mind control in the first place? 
+
+Kuze: I already had an objective. The liberation of the refugees. That resulted in the Individual Eleven virus being triggered, but after I joined forces with them, I detected a discrepancy between their ideology and mine. That's probably why I was able to break free from the virus. 
+
+Motoko: Why the concern with the refugee liberation? I heard you spent some time wandering Eurasia, does it have anything do with that? 
+
+Kuze: There's no direct connection. I only traveled the continent to give myself time to reaffirm my motives. I wondered if I'd be able to carry out the revolution, the liberation that I'd envisioned. 
+
+Motoko: You keep talking about revolution? 
+
+Kuze: I mean the transference of people to the superstructure. To cast off the fossilized system and fuse with the net. 
+
+Motoko: People fusing with the net? 
+
+Tachikoma: How's your decryption of Section 4's communication codes coming? Mum, Almost there... Is there any way we can hack the submarine? It's impossible. During an operation, submarines are in a completely standalone state. How about the crew's personal e-mails? Maybe we could back-hack a crewman who's breaking regulations! Oh, I get it! That might be worth trying out! 
+
+Togusa: Chief, I've brought her. 
+
+Aramaki: Proto, open the door. Ah, good. Are you all right, Prime Minister? 
+
+Kayabuki: I understand the situation. 
+
+Aramaki: Can you patch my hotline to the American Empire into this room? 
+
+Kayabuki: I'll try requesting that they cancel the nuclear strike. 
+
+Aramaki: Please do it. It all hinges on whether or not they realize what's going on. That's a good point. 
+
+Section 4: Hold it right there. You're surrounded. Put down the plutonium and disengage your optical camo! 
+
+Tachikoma: Mr. Batou! The back-hack is in place! 
+
+Batou: I'm setting it down! Right now. While I'm putting the case down, make a break for the walls with your camo still on. 
+
+Saito: Right. 
+
+Section 4: What the...?! Hold your fire! You'll hit our own men! 
+
+Batou: I'm going to disengage my optical camo now. If you still wanna carry out your mission after I do, go ahead and shoot. But maybe seeing my face will convince you to listen to what I have to say. This is a matter of life and death! 
+
+Section 4: You're... Those eyes... Were you a Ranger? 
+
+Batou: That's right. 
+
+Kuze: After my experiences on the peninsula I thought things more deeply. I found an order that was full of contradictions. Exploitation by the powerful. A structure that had grown corrupt. But what disillusioned me most was the people took no responsibility... for anything. Even though they haven't created anything for themselves and they understood nothing. When the masses come across information they agree with, they immediately internalize it. That's how they control them. When people feel no sense of responsibility, no matter what they unintended consequences of their actions, that make very poor use of the net. My revolution is also an act of revenge on such people. 
+
+Motoko: Revenge? 
+
+Kuze: I've had a totally prosthetic body ever since I was a child, so I've constantly felt a sense of disparity between the mental and the physical. I wanted to abandon this cripple body and paddle out onto the sea of the net if such a thing could be done. The Asian refugees gave a man like me a reason to live. They told me that my artificial face was a handsome. and flattered me by saying that my Ghost could be seen in it. That was the first time I realized that the spirit and the body might be inseparable. And I was able to think of myself as an actual human being. As if I were made of flesh and blood. But when they come across information that suits them, they get swept along the pass of least resistance, just like everyone else. I suppose that in the end, humans are designed to follow the path that was easiest for them, 
+
+Motoko: So? How do you plan to carry out your revenge? 
+
+Kuze: I will grasp the memories and Ghosts of those who are linked to me. And take them into the net. If a nuke is dropped here, they will lose their physical bodies but they will gain the chance to undergo a forced evolution. 
+
+Motoko: What are the odds of them being able to retain their individuality in the net? 
+
+Kuze: I can't be sure of that. But as pioneers, they may evolve into a new kind of being who can enlighten those left behind in the base, constantly making them aware of the superstructure. In exactly the same way that humans have felt reverence and awe towards spiritual beings since ancient times. 
+
+Motoko: That is your revenge and offer of salvation, for those who you let down? 
+
+Kuze: Yes, although I think of it as a revolution. I see that you're full-prosthetic, too. Then you must have felt the doubts and fears caused by the disparity between body and spirit, just as I have. What do you say? Will you come with me? 
+
+Motoko: Do the refugees intend to go with you? 
+
+Kuze: Yes. Unfortunately, most of them prefer the idea of carrying out the nuclear suicide bombing scenario. They probably want to feel like they weren't defeated. Even though that, too, is taking the easy way out... 
+
+Motoko: I see. Batou, I'm going to try rescuing the refugees using the method that Kuze suggested. The rest of you, let the Self Defense Army know about the nuclear strike. Batou, are you listening to me? 
+
+Batou: You crazy bitch! I'm not letting you do this solo. Wait for me! You're not going alone! 
+
+Saito: What are they waiting for? 
+
+Borma: Beats me. 
+
+Section 4: Whatever it is, let's get this to the bridge. The GSDA might buy your story if it comes from us. 
+
+Commander: When the second air strike is completed, commence the invasion of Dejima. We want it blocked down and secured for the arms inspectors!
+  

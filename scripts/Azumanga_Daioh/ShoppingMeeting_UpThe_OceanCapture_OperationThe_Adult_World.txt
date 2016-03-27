@@ -1,0 +1,1033 @@
+
+ ws:start:WikiTextHeadingRule:0:&lt;h1&gt; 
+ Osaka:
+ What? Goin' to your summer home again this year?
+
+Chiyo:
+ Yeah. So, I thought I would invite everybody to come to the house with me.
+
+Osaka:
+ That sounds great! I'll go.
+
+Yomi:
+ That's next week, right? Okay, got it.
+
+Chiyo:
+ There's gonna be a festival going on over there, so please bring your summer kimono with you.
+
+Kagura:
+ If it's next week, the team's taking a break, so I can go.
+
+Kaorin:
+Next week is the week of the Astronomy Club camp...
+
+Chiyo:
+ That's too bad.
+ I'll invite you again some other time.
+
+Sakaki:
+ You invited me to come along with you?
+
+Chiyo:
+ Yes, please, please, please, please say you'll come!
+
+Tomo:
+ What?! You're hitting your beach house again this year?!
+
+Chiyo:
+ Yes. So, I thought we could all go together like last time...
+
+Tomo:
+ Are you bragging?! You're bragging, aren't you?!
+ Oh, classic!
+ Maybe you're thinking of enjoying a nice bourgeois summer all by yourself, but I'm not gonna let you, damn it!
+ Take me with you! Come on! Take me with you!
+
+Chiyo:
+ W-Well, that's why I was calling you in the first place, Tomo.
+
+Tomo:
+ Oh, then that's fine.
+
+Chiyo:
+ All right, let's see, I think I've called everyone now.
+
+Chiyo:
+ Yes, Mihama residence.
+
+Yukari:
+ Hello? Hey, it's me.
+
+Chiyo:
+ Ah, M-Miss Yukari!
+
+Yukari:
+ So, we're all getting together at your place, right?
+ 9:30 sharp. Don't be late, okay?
+
+Chiyo:
+ Uh...
+ How did she know about it?
+
+
+Chiyo:
+ Oh.
+
+Osaka:
+ Hey, Chiyo-chan, where're you goin'?
+
+Chiyo:
+ Shopping, to get ready for the trip to our summer home.
+
+Osaka:
+ Oh, that's a good idea.
+ Think I can come shopping with you then?
+
+Chiyo:
+ Certainly. You wanna hop on?
+
+Osaka:
+ Sure.
+
+Chiyo:
+ Well, here we go.
+
+Osaka:
+ Go ahead.
+
+Osaka:
+ Maybe I should drive this time.
+
+Chiyo:
+ That might be good.
+
+Osaka:
+ Here we go.
+
+Chiyo:
+ Okay.
+
+ It seems riding in tandem really isn't safe.
+
+Osaka:
+ It sure isn't.
+
+Tomo:
+ Yo! What's up you two? You're out shopping?
+
+Chiyo:
+ Yes, actually we are.
+
+Tomo:
+ Yeah, I'm buying too! A super cool swimsuit!
+
+Osaka:
+ For your upcomin' beach house trip?
+
+Tomo:
+ Yeah.
+
+Osaka:
+ So, what kind?
+
+Tomo:
+ Hm, one-pieces are nice, but I think I'll have to go with a bikini.
+ A really sexy one!
+ And for the color I'll... What's the... Um...
+
+Osaka:
+ Oh, man, my hands are really full and I can't keep up!
+
+Tomo:
+ You don't have to take every single one.
+
+Osaka:
+ You say that, but it's kinda hard to refuse them.
+
+Chiyo:
+ Yeah, almost impossible.
+
+Tomo:
+ You just have to ignore them.
+ Keep from making eye contact and...
+ I said, don't take any!
+
+Osaka:
+ But they are all just so polite.
+
+Tomo:
+ How many are you gonna accept?
+ I mean you're never gonna use all of that anyway so...
+ You're giving them away now?!
+
+ I'm off to the swimsuits.
+
+Chiyo:
+ Well, shall we go on over to the outdoor goods section and see what we can find there?
+
+Osaka:
+ Yeah, let's go.
+
+ Good. Oh, no good...
+ Okay, this time...
+ Oh, no way...
+ Right, one more time...
+
+Chiyo:
+ Miss Osaka!
+ Miss Osaka, are you okay?!
+ Wha? Wha?
+
+Osaka:
+ This is an escalator.
+
+Chiyo:
+ This way, it'll be easy to get on, right?
+
+Osaka:
+ This is an es... um... elevator.
+
+Chiyo:
+ Huh?
+
+Osaka:
+ I get mixed up sometimes.
+ Elevator and escalator. Escalator and elevator?
+
+Chiyo:
+ Oh, really?
+
+Osaka:
+ I know it! I do know which one is which, Chiyo-chan!
+ Don't you make fun of me.
+ So, the box-shaped one is an escalator.
+ But that's where I get all mixed up and...
+ Um... lemme think...
+
+Chiyo:
+ Well, the box-shaped one is an elevator.
+
+Osaka:
+ Yeah, yeah, I know that!
+
+ ws:start:WikiTextHeadingRule:2:&lt;h1&gt; 
+ Chiyo:
+ Wow!
+ It's the perfect weather for going on a trip!
+ I better get ready before they start arriving.
+ Oh, coming!
+
+Sakaki:
+ Morning.
+
+Chiyo:
+ Oh, Miss Sakaki, you're here already?
+ There's still another hour before everyone's supposed to get here.
+
+Sakaki:
+ Yeah. I'll just wait. With Mr. Tadakichi.
+
+Yomi:
+ Hey, Chiyo-chan, I finally made it.
+
+Chiyo:
+ Oh, okay!
+
+Osaka:
+ I didn't get lost this time.
+
+Chiyo:
+ I'm so glad!
+
+Yukari:
+ Oh, look, hey you guys!
+
+Nyamo
+ Is everyone here?
+
+Chiyo:
+ Tomo and Miss Kagura should be coming too.
+
+Sakaki:
+ Hah... what bliss.
+
+Tomo:
+ Morning! I'm here and I'm not late!
+
+Chiyo:
+ Hey, welcome you two!
+
+Kagura:
+ Man, your house is something else, Chiyo-chan.
+ I guess you'd call it a mansion?
+
+Tomo:
+ How about it?! Isn't it awesome?!
+
+Kagura:
+ Yeah, it is pretty awesome.
+
+Tomo:
+ Isn't it? Yeah, I know.
+
+Kagura:
+ Just what exactly are you so proud of?
+
+Osaka:
+ Hey, Kagura, you've gotten totally tanned.
+
+Kagura:
+ Yeah, it's 'cause I'm on the swim team.
+
+Osaka:
+ It makes you look like someone who plays it real loose.
+ Like some kinda playgirl.
+
+Kagura:
+ I-I really look like that?
+
+Chiyo:
+ I suppose so.
+ There was a group of boys back in grade school who looked like that and played outside all the time.
+
+Osaka:
+ Nah, it's a different kinda playin' than that kind.(xxx)
+
+Chiyo:
+ Huh?
+
+
+Yukari:
+ Ooh! So, this is our ride for this year's trip!
+ Chiyo-chan, you are so thoughtful.
+ You went ahead and got a car ready that can fit everybody.
+
+Chiyo:
+ I asked my father and he would rent it for us.
+
+Yukari:
+ I'm impressed. What a good girl.
+
+Nyamo:
+ Yukari, come here a sec.
+
+Yukari:
+ Sure thing.
+
+Yomi:
+ A countermeasure for the Yukari-mobile?
+ Way to go, Chiyo-chan.
+
+Tomo:
+ Yukari really is clueless, huh.
+
+Kagura:
+ So, what is this "Yukari-mobile" thing?
+
+Tomo:
+ See, Chiyo-chan rode in it last year and was deeply psychologically scared for life.
+
+Kagura:
+ Mmm... Was it that bad, Chiyo-chan?
+
+Chiyo:
+ Oh, no. Nyaow'm(now I'm) completely fine.
+
+Kagura:
+ Nyaow?
+ Does... does she speed or something?
+
+Chiyo:
+ She doesn't speed that much, but there're times she goes too fast and other times, incredibly slow.
+ Miss Yukari really should check her sides more often, and her behind.
+ Please Miss Yukari, Please look behind you too.
+ And sometimes, I get the feeling she doesn't even see the traffic lights or pedestrians.
+
+Kagura:
+ So, basically she's totally no good at it?
+
+Yomi, Tomo:
+ Mm-hm.
+
+Yukari:
+ All right!
+
+Yomi, Tomo:
+ Huh?
+
+Yukari:
+ I'm driving!
+ Everyone, hop on board!
+
+Yomi, Tomo:
+ What?!
+
+Yukari:
+ Uh...
+
+
+Kaorin:
+If only there weren't any club activities, I could be at the beach with Miss Sakaki right now...
+
+Kimura:
+But I'm here!
+
+Kaorin:
+Why on earth are you here?!
+
+
+Chiyo:
+ We're here!
+
+Kagura:
+ Hey, so this is Chiyo-chan's summer home, huh?
+ Not bad, not bad at all.
+
+Tomo:
+ Isn't it? Isn't it?!
+
+Kagura:
+ Okay, but why are you so proud of it?
+ That's what I wanna know.
+
+ ws:start:WikiTextHeadingRule:4:&lt;h1&gt; 
+ Chiyo:
+ Okay, then, I'll open the door now.
+ If I were to lose this key right now, we wouldn't be able to get inside the house!
+
+Tomo:
+ Iyaaahhh!
+
+Everyone:
+Uhhhh...
+
+Tomo:
+ I did it.
+
+Yomi:
+ But what the hell for?!
+
+Tomo:
+ When you hear things like that, it just makes you wanna do it, you know?
+
+Yomi:
+ You still should not throw a key, Tomo.
+
+Osaka:
+ I don't see it.
+
+Chiyo:
+ So many mosquitoes here.
+
+Yukari:
+ Sheesh, haven't you guys found it yet?
+ What's the deal?
+
+Nyamo:
+ Hey, you should be helping out too!
+
+Tomo:
+ Hey, you know...
+
+Yomi:
+ What is it?
+
+Tomo:
+ If I like to find the key and threw it again, it'd be totally hilarious!
+
+Yomi:
+ No, it would not!
+
+Osaka:
+ Don't see it...
+
+Chiyo:
+ All right, I found it!
+
+Yomi:
+ Sakaki!
+
+Tomo:
+ Ah!
+
+Yomi:
+ Now! Go and unlock the door!
+
+Chiyo:
+ Yes!
+
+Tomo:
+ Damn you! No fair!
+ Taking me on three-to-one!
+
+Yomi:
+ I need you to shut up!
+
+Chiyo:
+ Oh, I'm worried about the rest of the trip.
+
+Osaka:
+ Hah... Here at last.
+
+Kagura:
+ Wow, it's nice inside too.
+
+Tomo:
+ Now that we're inside after all that hard work, it feels especially good, huh?
+
+Yomi:
+ Would you please keep your mouth shut?
+
+Chiyo:
+ All right, after we get a little rest, let's go out to the ocean!
+
+Everyone:
+Yeah!
+
+Girl:
+There!
+
+Boy:
+Got it!
+
+Girl:
+Hahaha.
+
+Boy:
+All right!
+
+Girl:
+Take that!
+
+Tomo:
+ The ocean!
+And just like last year, that means watermelon smashing!
+
+Chiyo:
+ And we were able to bring a bat this year.
+
+Tomo:
+ Just you wait!
+ This year, with this lethal right hand, the despicable watermelon will be...
+ Huh? Ah!
+
+Kagura:
+ I did it!
+ Split right in half!
+ Huh?
+
+Tomo:
+ What have you done?
+
+Kagura:
+ What?
+
+Tomo:
+ I was gonna smash it...
+ Hey, I was gonna freaking smash it!
+
+Kagura:
+ Man, don't cry.
+
+Yomi:
+ I'm gonna go buy juice.
+ Any takers?
+
+Chiyo:
+ Me! Cola, please!
+
+Yukari:
+ Beer, please!
+
+Nyamo:
+ Don't ask for that!
+
+Osaka:
+ Oh, yeah, me too!
+ I want orange juice!
+
+Sakaki:
+ Oolong tea.
+
+Yomi:
+ Okay, I'll be back in a bit.
+
+Yomi:
+ Thanks for waiting.
+ Now, who wanted the orange juice again?
+
+
+Yukari:
+ Say.
+
+Nyamo:
+ What?
+
+Yukari:
+ The raw ham with a melon, it's one of those tie-in products, right?
+
+Nyamo:
+ Better than the sweet and sour pork with pineapple?
+
+Yukari:
+ Oh, that's true.
+
+Chiyo:
+ Wow, so, what is that you're making?
+
+Sakaki:
+ Neco Coneco.
+
+Chiyo:
+ Oh...
+
+Sakaki:
+Do you think the ears are a little too small?
+
+Osaka:
+ I'm back!
+
+Yomi:
+ Hey, Osaka, the orange juice is yours, right?
+
+Osaka:
+ Oh, that's right.
+
+Sakaki:
+ Sorry...
+
+ ws:start:WikiTextHeadingRule:6:&lt;h1&gt; 
+ Tomo:
+ Night time!
+ Night time is the right time to party!
+ We'll drink and we'll sing!
+
+Chiyo:
+ No, no, we have the summer festival before that.
+ I told you there'd be one nearby.
+ Don't you remember?
+
+Tomo:
+ You know what?
+ I think she's right!
+ Yeah, it's goldfish time!
+ I'll catch all of them and release them into the sea!
+
+Sakaki:
+ That... That would...
+
+Nyamo:
+ Okay, girls, get your summer kimonos.
+ We all set?
+
+Everyone:
+Yeah!
+
+Osaka:
+ Miss Kurosawa, how do we put these on?
+
+Nyamo:
+ Huh?
+ Um... um...
+
+Chiyo:
+ Oh, I can put kimonos on!
+
+Sakaki:
+ So can I.
+
+Nyamo:
+ Oh, well then, could you maybe teach the rest of us?
+
+Yukari:
+ You're useless, Nyamo.
+ An adult who asked to learn how to put on a kimono from a kid?
+
+Nyamo:
+ Hey, you don't know, either!
+
+Yomi:
+ But it's a little unexpected.
+
+Tomo:
+ Yeah, Yukari whatever, but I figured Nyamo could hack it.
+
+Nyamo:
+ Nyamo, is it?
+
+Yukari:
+ Well, it is true.
+ It isn't very like Miss Kurosawa, who is so good at putting ties on other people, wouldn't you say?
+
+Nyamo:
+ Hm!
+
+Everyone:
+What?!
+
+Tomo:
+ Wouldn't you learn to do that, Nyamo?!
+
+Yukari:
+ Long ago, back when Nyamo was all lovey-dovey, this woman used to practice on me every day knotting and straightening neckties!
+ Oh, yes.
+
+Everyone:
+Wow.
+
+Nyamo:
+ Who... who cares?!
+ It was a long time ago!
+
+Yukari:
+ Well, it ended up that the fruit of those practice sessions were never put to good use.
+ However, she moved onto a new ambition!
+
+Nyamo:
+ Ah! Stop!
+ What is with you?!
+ Maybe you've forgotten what happened that summer three years ago!
+
+Yukari:
+ With that Nyamo, can I tell them all about that one thing you hid in your closet four years ago?!
+
+Nyamo:
+ Say what....?
+
+Tomo:
+ Ooh, they're hitting at each other's old wounds!
+
+Chiyo:
+ Okay, is everyone ready?
+
+Everyone:
+Yeah!
+
+Chiyo:
+ Then, let's go!
+
+Kagura:
+ I haven't worn a summer kimono in like, a really long time.
+
+Chiyo:
+ Really, Miss Kagura?
+ So, is that kimono you're wearing a new one?
+
+Kagura:
+ Yeah. I asked my parents if they had any summer kimonos and my dad got real happy and then he bought me this one.
+
+Tomo:
+ Hey, hey, hey, did you do that thing, where you pull the sash and twirl around, huh?
+
+Tomo:
+ Oh, come on! Come on! Come on!
+ Oh, please little lady.
+
+Chiyo:
+ You mustn't, Lord Magistrate!
+
+Tomo:
+ I call it the "Oh Please Little Lady Game."
+
+Kagura:
+ Um, I don't think so.
+
+Tomo:
+ Huh?
+ That's what I did when I got my summer kimono.
+
+Kagura:
+ What's sort of family?
+
+Tomo:
+ Octopus balls, fried squids, candied apples!
+ I'm gonna eat, eat, eat everything I can!
+ I'll even try that lot drawing you can never win!
+ Ooh, I wanna do the useless yo-yo balloon fishing, too!
+
+Yomi:
+ Don't try to do it all just because you see it.
+
+Chiyo:
+ Oh.
+
+Osaka:
+ Oh, it's turtle scooping.
+
+Chiyo:
+ They're cute, aren't they?
+
+Man:
+300 yen a pop!
+
+Chiyo:
+ Oh, what do you think I should do?
+
+Osaka:
+ Well, when you think 'bout it rationally, you don't really need turtles, huh.
+
+Man:
+Uh...
+
+Osaka:
+ Sure are cute though.
+
+Chiyo:
+ Yes, they are.
+
+Man:
+Uh...
+
+Woman:
+It's ten shots for 200 yen.
+
+Kagura:
+ Oh, do it, Sakaki! Fire!
+ Oh, a little more to the right!
+ Ooh, so close!
+ Hey, you hit it!
+
+Woman:
+Here you go. Congratulations.
+
+Kagura:
+ Awesome, you did it, Sakaki!
+ You totally shot down the Neco Coneco!
+
+Sakaki:
+ Huh?
+
+Kagura
+ You hunter, you! You crazy sniper!
+
+Sakaki:
+ It's not dead, it's not dead!
+
+ ws:start:WikiTextHeadingRule:8:&lt;h1&gt; 
+ Nyamo:
+ Okay, listen everyone, it's almost time for lights out, all right.
+
+Tomo:
+ What are you talking about?
+ The night's still young!
+
+Yomi:
+ No, at times like this, if you go to sleep early and get up early, the day will feel longer and it'll feel more like you've profited.
+
+Tomo:
+ Ooh, looks like Four-Eyes might actually have a point there!
+
+Yomi:
+ Four-Eyes, huh?
+
+Tomo:
+ But they do say that getting staying up late is the best part of traveling and...
+ Oh, she's plotting to sleep early, so she alone can profit from it!
+ Unforgivable!
+
+Yomi:
+ No, Tomo, she is 11 years old.
+
+Tomo:
+ Shut your mouth!
+ I'll handle this!
+
+Chiyo:
+ Ah, ah!
+
+Tomo:
+ Hahahaha...
+
+Kagura:
+ Man, You're mean.
+
+Nyamo:
+ Okay, let's everyone go to sleep now, shall we?
+
+Yukari:
+ Now, now, wait a minute, Nyamo.
+ What's wrong with letting them have one day of freedom?
+
+Tomo:
+ That's our Yukarin!
+ You sure are understanding!
+
+Nyamo:
+ Well, I suppose.
+ It'll be okay.
+
+Tomo:
+ Yeah! Hurray for Nyamo!
+ Now, let's have a toast!
+
+Yukari:
+ You're not allowed to have that!
+ Honestly, Tomo, where the heck did you get this?
+ Well, what's done is done.
+ I guess I'll just have to dispose of it all myself.
+
+Nyamo:
+ No, you will not!
+
+Yukari:
+ Hey!
+ Oh, that's okay.
+ I actually brought some sake with me!
+
+Nyamo:
+You shouldn't be doing that!
+
+Nyamo:
+ If I let Yukari drink it all, it'll be a big mess...
+ I'll have to take it upon myself and drink it!
+
+Everyone:
+Cheers!
+
+Nyamo:
+ Ahaha...
+ I mean, like who cares about guys?!
+ What's wrong with being single?!
+
+Yukari:
+ Oh jeez, it's gotten to her.
+
+Tomo:
+ Well, this seems like fun in its own way.
+
+Nyamo:
+ In the end, being single is the best!
+ Hahaha.
+
+Kagura:
+ Um, really?
+
+Osaka:
+ I wonder if she's okay?
+
+Chiyo:
+ I don't think so.
+
+Nyamo:
+ Shut up! I'm an adult, you know.
+
+Tomo:
+ I have a question.
+
+Nyamo:
+ What is it, Tomo?
+
+Tomo:
+ When it comes to adult relationships, is it all like pervy and stuff?
+
+Nyamo:
+ Yeah, it's pervy and then some!
+
+Tomo:
+ Ooh! Like what?!
+
+Nyamo:
+ Well, for example...
+
+Chiyo:
+ What? Hey, um...
+ What did that just mean?
+
+Osaka:
+ Shh.
+ Be quiet and listen.
+ You'll understand it when you grow up.
+
+Chiyo:
+ Uh...
+
+Nyamo:
+ My head hurts. But why on earth...?
+ Oh, Miss Sakaki, good morning... huh?
+
+Chiyo:
+ Oh, good morning.
+ Are you all right, Miss Kurosawa?
+
+Nyamo:
+ Wh-What do you mean?
+
+Chiyo:
+ Oh, um, Miss Kurosawa, I have a question for you.
+
+Nyamo:
+ Wh-What is it?
+
+Nyamo:
+ Mmm... Ah...
+
+Chiyo:
+ I don't get it.
+ Could you explain it to me?
+
+Nyamo:
+ Chiyo-chan, where on earth did you learn about all that?!
+
+Yukari:
+ You. From you. Uh-huh.
+
+Everyone:
+Oh! Miss Kurosawa, good morning to you!
+
+Nyamo:
+ Huh?
+
+Yomi:
+ I really wanted to thank you for last night.
+
+Tomo:
+ It was extremely educational!
+
+Osaka:
+ Miss Kurosawa, I admire you.
+
+Kagura:
+ I can't thank you enough, Coach.
+
+Nyamo:
+ What? What's this all about, huh?
+ Yukari.
+
+Yukari:
+ Haha.
+
+Nyamo:
+ Huh...
+ Hey! What in the world did I do last night?!
+ Come on, tell me!
+
+
+-- Preview --
+
+Yukari:
+It's coming up on the second year for the sports fest!
+We'll win this year, too!
+We'll win, no matter what!
+
+Tomo:
+Yukari, you only care about winning against Class 2, right?
+
+Yukari:
+Your dreams should be big and boundless.
+Our ultimate goal is victory.
+Victory, I tell you.
+
+Yomi:
+Ooh, she sounds awfully serious this year.
+
+Tomo:
+Please tell me, there's food involved?
+
+Yukari:
+Ahaha.
+You'll have to wait until after you've won to find out!
+Watch us against next time!
+
+Yomi:
+I knew it.
+  
